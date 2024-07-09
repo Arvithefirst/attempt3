@@ -1,0 +1,70 @@
+---
+{"dg-publish":true,"permalink":"/medicine-papers/medicine-2021-jan/"}
+---
+
+## One liners
+
+(p1)
+Name two [[Medicine notes/Acute Coronary Syndrome#Investigations\|cardiac biomarkers]]. Write four antianginal drugs.
+Four causes of haemoptysis.
+Two clinical features of Hypokalemia.
+Write four inflammatory markers for SARS-CoV-2 (COVID-19) infection.
+Two severe complications of Dengue fever. 
+Write CURB-65 score.
+Two drugs for Toxoplasmosis.
+Two drugs for invasive pulmonary aspergillosis. 
+Two investigations for iron deficiency anaemia.
+Four investigations which are hallmarks of hemolysis. 
+Treatment of Herpes Zoster.
+Define [[Medicine notes/Oliguria and Anuria\|Oliguria and Anuria]]
+Two clinical features of Atrial septal defects.
+
+(p2)
+Write two hand deformities of rheumatoid arthritis.
+Write two causes of acute pancreatitis.
+Write two investigations for Wilson disease.
+Write two complications of portal hypertension.
+Four clinical signs of upper motor neurone lesions.
+Write two investigations for Myasthenia gravis.
+Mention four side effects of insulin therapy.
+Write four causes of Liver Cirrhosis.
+Write Specific treatment for opioid poisoning.
+Write two clinical features of Turner's syndrome.
+How will you classify diabetes insipidus.
+Define [[Medicine notes/Acute diarrhoea\|Diarrhoea]].
+Enumerate two functions of Frontal lobes.
+Write two clinical signs of Tetany.
+
+## LAQ
+
+(p1)
+Describe clinical features, investigations and management of infective endocarditis. 
+Discuss pathophysiology, causes and clinical features of [[Medicine notes/Acute Kidney Injury\|Acute Kidney Injury]]
+Discuss extrapulmonary tuberculosis.
+
+(p2)
+Discuss investigations and management of Hepatitis C.
+Describe pathophysiology, clinical features and management of idiopathic Parkinson's disease.
+Discuss atiology, complications and management of obesity. 
+
+## SAQ
+
+(p1)
+Write a short note on hypervolaemic hyponatremia.
+Syndrome of inappropriate anti diuretic hormone.
+Write post exposure prophylaxis for HIV.
+Short note on Pulmonary function tests.
+Basic Life Support and advanced life support ni Cardiac arrest.
+Tropical eosinophilia.
+Causes and investigations for pancytopenia.
+Management of acute Respiratory failure.
+
+(p2)
+Clinical features of systematic lupus erythematosus.
+Write short note on Beriberi.
+Guillain-Barre syndrome.
+Write a short note on Incretin-based therapies in diabetes mellitus.
+Write a short note on illness at high altitude.
+Anorexia Nervosa.
+Toxic epidermal necrolysis.
+Myxoedema coma.
