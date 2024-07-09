@@ -14,7 +14,7 @@ Refers either [[Crohns Disease\|Crohns Disease]] or [[Ulcerative colitis\|Ulcera
 
 ## Differential Diagnoses
 Infective
-- Bacterial
+- Bacterial   
 	- Salmonella
 	- Shigella
 	- E.coli
