@@ -23,7 +23,7 @@ Many infective and non-infective causes
 4. Streptococcus pneumoniae
 5. Mycobacterium Tuberculosis
 
-[[Viral Meningitis\|Viral Meningitis]]
+[[Medicine notes/Viral Meningitis\|Viral Meningitis]]
 1. Enteroviruses (Cocksackie, Polio)
 2. Mumps
 3. Herpes viruses (Simplex 1/2, Zoster, EBV)

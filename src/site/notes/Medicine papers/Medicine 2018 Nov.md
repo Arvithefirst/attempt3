@@ -64,7 +64,7 @@ Non-anion gap metabolic acidosis.
 Sickle cell anemia.
 
 (p2)
-H. Pylori induced [[Peptic Ulcer disease\|peptic ulcer]].
+H. Pylori induced [[Medicine notes/Peptic Ulcer disease\|peptic ulcer]].
 Primary hyper para thyroidism
 Somatoform disorders 
 Chronic hepatitis

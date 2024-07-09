@@ -19,7 +19,7 @@ Also *Cerebrovascular Accident(CVA)*. It is acute neurological injury as a resul
 *Based on duration and evolution of symptoms* they can be divided into
 1. Complete stroke
 2. Evolving stroke
-3. [[Transient Ischaemic attack\|Transient Ischaemic attack]]
+3. [[Medicine notes/Transient Ischaemic attack\|Transient Ischaemic attack]]
 4. Reversible Ischaemic neurological defect
 
 ## Investigations
