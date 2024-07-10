@@ -25,7 +25,7 @@ What is "Lachman's test" used ot diagnose?
 
 (p2)
 What is Curvoisier law?
-Which is commonest site of perforation of peptic ulcer? 
+Which is [[Medicine notes/Peptic Ulcer disease#^4be01b\|commonest site]] of perforation of peptic ulcer? 
 What is sliding hernia?
 Goodsall's rule in anal fistula. 
 What is hypersplenism?
@@ -33,7 +33,7 @@ Causative organism of hydatid cyst of liver.
 Define hydronephosis.
 Define intussuception.
 Grey Turner's sign.
-Which radionuclide scanning is done ni renal pathology for diagnosis of renal function?
+Which [[Medicine notes/Radionuclide Study for Kidneys\|radionuclide scanning]] is done ni renal pathology for diagnosis of renal function?
 What is length of male urethra?
 Carcinoid syndrome.
 Name tumor marker which is elevated in seminoma of testes.
@@ -57,7 +57,7 @@ Enumerate causes of lower G.I. bleeding. Discuss etiopathogenesis, clinical feat
 
 
 ## Short answer Questions
-Glasgow coma scale. 
+[[Glasgow Coma Scale\|Glasgow coma scale]]. 
 Flail chest.
 Ranula.
 Thoracic outlet syndrome. 

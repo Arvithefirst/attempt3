@@ -19,7 +19,7 @@ What is the length of male urethra?
 What is Barrett's oesophagus?
 
 (p2)
-Define ulcer
+Define [[Surgery Notes/Ulcer#^88ca81\|Ulcer]]
 What is nosocomial infection
 Normal CVP value
 Cause of rest pain in PVD
@@ -41,7 +41,7 @@ Test to check abductors of hip
 ## Long answer questions
 Enumerate causes of intestinal obstruction. Discuss clinical features, invesstigatoins, and treatment of a case of intussception in a 9month old
 Classify testicular tumours, Discuss pathology clinical features and management of a seminoma testis
-Enumerate causes of lower GE bleed. Discuss the etiopathogenesis clinnical features and managementof Ca Rectum
+Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical features and managementof Ca Rectum
 
 (p2)
 Describe the aetiolog, pahtology, clinincal features and management of gas gangrene

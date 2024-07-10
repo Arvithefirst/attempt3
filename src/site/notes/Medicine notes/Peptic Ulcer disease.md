@@ -15,10 +15,12 @@ Disruption of gastric mucus formation and excess acid formation can lead to ulce
 2. Occasional vomitting, Epigastric unease
 3. Anemia, Nausea, Anorexia
 
->[!bug] Complications
-	1.Perforation
+>[!bug] Complications of Peptic ulcer disease
+	1.Perforation (typcally in duodenum)
 	2.Gastric outlet obstruction
 	3.Bleeding
+{ #4be01b}
+
 
 ## Investigations
 1. Endoscopy and biopsy

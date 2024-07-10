@@ -26,7 +26,7 @@ Affects nearly 30% of all the population
 3. Anemia
 ## Investigations
 1. Ambulatory pH monitoring
-2. Endoscopy
+2. Endoscopy *Gold standard*
 
 ## Treatment
 "Step down" approach. Start with 

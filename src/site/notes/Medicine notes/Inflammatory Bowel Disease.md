@@ -3,11 +3,11 @@
 ---
 
 
-Refers either [[Crohns Disease\|Crohns Disease]] or [[Ulcerative colitis\|Ulcerative colitis]]
+Refers either [[Medicine notes/Crohns Disease\|Crohns Disease]] or [[Ulcerative colitis\|Ulcerative colitis]]
 
 ## Pathophysiology
-- Genetic and environmental factors lead to abnormal inflammation of bowel tissue triggering cascade and causing damage to mucosa
-- Microbial dysbiosis plays an impolrtant role
+- *Genetic and environmental factors* lead to abnormal inflammation of bowel tissue triggering cascade and causing damage to mucosa
+- *Microbial dysbiosis* plays an impolrtant role
 
 ## Differences between UC and CD
 ![Screenshot 2024-07-09 at 8.54.12 PM.png](/img/user/Pictures/Screenshot%202024-07-09%20at%208.54.12%20PM.png)
@@ -34,7 +34,7 @@ Non-infective
 ## Complications
 1. Life threatnening colonic inflammation
 2. Hemorrhage
-3. Fistulae
+3. Fistulae *(Typically in CD)*
 4. Cancer
 5. Extra-intestincal complications
 	1. Conjuctivitis, Iritis, Scleritis
@@ -48,3 +48,9 @@ Non-infective
 2. Bacteriology
 3. Endoscopy
 4. Barium enema, MRI enterography, Xray/USG abdomen
+
+## Indications for surgery
+1. Impaired QoL
+2. Failure of medical therapy
+3. Fulminant colitis
+4. Cancer or sever dysplasia

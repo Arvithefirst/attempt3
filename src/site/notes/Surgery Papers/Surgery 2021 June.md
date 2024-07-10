@@ -29,12 +29,12 @@ What is Hydronephrosis?
 What is FAST in trauma patients?
 What si ligament of Treitz?
 What is Meckel's diverticulum?
-Gold standard Investigation ni the diagnosis of GERD? 
+Gold standard Investigation ni the diagnosis of [[Medicine notes/Gastroesophageal reflux disease (GERD)#Investigations\|GERD]]? 
 What is the length of male urethra?
-What is the standard operation done for Achalasia cardia? 
+What is the standard operation done for [[Surgery Notes/Achalasia Cardia#Treatment\|Achalasia cardia]]? 
 What CEA stands for?
 What is Charcot's triad?
-Ulcerative colitis mainly starts ni which part of the bowel? 
+[[Ulcerative colitis\|Ulcerative colitis]] mainly starts ni which part of the bowel? 
 VIPoma stands for
 Hydatid sand consists of
 Cell of origin of Gastrointestinal Stromal tumor.
@@ -66,11 +66,11 @@ Ewings' sarcoma: clinico-radiological features and treatment.
 Epiphyseal injuries in children.
 
 (p2)
-Difference between ulcerative colitis and Chron's disease. 
+[[Medicine notes/Inflammatory Bowel Disease#Differences between UC and CD\|Difference between Ulcerative colitis and Chron's disease.]]
 Complications of Acute Pancreatitis.
 Calculous Cholecystitis. 
 Mesenteric Cyst.
 Fistula ni Ano. 
 Cryptorchidism.
 TNM Staging ni cancer Stomach. 
-Causes of Upper GI Bleeding.
+Causes of [[Medicine notes/Upper Gastrointestinal bleed#Causes\|Upper GI Bleeding.]]

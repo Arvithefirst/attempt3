@@ -63,7 +63,7 @@ Management of Chorddee
 
 (p2)
 Factors affecting wound healing
-Glasgow coma scale
+[[Glasgow Coma Scale\|Glasgow coma scale]]
 Triage
 Classificationof salicvary gland tumour
 Gas gangrene

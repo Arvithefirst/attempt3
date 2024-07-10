@@ -41,9 +41,12 @@ Describe the etiology, clinical features and management of a patient of (L) Lowe
 Classify goitre. What are clinical features, diagnosis and management of
 hyperthyroidism?
 Classify shock. Discuss pathophysiology, clinical features &management of septic shock.
+
+(Ortho)
 Write in detail about stages of fracture healing? Contrast and compare between healing of cortical bone and healing of cancellous bone? Also enumerate the causes and treatment of Non-Union of fractures.
 Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar kochs spine and add a note on potts paraplegia?
 
+(p2)
 Describe etiology of gall stones. Describe clinical features investigations & management of acute calculus cholecystitis.
 Describe differential diagnosis of lumps in the right iliac fossa. Discuss clinical features and management of ileocaecal kochs.
 Enumerate causes of acute pancreatitis. Discuss clinical features investigations &treatment of acute necrotizing pancreatitis.
