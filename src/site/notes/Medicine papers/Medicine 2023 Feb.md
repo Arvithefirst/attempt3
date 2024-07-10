@@ -31,7 +31,7 @@ What is ophthalmological findings in wilsons disease
 Bitots spots arre seen in which deficiency
 Full form of NASH
 Triad of Sjorgens syndrome
-Cobblestone appearance of colon mucosa is seen in which IBS
+[[Medicine notes/Crohns Disease#Pathophysiology\|Cobblestone appearance]] of colon mucosa is seen in which IBS
 Name 2 antidotes for [[Medicine notes/Organophosphate Poisoning#Treatment\|Organophosphate Poisoning]]
 Name 3 clinical features of LMN disease
 Drugs used for treatment of scabies

@@ -38,7 +38,7 @@ Write two clinical signs of Tetany.
 ## LAQ
 
 (p1)
-Describe clinical features, investigations and management of infective endocarditis. 
+Describe clinical features, investigations and management of [[Medicine notes/Infective endocarditis\|Infective endocarditis]]
 Discuss pathophysiology, causes and clinical features of [[Medicine notes/Acute Kidney Injury\|Acute Kidney Injury]]
 Discuss extrapulmonary tuberculosis.
 
