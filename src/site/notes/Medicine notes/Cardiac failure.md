@@ -74,3 +74,55 @@ Can be forward or backwards heart failure. Classification of complications
 6. Arrhythmias
 
 ## Treatment
+Aims of treatment are to (1) Provide symptomatic relief, (2) Prevent cardiac dysfunction,(3) Retard disease progression, (4) Improve QoL
+
+### General Lifestyle changes
+1. Education and counselling
+2. Stop smoking, drugs, control HTN,DM,dylipidemia
+3. Salt and fluid restriction. Avoid alcohol
+4. Regular endurance exercise 30min/day. Bed rest when necessary
+
+### Drug therapy
+
+#### Diuretics
+Helps reduce preload. May cause *hypokalemia*
+1. Loop diuretics (Furosemide 20-40mg OD)
+2. Thiazide diuretics (Hydrochlorothiazide 2.5-5mg OD)
+3. Spironolactone (in severe cases, to counter hypokalemia)
+#### Angiotensin Converting Enzyme inhibitors (ACEi's)
+Should be started at low dose to ensure tolerance
+1. Captopril (50mg TDS)
+2. Elanopril (15mg BD)
+3. Lisinopril (30mg OD)
+#### Angiotensin Receptor Blockers
+Indicated as second line to ACEis intolerance or ineffectiveness
+1. Losartan (100mg OD)
+2. Valsartan (160mg BD)
+#### B-Blockers
+Indicated in $HF_rEF$ or all patients of previous HF
+1. Bisoprolol (10mg OD)
+2. Carvedilol (50mg BD)
+#### Cardiac glycosides (Digoxin)
+Used to treat Atrial Fibrillation in patients
+- 0.25mg OD
+#### Amiadarone
+Potent Antiarrhthmic used for Symptomatic treatment
+#### Vasodilators and Nitrates
+Used as combination in severe heart failure
+- Hydralazine + Isosorbide dinitrate combination TDS
+#### Ivabradine
+Acts on SA node to reduce Heart rate. Used when B-blockers are contraindicted
+#### Sympathomimetic Amines
+Used for inotropic effect when not contraindicated
+1. Dopamine, Epinephrine, Norepinephrine
+2. Dobutamine
+#### Anticoagulant therapy
+In patients who are high risk for thromboembolism
+
+### Non-pharmacological treatmetns
+1. Implantable cardiac defibrillators
+2. Resynchronisatino devices
+3. Coronary revascularisation
+4. Cardiac Transplantatino
+5. Ventricular assist devices
+

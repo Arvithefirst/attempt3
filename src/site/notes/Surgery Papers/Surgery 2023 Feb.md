@@ -7,7 +7,7 @@ Define Shock
 %Blood volume loss is considered class 3 hemorrhagic shock
 What is Saints Triad
 What is [[Surgery Notes/Pressure sore#Staging\|stage 3 Pressure sore]]
-Amoebic liver abscess is caused by
+[[Surgery Notes/Amoebic liver abscess\|Amoebic liver abscess]] is caused by
 Criteria fro SIRS
 Harmonic scalpel is based on which jtechnology
 Define flail chest
@@ -40,7 +40,7 @@ Define non-union
 Mallet finger is due to which tendon injury
 # Long answers
 Etiopathogenesis and management of [[Surgery Notes/Achalasia Cardia\|Achalasia Cardia]]
-Etiopathogenesis and management of Hydatid cyst
+Etiopathogenesis and management of[[ Hydatid cyst\| Hydatid cyst]]
 Diagnosis and management of case of obstructie jaundice in 75 yo
 
 (p2)

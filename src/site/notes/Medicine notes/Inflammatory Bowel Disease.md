@@ -3,7 +3,7 @@
 ---
 
 
-Refers either [[Medicine notes/Crohns Disease\|Crohns Disease]] or [[Ulcerative colitis\|Ulcerative colitis]]
+Refers either [[Medicine notes/Crohns Disease\|Crohns Disease]] or [[Medicine notes/Ulcerative colitis\|Ulcerative colitis]]
 
 ## Pathophysiology
 - *Genetic and environmental factors* lead to abnormal inflammation of bowel tissue triggering cascade and causing damage to mucosa

@@ -2,6 +2,19 @@
 {"dg-publish":true,"permalink":"/surgery-notes/surgery-internal-syllabus/"}
 ---
 
+Anesthesia and pain management
+Indications and principals of daycare general surgery
+Minimally invase general surgery
+Head injuries
+Tissue injuries
+Chest injuries
+Abdominal injuries
+Pancreatitis
+Pancreatic endocrine tumours
+Coronary heart disease, Valvular heart disease, Congenital hearrt disease
+Mdeiastinal disease
+Lung tumours
+Occlusive artery disease
 Vascular disorders
 Gangrene and principles of amputation
 Lower limb venous drainage

@@ -12,7 +12,8 @@ What is hypersplenism ?
 What is accelerated hypertension ?
 What is C-reactive protein ?
 Write 3 clinical features of severe hypothermia.
-What is the action of imatinib in treatment of chronic myeloid leukemia Write 2 adverse effects of amiadarone.
+What is the action of imatinib in treatment of chronic myeloid leukemia 
+Write 2 adverse effects of amiadarone.
 Write 3 causes of haemoptysis.
 What is meant by rhabdomyolysis ?
 What is the incubation period of H1N1 Flu. (swineflu) ?

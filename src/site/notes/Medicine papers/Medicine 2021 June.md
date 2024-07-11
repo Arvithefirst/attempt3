@@ -52,7 +52,7 @@ Describe clinical features, investigations and management of Cirrhosis of liver.
 ## SAQs
 
 (p1)
-Drug therapy of Congestive heart failure.
+Drug therapy of [[Medicine notes/Cardiac failure#Drug therapy\|Congestive heart failure]]
 Management of Hyperkalemia.
 Complications of P. Falciparum Malaria.
 Second line Antituberculous drugs.
