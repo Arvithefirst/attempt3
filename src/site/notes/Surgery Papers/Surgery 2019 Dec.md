@@ -24,12 +24,12 @@ Dugas test si used to diagnose.......
 What is "Lachman's test" used ot diagnose?
 
 (p2)
-What is Curvoisier law?
+What is [[Surgery Notes/Courvoisiers law\|Courvoisiers law]]?
 Which is [[Medicine notes/Peptic Ulcer disease#^4be01b\|commonest site]] of perforation of peptic ulcer? 
 What is sliding hernia?
 Goodsall's rule in anal fistula. 
-What is hypersplenism?
-Causative organism of hydatid cyst of liver. 
+What is [[Surgery Notes/Hypersplenism\|Hypersplenism]]?
+Causative organism of [[Surgery Notes/Hydatid cyst\|hydatid cyst]] of liver. 
 Define hydronephosis.
 Define intussuception.
 Grey Turner's sign.
@@ -49,8 +49,8 @@ Describe in details stages of bone healing and complication of fracture.
 Describe ni details supracondylar fracture humerus ni children ni respect to clinical features, types, x-ray findings, treatment and complications.
 
 (p2)
-Describe surgical anatomy of Calot's triangle and discuss
-etiopathogenesis, clinical features, investigations and management of gall stones.
+Describe surgical anatomy of [[Surgery Notes/Surgical Anatomy of Gallbladder#Calots triangle\|Calot's triangle]] and discuss
+etiopathogenesis, clinical features, investigations and management of [[Surgery Notes/Gallstones\|Gallstones]].
 Discuss embryonic development and pathway of descent of testes.
 Describe clinical presentation features, complications &management of undescended testis.
 Enumerate causes of lower G.I. bleeding. Discuss etiopathogenesis, clinical features, investigations and management of Ca rectum.

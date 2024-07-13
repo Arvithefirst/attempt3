@@ -4,14 +4,14 @@
 
 
 [[Medicine notes/Acute Rheumatic heart disease\|Acute Rheumatic heart disease]] 
-Heart failure - Causes, stages, Right vs Left, Neurohormonal Adaptations, Aggravating factors, Investigations and Drugs
+[[Medicine notes/Cardiac failure\|Heart failure]] - Causes, stages, Right vs Left, Neurohormonal Adaptations, Aggravating factors, Investigations and Drugs
 CHD Management
 Murmur
 Cardiac Tamponade
 Stable vs Unstable Angina
-Factors exaggerating Arrythmias including AF
+Factors exaggerating [[Medicine notes/Cardiac Arrhythmias\|Arrythmias]] including AF
 Management of Valvular diseases
-Infective Endocarditis
+[[Medicine notes/Infective endocarditis\|Infective Endocarditis]]
 Ischaemic Heart disease
 Dyslipidemia
 [[Medicine notes/Acute Coronary Syndrome\|Acute Coronary Syndrome]]- Evaluation of ACS including Echo, Stress testing,CAG counselling and Management of ACS including thrombolysis and, PTCA, CABG Complications
@@ -38,21 +38,21 @@ Palliative cancer care
 Narcotics fro cancer pain
 Screening in Oncology
 
-Upper and Lower GI Bleed, Indications for endoscopy and colonoscopy and their management
+[[Medicine notes/Upper Gastrointestinal bleed\|Upper]] and Lower GI Bleed, Indications for endoscopy and colonoscopy and their management
 
 Blood transfusion indications and complications
 
-H.Pylori
-Causes of diarrhoea and Compllications of Acute diarrhoea
-Effects of Chronic Diarrhoea including Malabsorption
+[[Medicine notes/Helicobacter pylori\|Helicobacter pylori]]
+Causes of diarrhoea and Compllications of [[Medicine notes/Acute diarrhoea\|Acute diarrhoea]]
+Effects of [[Medicine notes/Chronic Diarrhoea\|Chronic Diarrhoea]] including Malabsorption
 Diarrhoea vs Dysentry
 Management of Diarrhoea
-IBD
+[[Medicine notes/Inflammatory Bowel Disease\|Inflammatory Bowel Disease]]
 
-Headache, types
+[[Medicine notes/Headaches\|Headaches]], types
 Management of migraine
-Management of Meningitis
-Blood supply of Brain and types of CVA
+Management of [[Medicine notes/Meningitis\|Meningitis]]
+Blood supply of Brain[[Medicine notes/Circle of Willis\|Circle of Willis]] and types of [[Medicine notes/Stroke\|CVA]]
 CVA presentation, evaluation
 Diagnostic tests for movement disorders
 
@@ -70,7 +70,7 @@ Hemoat reports
 Shock 
 Urinalysis
 Electrical injurt, hyprepyreia, hyperthermia
-Pleural tap, ICD, pleural flui
+Pleural tap, ICD, pleural fluid
 Blood transfusion, reaction, complication, components
 Metabolic syndrome
 Anemia

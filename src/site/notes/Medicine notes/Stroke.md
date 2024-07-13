@@ -62,4 +62,4 @@ For Ischaemic stroke
 - Statins to lower cholesterol
 - If ECG reveals atrial fibrillation then consider Anticoagulants
 - If sinus rhythm then start anti-platelet Therapy
-- If carotid stenosis the Carotidendartectomy followed by antiplatelet therapy
+- If carotid stenosis the [[Carotidendartectomy\|Carotidendartectomy]](CAE) followed by antiplatelet therapy

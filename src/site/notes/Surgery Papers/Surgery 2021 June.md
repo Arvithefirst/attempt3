@@ -32,11 +32,11 @@ What is Meckel's diverticulum?
 Gold standard Investigation ni the diagnosis of [[Medicine notes/Gastroesophageal reflux disease (GERD)#Investigations\|GERD]]? 
 What is the length of male urethra?
 What is the standard operation done for [[Surgery Notes/Achalasia Cardia#Treatment\|Achalasia cardia]]? 
-What CEA stands for?
-What is Charcot's triad?
+What [[Carotidendartectomy\|CEA]] stands for?
+What is [[Charcot's triad\|Charcot's triad]]?
 [[Medicine notes/Ulcerative colitis\|Ulcerative colitis]] mainly starts ni which part of the bowel? 
 VIPoma stands for
-Hydatid sand consists of
+[[Surgery Notes/Hydatid cyst#Pathology\|Hydatid sand]] consists of
 Cell of origin of Gastrointestinal Stromal tumor.
 
 ## Long answer questions
@@ -68,7 +68,7 @@ Epiphyseal injuries in children.
 (p2)
 [[Medicine notes/Inflammatory Bowel Disease#Differences between UC and CD\|Difference between Ulcerative colitis and Chron's disease.]]
 Complications of Acute Pancreatitis.
-Calculous Cholecystitis. 
+[[Surgery Notes/Gallstones\|Calculous Cholecystitis]]. 
 Mesenteric Cyst.
 Fistula ni Ano. 
 Cryptorchidism.

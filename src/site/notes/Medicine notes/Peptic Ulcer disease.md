@@ -41,7 +41,3 @@ Disruption of gastric mucus formation and excess acid formation can lead to ulce
 >5. Anaemia
 >6. Metabolic bone disease
 >7. Gastric cancer
-
-
-
-

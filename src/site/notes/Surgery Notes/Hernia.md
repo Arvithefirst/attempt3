@@ -4,6 +4,8 @@
 
 > [!Quote] Definition
 > An<mark style="background: #FF5582A6;"> abnormal protrusion of viscera</mark> or parts of viscera <mark style="background: #FFB86CA6;">through an opening</mark>, artificial or natural, <mark style="background: #FFF3A3A6;">along with the sac</mark> covering it
+{ #b8ce0e}
+
 
 # Aetiology
 1. Increased strain

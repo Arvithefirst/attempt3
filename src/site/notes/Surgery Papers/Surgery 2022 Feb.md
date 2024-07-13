@@ -7,13 +7,13 @@ Define Hypersplenism.
 What is Richter's Hernia?
 What is Trichobezoar?
 What is Good Sall'sRule?
-Write the full form of ERCP?
+Write the full form of [[Surgery Notes/Endoscopic Retrograde Cholangiopancreatography(ERCP)\|Endoscopic Retrograde Cholangiopancreatography(ERCP)]]?
 Define intussmception.
 What is the length of rectum?
 What is Dietl's Crisis?
 What is Blummer's Shelf?
 What is Fournier's Gangrene?
-What does CEA stand for?
+What does [[Carotidendartectomy\|CEA]] stand for?
 Define hydronephrosis.
 What is the length of male urethra?
 What is Barrett's oesophagus?
@@ -28,7 +28,7 @@ What is Felon
 Which swelling is called a breast mouse
 Pathognomic sign of sebaceous cyst
 Diagnostic investiation of varicose beins
-Define Hernia
+Define [[Surgery Notes/Hernia#^b8ce0e\|Hernia]]
 
 (Ortho)
 Attitude of limb in ant. shoulder dislocation
@@ -55,7 +55,7 @@ Mechanism of injury clinical features, investigation and managment of fracture s
 Insulinoma
 Adamantinoma
 Triage 
-Complicationsof gallstones
+[[Surgery Notes/Acute Cholecystitis#Complications\|Complications of gallstones]]
 Gynaecomastia. 
 PSA
 Intercostal drainage

@@ -25,10 +25,10 @@ What is Trichobezoar?
 Define intussusceptions.
 Why does thyroid gland moves with deglutition?
 What is Richter's hernia?
-What are cardinal signs of inguinal hernia?
+What are cardinal signs of [[Surgery Notes/Inguinal Hernia#Clinical tests\|inguinal hernia]]?
 Goodsall's rule in fistula in ano.
 What is ligament of Treitz?
-What is ampula of Vater?
+What is [[Surgery Notes/Surgical Anatomy of Gallbladder#Extrahepatic biliary tree\|ampulla of Vater]]?
 What are parts of pancreas?
 What is ectopic testis?
 What is leucoplakia?
@@ -47,7 +47,7 @@ Write in detail about stages of fracture healing? Contrast and compare between h
 Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar kochs spine and add a note on potts paraplegia?
 
 (p2)
-Describe etiology of gall stones. Describe clinical features investigations & management of acute calculus cholecystitis.
+Describe etiology of [[Surgery Notes/Gallstones#Pathogenesis\|Gall stones]]. Describe clinical features investigations & management of [[Surgery Notes/Acute Cholecystitis\|acute calculus cholecystitis]].
 Describe differential diagnosis of lumps in the right iliac fossa. Discuss clinical features and management of ileocaecal kochs.
 Enumerate causes of acute pancreatitis. Discuss clinical features investigations &treatment of acute necrotizing pancreatitis.
 
@@ -65,7 +65,7 @@ Keloid
 Coronary angioplasty
 Anal fissure
 Torsion testis
-Factors affecting wound healing
+[[Surgery Notes/Wound healing#Factors affecting wound healing\|Factors affecting wound healing]]
 Enumarate methods of spread of malignant tumour
 Color Doppler 
 Regional anaesthesia

@@ -3,9 +3,8 @@
 ---
 
 # One liners
-Define Shock
-%Blood volume loss is considered class 3 hemorrhagic shock
-What is Saints Triad
+Define Shock. %Blood volume loss is considered class 3 hemorrhagic shock
+What is [[Surgery Notes/Saints Triad\|Saints Triad]]
 What is [[Surgery Notes/Pressure sore#Staging\|stage 3 Pressure sore]]
 [[Surgery Notes/Amoebic liver abscess\|Amoebic liver abscess]] is caused by
 Criteria fro SIRS
@@ -19,7 +18,7 @@ Muscles of anterior abdominal wall
 Spegelian line
 Why do internal hemorrhoidsooccur at 3 7 and 11 o'clock
 Causes of ematocesia
-Diagnosis of TOF
+Diagnosis of [[Medicine notes/Tetralogy of Fallot\|Tetralogy of Fallot]]
 COmmon site of appendicular perforation
 Secondary urinary bladder 
 1 difference between Rt and Lt colonic carcinoma
@@ -41,7 +40,7 @@ Mallet finger is due to which tendon injury
 # Long answers
 Etiopathogenesis and management of [[Surgery Notes/Achalasia Cardia\|Achalasia Cardia]]
 Etiopathogenesis and management of[[ Hydatid cyst\| Hydatid cyst]]
-Diagnosis and management of case of obstructie jaundice in 75 yo
+Diagnosis and management of case of [[Obstructive jaundice\|Obstructive jaundice]] in 75 yo
 
 (p2)
 Classify Thyroid swelling. Desribe clinical features, differential diagnosis, investigatinos and treatment of Graves disease
@@ -62,15 +61,15 @@ Mnagement of seminoma testis
 Management of Chorddee
 
 (p2)
-Factors affecting wound healing
+[[Surgery Notes/Wound healing#Factors affecting wound healing\|Factors affecting wound healing]]
 [[Glasgow Coma Scale\|Glasgow coma scale]]
 Triage
 Classificationof salicvary gland tumour
-Gas gangrene
+[[Surgery Notes/Gas gangrene\|Gas gangrene]]
 
 (ortho)
 Osteochondroma
-Compartment syndrome
+[[Surgery Notes/Compartment syndrome\|Compartment syndrome]]
 Etiology and management of Radial nerve palsy
 
 
