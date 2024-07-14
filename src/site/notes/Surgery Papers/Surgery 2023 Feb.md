@@ -39,8 +39,8 @@ Define non-union
 Mallet finger is due to which tendon injury
 # Long answers
 Etiopathogenesis and management of [[Surgery Notes/Achalasia Cardia\|Achalasia Cardia]]
-Etiopathogenesis and management of[[ Hydatid cyst\| Hydatid cyst]]
-Diagnosis and management of case of [[Obstructive jaundice\|Obstructive jaundice]] in 75 yo
+Etiopathogenesis and management of [[Surgery Notes/Hydatid cyst\|Hydatid cyst]]
+Diagnosis and management of case of [[Surgery Notes/Obstructive jaundice\|Obstructive jaundice]] in 75 yo
 
 (p2)
 Classify Thyroid swelling. Desribe clinical features, differential diagnosis, investigatinos and treatment of Graves disease
