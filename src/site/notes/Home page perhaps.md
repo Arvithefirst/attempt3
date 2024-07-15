@@ -14,6 +14,7 @@ The yellow is ugly ik but alsomy brain hurts leave me alone pls thnx
 [[Medicine papers/Medicine 2017 Dec\|Medicine 2017 Dec]]
 
 also pulled from the list of classes weve had so far we have [[Medicine notes/Medicine Internal syllabus\|Medicine Internal syllabus]]
+
 ## Surgery paper outlinks
 [[Surgery Papers/Surgery 2023 Feb\|Surgery 2023 Feb]]
 [[Surgery Papers/Surgery 2022 Feb\|Surgery 2022 Feb]]
@@ -22,3 +23,10 @@ also pulled from the list of classes weve had so far we have [[Medicine notes/Me
 [[Surgery Papers/Surgery 2019 Dec\|Surgery 2019 Dec]]
 
 and ditto ditto [[Surgery Notes/Surgery Internal Syllabus\|Surgery Internal Syllabus]]
+
+## OBGY Paper outlinks
+[[OBGY papers/OBGY 2022 Feb\|OBGY 2022 Feb]]
+[[OBGY papers/OBGY 2021 June\|OBGY 2021 June]]
+[[OBGY papers/OBGY 2021 Jan\|OBGY 2021 Jan]]
+[[OBGY papers/OBGY 2019 Dec\|OBGY 2019 Dec]]
+
