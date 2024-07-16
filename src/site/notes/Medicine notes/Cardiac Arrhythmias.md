@@ -5,7 +5,7 @@
 An abnormality in rate or rhythm of contraction of the heart
 
 ## Classification
-1. [[Medicine papers/Tachyarrhythmias\|Tachyarrhythmias]]
+1. [[Medicine notes/Tachyarrhythmias\|Tachyarrhythmias]]
 	1. Supraventricular Tachycardia(SVT)
 		1. [[Atrial Fibrillation\|Atrial Fibrillation]]
 		2. [[Atrial flutter\|Atrial flutter]]

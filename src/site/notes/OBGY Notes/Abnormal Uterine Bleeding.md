@@ -8,10 +8,10 @@
 3. [[OBGY Notes/Metrohagia\|Metrohagia]]
 4. [[OBGY Notes/Oligomenorrhoea\|Oligomenorrhoea]]
 5. [[OBGY Notes/Hypomenorrhoea\|Hypomenorrhoea]]
-6. [[Dysfunctional uterine bleeding\|Dysfunctional uterine bleeding]]
+6. [[OBGY Notes/Dysfunctional Uterine Bleeding\|Dysfunctional Uterine Bleeding]]
 
 ## Aetiology
-The common causes of AUB can be classified under PALM-COEIN
+The common causes of AUB are classified by FIDO under the PALM-COEIN classification system
 - *P*olyp
 - *A*denomyosis
 - *L*eiomyoma

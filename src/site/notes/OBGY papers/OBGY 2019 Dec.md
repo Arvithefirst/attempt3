@@ -36,7 +36,7 @@ management of Abruptio placantae.
 
 (p2)
 Discuss etiology,diagnosis and outline of treatment of carcinoma cervix.
-Define [[Dysfunctional Uterine Bleeding\|Dysfunctional Uterine Bleeding]](DUB). Discuss the types of DUB and investigations required for diagnosis of DUB.
+Define [[OBGY Notes/Dysfunctional Uterine Bleeding\|Dysfunctional Uterine Bleeding]](DUB). Discuss the types of DUB and investigations required for diagnosis of DUB.
 What are the causes of female infertility? Discuss ni detail tubal factor for infertility.
 
 ## Short answer questions
