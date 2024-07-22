@@ -3,7 +3,7 @@
 ---
 
 ## One liners
-Name the four causes of PPH.
+Name the [[OBGY Notes/True postpartum hemorrhage#Causes\|four causes of PPH]].
 Define perinatal mortality.
 Define puerperal sepsis.
 What are complications of eclampsia?
@@ -20,7 +20,7 @@ Enumerate three symptoms caused by fibroid uterus.
 What is corpus cancer syndrome?
 What are the advantages of progesterone only pill?
 What is an ideal contraceptive?
-What are the characteristics of a second degree uterovaginal prolapse?
+What are the characteristics of a [[OBGY Notes/Pelvic Organ Prolapse#Clinical Types\|second degree uterovaginal prolapse]]?
 What are the causes of vesico-vaginal fistulas?
 What is a [[Surgery Notes/Pressure sore\|decubitus ulcer]]?
 Which test ovarian reserve assessment is independent of day of cycle? 
@@ -39,7 +39,8 @@ Discuss classification of ovarian tumours and describe diagnosis and management 
 
 ## Short anser questions
 Cephalohematoma.
-Pre-requisites to application of forceps. Misoprostol.
+Pre-requisites to application of forceps. 
+Misoprostol.
 Bandl's ring.
 Asphyxia Neonatorum.,
 Asymptomatic Bacteriuria.
@@ -53,5 +54,5 @@ Clomiphene Citrate.
 Semen Analysis.
 Medical Management of Endometriosis.
 Post-pill amenorrhea.
-Clocolate cyst.
+Chocolate cyst.
 Hyperprolactinemia

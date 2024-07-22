@@ -9,7 +9,7 @@ A 30weeks promogravid comes to labour room with 6 hours of watery pervaginal dis
 
 ## Short answer questions
 Lifestyle and diet counselling for antenatal mother diagnoses with gestational diabetes
-Role of partogram inlabour management
+[[OBGY Notes/First Stage of Labour#Investigations\|Role of partogram]] in labour management
 BISHOP score and its relevance in obs management
 Diagnosis of heart disease in pregnancy
 External cephalic version
@@ -20,7 +20,7 @@ Discuss the diagnosis of and complications of twin pregnancy.
 Discuss pathophysiology of Rh-incompatibility and antenatal management of aG2PI with B-ve blood group reporting at 16 weeks of gestation.
 
 (p2)
-Define and classify uterovaginal prolapse. Describe primary and secondary supports of uterus.
+Define and classify [[OBGY Notes/Pelvic Organ Prolapse\|uterovaginal prolapse]]. Describe primary and secondary supports of uterus.
 What are the clinical features of fibroid uterus . Describe secondary changes in leiomyoma uteri.
 
 Define infertility. Enumerate the etiological factors for primary infertility in an infertile couple
@@ -36,7 +36,7 @@ Implications of antiphospholipid antibody syndrome in obstetrics
 
 (p2)
 FIGO Classification for AUB[[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal uterine bleeding]])
-Medical management ofEctopic pregnanc
+Medical management of Ectopic pregnanc
 Pap smear
 Hysteroscopy
 Treatment of hydatidiform mole

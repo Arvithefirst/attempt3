@@ -31,7 +31,7 @@ How will you manage a primigravida woman with 32 weeks pregnancy with eclampsia?
 Write down the complications of moderate to severe anaemia during pregnancy and define labour management in an anaemic women
 Write down the [[OBGY Notes/True postpartum hemorrhage#Management\|stepwise management of atonic PPH.]]
 
-Manage acase of 35yrs old lady P$_{3+0}$ with third degree uterine prolapse.
+Manage acase of 35yrs old lady P$_{3+0}$ with third degree [[OBGY Notes/Pelvic Organ Prolapse#Management\|uterine prolapse]].
 Causes of ovulatory disorders of infertility and briefly describe ovulation inducing agent.
 Manage a case of 58yrs old obese woman with postmenopausal bleeding.
 

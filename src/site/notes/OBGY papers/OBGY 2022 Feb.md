@@ -3,7 +3,7 @@
 ---
 
 ## One liners
-What are four "T"'s of PPH?
+What are [[OBGY Notes/True postpartum hemorrhage#Causes\|four "T"'s of PPH]]?
 Define [[OBGY Notes/Second Stage of Labour\|Second Stage of Labour]].  
 Name two screening test for diabetes in pregnancy.  
 Presence of lambda sign and "T" sign in USG of a twin pregnant indicates what?
@@ -19,9 +19,9 @@ Uterus is developedfrom which embryological structure?
 Uterine artery is a branch of __
 Which type of fibroid uterus is most symptomatic and which is least symptomatic?
 What are the constituents of OC pill?
-POP Q Classification is used for which gynaecological condition?
+[[OBGY Notes/Pelvic Organ Prolapse#POP-Q Staging\|POP Q Classification]] is used for which gynaecological condition?
 What is the failure rate of tubal sterilization?
-What are the types of dysmenorrhea?
+What are the types of [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]]?
 Nane two drugs used for medical method of termination of pregnancy. 
 Name two investigation to test tubal patency.  
 Name the gonadotropins.
@@ -33,7 +33,7 @@ Define [[OBGY Notes/Anemia in pregnancy\|Anemia in pregnancy]]. What are the cau
 
 (p2)
 How will you investigate a case of anovulatory infertility. Mention briefly the management options
-Describe the various methods of conservative management of UV prolapse in a 35 y/o lady
+Describe the various methods of [[OBGY Notes/Pelvic Organ Prolapse#Conservative\|conservative management]] of UV prolapse in a 35 y/o lady
 What are the types of fibroid uterus? Describe conservative management of fibroid uterus
 
 ## Short answers

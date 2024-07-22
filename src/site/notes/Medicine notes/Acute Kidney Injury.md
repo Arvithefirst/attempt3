@@ -44,7 +44,7 @@ its gonna be by etiology fuck you
 <mark style="background: #FFF3A3A6;">Post-Renal</mark>
 - History of Malignancy symptoms / Old
 - Distended bladder / Pelvic mass felt
-- Renal ultrasound, Isotope renogram
+- Renal ultrasound, Isotope renogram [[Medicine notes/Radionuclide Study for Kidneys\|Radionuclide Study for Kidneys]]
 
 # Treatment
 Aim of treatment is to symptomatically manage AKI so it doesnt develop into CKD by

@@ -97,16 +97,36 @@ Done in aymptomatic women with mild prolapse or prolapse early in pregnancy
 - Kegels
 - Pessary
 ### Surgical 
-Various surgical interventions may beddone depending on the affeted part 
+Various surgical interventions may beddone depending on the affected part 
 #### Vaginal Wall surgeries
-1. Anterior wall colporrhaphy *(for cystocele)*
+1. [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]] *(for cystocele)*
 2. Paravaginal defect repair *(For paravaginal defect)*
-3. Colpoperineorrhaphy 
+3. [[Colpoperineorrhaphy \|Colpoperineorrhaphy ]]
 4. Vaginal repair of enterocele with Pelvic floor repair
 5. McCall Culpoplasty *(for enterocele)*
-6. Moscowitch Procedure *(for enterocele
-
+6. [[OBGY Notes/Moscowitch Procedure\|Moscowitch Procedure]] *(for enterocele)*
+// Pelvic floor repair refers to operation consisting of both [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]]and [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
 #### Uterovaginal prolapse surgery
 1. Vaginal Hysterectomy with Pelvic floor repair
-2. Fothergills Operation
-#### Uterine Prolapse surgery
+2. [[OBGY Notes/Fothergills Operation\|Fothergills Operation]]
+
+>[!faq] Vaginal wall surgeries follwing hysterectomy
+>
+Often required due to vault prolapse secondary to hysterectomy. They can be divided into vaginal/abdominal
+>1. Repair of vaginal vault + Pelvic floor repair
+>2. Sacrospinous colpopexy
+>3. Colpocleisis ([[OBGY Notes/Le Fort's Operation\|Le Fort's Operation]])
+>4. Sacral Colpopexy
+
+#### Uterus Prolapse Surgeries
+1. [[OBGY Notes/Purandare's Sling Operation\|Purandare's Sling Operation]]
+#### Meshplasty
+Work better than traditional methods. Non-absorbably meshes have high recurrence, low complications while Absorbable meshes have lowl recurrence and high chance of complications
+
+>[!bug] Complications of Surgical methods
+	1. Hemorrhage
+	2. Sepsis
+	3. Urinary retention / Damage to bowels
+	4. Dyspareunia
+	5. Cervical stenosis/incompetency/dystocia
+	6. Reccurence

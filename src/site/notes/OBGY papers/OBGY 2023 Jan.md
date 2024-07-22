@@ -19,9 +19,10 @@ What are 2 uses of inj.Magnesium sulphate
 Write about the embryological development of the vagina.
 What are the baseline investigations to be done in an infertile couple?
 Name two organisms responsible for the majority of pelvic inflammatory diseases.
-Write down three common causes ofAUB (Abnomal Uterine Bleeding) among women in the reproductive age group.
-Which is the most common type of dysmenorhea? Which of the gynaecological cancers is preventable?
-Write down three differential diagnoses for mass descending per vaginum.
+Write down three common causes of AUB ([[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]) among women in the reproductive age group.
+Which is the most common type of [[OBGY Notes/Dysmenorrhoea\|dysmenorrhoea]]? 
+Which of the gynaecological cancers is preventable?
+Write down[[OBGY Notes/Pelvic Organ Prolapse#Differential diagnoses\|three differential diagnoses]] for mass descending per vaginum.
 What is the karyotype in testicular feminizing syndrome?
 Name three tumor markers used in the diagnosis of germ celltumors of the ovary.
 What is the life span of Cu T 380 A2
@@ -58,4 +59,4 @@ Non-contraceptive uses of combined oral contraceptive pills.
 Medical method of first trimester MTP (Medical Termination of Pregnancy).
 HPV(HumanPapilloma Virus) vaccines.
 Indications for LNGIUS (Levonorgestrel Intra-uterine System).
-Cardinal steps of Fothergill/Manchester surgery.
+Cardinal steps of [[OBGY Notes/Fothergills Operation\|Fothergill/Manchester surgery]].
