@@ -26,6 +26,7 @@ also pulled from the list of classes weve had so far we have [[Medicine notes/Me
 [[Surgery Papers/Surgery 2019 Dec\|Surgery 2019 Dec]]
 
 and ditto ditto [[Surgery Notes/Surgery Internal Syllabus\|Surgery Internal Syllabus]]
+Also for fun [[List of famous fractures\|List of famous fractures]]
 
 ## OBGY Paper outlinks
 [[OBGY papers/OBGY 2024 Jan\|OBGY 2024 Jan]]

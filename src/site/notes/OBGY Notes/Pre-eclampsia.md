@@ -30,7 +30,6 @@ Risk factors include Primigravid state, placental abnormalities, family history 
 - Visual symtptoms
 *Signs*
 - Abnormal weight gain
-- Abnormal weight gain
 - Rise in BP
 - Edema / Anasarca
 - Placental insufficiency
@@ -41,7 +40,7 @@ Risk factors include Primigravid state, placental abnormalities, family history 
 3. Serum urea, creatinine, LFTs
 
 ## Management
-No clnical tests are useful in detecting pre-eclampsia before on set.v However prophylaxis is possible by
+No clinical tests are useful in detecting pre-eclampsia before on set. However prophylaxis is possible by
 - Regular clinical assessment
 - Antithrombotic therapy
 - Calcium supplement
