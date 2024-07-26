@@ -38,3 +38,10 @@ Also for fun [[List of famous fractures\|List of famous fractures]]
 
 And for internals [[OBGY papers/OBGY Internal syllabus\|OBGY Internal syllabus]]
 
+## Paediatric paper outlinks
+[[Pediatric papers/Pediatrics 2024 Jan Old and new\|Pediatrics 2024 Jan Old and new]]
+[[Pediatric papers/Pediatrics 2023 Feb and June\|Pediatrics 2023 Feb and June]]
+[[Pediatric papers/Pediatrics 2021 June\|Pediatrics 2021 June]]
+[[Pediatric papers/Pediatrics 2021 Jan\|Pediatrics 2021 Jan]]
+
+Full of guess work but [[Pediatric Notes/Pediatrics internal syllabus\|Pediatrics internal syllabus]]
