@@ -47,8 +47,12 @@
     border-radius: 10px 10px 0 0;
     color: var(--h6-color);
   }
+    .graph-view.color-arrow {
+  color: var(--text-normal);
+  opacity: 0;
+    }
 }
 
 body{
---italic-color:var(--color-purple);
+--italic-color:var(--color-accent);
 }
