@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/acute-rheumatic-heart-disease/"}
 ---
 
-Usually affects children 5-15 post streptococcal infection
+Usually affects children 5-15 post-streptococcal infection
 
 ## Aetiopathogenesis
 Certain Group A streptococci can trigger cross-immunisation against cardiac myosin and sacrolemmal membrane proteins causing
@@ -13,8 +13,33 @@ Certain Group A streptococci can trigger cross-immunisation against cardiac myos
 ## Clinical Features
 Multisystem involvement presenting with Fever, Anorexia, Lethargy 2-3 weeks after Streptococcal pharyngitis
 
-<mark style="background: #FF5582A6;">Jones Criteria for Diagnosis of Rheumaic heart Disease</mark>
-![Screenshot 2024-07-08 at 4.00.46 PM.png| 500](/img/user/Pictures/Screenshot%202024-07-08%20at%204.00.46%20PM.png)
+### Jones Criteria for Diagnosis of Rheumatic heart Disease
+2 Major or 1 Major + 2 minor
+#### Polyarthritis
+- Migratory, seen in only large joints. Fleeting; leaves no deformity
+- *"Melts like Ice"* when given Aspirin
+- Always first to appear; can never coincides with Chorea 
+#### Pancarditis
+- Causes breathlessness, Paroxysmal Nocturnal Dyspnea, Orthopnea, Chest pain
+- Typically affects Mitral valve; may progress to Congestive [[Medicine notes/Cardiac failure\|cardiac failure]]
+- Typical Pansystolic(MR) [[Medicine notes/Murmurs\|Murmur]] radiating to back and *Pericardial Rub*
+- Always seen when [[Medicine notes/Acute Rheumatic heart disease#Subcutaneous Nodules\|#Subcutaneous Nodules]] are present
+#### Sydenhams Chorea (St. Vitus' Dance)
+- Caused by damage to caudate nucleus. Only seen in girls
+- Initial sign is emotional lability; progressing to quasi-purposeful movements
+- Only extrapyramidal lesion to cause hypotonia
+- Milk-maids hands, Jack-in-the-box sign, Pronator sign, Bag of worms
+#### Subcutaneous Nodules
+- Grape sized; soft; typically over extensor surfaces
+- Sign that myocardium has already been affected
+#### Erythema Marginatum
+- Macular; Central blanching
+- Typically caused by raised temperature
+#### Minor criteria
+- Polyathralgia
+- Fever
+- Raised Acute phase reactants (ESR/CRP/TLC)
+- h/o recent Streptococcal infection
 
 ## Investigations
 1. ESR/CRP 
