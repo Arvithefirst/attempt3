@@ -3,7 +3,7 @@
 ---
 
 ## Definitions
-#### Hypretension
+#### Hypertension
 $BP>140/90mmHg$ measured 2 times within 6 hours
 #### Proteinurea
 Urinary excretion of >3gm protein/24 hours

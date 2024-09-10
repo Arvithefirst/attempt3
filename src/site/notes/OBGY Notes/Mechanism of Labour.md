@@ -4,7 +4,7 @@
 
 Refers to the *series of movements a fetus undergoes* during its journey through the pelvis. Begins in late [[OBGY Notes/First Stage of Labour\|First Stage of Labour]] and ends along with [[OBGY Notes/Second Stage of Labour\|Second Stage of Labour]]
 
-In brief there are 9 principle movements
+In brief there are 9 principle movements (EDFICER)
 1. Engagement
 2. Descent
 3. Flexion
