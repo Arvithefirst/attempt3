@@ -37,6 +37,9 @@ Also for fun [[List of famous fractures\|List of famous fractures]]
 [[OBGY papers/OBGY 2019 Dec\|OBGY 2019 Dec]]
 
 And for internals [[OBGY papers/OBGY Internal syllabus\|OBGY Internal syllabus]]
+See also 
+[[OBGY Notes/OBGY Table drugs\|OBGY Table drugs]]
+[[OBGY Notes/OBGY Table Instruments\|OBGY Table Instruments]]
 
 ## Paediatric paper outlinks
 [[Pediatric papers/Pediatrics 2024 Jan Old and new\|Pediatrics 2024 Jan Old and new]]
