@@ -57,3 +57,6 @@ body{
 --italic-color:var(--color-accent);
 --link-decoration: underline;
 }
+
+.markdown-rendered .internal-link {
+  text-decoration-line: underline;
