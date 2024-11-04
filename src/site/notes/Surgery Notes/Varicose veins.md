@@ -62,6 +62,8 @@
 
 # Investigations
 
+1. Color doppler
+
 
 # Treatment
 1. Conservative
@@ -70,7 +72,7 @@
 2. Medical
 	1. Calcium Dobesilate
 	2. Diosmin
-	3. Sclerosing agents
+	3. Sclerosing agents (ethanol )
 3. Surgical
 	1. <mark style="background: #FF5582A6;">Trendelenburg operation</mark>
 	2. <mark style="background: #FFB86CA6;">Stripping of vein</mark>

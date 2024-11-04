@@ -49,7 +49,7 @@ Further divided by obliterated umbilical artery which is used to further classif
 
 # Surgeries
 1. <mark style="background: #FF5582A6;">Herniotomy </mark>
-2. Modified Bassinis Hernioohaphy
+2. Modified Bassinis Herniohaphy
 3. Lytles repair
 4. Shouldice repair
 5. Hernioplasty (prime treatment for inguinal)

@@ -17,7 +17,7 @@ These can be permanent or temporary.
 1. [[OBGY Notes/Natural Contraception\|Natural Contraception]]
 2. [[OBGY Notes/Barrier Contraceptives\|Barrier Contraceptives]]
 3. [[OBGY Notes/Intrauterine Contraception Devices\|Intrauterine Contraception Devices]]
-4. Steroidal Contraception
+4. [[OBGY Notes/Steroidal Contraception\|Steroidal Contraception]]
 *Permanent*
 1. Tubal occlusion
 2. Vasectomy

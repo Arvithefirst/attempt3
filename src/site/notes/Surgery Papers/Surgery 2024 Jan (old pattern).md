@@ -3,15 +3,15 @@
 ---
 
 ## One liners
-Define Apoptosis.
-Cell of Origin of squamous cell carcinoma of Skin.
+Define [[Surgery Notes/Apoptosis\|Apoptosis]].
+Cell of Origin of [[Surgery Notes/Squamous Cell Carcinoma\|Squamous Cell Carcinoma]] of Skin.
 What is fluid challenge? 
 What is Carbuncle?
 What is Pemberton's sign, & it's significance? 
 What is Carpopedal spasm?
-Different types of Peripheralnerve injuries. 
-Difference between Sinus and Fistula.
-What is erysipelas?
+Different types of Peripheral nerve injuries. 
+Difference between [[Surgery Notes/Sinus\|Sinus]] and Fistula.
+What is [[Surgery Notes/Erysipelas\|Erysipelas]]?
 What is an Allograft?
 
 (Ortho)
@@ -24,9 +24,9 @@ Foot drop
 Types of bone grafts
 
 (p2)
-Why varicocele is common on left side?
-Tumor markers of testicular tumors?
-Physical signs of torsion testis
+Why [[Surgery Notes/Varicocele\|Varicocele]] is common on left side?
+Tumor markers of [[Surgery Notes/Testicular tumours\|Testicular tumours]]?
+Physical signs of [[Surgery Notes/Torsion testis\|Torsion testis]]
 Types of orchidectomy?  
 IVU in blood urea is 100mg%?
 Signs of strangulating intestinal obstruction? 
@@ -35,9 +35,9 @@ Goodsall's rule?
 ATT for abdominal tuberculosis? 
 Structures found in appendicular lump? 
 Types of colostomy?  
-Define partialrectal prolapsed? C
-ommon LASER used for coagulation2
-Investigations for posterior stricture urethra?
+Define partial rectal prolapsed? 
+Common LASER used for coagulation
+2 Investigations for posterior stricture urethra?
 
 ## Long answer questions
 Describe the pathophysiology of Burns, How will you manage a patient of 45% mixed burns, including burns over face and perineum.
@@ -55,7 +55,7 @@ at mid thigh. Describe diagnosis, investigations and management.
 
 (p2)
 Etiopathogenesis and management of [[Surgery Notes/Gallstones\|Gallstones]] disease
-Etiopathogenesis and management of Acute pancreatitis
+Etiopathogenesis and management of [[Surgery Notes/Acute pancreatitis\|Acute pancreatitis]]
 Diagnosis and manegement of various types of intestinal TB
 
 ## Short answer questions
@@ -74,7 +74,7 @@ Erbs palsy
 Panendoscopy
 Outline of management of carcinoma prostate
 Management of undescended testis in 22yo male
-Various operations for hydrocele
+Various operations for [[Surgery Notes/Hydrocele#Treatment\|hydrocele]]
 Management of hematuria in case of Fracture hip
 Management of chronic retention of urine
 Renal scan

@@ -6,7 +6,7 @@
 Where is the anatomical opening of parotid duct? 
 Mention names of Non-absorbable suture material.
 What are the grades of Claudication? 
-Define sinus.
+Define [[Surgery Notes/Sinus\|sinus]].
 How is BMI calculated?
 What is rule of nine?
 What is Virchow's Traid? 
@@ -15,7 +15,7 @@ What is an allograft?
 What is [[Surgery Notes/Ulcer#Treatment\|EUSOL]]?
 Wrist drop is seen with which nerve injury? 
 Which is most common bone tumor?
-What is emergency/immediate treatment of Compartment Syndrome? 
+What is emergency/immediate treatment of [[Surgery Notes/Compartment syndrome\|Compartment Syndrome]]? 
 Saucerization is treatment of which bony condition?
 What is a Jones fracture?
 What si the investigation of choice for Anterior cruciate ligament injury? 
@@ -38,13 +38,16 @@ What is porta hepatis?
 
 ## LAQs
 Describe the etiology, clinical features and management of a patient of (L) Lower limb DVT.
-Classify goitre. What are clinical features, diagnosis and management of
+
+Classify [[Surgery Notes/Thyroid swellings\|goitre]]. What are clinical features, diagnosis and management of
 hyperthyroidism?
+
 Classify shock. Discuss pathophysiology, clinical features &management of septic shock.
 
 (Ortho)
-Write in detail about stages of fracture healing? Contrast and compare between healing of cortical bone and healing of cancellous bone? Also enumerate the causes and treatment of Non-Union of fractures.
-Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar kochs spine and add a note on potts paraplegia?
+Write in detail about stages of fracture healing? Contrast and compare between healing of cortical bone and healing of cancellous bone. Also enumerate the causes and treatment of Non-Union of fractures.
+
+Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar kochs spine and add a note on potts paraplegia
 
 (p2)
 Describe etiology of [[Surgery Notes/Gallstones#Pathogenesis\|Gall stones]]. Describe clinical features investigations & management of [[Surgery Notes/Acute Cholecystitis\|acute calculus cholecystitis]].
@@ -64,7 +67,7 @@ Write a note on Supracondylar humerus fracture in children.
 Keloid
 Coronary angioplasty
 Anal fissure
-Torsion testis
+[[Surgery Notes/Testicular tumours\|Testicular tumours]]
 [[Surgery Notes/Wound healing#Factors affecting wound healing\|Factors affecting wound healing]]
 Enumarate methods of spread of malignant tumour
 Color Doppler 

@@ -35,7 +35,7 @@ Evaluation of fetal growth restriction
 Implications of antiphospholipid antibody syndrome in obstetrics
 
 (p2)
-FIGO Classification for AUB[[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal uterine bleeding]])
+FIGO Classification for AUB([[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal uterine bleeding]])
 Medical management of Ectopic pregnanc
 Pap smear
 Hysteroscopy
