@@ -27,7 +27,7 @@ Which fracture shows dinner fork deformity?
 What is Pantaloon hernia?
 What is [[Surgery Notes/Hydronephrosis\|Hydronephrosis]]?
 What is FAST in trauma patients?
-What si ligament of Treitz?
+What is ligament of Treitz?
 What is Meckel's diverticulum?
 Gold standard Investigation ni the diagnosis of [[Medicine notes/Gastroesophageal reflux disease (GERD)#Investigations\|GERD]]? 
 What is the length of male urethra?
@@ -55,7 +55,7 @@ Define Dysphagia. Enumerate the causes of dysphagia. Describe clinical features,
 
 Describe the etiology, clinical features, management fo Acute intestinal obstruction.
 
-Enumerate causes of Hematuria. Describe clinical features, investigations, and management of renal cell carcinoma.
+Enumerate causes of [[Surgery Notes/Haematuria\|Haematuria]]. Describe clinical features, investigations, and management of renal cell carcinoma.
 
 ## Short answer questions
 Deep Venous Thrombosis.
@@ -71,10 +71,11 @@ Epiphyseal injuries in children.
 
 (p2)
 [[Medicine notes/Inflammatory Bowel Disease#Differences between UC and CD\|Difference between Ulcerative colitis and Chron's disease.]]
-Complications of Acute Pancreatitis.
+Complications of [[Surgery Notes/Acute pancreatitis\|Acute Pancreatitis]]
 [[Surgery Notes/Gallstones\|Calculous Cholecystitis]]. 
 Mesenteric Cyst.
 Fistula in Ano. 
 Cryptorchidism.
 TNM Staging ni cancer Stomach. 
 Causes of [[Medicine notes/Upper Gastrointestinal bleed#Causes\|Upper GI Bleeding.]]
+

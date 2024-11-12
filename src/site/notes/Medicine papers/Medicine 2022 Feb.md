@@ -42,7 +42,7 @@ Discuss the etiology, pathophysiology, clinincal features, investigations, and t
 Discuss the pathophysiology, clinical features, investigations, and treatment of Bronchial Asthma
 
 (p2)
-Discuss the pathophysiology, clinical features, investigations, and treatment of acute pancreatitis
+Discuss the pathophysiology, clinical features, investigations, and treatment of [[Surgery Notes/Acute pancreatitis\|acute pancreatitis]]
 Discuss the clinincal features diagnostic criteria, investigations and treatment of systemic lupus erythematosus
 Discuss the etiology, clinical features, investigations, and treatment of [[Medicine notes/Bacterial Meningitis\|Bacterial Meningitis]]
 
@@ -55,7 +55,7 @@ Solitary Pulmonary Nodule
 Viral Hemorrhagic Fevers
 Extrapulmonary TB
 Metabolic Acidosis
-Management of [[Medicine notes/Acute Coronary Syndrome#Management\|Acute Coronary Syndrome]]
+Management of [[Medicine notes/Acute Coronary Syndrome#Treatment\|Acute Coronary Syndrome]]
 [[Diffuse Proliferative glomerulonephritis\|Glomerulonephritis associated with Infection]]
 
 (p2)

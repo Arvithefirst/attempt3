@@ -16,10 +16,10 @@ smooth, firm, and discrete (non-matted). What is your probable diagnosis?How wil
 ## Short answer questions
 Written consent for  Laparoscopic SOS open [[Surgery Notes/Cholecystectomy\|Cholecystectomy]].
 Complications of blood transfusion.
-Clinical features arnd management of strangulated[[ Inguinal hernia\| Inguinal hernia]].
+Clinical features arnd management of strangulated [[Surgery Notes/Inguinal Hernia\|Inguinal hernia]].
 Sentinel lymphnode biopsy in carcinoma breast.
 Etiology clinical features and mangement of basal cell carcinoma
-Hypokalemia
+[[Surgery Notes/Hypokalemia\|Hypokalemia]]
 Etiology, clinical feature and treatment of Carbuncle
 Treatment options of [[Surgery Notes/Achalasia Cardia\|Achalasia Cardia]] with surgical importance
 Pleomorphic adenoma
@@ -33,9 +33,8 @@ Complications of spinal anesthesia
 
 (ortho)
 Elaborate clinical featutres and management of osteosarcoma.  
-Describe etiopathogenesis and various treatment modalities of
-osteoarthritis of knee.
-Describe etiology and management of compartment syndrome. 
+Describe etiopathogenesis and various treatment modalities of osteoarthritis of knee.
+Describe etiology and management of [[Surgery Notes/Compartment syndrome\|compartment syndrome]]. 
 Vit. D resistant rickets.
 Stigmatas of Tuberculosis.
 
@@ -56,7 +55,7 @@ Question 3
 - Neurological assessment and [[Glasgow Coma Scale\|Glasgow Coma Scale]] in Head injury
 
 (ortho)
-65yo male fell from stairs and injured his hip bone. Radiological examination revealed fracture neck of femur. Describe its classification, management and complications.
+65yo male fell from stairs and injured his hip bone. Radiological examination revealed [[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|fracture neck of femur]]. Describe its classification, management and complications.
 
 Deseribe briefly the differential diagnosis and management of a 8year old limping child.
 

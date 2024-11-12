@@ -21,7 +21,7 @@ Two clinical features of Atrial septal defects.
 
 (p2)
 Write two hand deformities of rheumatoid arthritis.
-Write two causes of acute pancreatitis.
+Write two causes of [[Surgery Notes/Acute pancreatitis\|acute pancreatitis]].
 Write two investigations for Wilson disease.
 Write two complications of portal hypertension.
 Four clinical signs of upper motor neurone lesions.
@@ -54,7 +54,7 @@ Write a short note on hypervolaemic hyponatremia.
 Syndrome of inappropriate anti diuretic hormone.
 Write post exposure prophylaxis for HIV.
 Short note on Pulmonary function tests.
-Basic Life Support and advanced life support ni Cardiac arrest.
+Basic Life Support and advanced life support in Cardiac arrest.
 Tropical eosinophilia.
 Causes and investigations for pancytopenia.
 Management of acute Respiratory failure.

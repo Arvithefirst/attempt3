@@ -17,7 +17,7 @@ Responsibility and work ethics of health care teams
 
 ## Long answer questions
 Discuss the diagnosis of and complications of twin pregnancy.
-Discuss pathophysiology of Rh-incompatibility and antenatal management of aG2PI with B-ve blood group reporting at 16 weeks of gestation.
+Discuss pathophysiology of Rh-incompatibility and antenatal management of a G2P1 with B-ve blood group reporting at 16 weeks of gestation.
 
 (p2)
 Define and classify [[OBGY Notes/Pelvic Organ Prolapse\|uterovaginal prolapse]]. Describe primary and secondary supports of uterus.

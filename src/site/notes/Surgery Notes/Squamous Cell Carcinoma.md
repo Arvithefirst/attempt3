@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/squamous-cell-carcinoma/"}
 ---
 
-also called *Epithelioma; Khangri disease; Chimney cancer*
+also called *Epithelioma; Khangri disease; Chimney cancer* Arises from epidermal keratinocytes
 
 ## Etiology
 2nd most common of skin cancer. Exhibits male preference.

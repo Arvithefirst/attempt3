@@ -46,7 +46,7 @@ Discuss the etiology, clinical features, diagnosis and management of [[Medicine 
 
 (p2)
 Discuss etiology, clinical features, investigations, and complications of portal hypertension
-Outline precipitating factors, clinical features, lab findings, and management of Hyperglycemic hyperosmolar state
+Outline precipitating factors, clinical features, lab findings, and management of [[Medicine notes/Hyperglycemic Hyperosmolar state\|Hyperglycemic Hyperosmolar state]]
 Discuss etiology, clinical features, investigations and treatment of [[Medicine notes/Bacterial Meningitis\|pyogenic meningitis]]
 
 # Short Answer Questions
@@ -67,6 +67,6 @@ Delirium tremens
 What is Norwegian or Crusted Scabies
 Discuss etiology, clinical features, diagnosis and management of [[Medicine notes/Acute Gout\|Gout]]
 Celiacs disease
-Somoyogi phenomenon in Diabetes mellitus
+[[Medicine notes/Somogyi Phenomenon\|Somogyi Phenomenon]] in Diabetes mellitus
 Myasthenia Gravis
 Clinical manifestation and management of [[Medicine notes/Organophosphate Poisoning\|Organophosphate Poisoning]]

@@ -3,7 +3,7 @@
 ---
 
 ## One liners
-Define fistula.
+Define Fistula.
 Which is the diagnostic investigation of [[Surgery Notes/Varicose veins#Investigations\|varicose veins#Investigations]]?
 Which is the commonest malignancy found in Marjoline's ulcer? 
 Mention any two premalignant oral lesions.
@@ -15,12 +15,12 @@ What is paronychia?
 Name the organism responsible for elephantiasis.
 
 (Ortho)
-Define Monteggia Fracture.
+Define #Monteggia Fracture.
 Which nerve palsy causes ape thumb deformity?
 Name 2 most commonly used techniques for CTEV casting.
 Which is the most common bone affected in tuberculosis?
 What is the test of detect flexion deformity of hip?
-Dugas test is used to diagnoseo
+Dugas test is used to diagnose
 What is "Lachman's test" used to diagnose?
 
 (p2)
@@ -32,11 +32,11 @@ What is [[Surgery Notes/Hypersplenism\|Hypersplenism]]?
 Causative organism of [[Surgery Notes/Hydatid cyst\|hydatid cyst]] of liver. 
 Define [[Surgery Notes/Hydronephrosis\|hydronephrosis]].
 Define intussuception.
-Grey Turner's sign.
-Which [[Medicine notes/Radionuclide Study for Kidneys\|radionuclide scanning]] is done ni renal pathology for diagnosis of renal function?
+[[Surgery Notes/Acute pancreatitis#Signs\|Grey Turner's sign]]
+Which [[Medicine notes/Radionuclide Study for Kidneys\|radionuclide scanning]] is done in renal pathology for diagnosis of renal function?
 What is length of male urethra?
 Carcinoid syndrome.
-Name tumor marker which is elevated in[[Surgery Notes/Seminoma#Investigations\|seminoma#Investigations]] of testes.
+Name tumor marker which is elevated in [[Surgery Notes/Seminoma#Investigations\|seminoma]] of testes.
 What is hydrocele of hernia sac?
 
 ## Long Answer questions
@@ -47,7 +47,7 @@ Define & classify [[Surgery Notes/Thyroid swellings\|Goitre]]. Describe etiopath
 Describe surgical anatomy of venous drainage of lower limb. Explain etiopathogenesis, investigations and different treatment modalities of [[Surgery Notes/Varicose veins\|varicose veins]]. Enumerate complications of [[Surgery Notes/Varicose veins\|varicose veins]].
 
 (ortho)
-Describe in details stages of bone healing and complication of fracture.
+Describe in details [[Ortho notes/Fracture Healing\|stages of bone healing]] and complication of fracture.
 Describe in details supracondylar fracture humerus in children in respect to clinical features, types, x-ray findings, treatment and complications.
 
 (p2)
@@ -69,7 +69,7 @@ Cystosarcoma phylloids
 
 (Ortho)
 Ewing's sarcoma.
-Write different classification system for fracture neck femur. 
+Write different classification system for [[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|fracture neck femur]]. 
 Write different stages of tuberculosis of hip & its treatment.
 
 (p2)

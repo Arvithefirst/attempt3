@@ -22,7 +22,7 @@ What are the advantages of progesterone only pill?
 What is an ideal contraceptive?
 What are the characteristics of a [[OBGY Notes/Pelvic Organ Prolapse#Clinical Types\|second degree uterovaginal prolapse]]?
 What are the causes of vesico-vaginal fistulas?
-What is a [[Surgery Notes/Pressure sore\|decubitus ulcer]]?
+What is a [[OBGY Notes/Pelvic Organ Prolapse#Complications\|decubitus ulcer]]?
 Which test ovarian reserve assessment is independent of day of cycle? 
 What is the lining of the cervical canal?
 

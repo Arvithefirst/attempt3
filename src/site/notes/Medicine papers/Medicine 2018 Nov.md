@@ -66,7 +66,7 @@ Sickle cell anemia.
 
 (p2)
 H. Pylori induced [[Medicine notes/Peptic Ulcer disease\|peptic ulcer]].
-Primary hyper para thyroidism
+Primary hyperparathyroidism
 Somatoform disorders 
 Chronic hepatitis
 DPP4 inhibitors

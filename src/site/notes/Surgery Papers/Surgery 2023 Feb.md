@@ -31,10 +31,10 @@ Conmon cause of chronic urine retention in adults
 
 (ortho)
 Foot drop is due to which nerve
-March fracture is what kind of fracture
+March fracture is what kind of fracture [[List of famous fractures\|List of famous fractures]]
 What is meralgia parasthetica
 Xray of giant cell tumour
-Gun stock defmormity
+Gun stock deformity
 Define non-union
 Mallet finger is due to which tendon injury
 # Long answers

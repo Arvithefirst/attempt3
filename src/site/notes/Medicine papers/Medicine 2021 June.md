@@ -30,11 +30,11 @@ Component of CREST syndrome.
 Four causes of Myopathy.
 Name Serum markers of Acute and Chronic pancreatitis.
 Four complications of [[Medicine notes/Organophosphate Poisoning#Treatment\|OP poisoning]].
-Drugs used ni Massive Hemetemesis.
+Drugs used in Massive Hemetemesis.
 Treatment of Vit A Deficiency.
 Two causes of Fall in Elderly.
 Four causes of peripheral Neuropathy.
-Name Drugs used ni Myesthenia Gravis.
+Name Drugs used in Myesthenia Gravis.
 Name Types of Epilepsy.
 
 ## LAQs

@@ -19,7 +19,7 @@ What are 2 uses of inj.Magnesium sulphate
 Write about the embryological development of the vagina.
 What are the baseline investigations to be done in an infertile couple?
 Name two organisms responsible for the majority of pelvic inflammatory diseases.
-Write down three common causes of AUB ([[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]) among women in the reproductive age group.
+Write down three common causes of AUB ([[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]) 
 Which is the most common type of [[OBGY Notes/Dysmenorrhoea\|dysmenorrhoea]]? 
 Which of the gynaecological cancers is preventable?
 Write down[[OBGY Notes/Pelvic Organ Prolapse#Differential diagnoses\|three differential diagnoses]] for mass descending per vaginum.
@@ -43,7 +43,7 @@ Discuss the role of progesterones in contraception
 
 ## Short answer questions
 Parenteral iron therapy in pregnancy
-AMTSL
+[[OBGY Notes/Third Stage of Labour#Active management\|AMTSL]]
 Pre-requisites of vacuum delivery
 Clinical diagnosis of acute ruptured ectopic pregnancy
 Criteria for non-reassuring fetal heart rate pattern
@@ -60,3 +60,4 @@ Medical method of first trimester MTP (Medical Termination of Pregnancy).
 HPV(HumanPapilloma Virus) vaccines.
 Indications for LNGIUS (Levonorgestrel Intra-uterine System).
 Cardinal steps of [[OBGY Notes/Fothergills Operation\|Fothergill/Manchester surgery]].
+[[Oral Contraceptive pills\|Oral Contraceptive pills]]

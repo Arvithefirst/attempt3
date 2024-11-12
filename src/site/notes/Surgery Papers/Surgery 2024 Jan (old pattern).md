@@ -3,13 +3,13 @@
 ---
 
 ## One liners
-Define [[Surgery Notes/Apoptosis\|Apoptosis]].
+Define #Apoptosis.
 Cell of Origin of [[Surgery Notes/Squamous Cell Carcinoma\|Squamous Cell Carcinoma]] of Skin.
 What is fluid challenge? 
 What is Carbuncle?
 What is Pemberton's sign, & it's significance? 
 What is Carpopedal spasm?
-Different types of Peripheral nerve injuries. 
+Different types of Peripheral [[Ortho notes/Nerve injuries\|Nerve injuries]]. 
 Difference between [[Surgery Notes/Sinus\|Sinus]] and Fistula.
 What is [[Surgery Notes/Erysipelas\|Erysipelas]]?
 What is an Allograft?
@@ -19,7 +19,7 @@ Clinical features of Rickets
 Investingations in ewing sarcoma
 Babinski sign
 Macmurrays test
-Volkmanns ischaemic contracture
+[[Ortho notes/Volkmanns Ischaemic contracture\|Volkmanns ischaemic contracture]]
 Foot drop
 Types of bone grafts
 
@@ -40,18 +40,16 @@ Common LASER used for coagulation
 2 Investigations for posterior stricture urethra?
 
 ## Long answer questions
-Describe the pathophysiology of Burns, How will you manage a patient of 45% mixed burns, including burns over face and perineum.
+Describe the pathophysiology of Burns, How will you manage a patient of 45% mixed burns, including burns over face and perineum
 
-Describe the anatomy of thyroid gland, and write about investigations andManagement of Solitary thyroid nodule.
+Describe the anatomy of thyroid gland, and write about investigations and Management of Solitary thyroid nodule
 
 Describe different pathological types of cancer Breast and management of cancer breast in pregnancy according to trimester
 
 (Ortho)
-Define developmental dysplasia of hip and its etiopathogenesis, investigation and management.  
+Define developmental dysplasia of hip and its etiopathogenesis, investigation and management
 
-30Year old male patient brought to casualty and Presented with Pulse
-130/m, BP90/60. RR40/m with grade II compound wound with deformity
-at mid thigh. Describe diagnosis, investigations and management.
+30Year old male patient brought to casualty and Presented with Pulse 130/m, BP90/60. RR40/m with grade II compound wound with deformity at mid thigh. Describe diagnosis, investigations and management.
 
 (p2)
 Etiopathogenesis and management of [[Surgery Notes/Gallstones\|Gallstones]] disease
@@ -60,14 +58,14 @@ Diagnosis and manegement of various types of intestinal TB
 
 ## Short answer questions
 Collar stud abscess
-New treatments for varicose veins
+New treatments for [[Surgery Notes/Varicose veins\|varicose veins]]
 Spinal anesthesia 
 Triage
 Management of subdural hematoma
 
 (Ortho)
 Osteomalacia and its management
-Stages in bone fracture healing
+Stages in bone [[Ortho notes/Fracture Healing\|fracture healing]]
 Erbs palsy
 
 (P2)

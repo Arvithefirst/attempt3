@@ -31,12 +31,12 @@ Diagnostic investiation of [[Surgery Notes/Varicose veins#Investigations\|varico
 Define [[Surgery Notes/Hernia#^b8ce0e\|Hernia]]
 
 (Ortho)
-Attitude of limb in ant. shoulder dislocation
+Attitude of limb in anterior shoulder dislocation
 Wrist drop is seen in which nerve palsy
 Sunray appearance is seen in which tumour
-Features of compartment syndrome
-Acute osteomyelitis beings in wwhich area of the bone
-Dinner fork deformity is seen in whichh fracture
+Features of [[Surgery Notes/Compartment syndrome\|compartment syndrome]]
+Acute osteomyelitis beings in which area of the bone
+Dinner fork deformity is seen in which fracture
 Test to check abductors of hip
 ## Long answer questions
 Enumerate causes of intestinal obstruction. Discuss clinical features, invesstigatoins, and treatment of a case of intussception in a 9 month old
@@ -46,7 +46,7 @@ Classify [[Surgery Notes/Testicular tumours\|testicular tumours]], Discuss patho
 Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical features and managementof Ca Rectum
 
 (p2)
-Describe the aetiolog, pahtology, clinincal features and management of gas gangrene
+Describe the aetiolog, pathology, clinincal features and management of gas gangrene
 
 Discuss features of thyrotoxicosis, Management of graves disease
 
@@ -75,4 +75,4 @@ Autoclave
 (Ortho)
 Giant cell tumour
 Perthes Hip(LCD)
-Classification and management in young patient of Intracapsular neck of femur fracture
+Classification and management in young patient of [[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|Intracapsular Neck of Femur(ICNF) Fracture]]

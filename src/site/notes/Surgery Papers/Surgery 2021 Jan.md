@@ -18,7 +18,7 @@ Which is most common bone tumor?
 What is emergency/immediate treatment of [[Surgery Notes/Compartment syndrome\|Compartment Syndrome]]? 
 Saucerization is treatment of which bony condition?
 What is a Jones fracture?
-What si the investigation of choice for Anterior cruciate ligament injury? 
+What is the investigation of choice for Anterior cruciate ligament injury? 
 Dinner fork deformity is seen with which fracture?
 
 What is Trichobezoar?
@@ -28,7 +28,7 @@ What is Richter's hernia?
 What are cardinal signs of [[Surgery Notes/Inguinal Hernia#Clinical tests\|inguinal hernia]]?
 Goodsall's rule in fistula in ano.
 What is ligament of Treitz?
-What is [[Surgery Notes/Surgical Anatomy of Gallbladder#Extrahepatic biliary tree\|ampulla of Vater]]?
+What is [[Surgery Notes/Surgical Anatomy of Gallbladder#Extrahepatic biliary tree\|Ampulla of Vater]]?
 What are parts of pancreas?
 What is ectopic testis?
 What is leucoplakia?
@@ -45,7 +45,7 @@ hyperthyroidism?
 Classify shock. Discuss pathophysiology, clinical features &management of septic shock.
 
 (Ortho)
-Write in detail about stages of fracture healing? Contrast and compare between healing of cortical bone and healing of cancellous bone. Also enumerate the causes and treatment of Non-Union of fractures.
+Write in detail about stages of [[Ortho notes/Fracture Healing\|fracture healing]]? Contrast and compare between healing of cortical bone and healing of cancellous bone. Also enumerate the causes and treatment of Non-Union of fractures.
 
 Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar kochs spine and add a note on potts paraplegia
 
