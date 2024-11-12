@@ -17,7 +17,7 @@ lots a ways but choosing by SAAG ratio
 - Alscoholic hepatitis
 - Cardiac failure, Rigth sided heart failure, Constrictive pericarditis
 - Myxodema
-#### Low SAAG Ratio (<1.1g/dl)\
+#### Low SAAG Ratio (<1.1g/dl)
 - Peritoneal TB
 - Carcinoma
 - Pancreatitis
