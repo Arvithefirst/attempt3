@@ -13,11 +13,11 @@ Formula for giving TDI (Total dose Iron).
 Name 4 Antiviral drugs for chronic hepatitis C.
 Four causes of Thrombocytopenia.
 Composition of ORS (Oral Rehydration Solution).
-Types of Emphysema.
+Types of[[Medicine notes/Emphysema\|Emphysema]].
 Drugs used in Lung abscess.
 Causes of Hypernatremia.
 Four causes of Hemoptysis.
-Normal level of serum Potassium.
+Normal level of serum Potassium.[[Surgery Notes/Hypokalemia\|Hypokalemia]]
 Name two antiviral medicines used to treat Covid-19 Infection.
 Four drugs from ARB (Angiotensin Receptor Blockers) group.
 
@@ -32,7 +32,7 @@ Name Serum markers of Acute and Chronic pancreatitis.
 Four complications of [[Medicine notes/Organophosphate Poisoning#Treatment\|OP poisoning]].
 Drugs used in Massive Hemetemesis.
 Treatment of Vit A Deficiency.
-Two causes of Fall in Elderly.
+Two causes of Fall in Elderly. [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 Four causes of peripheral Neuropathy.
 Name Drugs used in Myesthenia Gravis.
 Name Types of Epilepsy.
@@ -62,8 +62,8 @@ Atrial Fibrilatrion.
 Pulmonary function tests
 
 (p2)
-Herpes Zoster
-Serum Markers of Hepatitis B.
+[[Medicine notes/Herpes Zoster\|Herpes Zoster]]
+Serum Markers of Hepatitis B.n
 Heat stroke.
 Obsessive Compulsive Disorder.
 Scabies.

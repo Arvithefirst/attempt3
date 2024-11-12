@@ -14,7 +14,8 @@ Osteoporosis is caused by which deficiency ni bone ?
 What is full form of HbA1C? And where is this test used ? 
 Why is Aspirin prescribed in Ischemic Heart Disease ?
 Tests to diagnose Tubercular Pleural Effusion.
-In Elderly patient, what is the common presentation of Hyponatremia? Name the stages of lobar pneumonia.
+In Elderly patient, what is the common presentation of [[Medicine notes/Hyponatremia\|Hyponatremia]]? 
+Name the stages of lobar pneumonia.
 Name the parts of the conduction system of the heart.
 Two respiratory causes of clubbing.
 Name the [[Medicine notes/Aortic regurgitation#Clinical Features of Aortic Regurgitation\|Valvular Heart disease]] causing "Water-hammer" pulse and dancing Carotids.
@@ -29,7 +30,7 @@ Name 3 important signs of Parkinsonism.
 Name 2 poisons which affect the Neuro-muscular junction.
 Name 2 Colitis.
  Name the Skin Cancer occurring due to exposure to UV rays in sunlight.
-Motor areas are represented ni which Cerebral Lobe.
+Motor areas are represented in which Cerebral Lobe.
 Name the gaseous agents used in Biological Warfare.
 Name 2 side effects of Chemotherapy in Cancer Treatment.
 Excess of which acid is responsible for [[Medicine notes/Acute Gout#Aetiopathogenesis\|Gout]]
@@ -62,7 +63,8 @@ Complicated Malaria.
 
 (p2) 
 Bell's Palsy.
-Clinical features and diagnosis of systemic Lupus Erythematosus.  Drugs used in management of Type 2 Diabetes Mellitus.
+Clinical features and diagnosis of systemic Lupus Erythematosus.  
+Drugs used in management of Type 2 Diabetes Mellitus.
 Urticaria.
 Obsessive Compulsive Neurosis.
 Cushing's syndrome.

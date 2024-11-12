@@ -44,12 +44,16 @@ Write 3 causes of mucocataneous ulcers.
 
 (p1)
 Name common vector borne diseases in India. Write WHO proposed clinical definition of Dengue fever. Discuss clinical features of Dengue haemorrhagic fever. Write various diagnostic test done for Dengue fever. 
+
 Discuss transmission and life cycle of Leshmania donavanii. Write clinical features, investigations and management of visceral Leshmaniasis (kalaazar)
+
 Discuss various risk factors for venous thromboembolism. Discuss clinical features, investigations and management of acute pulmonary thromboembolism.
 
 (p2)
 Discuss causes of adreno cortical insufficiency. Write clinical features, biochemical features of adreno cortical insufficiency. Discuss management of adrenal crisis. 
-Discuss pathophysiology, clinical features, investigations and managementof myasthenia gravis.
+
+Discuss pathophysiology, clinical features, investigations and management of myasthenia gravis.
+
 Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised American Rheumatic Association criteria (ARA) for diagnosis ofSLE. Discuss management of Systemic Lupus Erythematosus (SLE.) 
 
 # Short Answer Questions

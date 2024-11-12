@@ -3,7 +3,7 @@
 ---
 
 ## Problem based Question
-17yr Type I diabetes Mellitus admitted with altered sensotium.,abdominal pain and ketones in the urine. Discuss clinical features,investigations and management of [[Medicine notes/Diabetic ketoacidosis\|Diabetic ketoacidosis]].
+17yr Type I diabetes Mellitus admitted with altered sensotium, abdominal pain, and ketones in the urine. Discuss clinical features, investigations, and management of [[Medicine notes/Diabetic ketoacidosis\|Diabetic ketoacidosis]].
 
 (p2)
 A 65yo female presents with complaints of fever for 4 days and decreased. urine output for 2 days. Her labs were - Hemoglobin - 10gm%, TLC - 24,000/cumm, Urea - 145 mg/dl, creatine - 6mg/dl. Define [[Medicine notes/Oliguria and Anuria\|Oliguria and Anuria]]. Define [[Medicine notes/Acute Kidney Injury\|Acute Kidney Injury]], discuss its causes, pathogenesis and predisposing factors. Enumerate its complications and management
@@ -13,7 +13,7 @@ Transfusion transmitted infection.
 Interventions to reduce risk of falls in elderly [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 [[Medicine notes/Vitamin C deficiency\|Vitamin C deficiency]].
 Investigations for breast cancer.
-Thyroid storm.
+[[Hyperthyroid crisis\|Thyroid storm]].
 Doctors responsibilities in doctor patient relationship.
 Short note on [[Medicine notes/Herpes Zoster\|Herpes Zoster]].
 Complications of [[Medicine notes/Acute Coronary Syndrome\|myocardial infarction]]
@@ -38,7 +38,7 @@ Viral Pneumonia
 Cor Pulmonale
 
 ## Long answer questions
-50M admitted with massive ascites. How will you approach the case 
+50M admitted with massive [[Ascites\|ascites]]. How will you approach the case 
 and discuss diferential diagnosis and management.
 
 A 52year old male presented with dyspnoea on exertion on examination there was pallor. Peripheral smear showed presence of macrocytes. What are the causes of macrocytic anaemze? Discuss clinical features investigation and management of megaloblastic anaemza.

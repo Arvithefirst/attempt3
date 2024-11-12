@@ -7,7 +7,7 @@
 (p1)
 Name two [[Medicine notes/Acute Coronary Syndrome#Investigations\|cardiac biomarkers]]. Write four antianginal drugs.
 Four causes of haemoptysis.
-Two clinical features of Hypokalemia.
+Two clinical features of [[Surgery Notes/Hypokalemia\|Hypokalemia]].
 Write four inflammatory markers for SARS-CoV-2 (COVID-19) infection.
 Two severe complications of Dengue fever. 
 Write CURB-65 score.
@@ -15,7 +15,7 @@ Two drugs for Toxoplasmosis.
 Two drugs for invasive pulmonary aspergillosis. 
 Two investigations for iron deficiency anaemia.
 Four investigations which are hallmarks of hemolysis. 
-Treatment of Herpes Zoster.
+Treatment of [[Medicine notes/Herpes Zoster\|Herpes Zoster]].
 Define [[Medicine notes/Oliguria and Anuria\|Oliguria and Anuria]]
 Two clinical features of Atrial septal defects.
 
@@ -50,8 +50,8 @@ Discuss atiology, complications and management of obesity.
 ## SAQ
 
 (p1)
-Write a short note on hypervolaemic hyponatremia.
-Syndrome of inappropriate anti diuretic hormone.
+Write a short note on hypervolaemic [[Medicine notes/Hyponatremia\|hyponatremia]].
+Syndrome of inappropriate anti diuretic hormone.[[Medicine notes/Syndrome of Inappropriate Antidiuretic Hormone Secretion\|SIADH]]
 Write post exposure prophylaxis for HIV.
 Short note on Pulmonary function tests.
 Basic Life Support and advanced life support in Cardiac arrest.

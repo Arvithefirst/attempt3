@@ -16,8 +16,8 @@ Name the drug used for Complicated Falciparum Malaria
 What is Weils disease
 What is the bone marrow aspirate in acute myeloid leukemia
 Define [[Medicine notes/Microalbuminuria\|Microalbuminuria]]
-Write 4 causes of Hyponatremia
-ECG changes in Hypokalemia
+Write 4 causes of [[Medicine notes/Hyponatremia\|Hyponatremia]]
+ECG changes in [[Surgery Notes/Hypokalemia\|Hypokalemia]]
 Name 2 causes of elevated anion gap
 
 (p2)
@@ -28,7 +28,7 @@ Define tropical sprue
 2 causes of gynaecomastia
 What is Oligoarthritis
 Causes of Subacute combined degeneration
-What is the antidote for paracetamol poisoning
+What is the antidote for paracetamol poisoning[[Poisons and antidotes\|Poisons and antidotes]]
 Name 2 side effects of antipsychotic drugs
 What are fat-soluble vitamins
 Classify overweight on the basis of BMI
