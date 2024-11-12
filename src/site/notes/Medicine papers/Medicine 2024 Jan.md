@@ -13,7 +13,7 @@ Transfusion transmitted infection.
 Interventions to reduce risk of falls in elderly [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 [[Medicine notes/Vitamin C deficiency\|Vitamin C deficiency]].
 Investigations for breast cancer.
-[[Hyperthyroid crisis\|Thyroid storm]].
+[[Medicine notes/Hyperthyroid crisis\|Thyroid storm]].
 Doctors responsibilities in doctor patient relationship.
 Short note on [[Medicine notes/Herpes Zoster\|Herpes Zoster]].
 Complications of [[Medicine notes/Acute Coronary Syndrome\|myocardial infarction]]
@@ -38,7 +38,7 @@ Viral Pneumonia
 Cor Pulmonale
 
 ## Long answer questions
-50M admitted with massive [[Ascites\|ascites]]. How will you approach the case 
+50M admitted with massive [[Medicine notes/Ascites\|Ascites]]. How will you approach the case 
 and discuss diferential diagnosis and management.
 
 A 52year old male presented with dyspnoea on exertion on examination there was pallor. Peripheral smear showed presence of macrocytes. What are the causes of macrocytic anaemze? Discuss clinical features investigation and management of megaloblastic anaemza.

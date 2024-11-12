@@ -17,8 +17,8 @@ Surely eventually ill sort questions by topic but uk who has the time
 also pulled from the list of classes we've had so far we have [[Medicine notes/Medicine Internal syllabus\|Medicine Internal syllabus]]
 
 Uncategorised notes :3
-[[Herpes Family Tree <3\|Herpes Family Tree <3]]
-[[Poisons and antidotes\|Poisons and antidotes]]
+[[Medicine notes/Herpes Family Tree <3\|Herpes Family Tree <3]]
+[[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 
 ## Surgery paper outlinks

@@ -28,7 +28,7 @@ Define tropical sprue
 2 causes of gynaecomastia
 What is Oligoarthritis
 Causes of Subacute combined degeneration
-What is the antidote for paracetamol poisoning[[Poisons and antidotes\|Poisons and antidotes]]
+What is the antidote for paracetamol poisoning[[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 Name 2 side effects of antipsychotic drugs
 What are fat-soluble vitamins
 Classify overweight on the basis of BMI

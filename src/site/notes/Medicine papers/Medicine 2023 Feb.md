@@ -45,7 +45,7 @@ Describe Pathophysiology, clinical features and management of pulmonary TB
 Discuss the etiology, clinical features, diagnosis and management of [[Medicine notes/Nephrotic Syndrome\|Nephrotic Syndrome]]
 
 (p2)
-Discuss etiology, clinical features, investigations, and complications of [[Portal Hypertension\|portal hypertension]]
+Discuss etiology, clinical features, investigations, and complications of [[Medicine notes/Portal Hypertension\|Portal Hypertension]]
 Outline precipitating factors, clinical features, lab findings, and management of [[Medicine notes/Hyperglycemic Hyperosmolar state\|Hyperglycemic Hyperosmolar state]]
 Discuss etiology, clinical features, investigations and treatment of [[Medicine notes/Bacterial Meningitis\|pyogenic meningitis]]
 

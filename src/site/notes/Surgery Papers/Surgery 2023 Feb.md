@@ -24,7 +24,7 @@ Secondary urinary bladder
 1 difference between Rt and Lt colonic carcinoma
 Commonest cause of PUJ obstruction
 Complications of [[Surgery Notes/Renal stones#Complications\|renal stone disesase]]
-Premalignant condition of [[Surgery Notes/Carcinoma Penis#Etiology\|carcinoma penis]]
+Premalignant condition of [[Carcinoma Penis#Etiology\|carcinoma penis]]
 What is capsule of prostrate
 Boundaries on inguinal pouch
 Conmon cause of chronic urine retention in adults
