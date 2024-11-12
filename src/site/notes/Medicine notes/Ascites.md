@@ -11,13 +11,15 @@
 
 ## Differential diagnoses
 lots a ways but choosing by SAAG ratio
-#### High SAAG ratio (>1.1g/dl)
+#### High SAAG ratio 
+(>1.1g/dl)
 - Portal hypertension
 - Hepatic outflow obstruction
 - Alscoholic hepatitis
 - Cardiac failure, Rigth sided heart failure, Constrictive pericarditis
 - Myxodema
-#### Low SAAG Ratio (<1.1g/dl)
+#### Low SAAG Ratio 
+(<1.1g/dl)
 - Peritoneal TB
 - Carcinoma
 - Pancreatitis
