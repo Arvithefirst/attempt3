@@ -21,7 +21,7 @@ Usually associated with male gender, [[Medicine notes/Acute Coronary Syndrome\|M
 Caused by *diastolic dysfunction* resulting in EF > 50%. Causes include
 1. Ventricular inflow obstruction - MS, Trigeminal stenosis
 2. General inflow obstruction - Constrictive Pericarditis, Cardiac tamponade, Left ventricular hypertrophy
-Usually associated with female gender, Lifestyle diseases, Concentric LVH and [[Fourth heart sound\|Fourth heart sound]]
+Usually associated with female gender, Lifestyle diseases, Concentric LVH and [[Medicine notes/Fourth heart sound\|Fourth heart sound]]
 
 *// 41% < EF < 49% = Heart failure with Borderline Ejection Fraction*
 *// HIgh output cardiac failure seen in [[Medicine notes/Hyperdynamic circulatory states\|Hyperdynamic states]]*

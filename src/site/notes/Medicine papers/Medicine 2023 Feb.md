@@ -19,7 +19,7 @@ What is pink puffer
 Koilonychia in present in which type of anemia
 Which type of bronchial breathing is present in consolidation
 Write consistency of enlarged lymph nodes of Hodgkins disease
-Features of Algid Malaria
+Features of [[Medicine notes/Algid malaria\|Algid malaria]]
 
 (p2)
 Drug of choice for acute attack of [[Medicine notes/Acute Gout#Treatment\|Gout]]
@@ -53,7 +53,7 @@ Discuss etiology, clinical features, investigations and treatment of [[Medicine 
 
 (p1)
 [[Medicine notes/Syndrome of Inappropriate Antidiuretic Hormone Secretion\|Syndrome of Inappropriate Antidiuretic Hormone (SIADH)]]
-Clinical manifestation, complications and management of chickenpox
+Clinical manifestation, complications and management of [[Medicine notes/Chickenpox\|Chickenpox]]
 Montoux test
 Pathogenesis, clinical features, investigations, and management of ITP
 Differentation between early onset(atopic) and late onset(non-atopic) Asthma
