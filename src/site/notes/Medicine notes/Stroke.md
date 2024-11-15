@@ -12,7 +12,7 @@ Also *Cerebrovascular Accident(CVA)*. It is acute neurological injury as a resul
 	- Cardiac emboli
 2. Hemorrhagic Stroke(20%)
 	- Hypertensive Bleeds
-	- Anmyloid angiopathy
+	- Amyloid angiopathy
 	- Vascular malformation
 	- Non traumatic [[Subarachnoid Hemorrhage\|Subarachnoid Hemorrhage]]
 

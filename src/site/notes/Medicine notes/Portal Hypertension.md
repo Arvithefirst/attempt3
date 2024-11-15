@@ -48,6 +48,10 @@ Usually clinical but see also
 7. LFT
 
 ## Treatment
+>[!faq] Some numbers I found in SRB
+>30% of patients with cirrhosis develop portal hypertension. 30% of them will have variceal bleed within 2 years. 70% of them will rebleed
+>
+>30% of patients with varices will experience bleed. 30% of those will die from bleed
 #### Decrease portal blood flow
 1. B-blockers
 2. Somatostatin
@@ -57,7 +61,7 @@ Usually clinical but see also
 2. Angiotenisn receptor Blockers
 3. Nitrates
 ## Complications
-1. Variceal bleeding from [[Medicine notes/Areas of Portocaval anastomosis\|Areas of Portocaval anastomosis]] specifically Esophageal Varices
+1. Variceal bleeding from [[Medicine notes/Areas of Portocaval anastomosis\|Areas of Portocaval anastomosis]] specifically [[Oesophageal varices\|Oesophageal Varices]]
 2. Hepatic encephalopahty
 3. [[Medicine notes/Ascites\|Ascites]], Subacute Bacterial peritonitis
 4. Hepatorenal syndrome

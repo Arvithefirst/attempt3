@@ -4,14 +4,14 @@
 
 ## Problem based questions
 A 35-year-old male patient laborer, chronic heavy smoker comes to the
-EM with dry gangrene of right toe. Define Gangrene and its types. Discuss etiopathogenesis of Buergers disease (T.A.O) and its management.
+EM with dry gangrene of right toe. Define [[Gangrene\|Gangrene]] and its types. Discuss etiopathogenesis of [[Buergers disease\|Buergers disease]] (T.A.O) and its management.
 
 A 60-year-old farmer comes to the OPD with dilatation of veins over right leg and discoloration over right ankle. Describe surgical anatomy of venous drainage of lower limb. Discuss etiopathogenesis, management and complications of [[Surgery Notes/Varicose veins\|Varicose veins]].
 
 A 25-year-old male presented with painless progressive enlargement of
 bilateral neck swellings, right axillary swelling and weight loss. On
 examination, evidence of multiple lymphnodes palpable-non-tender,
-smooth, firm, and discrete (non-matted). What is your probable diagnosis?How will you investigate and manage. (Cervical lymphadenopathy)
+smooth, firm, and discrete (non-matted). What is your probable diagnosis?How will you investigate and manage. 
 
 ## Short answer questions
 Written consent for  Laparoscopic SOS open [[Surgery Notes/Cholecystectomy\|Cholecystectomy]].
@@ -39,7 +39,7 @@ Vit. D resistant rickets.
 Stigmatas of Tuberculosis.
 
 ## Long answer question
-A 45-year chronic alcoholic male patient came to casualty with history of two bouts of Hematemesis and Malena, with lump in left hypochondrium. Describe etiopathogenesis, clinical features, investigations and management of portal hypertension.
+A 45-year chronic alcoholic male patient came to casualty with history of two bouts of Hematemesis and Malena, with lump in left hypochondrium. Describe etiopathogenesis, clinical features, investigations and management of [[Medicine notes/Portal Hypertension\|portal hypertension]]
 
 (p2)
 Question 1
