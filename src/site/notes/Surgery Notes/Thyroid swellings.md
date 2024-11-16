@@ -5,7 +5,7 @@
 Goitre is defined as  *Diffuse enlargement of the thyroid gland*
 ### Euthyroid
 1. Diffuse hyperplastic (Physiological, Pubertal, Pregnancy related)
-2. Multinodular
+2. [[Surgery Notes/Multinodular Goitre\|Multinodular Goitre]]
 ### Toxic
 1. Diffuse(graves)
 2. Multinodular

@@ -6,7 +6,7 @@
 Define #Apoptosis.
 Cell of Origin of [[Surgery Notes/Squamous Cell Carcinoma\|Squamous Cell Carcinoma]] of Skin.
 What is fluid challenge? 
-What is Carbuncle?
+What is [[Surgery Notes/Carbuncle\|Carbuncle]]?
 What is Pemberton's sign, & it's significance? 
 What is Carpopedal spasm?
 Different types of Peripheral [[Ortho notes/Nerve injuries\|Nerve injuries]]. 
@@ -42,7 +42,7 @@ Common LASER used for coagulation
 ## Long answer questions
 Describe the pathophysiology of Burns, How will you manage a patient of 45% mixed burns, including burns over face and perineum
 
-Describe the anatomy of thyroid gland, and write about investigations and Management of Solitary thyroid nodule
+Describe the anatomy of thyroid gland, and write about investigations and Management of [[Surgery Notes/Solitary thyroid nodule\|Solitary thyroid nodule]]
 
 Describe different pathological types of cancer Breast and management of cancer breast in pregnancy according to trimester
 

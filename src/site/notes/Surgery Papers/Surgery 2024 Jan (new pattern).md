@@ -4,25 +4,25 @@
 
 ## Problem based questions
 A 35-year-old male patient laborer, chronic heavy smoker comes to the
-EM with dry gangrene of right toe. Define [[Gangrene\|Gangrene]] and its types. Discuss etiopathogenesis of [[Buergers disease\|Buergers disease]] (T.A.O) and its management.
+EM with dry gangrene of right toe. Define [[Surgery Notes/Gangrene\|Gangrene]] and its types. Discuss etiopathogenesis of [[Surgery Notes/Buergers disease\|Buergers disease]] (T.A.O) and its management.
 
 A 60-year-old farmer comes to the OPD with dilatation of veins over right leg and discoloration over right ankle. Describe surgical anatomy of venous drainage of lower limb. Discuss etiopathogenesis, management and complications of [[Surgery Notes/Varicose veins\|Varicose veins]].
 
 A 25-year-old male presented with painless progressive enlargement of
 bilateral neck swellings, right axillary swelling and weight loss. On
 examination, evidence of multiple lymphnodes palpable-non-tender,
-smooth, firm, and discrete (non-matted). What is your probable diagnosis?How will you investigate and manage. 
+smooth, firm, and discrete (non-matted). What is your probable diagnosis?How will you investigate and manage. (Secondaries to neck)
 
 ## Short answer questions
 Written consent for  Laparoscopic SOS open [[Surgery Notes/Cholecystectomy\|Cholecystectomy]].
-Complications of blood transfusion.
+Complications of [[Surgery Notes/Blood transfusion#Complications\|Blood transfusions]].
 Clinical features arnd management of strangulated [[Surgery Notes/Inguinal Hernia\|Inguinal hernia]].
 Sentinel lymphnode biopsy in carcinoma breast.
 Etiology clinical features and mangement of basal cell carcinoma
 [[Surgery Notes/Hypokalemia\|Hypokalemia]]
-Etiology, clinical feature and treatment of Carbuncle
+Etiology, clinical feature and treatment of [[Surgery Notes/Carbuncle\|Carbuncle]]
 Treatment options of [[Surgery Notes/Achalasia Cardia\|Achalasia Cardia]] with surgical importance
-Pleomorphic adenoma
+[[Surgery Notes/Pleomorphic Adenoma\|Pleomorphic Adenoma]]
 
 (p2)
 Principles of general anesthesia

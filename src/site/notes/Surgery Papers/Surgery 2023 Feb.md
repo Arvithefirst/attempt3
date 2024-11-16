@@ -7,7 +7,7 @@ Define Shock. %Blood volume loss is considered class 3 hemorrhagic shock
 What is [[Surgery Notes/Saints Triad\|Saints Triad]]
 What is [[Surgery Notes/Pressure sore#Staging\|stage 3 Pressure sore]]
 [[Surgery Notes/Amoebic liver abscess\|Amoebic liver abscess]] is caused by
-Criteria for SIRS
+Criteria for [[Surgery Notes/Systemic Inflammatory response Syndrome\|SIRS]]
 Harmonic scalpel is based on which technology
 Define flail chest
 Enuerate 3 premalignant lesions
@@ -47,11 +47,12 @@ Classify [[Surgery Notes/Thyroid swellings\|Thyroid swellings]]. Desribe clinica
 
 Describe risk factors and pathology of breast cancer. Discuss management of early breast cancer
 
-What are blood transfusion products? Describe indications an dcomplications of blood transfusion
+What are [[Surgery Notes/Blood transfusion\|Blood transfusion]] products? Describe indications an dcomplications of blood transfusion
 
 (ortho)
 Clinical features, Radiological features and management of Rickets
-Classification, clinical features and management of fracture neck of femur
+Classification, clinical features and management of fracture neck of femur[[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|Intracapsular Neck of Femur(ICNF) Fracture]]
+
 # Short answers
 IVU
 Drug treatment of BEP
@@ -66,7 +67,7 @@ Management of Chorddee
 [[Surgery Notes/Wound healing#Factors affecting wound healing\|Factors affecting wound healing]]
 [[Glasgow Coma Scale\|Glasgow coma scale]]
 Triage
-Classification of salivary gland tumour
+Classification of [[Surgery Notes/Salivary Gland Tumours\|Salivary Gland Tumours]]
 [[Surgery Notes/Gas gangrene\|Gas gangrene]]
 
 (ortho)

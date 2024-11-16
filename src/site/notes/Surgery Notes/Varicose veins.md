@@ -31,7 +31,7 @@
 	4. Pregnancy
 
 # Clinical findings
-1. Dragging pain
+1. Aching pain
 2. Oedema and Heaviness
 3. Late night cramps
 4. Scarring of dermal/subdermal tissue - Lipodermatosclerosis
@@ -39,14 +39,14 @@
 6. Pale atrophic skin - Atrophic blanche
 
 # Clinical tests
-1. Brodie - Trendelenburg test I and II
+1. Brodie - Trendelenburg test I and II 
 2. Perthes and Modified Perthes
 3. Three tourniquet test
-4. Schwartz
-5. Pratts
+4. Schwartz (fluid thrill when standing)
+5. Pratts - Bandage applied bottom up(milking). tourniquet. Bandage upplied up to down (perforators blow out)
 6. Morrisey cough impulse
-7. Fegans
-8. Ian-aird Test 
+7. Fegans - Bulges are marked in standing. After milking in supine the incompetence is felt with finger
+8. Ian-aird Test - Milked, two fingers at sfj, relesae top one. feel pressure
 
 # CEAP Classification 
 | Clinical signs               | Etiology             | Anatomic distribution | Pathphysiology                |

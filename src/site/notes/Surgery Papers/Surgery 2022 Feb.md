@@ -46,7 +46,7 @@ Classify [[Surgery Notes/Testicular tumours\|testicular tumours]], Discuss patho
 Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical features and managementof Ca Rectum
 
 (p2)
-Describe the aetiolog, pathology, clinincal features and management of gas gangrene
+Describe the aetiolog, pathology, clinincal features and management of [[Surgery Notes/Gas gangrene\|gas gangrene]]
 
 Discuss features of thyrotoxicosis, Management of graves disease
 
@@ -66,7 +66,7 @@ Intercostal drainage
 Cleft lip
 
 (p2)
-Ranula
+[[Surgery Notes/Ranula\|Ranula]]
 Carotid body tumour
 Ameloblastoma
 FAST

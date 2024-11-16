@@ -5,7 +5,7 @@
 ## One liners
 Where is the anatomical opening of parotid duct? 
 Mention names of Non-absorbable suture material.
-What are the grades of Claudication? 
+What are the grades of [[Surgery Notes/Claudication\|Claudication]]? 
 Define [[Surgery Notes/Sinus\|sinus]].
 How is BMI calculated?
 What is rule of nine?

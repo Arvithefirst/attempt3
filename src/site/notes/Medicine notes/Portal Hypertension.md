@@ -61,7 +61,7 @@ Usually clinical but see also
 2. Angiotenisn receptor Blockers
 3. Nitrates
 ## Complications
-1. Variceal bleeding from [[Medicine notes/Areas of Portocaval anastomosis\|Areas of Portocaval anastomosis]] specifically [[Oesophageal varices\|Oesophageal Varices]]
+1. Variceal bleeding from [[Medicine notes/Areas of Portocaval anastomosis\|Areas of Portocaval anastomosis]] specifically [[Surgery Notes/Oesophageal varices\|Oesophageal varices]]
 2. Hepatic encephalopahty
 3. [[Medicine notes/Ascites\|Ascites]], Subacute Bacterial peritonitis
 4. Hepatorenal syndrome

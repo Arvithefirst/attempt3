@@ -7,7 +7,7 @@ Name of Parotid Duct.
 Components of Multiple Endocrine Neoplasia (MEN) 2A.
 Classical signs of Hemangioma.
 Parkland formula for calculation of fluids in Burns.
-What is Intermittent Claudication?
+What is Intermittent [[Surgery Notes/Claudication\|Claudication]]?
 Clinical features of Hypocalcemia after total thyroidectomy.
 What is cock's peculiar tumor?
 What is lucid interval?
@@ -40,7 +40,7 @@ VIPoma stands for
 Cell of origin of Gastrointestinal Stromal tumor.
 
 ## Long answer questions
-Describe the phases of wound healing. Enumerate local factors affecting wound healing. Discuss management of a Badly contaminated avulsion injury of R.t Leg.
+Describe the phases of [[Surgery Notes/Wound healing\|wound healing]]. Enumerate local factors affecting wound healing. Discuss management of a Badly contaminated avulsion injury of R.t Leg.
 
 Describe the Lymphatic derange of breast & its correlation with the spread of carcinoma breast. What si Locally Advanced Breast Cancer &Discuss management of Locally Advanced Breast Cancer.
 

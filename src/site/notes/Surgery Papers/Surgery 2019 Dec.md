@@ -42,7 +42,7 @@ What is hydrocele of hernia sac?
 ## Long Answer questions
 45 years old female patient comes with history of hard mobile lump in the breast with another lump in axilla. How will you proceed for investigations? Describe etiopathogenesis, clinical features and management of CA breast.
 
-Define & classify [[Surgery Notes/Thyroid swellings\|Goitre]]. Describe etiopathogenesis, clinical features and management of multinodular goitre.
+Define & classify [[Surgery Notes/Thyroid swellings\|Goitre]]. Describe etiopathogenesis, clinical features and management of [[Surgery Notes/Multinodular Goitre\|Multinodular Goitre]].
 
 Describe surgical anatomy of venous drainage of lower limb. Explain etiopathogenesis, investigations and different treatment modalities of [[Surgery Notes/Varicose veins\|varicose veins]]. Enumerate complications of [[Surgery Notes/Varicose veins\|varicose veins]].
 
@@ -63,7 +63,7 @@ Enumerate causes of lower G.I. bleeding. Discuss etiopathogenesis, clinical feat
 ## Short answer Questions
 [[Glasgow Coma Scale\|Glasgow coma scale]]. 
 Flail chest.
-Ranula.
+[[Surgery Notes/Ranula\|Ranula]]
 Thoracic outlet syndrome. 
 Cystosarcoma phylloids
 
