@@ -27,7 +27,7 @@ Fracture line lies transversly between epiphysises right above condyles. May be 
 #### Immediate (at the time of fracture)
 1. Brachial artery injury
 2. Nerve injury (Median > Radial)
-#### Early (<3 days)
+#### Early ( less than 3 days )
 1. Volkmanns Ischaemia (Due to occlusion of brachial artery)
 #### Late (Upto weeks/months after)
 1. Malunion - Causes #gunstock_deformity
