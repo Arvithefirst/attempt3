@@ -17,7 +17,7 @@ smooth, firm, and discrete (non-matted). What is your probable diagnosis?How wil
 Written consent for  Laparoscopic SOS open [[Surgery Notes/Cholecystectomy\|Cholecystectomy]].
 Complications of [[Surgery Notes/Blood transfusion#Complications\|Blood transfusions]].
 Clinical features arnd management of strangulated [[Surgery Notes/Inguinal Hernia\|Inguinal hernia]].
-Sentinel lymphnode biopsy in carcinoma breast.
+Sentinel lymphnode biopsy in [[Surgery Notes/Carcinoma Breast\|carcinoma breast]]
 Etiology clinical features and mangement of basal cell carcinoma
 [[Surgery Notes/Hypokalemia\|Hypokalemia]]
 Etiology, clinical feature and treatment of [[Surgery Notes/Carbuncle\|Carbuncle]]
@@ -25,14 +25,14 @@ Treatment options of [[Surgery Notes/Achalasia Cardia\|Achalasia Cardia]] with s
 [[Surgery Notes/Pleomorphic Adenoma\|Pleomorphic Adenoma]]
 
 (p2)
-Principles of general anesthesia
+Principles of [[Surgery Notes/General Anaesthesia\|General Anaesthesia]]
 Dentigerous cyst
 Indications and contraindications of [[Surgery Notes/Endoscopic Retrograde Cholangiopancreatography(ERCP)\|Endoscopic Retrograde Cholangiopancreatography(ERCP)]]
-Complications of spinal anesthesia
+Complications of [[Surgery Notes/Spinal anaesthesia\|Spinal anaesthesia]]
 [[Surgery Notes/Paraphimosis\|Paraphimosis]]
 
 (ortho)
-Elaborate clinical featutres and management of osteosarcoma.  
+Elaborate clinical featutres and management of [[Ortho notes/Osteosarcoma\|Osteosarcoma]].  
 Describe etiopathogenesis and various treatment modalities of osteoarthritis of knee.
 Describe etiology and management of [[Surgery Notes/Compartment syndrome\|compartment syndrome]]. 
 Vit. D resistant rickets.
@@ -47,11 +47,11 @@ Question 1
 - Discuss epidemiology and etiology of [[Surgery Notes/Seminoma\|Seminoma]]
 - Clinical features, staging and management of [[Surgery Notes/Testicular tumours\|seminoma]]
 Question 2
-- Briefly describeb anatomy of prostate
-- Clinical features of disorders of prostate
-- Management of enlarged prostate
+- Briefly describe anatomy of prostate
+- Clinical features of disorders of [[Surgery Notes/Benign Prostate Hyperplasia#Clinical features\|prostate]]
+- Management of enlarged [[Surgery Notes/Benign Prostate Hyperplasia#Treatment\|prostate]]
 Question 3
-- Pathophysiological mechanism of head injury
+- Pathophysiological mechanism of [[Ortho notes/Head injury\|Head injury]]
 - Neurological assessment and [[Glasgow Coma Scale\|Glasgow Coma Scale]] in Head injury
 
 (ortho)

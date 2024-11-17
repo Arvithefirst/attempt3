@@ -27,14 +27,14 @@ Complications of [[Surgery Notes/Renal stones#Complications\|renal stone disesas
 Premalignant condition of [[Carcinoma Penis#Etiology\|carcinoma penis]]
 What is capsule of prostrate
 Boundaries on inguinal pouch
-Conmon cause of chronic urine retention in adults
+Conmon cause of chronic [[Surgery Notes/Retention of Urine\|urine retention]] in adults
 
 (ortho)
 Foot drop is due to which nerve
-March fracture is what kind of fracture [[List of famous fractures\|List of famous fractures]]
+#March_fracture is what kind of fracture [[List of famous fractures and deformities\|List of famous fractures and deformities]]
 What is meralgia parasthetica
 Xray of giant cell tumour
-Gun stock deformity
+#gunstock_deformity 
 Define non-union
 Mallet finger is due to which tendon injury
 # Long answers
@@ -45,17 +45,17 @@ Diagnosis and management of case of [[Surgery Notes/Obstructive jaundice\|Obstru
 (p2)
 Classify [[Surgery Notes/Thyroid swellings\|Thyroid swellings]]. Desribe clinical features, differential diagnosis, investigatinos and treatment of Graves disease
 
-Describe risk factors and pathology of breast cancer. Discuss management of early breast cancer
+Describe risk factors and pathology of [[Surgery Notes/Carcinoma Breast\|Carcinoma Breast]]. Discuss management of early breast cancer
 
-What are [[Surgery Notes/Blood transfusion\|Blood transfusion]] products? Describe indications an dcomplications of blood transfusion
+What are [[Surgery Notes/Blood transfusion\|Blood transfusion]] products? Describe indications and complications of blood transfusion
 
 (ortho)
-Clinical features, Radiological features and management of Rickets
+Clinical features, Radiological features and management of [[Ortho notes/Rickets\|Rickets]]
 Classification, clinical features and management of fracture neck of femur[[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|Intracapsular Neck of Femur(ICNF) Fracture]]
 
 # Short answers
-IVU
-Drug treatment of BEP
+[[Surgery Notes/Intravenous urography\|Intravenous urography]]
+Drug treatment of [[Surgery Notes/Benign Prostate Hyperplasia#Medical Management\|BEP]]
 Etiopathogenesis of PUJ
 Medical management of [[Surgery Notes/Renal stones#Treatment\|Renal stones]]
 Diagnosis of carcinoma urinary blasdder
@@ -71,7 +71,7 @@ Classification of [[Surgery Notes/Salivary Gland Tumours\|Salivary Gland Tumours
 [[Surgery Notes/Gas gangrene\|Gas gangrene]]
 
 (ortho)
-Osteochondroma
+[[Ortho notes/Osteochondroma\|Osteochondroma]]
 [[Surgery Notes/Compartment syndrome\|Compartment syndrome]]
 Etiology and management of Radial nerve palsy
 

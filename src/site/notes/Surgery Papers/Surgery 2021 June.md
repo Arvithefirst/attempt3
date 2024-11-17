@@ -5,10 +5,10 @@
 ## One liners
 Name of Parotid Duct.
 Components of Multiple Endocrine Neoplasia (MEN) 2A.
-Classical signs of Hemangioma.
+Classical signs of Hemangioma
 Parkland formula for calculation of fluids in Burns.
 What is Intermittent [[Surgery Notes/Claudication\|Claudication]]?
-Clinical features of Hypocalcemia after total thyroidectomy.
+Clinical features of Hypocalcemia after total thyroidectomy
 What is cock's peculiar tumor?
 What is lucid interval?
 Formula for calculation of Body Mass Index.
@@ -20,8 +20,8 @@ Define non union.
 Which is the commonest organism in acute osteomyelitis?
 McMurrays test helps to diagnose which condition in knee injury?
 Which nerve injury shows positive Froment's sign?
-Define greenstick fracture.
-Which fracture shows dinner fork deformity?
+Define #greenstick_fracture.
+Which fracture shows #Dinnerfork_deformity ?
 
 (p2)
 What is Pantaloon hernia?
@@ -42,12 +42,12 @@ Cell of origin of Gastrointestinal Stromal tumor.
 ## Long answer questions
 Describe the phases of [[Surgery Notes/Wound healing\|wound healing]]. Enumerate local factors affecting wound healing. Discuss management of a Badly contaminated avulsion injury of R.t Leg.
 
-Describe the Lymphatic derange of breast & its correlation with the spread of carcinoma breast. What si Locally Advanced Breast Cancer &Discuss management of Locally Advanced Breast Cancer.
+Describe the Lymphatic derange of breast & its correlation with the spread of [[Surgery Notes/Carcinoma Breast\|carcinoma breast]]. What si Locally Advanced Breast Cancer & Discuss management of Locally Advanced Breast Cancer.
 
 Describe classification of [[Surgery Notes/Thyroid swellings\|Goiters]]. Discuss investigations and management of Papillary carcinoma of thyroid.
 
 (Ortho)
-Describe clinical features, investigations and treatment of osteosarcoma.
+Describe clinical features, investigations and treatment of [[Ortho notes/Osteosarcoma\|Osteosarcoma]].
 Define Osteoporosis and describe its different treatment modalities.
 
 (p2)
@@ -55,7 +55,7 @@ Define Dysphagia. Enumerate the causes of dysphagia. Describe clinical features,
 
 Describe the etiology, clinical features, management fo Acute intestinal obstruction.
 
-Enumerate causes of [[Surgery Notes/Haematuria\|Haematuria]]. Describe clinical features, investigations, and management of renal cell carcinoma.
+Enumerate causes of [[Surgery Notes/Haematuria\|Surgery Notes/Haematuria]]. Describe clinical features, investigations, and management of renal cell carcinoma.
 
 ## Short answer questions
 Deep Venous Thrombosis.
@@ -66,7 +66,7 @@ Methods of sterilization.
 
 (Ortho)
 Leg-Calve-Perthes disease.
-Ewings' sarcoma: clinico-radiological features and treatment. 
+[[Ortho notes/Ewings' Sarcoma\|Ewings' Sarcoma]]: clinico-radiological features and treatment. 
 Epiphyseal injuries in children.
 
 (p2)

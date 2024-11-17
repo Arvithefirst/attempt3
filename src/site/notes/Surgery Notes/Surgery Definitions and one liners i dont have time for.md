@@ -25,3 +25,17 @@ Normal CVP
 What is ligament of trietz
 Boundaries of inguinal canal
 Common lasers used for coagulation
+
+## Ortho signs n shi
+Babinksi sign
+Mcmurrays test
+Dugas test
+Lachman test
+Froments sign
+Foot drop - 
+Wrist drop
+Types of bone graft
+Meralgia parastheica
+#Greenstick_fracture - Type of fracture that doesnt go all the way through
+Mallet finger
+Bamboo spine

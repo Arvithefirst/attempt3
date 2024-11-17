@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/hydronephrosis/"}
 ---
 
->[!quote] Definition
+ >[!quote] Definition
 > *Aseptic dilation* of the whole or a part of the *pelvix calyceal system* of the kidney due to partial or intermittent *interruption of urine outflow*
 
 ## Causes
@@ -15,8 +15,8 @@ Diffrent for Uniiateral and bilateral hydronephroses
 
 ### Bilateral 
 1. In children - Phimosis, meatal stenosis, Posterior urethral valcve
-2. In yong adults - Stricture, Biulateral aberant vessels
-3. Older adults - BPH, Contraaction of neck of bladder
+2. In young adults - Stricture, Bilateral abberant vessels
+3. Older adults - BPH, Contraction of neck of bladder
 4. Physiological in pregnancy
 
 ## Clinical features
@@ -31,11 +31,20 @@ Diffrent for Uniiateral and bilateral hydronephroses
 1. KUB xray
 2. USG
 3. CT
-4. Intravenous pyelography 
+4. [[Surgery Notes/Intravenous urography\|Intravenous urography]]
 5. Isotope renography
-6. Retrograde pyelography
+6. [[Surgery Notes/Retrograde pyelography\|Retrograde pyelography]]
 7. RFT
 
 ## Treatment
 Hydronephroses secondary to another cause can be treated by mnanaging the underlying condition 
+### Anderson hynes operation
+- For congenital PUJ obstruction(most common)
+- Excisdion of spamsodic and redundant parts. A new pelvis is created and anastomosed in a adependant position
 
+#### Other
+1. Davis tube ureterostomy
+2. Non-dismembered pyeloplasty
+3. Bilateral nephrostomt
+4. Laproscopic of retroperitnoeal pyeloplasty
+5. endoscopic pyelosis

@@ -19,7 +19,7 @@ Thre are 2 theories that explain BPH
 - Renal failure
 
 ## Clinical features
-*Triad of BPH is frequency, urgency, and hesitancy*
+*Triad of BPH is frequency, urgency, and hesitancy*(FUH)
 1. Frequency -  upto 5-10 times a day. Incomplete voiding may lead to cystitis
 2. Urgency - Stretching of internal sphincter allows urine to trickle down into the posterior urethra causing urgency
 3. Hesitancy - To urinate because attepts are unsuccessful due to obstruction
@@ -52,3 +52,14 @@ Done in patients with mild disease who have good urine flow minimal back pressur
 Done when there is (i) Retention of urine (ii) High frequency of micturation (iii) Complications
 
 #### Transurethral resection of prostate (TURP)
+- Most common because no suprabubic incisioin and faster recovery
+- May develop *TURP Syndrome* (Water intoxication leading to ccf)
+#### Transvescical. Suprapubic Prostatectomy
+- Only done when the prostate is very large or a/w stones
+- Higher chance of hemorrhage and striucture
+#### Other
+- Retropubic prostatectomy
+- Perineal prostatectomy
+#### Newer
+- Holmium:YAG laser
+- Intraurethral shunt

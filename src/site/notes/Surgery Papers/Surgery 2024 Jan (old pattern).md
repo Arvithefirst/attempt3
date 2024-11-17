@@ -15,8 +15,8 @@ What is [[Surgery Notes/Erysipelas\|Erysipelas]]?
 What is an Allograft?
 
 (Ortho)
-Clinical features of Rickets
-Investingations in ewing sarcoma
+Clinical features of [[Ortho notes/Rickets\|Rickets]]
+Investingations in [[Ortho notes/Ewings' Sarcoma\|Ewings' Sarcoma]]
 Babinski sign
 Macmurrays test
 [[Ortho notes/Volkmanns Ischaemic contracture\|Volkmanns ischaemic contracture]]
@@ -44,10 +44,10 @@ Describe the pathophysiology of Burns, How will you manage a patient of 45% mixe
 
 Describe the anatomy of thyroid gland, and write about investigations and Management of [[Surgery Notes/Solitary thyroid nodule\|Solitary thyroid nodule]]
 
-Describe different pathological types of cancer Breast and management of cancer breast in pregnancy according to trimester
+Describe different pathological types of [[Surgery Notes/Carcinoma Breast\|Carcinoma Breast]] and management of cancer breast in pregnancy according to trimester
 
 (Ortho)
-Define developmental dysplasia of hip and its etiopathogenesis, investigation and management
+Define [[Ortho notes/Congenital Dislocation of Hip\|Congenital Dislocation of Hip]] developmental dysplasia of hip and its etiopathogenesis, investigation and management
 
 30Year old male patient brought to casualty and Presented with Pulse 130/m, BP90/60. RR40/m with grade II compound wound with deformity at mid thigh. Describe diagnosis, investigations and management.
 
@@ -59,22 +59,22 @@ Diagnosis and manegement of various types of intestinal TB
 ## Short answer questions
 Collar stud abscess
 New treatments for [[Surgery Notes/Varicose veins\|varicose veins]]
-Spinal anesthesia 
+[[Surgery Notes/Spinal anaesthesia\|Spinal anaesthesia]]
 Triage
 Management of subdural hematoma
 
 (Ortho)
-Osteomalacia and its management
+[[Ortho notes/Osteomalacia\|Osteomalacia]]and its management
 Stages in bone [[Ortho notes/Fracture Healing\|fracture healing]]
 Erbs palsy
 
 (P2)
 Panendoscopy
-Outline of management of carcinoma prostate
-Management of undescended testis in 22yo male
+Outline of management of [[Surgery Notes/Carcinoma Prostate\|Carcinoma Prostate]]
+Management of [[Surgery Notes/Undescended testis\|Undescended testis]] in 22yo male
 Various operations for [[Surgery Notes/Hydrocele#Treatment\|hydrocele]]
 Management of hematuria in case of Fracture hip
-Management of chronic retention of urine
+Management of chronic [[Surgery Notes/Retention of Urine\|Retention of Urine]]
 Renal scan
-Etiopathogenesis and compliations of urethral stricture
+Etiopathogenesis and compliations of [[Surgery Notes/Urethral strictures\|Urethral strictures]]
 

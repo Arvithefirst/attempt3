@@ -15,7 +15,7 @@ What is paronychia?
 Name the organism responsible for elephantiasis.
 
 (Ortho)
-Define #Monteggia Fracture.
+Define #Monteggia_Fracture.
 Which nerve palsy causes ape thumb deformity?
 Name 2 most commonly used techniques for CTEV casting.
 Which is the most common bone affected in tuberculosis?
@@ -40,7 +40,7 @@ Name tumor marker which is elevated in [[Surgery Notes/Seminoma#Investigations\|
 What is hydrocele of hernia sac?
 
 ## Long Answer questions
-45 years old female patient comes with history of hard mobile lump in the breast with another lump in axilla. How will you proceed for investigations? Describe etiopathogenesis, clinical features and management of CA breast.
+45 years old female patient comes with history of hard mobile lump in the breast with another lump in axilla. How will you proceed for investigations? Describe etiopathogenesis, clinical features and management of [[Surgery Notes/Carcinoma Breast\|Carcinoma breast]].
 
 Define & classify [[Surgery Notes/Thyroid swellings\|Goitre]]. Describe etiopathogenesis, clinical features and management of [[Surgery Notes/Multinodular Goitre\|Multinodular Goitre]].
 
@@ -48,14 +48,14 @@ Describe surgical anatomy of venous drainage of lower limb. Explain etiopathogen
 
 (ortho)
 Describe in details [[Ortho notes/Fracture Healing\|stages of bone healing]] and complication of fracture.
-Describe in details supracondylar fracture humerus in children in respect to clinical features, types, x-ray findings, treatment and complications.
+Describe in details [[Ortho notes/Supracondylar fracture of Humerus\|supracondylar fracture of humerus]] in children in respect to clinical features, types, x-ray findings, treatment and complications.
 
 (p2)
 Describe surgical anatomy of [[Surgery Notes/Surgical Anatomy of Gallbladder#Calots triangle\|Calot's triangle]] and discuss
 etiopathogenesis, clinical features, investigations and management of [[Surgery Notes/Gallstones\|Gallstones]].
 
 Discuss embryonic development and pathway of descent of testes.
-Describe clinical presentation features, complications &management of undescended testis.
+Describe clinical presentation features, complications &management of [[Surgery Notes/Undescended testis\|Undescended testis]].
 
 Enumerate causes of lower G.I. bleeding. Discuss etiopathogenesis, clinical features, investigations and management of Ca rectum.
 
@@ -65,19 +65,19 @@ Enumerate causes of lower G.I. bleeding. Discuss etiopathogenesis, clinical feat
 Flail chest.
 [[Surgery Notes/Ranula\|Ranula]]
 Thoracic outlet syndrome. 
-Cystosarcoma phylloids
+[[Surgery Notes/Cystesarcoma phylloides\|Cystesarcoma phylloides]]
 
 (Ortho)
-Ewing's sarcoma.
+[[Ortho notes/Ewings' Sarcoma\|Ewings' Sarcoma]].
 Write different classification system for [[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|fracture neck femur]]. 
-Write different stages of tuberculosis of hip & its treatment.
+Write different stages of [[Ortho notes/TB Hip\|tuberculosis of hip]] & its treatment.
 
 (p2)
 Meckel's diverticulum.
 Hirschprung's disease.
-Renal tuberculosis - etiopathogenesis & clinical features.
+[[Surgery Notes/Renal tuberculosis\|Renal tuberculosis]] - etiopathogenesis & clinical features.
 Endotracheal intubation.
 Development of palate and management of cleft palate.
 A.S.D. (Atrial septal defects).
 LASERS in surgery.
-Intravenous urography/pyelography.
+[[Surgery Notes/Intravenous urography\|Intravenous urography]]/pyelography.

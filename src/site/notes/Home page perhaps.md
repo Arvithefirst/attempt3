@@ -31,7 +31,7 @@ Uncategorised notes :3
 [[Surgery Papers/Surgery 2019 Dec\|Surgery 2019 Dec]]
 
 and ditto ditto [[Surgery Notes/Surgery Internal Syllabus\|Surgery Internal Syllabus]]
-Also for fun [[List of famous fractures\|List of famous fractures]]
+Also for fun [[List of famous fractures and deformities\|List of famous fractures and deformities]]
 [[Glasgow Coma Scale\|Glasgow Coma Scale]]
 
 ## OBGY Paper outlinks

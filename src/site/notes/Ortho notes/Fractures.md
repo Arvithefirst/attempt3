@@ -26,6 +26,6 @@ A break in the continuity of bone can be classified in many ways
 - Comminuted
 - Segmental
 
-See [[List of famous fractures\|List of famous fractures]]
+See [[List of famous fractures and deformities\|List of famous fractures and deformities]]
 See [[Ortho notes/Complications of Fractures\|Complications of Fractures]]
 See [[Ortho notes/Fracture Healing\|Fracture Healing]]

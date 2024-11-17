@@ -33,10 +33,10 @@ Define [[Surgery Notes/Hernia#^b8ce0e\|Hernia]]
 (Ortho)
 Attitude of limb in anterior shoulder dislocation
 Wrist drop is seen in which nerve palsy
-Sunray appearance is seen in which tumour
+[[Ortho notes/Osteosarcoma#Investigations\|Sunray appearance]] is seen in which tumour
 Features of [[Surgery Notes/Compartment syndrome\|compartment syndrome]]
 Acute osteomyelitis beings in which area of the bone
-Dinner fork deformity is seen in which fracture
+#Dinnerfork_deformity is seen in which fracture
 Test to check abductors of hip
 ## Long answer questions
 Enumerate causes of intestinal obstruction. Discuss clinical features, invesstigatoins, and treatment of a case of intussception in a 9 month old
@@ -53,15 +53,16 @@ Discuss features of thyrotoxicosis, Management of graves disease
 Enumerate causes of cervical lymphadenopathy. Etiology, pathology, clinical features, stages and management of tubercular cervical lymphadenopathy
 
 (Ortho)
-Etiology, clinincal features, investigations, management of TP hip  in arthritic stage
-Mechanism of injury clinical features, investigation and managment of fracture suprocondylar humerus in children and complications
+Etiology, clinincal features, investigations, management of [[Ortho notes/TB Hip\|TB Hip]]  in arthritic stage
+Mechanism of injury clinical features, investigation and managment of [[Ortho notes/Supracondylar fracture of Humerus\|fracture suprocondylar humerus]] in children and complications
+
 ## Short answer questions
 Insulinoma
 Adamantinoma
 Triage 
 [[Surgery Notes/Acute Cholecystitis#Complications\|Complications of gallstones]]
 Gynaecomastia. 
-PSA
+[[Surgery Notes/Benign Prostate Hyperplasia#Investigations\|PSA]]
 Intercostal drainage
 Cleft lip
 

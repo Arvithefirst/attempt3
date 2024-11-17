@@ -13,22 +13,22 @@
 
 ## Types 
 ### Calcium oxalate (mulberry) stones
-- Hard, single, irregularm, sharp
+- Hard, single, irregularm, sharp, dumbell/envelope shaped
 - Early hematuria
 ### Uric acid stones
 - Multiple, small, faceted
 - Respond best to lithotripsy
 ### Phosphate stones
-- Small, round, yellow\
+- Small, round, yellow
 - Forms *staghorn calculi*
 ### Cystine stones
-- Hard, radioopaque
+- Hard, radioopaque, hexagonal
 - Typically seen in pubertal girls
 
 # Clinical features
 1.  Dull aching costovertebral pain. May be a/w nausea/vomitting due to stretching of capsule
 2. Ureteric colic (loin to groin radiation of colicky pain)
-3. [[Surgery Notes/Haematuria\|Haematuria]]
+3. [[Surgery Notes/Haematuria\|Surgery Notes/Haematuria]]
 4. Recurrent UTI
 5. Guarding and rigidity
 
@@ -41,8 +41,8 @@
 ## Investigations
 1. RFT
 2. Plain KUB X ray
-3. USG
-4. Intravenous Pyelography
+3. USG, CT abdomen
+4. [[Surgery Notes/Intravenous urography\|Intravenous urography]]
 5. Urine culture
 
 ## Treatment
