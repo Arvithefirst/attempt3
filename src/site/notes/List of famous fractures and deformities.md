@@ -33,3 +33,10 @@
 28. Straddle fracture
 29. Malgaignes fracture
 30. Mallet finger fracture - DIP joint #
+
+## Deformities
+1. #Foot_drop - Common peroneal nerve
+2. #Wrist_drop - Radial nerve
+3. #Ape_thumb_deformity - Median nerve
+4. #Pointing_index - Median nerve
+5. #Policeman_tip - Ulnar nerve
