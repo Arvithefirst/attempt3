@@ -28,7 +28,7 @@ Befreo labour theres no clear distinction between upper and lower segment. Howev
 ## Investigations
 1. Pulse and FHR
 2. BP
-3. Partogram by abdominal/pervaginal examination
+3. Partogram by abdominal/pervaginal examination and BISHOP scoring
 >[!faq] Partograph
 >Used to represent the phases of cervical dilatation along with rotation and descent of head
 ![Screenshot 2024-07-14 at 5.03.20 PM.png](/img/user/Pictures/Screenshot%202024-07-14%20at%205.03.20%20PM.png)

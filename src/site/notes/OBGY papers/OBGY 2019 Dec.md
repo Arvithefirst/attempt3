@@ -22,7 +22,7 @@ Mention any two symptoms of Endometriosis.
 Which is the tumour marker for ovarian epithelial tumours?
 Which chemotherapeutic agent is used ni the treatment of vesicular mole?
 Mention the drug of choice for Trichomoniasis?
-Describe microscopic (histopathology) features of Leiomyoma.
+Describe microscopic (histopathology) features of Leiomyoma [[OBGY Notes/Fibroid#Pathology\|Fibroid#Pathology]].
 In which gynaecological condition, "Bonney's Test" si used for diagnosis?
 Mention risk factors for development of endometrial carcinoma.
 What si the chromosomal pattern ni Turner's syndrome?
@@ -32,12 +32,12 @@ Define [[OBGY Notes/Normal Labour\|Normal Labour]]. Describe in detail stages of
 Mention criteria for severe pre-eclampsia. Discuss the management of
 eclampsia in primigravida at term.
 Define Antepartum Haemorrhage(APH).Describe ni detail the causes and
-management of Abruptio placantae.
+management of [[Abruptio placantae\|Abruptio placantae]].
 
 (p2)
 Discuss etiology,diagnosis and outline of treatment of carcinoma cervix.
 Define [[OBGY Notes/Dysfunctional Uterine Bleeding\|Dysfunctional Uterine Bleeding]](DUB). Discuss the types of DUB and investigations required for diagnosis of DUB.
-What are the causes of female infertility? Discuss ni detail tubal factor for infertility.
+What are the causes of female [[OBGY Notes/Infertility\|Infertility]]? Discuss ni detail tubal factor for infertility.
 
 ## Short answer questions
 Non Stress Test(NST)
@@ -57,4 +57,4 @@ Vesico-vaginal fistula.
 [[OBGY Notes/Pelvic Organ Prolapse#Supports of the uterus\|Supports of uterus]].
 Dermoid cyst.
 Imperforate hymen. 
-Complications of fibroid uterus.
+Complications of [[OBGY Notes/Fibroid\|Fibroid]] uterus.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/normal-labour/"}
 ---
 
-Labour is defined as the series of events that occur in the genital to expel a viable product of conception out throughthe vagina
+Labour is defined as the series of events that occur in the genital to expel a viable product of conception out through the vagina
 
 *Normal Labour(eutocia)* must meet the following criteria(5)
 - Spontaneeous and at term

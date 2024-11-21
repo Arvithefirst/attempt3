@@ -20,7 +20,7 @@ No identifiable pelvic pathology
 - Pallor, sweating, Fainting, Syncope
 #### Treatment
 - NSAIDs (COX inhibitors)
-- [[Oral Contraceptive pills\|Oral Contraceptive pills]]
+- [[OBGY Notes/Oral Contraceptive pills\|Oral Contraceptive pills]]
 // surgical options like Transcutaneous electrical nerve stimulation(TENS) / Laparascopic uterine nerve ablation(LUNA) / Laparascopic presacral neurectomy are often only partially helpful
 
 ### Secondary Dysmonorrhoea(congestive)

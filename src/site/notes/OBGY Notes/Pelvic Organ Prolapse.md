@@ -65,7 +65,7 @@ May be evaluated clinically, by quantitative scoring or by POP-Q scoring
 *Stage 4* - Complete eversion of vagina
 
 ### POP-Q Staging
-Most specific measurement of Pelvic organ prolapse. Uses total vaginal lenght, and a buncha other measurements I hope this doesnt come in the exam lol
+Most specific measurement of Pelvic organ prolapse. Uses total vaginal length, and a buncha other measurements I hope this doesnt come in the exam lol [[OBGY Notes/POP-Q Staging\|see here]]
 
 ## Complications
 1. Decubitus Ulcer - Typically on the base of the protruding part. Mayy get infected. 

@@ -23,18 +23,18 @@ What are the constituents of OC pill?
 What is the failure rate of tubal sterilization?
 What are the types of [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]]?
 Nane two drugs used for medical method of termination of pregnancy. 
-Name two investigation to test tubal patency.  
+Name two investigation to test tubal patency.  [[OBGY Notes/Infertility#Investigations\|Infertility#Investigations]]
 Name the gonadotropins.
 
 ## Long answers
 Enumerate indications of induction of labour. How will you monitor a case on induction of labour? 
-Define Abruptio placentae. Briefly outline the management of abruptio placentae. Enumerate the complications. 
+Define [[OBGY Notes/Abruptio placentae\|Abruptio placentae]]. Briefly outline the management of abruptio placentae. Enumerate the complications. 
 Define [[OBGY Notes/Anemia in pregnancy\|Anemia in pregnancy]]. What are the causes. How will you manage a case of iron deficiency anemia in pregnancy?
 
 (p2)
-How will you investigate a case of anovulatory infertility. Mention briefly the management options
+How will you investigate a case of anovulatory [[OBGY Notes/Infertility#Investigations\|infertility]]. Mention briefly the management options
 Describe the various methods of [[OBGY Notes/Pelvic Organ Prolapse#Conservative\|conservative management]] of UV prolapse in a 35 y/o lady
-What are the types of fibroid uterus? Describe conservative management of fibroid uterus
+What are the types of [[OBGY Notes/Fibroid\|Fibroid]] uterus? Describe conservative management of fibroid uterus
 
 ## Short answers
 [[OBGY Notes/Third Stage of Labour#Active management\|Active management of 3rd stage of labour]]
@@ -50,7 +50,7 @@ Indications of vacuum delivery.
 Squamocolumnar junction
 Pelvic diaphragm
 PALM COEIN classification of [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]
-IUCD
+[[OBGY Notes/Intrauterine Contraception Devices\|IUCD]]
 Amsel's criteria
 Cryptomenorrooea
 Misoprostol

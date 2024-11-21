@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/intrauterine-contraception-devices/"}
 ---
 
-Implantable devices that aid in contraception. They can be either *open* or *closed*. However closed look IUCDs are out of use since they risk strangulating the bowel loops
+Implantable devices that aid in contraception. They can be either *open* or *closed*. However closed loop IUCDs are out of use since they risk strangulating the bowel loops
 ## Examples
 1. *Copper T 200*
 2. Copper T 380A

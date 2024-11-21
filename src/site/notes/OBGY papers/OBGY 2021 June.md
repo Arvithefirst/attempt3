@@ -19,7 +19,7 @@ Define primary infertility.
 Enumerate three symptoms caused by fibroid uterus.
 What is corpus cancer syndrome?
 What are the advantages of progesterone only pill?
-What is an ideal contraceptive?
+What is an ideal [[OBGY Notes/Contraception#The Ideal contraceptive\|Contraceptive]]?
 What are the characteristics of a [[OBGY Notes/Pelvic Organ Prolapse#Clinical Types\|second degree uterovaginal prolapse]]?
 What are the causes of vesico-vaginal fistulas?
 What is a [[OBGY Notes/Pelvic Organ Prolapse#Complications\|decubitus ulcer]]?
@@ -30,7 +30,7 @@ What is the lining of the cervical canal?
 ## Long answer questions
 What is [[OBGY Notes/Normal Labour\|Normal Labour]]? Discuss management of [[OBGY Notes/Third Stage of Labour\|Third Stage of Labour]].
 Discuss the modalities to diagnose ectopic pregnancy. How will you manage ruptured ectopic pregnancy?
-Define Eclampsia. Discuss management of eclampsia ni pregnancy and labour.
+Define [[OBGY Notes/Eclampsia\|Eclampsia]]. Discuss management of eclampsia ni pregnancy and labour.
 
 (p2)
 Define [[OBGY Notes/Abnormal Uterine Bleeding\|AUB]]. How will you diagnose and manage a care of metropathia haemorrhagica?
@@ -49,8 +49,8 @@ Diagnosis of IUGR.
 
 (p2)
 Pap Smear.
-Progesterone IUCD.
-Clomiphene Citrate.
+Progesterone IUCD[[OBGY Notes/Intrauterine Contraception Devices\|Intrauterine Contraception Devices]].
+[[OBGY Notes/Clomiphene Citrate\|Clomiphene Citrate]].
 Semen Analysis.
 Medical Management of Endometriosis.
 Post-pill amenorrhea.
