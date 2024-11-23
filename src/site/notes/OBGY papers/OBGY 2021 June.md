@@ -51,7 +51,7 @@ Diagnosis of IUGR.
 Pap Smear.
 Progesterone IUCD[[OBGY Notes/Intrauterine Contraception Devices\|Intrauterine Contraception Devices]].
 [[OBGY Notes/Clomiphene Citrate\|Clomiphene Citrate]].
-Semen Analysis.
+[[OBGY Notes/Male infertility\|Semen Analysis]].
 Medical Management of Endometriosis.
 Post-pill amenorrhea.
 Chocolate cyst.

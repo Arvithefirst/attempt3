@@ -51,12 +51,12 @@ Diagnosis of PROM
 TOLAC criteria
 
 (p2)
-Emergency contraception.  
+[[OBGY Notes/Emergency Contraception\|Emergency Contraception]]
 FIGO classification system for [[OBGY Notes/Fibroid#Investigations\|Fibroid#Investigations]].
 Clinical features of adenomyosis.  
-Non-contraceptive uses of combined oral contraceptive pills.
+Non-contraceptive uses of combined [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]].
 Medical method of first trimester MTP (Medical Termination of Pregnancy).
-HPV(HumanPapilloma Virus) vaccines.
+HPV(HumanPapilloma Virus) vaccines.[[OBGY Notes/Cervical Intraepithelial Neoplasia#Preventitive\|see here probably]]
 Indications for LNGIUS (Levonorgestrel Intra-uterine System).
 Cardinal steps of [[OBGY Notes/Fothergills Operation\|Fothergill/Manchester surgery]].
-[[OBGY Notes/Oral Contraceptive pills\|Oral Contraceptive pills]]
+[[OBGY Notes/Oral Contraceptive Pills\|OBGY Notes/Oral Contraceptive pills]]

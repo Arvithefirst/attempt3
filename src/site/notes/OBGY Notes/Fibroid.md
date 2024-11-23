@@ -103,7 +103,7 @@ Aims to control anemia, limit size, correct infertility
 3. GnRH agonist - Produce pituitary downregulation thereby suppressing estrogen
 4. GnRH antagonist - Immediate suppresion of ovarian fxn
 5. Prostaglandin synthetase inhibitor
-6. Lvonogestrel releasing Intrauterine system (LNG-IUS)
+6. Levonogestrel releasing Intrauterine system (LNG-IUS)
 
 #### Surgical management
 <mark style="background: #FF5582A6;">Myomectomy</mark>

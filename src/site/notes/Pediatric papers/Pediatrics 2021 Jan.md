@@ -5,9 +5,9 @@
 By what age can a child stack 9 cubes
 Birth weight quadruples by
 2 causes of preventable intellectual disability
-Folate is omportant forembryogenesis of
+Folate is important for embryogenesis of
 Shakirs tape is used for
-2 radiographic features of scurcy
+2 radiographic features of scurvy
 Breast milk can be stored in room temperature for how long
 2 physiological skin changes in new born
 2 contraindicated vaccines in immunosuppressed

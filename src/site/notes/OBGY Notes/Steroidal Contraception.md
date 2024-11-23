@@ -10,11 +10,11 @@
 
 ## Classification
 #### Oral
-1. Combined preparations
+1. Combined Oral Contraceptives
 	- Monophasic
 	- Biphasic
 	- Triphasic
-	- Emergency
+	- Emergency Contraception
 2. Single preparations
 	- Progesterone only
 	- Estrogen only

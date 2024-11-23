@@ -41,7 +41,7 @@ MR vaccine
 Clinical features of hypothyroidism
 Paracetamol poisining
 Management of CCF
-\Enumerate causes of proteinurea
+Enumerate causes of proteinurea
 Sickle cell anemia
 
 Anterior fontanelle delay

@@ -5,6 +5,7 @@
 A form of hernia involving descent of vaginal wall and/or uterus
 
 ## Supports of the uterus
+Also see [[OBGY Notes/DeLancey Classification\|DeLancey Classification]]
 ### Primary
 1. Muscular
 	1. Pelvic diaphram
@@ -106,6 +107,7 @@ Various surgical interventions may beddone depending on the affected part
 5. McCall Culpoplasty *(for enterocele)*
 6. [[OBGY Notes/Moscowitch Procedure\|Moscowitch Procedure]] *(for enterocele)*
 // Pelvic floor repair refers to operation consisting of both [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]]and [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
+/// Ward Mayos operation is Pelvic floor repair + Posterior colpoperineorrhaphy
 #### Uterovaginal prolapse surgery
 1. Vaginal Hysterectomy with Pelvic floor repair
 2. [[OBGY Notes/Fothergills Operation\|Fothergills Operation]]
@@ -120,6 +122,7 @@ Often required due to vault prolapse secondary to hysterectomy. They can be divi
 
 #### Uterus Prolapse Surgeries
 1. [[OBGY Notes/Purandare's Sling Operation\|Purandare's Sling Operation]]
+2. Shirodkars sling
 #### Meshplasty
 Work better than traditional methods. Non-absorbably meshes have high recurrence, low complications while Absorbable meshes have lowl recurrence and high chance of complications
 

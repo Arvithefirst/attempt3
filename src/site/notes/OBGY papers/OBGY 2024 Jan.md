@@ -19,7 +19,7 @@ What are the clinical features of[[ Fibroid\| Fibroid]] uterus . Describe second
 
 Define infertility. Enumerate the etiological factors for primary [[OBGY Notes/Infertility\|Infertility]] in an infertile couple
 
-Define and classify Cervical Intraepithelial Neoplasia (CIN). What are the various tests available for screening of cervical cancer?
+Define and classify [[OBGY Notes/Cervical Intraepithelial Neoplasia\|Cervical Intraepithelial Neoplasia]] (CIN). What are the various tests available for screening of cervical cancer?
 
 ## Short answer questions
 Lifestyle and diet counselling for antenatal mother diagnoses with gestational diabetes
@@ -45,8 +45,8 @@ Treatment of hydatidiform mole
 Fiduciary duty (AETCOM) (Compulsory short note)
 
 Lymphatic drainage of cervix
-Meig's syndrome
+[[OBGY Notes/Meigs' Syndrome\|Meigs' Syndrome]]
 Post menopausal bleeding
 Menstrual regulation syringe 
-Emergency contraception
+[[OBGY Notes/Emergency Contraception\|Emergency Contraception]]
 Endometrial biopsy

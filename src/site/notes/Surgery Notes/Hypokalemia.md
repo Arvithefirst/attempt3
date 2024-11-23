@@ -9,7 +9,8 @@ Plasma concentration of *potassium <3.5 mmol/L*
 1. *Dietary insufficiency*
 2. *Tissue redistribution* - Insulin, Alkalemia, B-agonists
 3. *Increased loss* - Diarrhoea, Vomitting
-4. *Renal Causes* - Diuretics, Renal Artery stenosis, Renal failure
+4. *Transcellular shift* - insulin, B-agonist, Periodic paralysis
+5. *Renal Causes* - Diuretics, Renal Artery stenosis, Renal failure, Cystic fibrosis, Cushings
 
 ## Symptoms
 1. Anorexia, Nausea
@@ -18,7 +19,6 @@ Plasma concentration of *potassium <3.5 mmol/L*
 >Arrhythmia
 >Wide QRS
 >Late and Short T waves
-
 ## Management
 1. Treatment of cause
 2. Dietary supplements (milk, fruits, coconut water) 

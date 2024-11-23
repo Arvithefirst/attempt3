@@ -39,8 +39,8 @@ What are the types of [[OBGY Notes/Fibroid\|Fibroid]] uterus? Describe conservat
 ## Short answers
 [[OBGY Notes/Third Stage of Labour#Active management\|Active management of 3rd stage of labour]]
 Mac caffes regimen.
-Medical management of ectopic pregnarncy.
-Pritchard's regimen.
+Medical management of [[OBGY Notes/Ectopic pregnancy\|ectopic pregnancy]].
+[[OBGY Notes/Eclampsia#Specific treatment\|Pritchard's regimen.]]
 [[OBGY Notes/APGAR score\|APGAR score]]
 Biophysical profile. 
 Perineal tear.
@@ -51,7 +51,7 @@ Squamocolumnar junction
 Pelvic diaphragm
 PALM COEIN classification of [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]
 [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]]
-Amsel's criteria
+[[OBGY Notes/Amsel's Criteria\|Amsel's Criteria]]
 Cryptomenorrooea
 Misoprostol
-Semen analysis
+[[OBGY Notes/Male infertility#Investigations\|Semen analysis]]
