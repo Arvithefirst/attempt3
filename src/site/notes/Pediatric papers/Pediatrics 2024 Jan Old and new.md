@@ -3,7 +3,7 @@
 ---
 
 ## One liners
-Define Short stature
+Define [[Short Stature\|Short stature]]
 When does child double weight
 Inheritance pattern of color blindness
 [[OBGY Notes/APGAR score\|APGAR score]]
@@ -12,7 +12,7 @@ Osmolarity of [[Pediatric Notes/WHO ORS\|WHO ORS]]
 Drug of chouice for [[Medicine notes/Acute Rheumatic heart disease#Treatment\|Rheumatic fever]]
 3 Clinical features of [[Pediatric Notes/Congenital Rubella\|Congenital Rubella]] syndrome
 Protein content of breast milk
-Antiidote for paracetmol poisoning
+Antidote for paracetmol poisoning
 
 ## LAQs
 [[Nephrotic syndrome \|Nephrotic syndrome ]]
@@ -25,17 +25,17 @@ Tetanus
 
 ## SAQ
 Congenital hypothyroidism 
-Hyperkalemia
+[[Surgery Notes/Hyperkalemia\|Hyperkalemia]]
 Role of vitamin A in measles infection
 Rotavirus vaccine
 IMNCI Jaundice
 Drug addiction and substance abuse in adolescent
 Counselling for complementary feeding for 6 month old child
 
-Define Microcephaly &Enumerate causes of microcephaly. 
+Define Microcephaly & Enumerate causes of microcephaly. 
 Write a note on Measles Rubella (MR) vaccine.
 IMNCI classification of dehydration in children. 
-SMR staging.
+[[Pediatric Notes/Sexual Maturity Rating\|Sexual Maturity Rating]]
 Steps for Neonatal resuscitation. 
 List clinical features of Rickets
 Write a note on Physiological Jaundice.
