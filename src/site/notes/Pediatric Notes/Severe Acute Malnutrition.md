@@ -36,4 +36,29 @@ Divided into 1st week of stabilisation followed by several weeks of rehabilitati
 2. Treat Hypothermia - Warming by Clothes of heaters
 3. Treat dehydration
 	1. ORS
-	2. 
+	2. Zinc and potassium supplement
+4. Correct Electrolyte Imbalance
+	1. Sodium restriction
+	2. Potassium and magnesium salts
+5. Treat and Prevent infections
+	1. Investigate with Chest Xray. CBC, TLC, Mantoux, Cultures, PBS, CSF
+	2. Antibiotics
+6. Correct Micronutrient deficiencies
+7. Initiating re-feeding
+8. Catch-up growth
+	1. Ready to use therapeutic food 
+9. Sensory stimulation and support 
+10. Follow 8up and recovery
+
+## Prevention
+1. Home care
+	1. Exclusive and complementary breast feeding
+	2. Vaccinations
+2. Community-Based Therapeutic Care
+	1. Health Education
+	2. Growth monitoring
+	3. Integrated health plans
+3. National level
+	1. ICDS
+	2. Mid day meal schemes
+	3. National anemia prophylaxius program

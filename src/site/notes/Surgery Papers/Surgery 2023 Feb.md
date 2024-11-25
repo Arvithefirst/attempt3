@@ -50,7 +50,7 @@ Describe risk factors and pathology of [[Surgery Notes/Carcinoma Breast\|Carcino
 What are [[Surgery Notes/Blood transfusion\|Blood transfusion]] products? Describe indications and complications of blood transfusion
 
 (ortho)
-Clinical features, Radiological features and management of [[Ortho notes/Rickets\|Rickets]]
+Clinical features, Radiological features and management of [[Ortho notes/Rickets\|Ortho notes/Rickets]]
 Classification, clinical features and management of fracture neck of femur[[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|Intracapsular Neck of Femur(ICNF) Fracture]]
 
 # Short answers

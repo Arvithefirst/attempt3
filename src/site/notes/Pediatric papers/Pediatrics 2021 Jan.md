@@ -23,7 +23,7 @@ Congenital hypothyroidism
 IMNCI for ARI
 Idiopathic thrombocytopathic purpura
 Complications of measles
-Hypokalemia
+[[Surgery Notes/Hypokalemia\|Hypokalemia]]
 Kangaroo mother care
 Rheumatic fever prophylaxis
 Caput succedaneum

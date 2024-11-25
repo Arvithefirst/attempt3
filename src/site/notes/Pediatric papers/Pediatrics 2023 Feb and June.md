@@ -8,7 +8,7 @@ Normal infant triples weight at which age
 Drug of choice for pneumocystitis jirovecii in HIV
 Gold standard test for Typhoid
 Zoonotic infectin from unpasteurised milk
-Define hyper kalemia
+Define [[Surgery Notes/Hyperkalemia\|hyperkalemia]]
 beri beri is which deficiency
 Characteristic 2nd heart sound of ASD
 Instrument for height of 4yo
@@ -32,10 +32,10 @@ Fever with rash
 
 VSD
 Nephrotic syndrome
-Status epilepticus
+[[Medicine notes/Status epilepticus\|Status epilepticus]]
 
 ## SAQ
-Age independant criteria for nutrition
+Age independant criteria for nutrition[[Pediatric Notes/Indicators of Malnutrition\|Indicators of Malnutrition]]
 Stages of tubercular meningitis
 MR vaccine
 Clinical features of hypothyroidism
@@ -50,4 +50,4 @@ DPT vaccine
 Advantages of breastfeeding
 Clniical features of downs syndrome
 Causes of hypoglycemia in newborne and management
-Asthma
+[[Medicine notes/Status Asthmaticus\|Status Asthmaticus]]

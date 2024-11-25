@@ -21,10 +21,10 @@ Bacterial meningitis
 
 ## SAQ 
 Infants of diabetic mother
-Vitamin D resistant rickets
+Vitamin D resistant [[Ortho notes/Rickets\|Rickets]]
 Prevention of MTCT of HIV
 HPV Vaccine
 Sicklecell crisis
 Criteria for ADHD
 Genetics in Downs syndorome
-Management of status asthmatus
+Management of [[Medicine notes/Status Asthmaticus\|status asthmaticus]]

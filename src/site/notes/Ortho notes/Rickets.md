@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ortho-notes/rickets/"}
 ---
 
-Disease of a growing skeleton characterised b yu fai;lure of normal mineralisation seen prominently at growth platees resulting in softening of bonmes and developmental deformity
+Disease of a growing skeleton characterised by failure of normal mineralisation seen prominently at growth platees resulting in softening of bonmes and developmental deformity
 
 ## Types
 ### Type I
@@ -13,10 +13,10 @@ Disease of a growing skeleton characterised b yu fai;lure of normal mineralisati
 2. Disturbance in Vitamin D metabolism
 	1. Hepatic - 25-hydroxylase deficiency, Anticonvulsive therapy
 	2. Renal - 1- hydroxylase deficiency
-	3. hereditary
+	3. [[Pediatric Notes/Vitamin D Dependant Rickets\|Vitamin D Dependant Rickets]]
 ### Type II
 1. Defect in phosphate absorption
-	1. Hypophosphatemic rickets
+	1. [[Pediatric Notes/Familial Hypophosphatemic Rickets\|Familial Hypophosphatemic Rickets]]
 	2. Fanconi syndrome
 	3. Renal Tubular Acidosis
 2. Diminiashed intake of phosphates
@@ -34,16 +34,20 @@ Disease of a growing skeleton characterised b yu fai;lure of normal mineralisati
 
 ## Investigations
 1. Xray Wrist and knees
-	1. Delaye dappearance of epiphyseas
+	1. Delayed appearance of epiphyseas
 	2. Widening of epiphyseas
 	3. Cupping of metaphyseas
 	4. Splaying of metaphyseas
 2. Serum calcium, phosphate, ALP
 
 ## Treatment
-1. 600,000 IU vitamsin D followed by 400IU per day 
+1. 600,000 IU vitamin D over 10 days followed by 400IU per day 
 2. Mild derformities correcct with splints (mermaid splints/orthopedic shoes)
 3. Corrective osteotomies if necessary 6 months after treatment
 
-// Rickets that doest respond to vitamin D supplement is *refractory rickets* which was asked as a question buyt isnt there in maheshwari so ill have to look for it in Ghai later
+// Rickets that doest respond to vitamin D supplement is *refractory rickets* 
+Should be evaluated for
+1. Renal Tubular Acidosis
+2. [[Pediatric Notes/Familial Hypophosphatemic Rickets\|Familial Hypophosphatemic Rickets]]
+3. [[Pediatric Notes/Vitamin D Dependant Rickets\|Vitamin D Dependant Rickets]]
 

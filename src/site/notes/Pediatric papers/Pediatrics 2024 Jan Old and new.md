@@ -32,12 +32,12 @@ IMNCI Jaundice
 Drug addiction and substance abuse in adolescent
 Counselling for complementary feeding for 6 month old child
 
-Define Microcephaly & Enumerate causes of microcephaly. 
+Define [[Pediatric Notes/Microcephaly\|Microcephaly]] & Enumerate causes of microcephaly. 
 Write a note on Measles Rubella (MR) vaccine.
 IMNCI classification of dehydration in children. 
 [[Pediatric Notes/Sexual Maturity Rating\|Sexual Maturity Rating]]
 Steps for Neonatal resuscitation. 
-List clinical features of Rickets
+List clinical features of [[Ortho notes/Rickets\|Rickets]]
 Write a note on Physiological Jaundice.
 Adolescent health program in India.
 
