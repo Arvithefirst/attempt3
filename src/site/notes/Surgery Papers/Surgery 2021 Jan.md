@@ -52,7 +52,7 @@ Write in detail of etiology, pathogenesis; clinical feature and management of do
 (p2)
 Describe etiology of [[Surgery Notes/Gallstones#Pathogenesis\|Gall stones]]. Describe clinical features investigations & management of [[Surgery Notes/Acute Cholecystitis\|acute calculus cholecystitis]].
 Describe differential diagnosis of lumps in the right iliac fossa. Discuss clinical features and management of ileocaecal kochs.
-Enumerate causes of [[Surgery Notes/Acute pancreatitis\|acute pancreatitis]]. Discuss clinical features investigations &treatment of acute necrotizing pancreatitis.
+Enumerate causes of [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]]. Discuss clinical features investigations &treatment of acute necrotizing pancreatitis.
 
 ## SAQs
 Fluid therapy in burns

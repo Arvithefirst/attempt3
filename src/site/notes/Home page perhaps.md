@@ -20,6 +20,8 @@ Uncategorised notes :3
 [[Medicine notes/Herpes Family Tree <3\|Herpes Family Tree <3]]
 [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
+[[IV Cannula Size Chart\|IV Cannula Size Chart]]
+[[Glasgow Coma Scale\|Glasgow Coma Scale]]
 
 ## Surgery paper outlinks
 [[Surgery Papers/Surgery 2024 Jan (new pattern)\|Surgery 2024 Jan (new pattern)]]
@@ -32,8 +34,6 @@ Uncategorised notes :3
 
 and ditto ditto [[Surgery Notes/Surgery Internal Syllabus\|Surgery Internal Syllabus]]
 Also for fun [[List of famous fractures and deformities\|List of famous fractures and deformities]]
-[[Glasgow Coma Scale\|Glasgow Coma Scale]]
-
 ## OBGY Paper outlinks
 [[OBGY papers/OBGY 2024 Jan\|OBGY 2024 Jan]]
 [[OBGY papers/OBGY 2023 Jan\|OBGY 2023 Jan]]

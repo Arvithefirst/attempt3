@@ -35,17 +35,19 @@ Birth - OPV, Hep B, BCG
 | 16 Years     | Td                                     |               |
 
 ## By vaccine
-Hep B(IM) - Birth and in Penta
-BCG(ID) - Birth
+1. Hep B(IM) - Birth and in Penta
+2. BCG(ID) - Birth
 
-Oral Polio Virus - 0, 6, 10, 14 weeks
-Rotavirus(oral) - 6, 10, 14 weeks
-Pentavalent(IM) - 6, 10, 14 weeks
-fractional Inactivated Polio Virus(ID) - 6, 14 weeks
-Pneumococcal Conjugate Virus(IM) - 6, 14 weeks, booster at 9-12 months
+3. Oral Polio Virus - 0, 6, 10, 14 weeks
+4. Rotavirus(oral) - 6, 10, 14 weeks
+5. Pentavalent(IM) - 6, 10, 14 weeks
+6. fractional Inactivated Polio Virus(ID) - 6, 14 weeks
+7. Pneumococcal Conjugate Virus(IM) - 6, 14 weeks, booster at 9-12 months
 
-Measles-Rubella(SD) - 9-12 monts and 16-24 months
-Japanese encephalitis(IM) - 9-12 months and 16-24 months
+8. Measles-Rubella(SD) - 9-12 monts and 16-24 months
+9. Japanese encephalitis(IM) - 9-12 months and 16-24 months
 
 DPT boosters(IM) - 16-24 months, 5 Years
 Td - 10 years, 16 years
+
+25 vaccinations. 18 injections

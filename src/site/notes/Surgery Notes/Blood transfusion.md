@@ -12,7 +12,7 @@ Packed red cells for
 4. Chronic blood loss
 5. Inadequate productino
 To replace Platelets in thrombocytopenia, FFP in Vit K deficiency, Cryoprecipitate in DIC
-Whole blood ifor massive trauma
+Whole blood for massive trauma
 
 >[!summary] Guidelines for transfusion
 >Loss >20% total volume
@@ -27,8 +27,8 @@ Going to describe them here in short
 - Each unit increases Hb by 1% and hematocrit by 3%
 - *must be ABO compatible*
 #### Platelets
-- Each unit in 50ml with $5.5 * 10^10$ platelets
-- Every unit increases platelet count by 5,000-10,000/cu mm
+- Each unit in 50ml with $5.5 * 10^{10}$ platelets
+- Every unit increases platelet count by 5,000-10,000/mm^3
 #### Fresh Frozen Plasma(FFP)
 - Each unit (200-230ml) provides coagulation factors
 - Administered at 10-20ml/kg
@@ -41,24 +41,24 @@ Going to describe them here in short
 LAQ fro sure surely surely
 
 ### Immune complications
-#### Major ABo incompatibility
+#### Major ABO incompatibility
 - Intravascular hemolysis leadinog to hemoaturia, pain, fever with chills
-- Check blood type, IV fluids, Diuretice to flush kidney avoid ATN
+- Check blood type, IV fluids, Diuretics to flush kidney avoid ATN
 #### Minor Incompatibility 
 - Extravascular hemolysis, mild malaise jaundice fever
-- Self limiting(suportive treatment)
+- Self limiting(supportive treatment)
 ### Non-hemolytic complicaytions
 #### Febrile reaction
 - Due to sensitisation to WBC or platelets. 
 - Fever with no hemolysis
 #### Allergic reaction
-- Occurs duew to allergy to plasma products causing Fever with chills
+- Occurs due to allergy to plasma products causing Fever with chills
 - Manage wth anti-histamines
 #### Transfusion related acute ling injury(TRALI)
 - Rare complication
-- Antileucocyte antibodies in donated plasma causeWBC accumulation in lungs. Degranulation of WBC in lungs causes non-cardiac pumonatry hypertension adn oedema
+- Antileucocyte antibodies in donated plasma causeWBC accumulation in lungs. Degranulation of WBC in lungs causes non-cardiac pumonatry hypertension and oedema
 - Can present as dyspnea or all the way to ARDS
-- Supportivr treatment (;asts upto 2 days)
+- Supportive treatment (lasts upto 2 days)
 #### Congestive cardiac failure
 - Due to rapid transfusion
 

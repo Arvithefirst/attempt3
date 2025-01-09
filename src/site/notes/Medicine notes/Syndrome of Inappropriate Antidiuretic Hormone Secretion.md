@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/medicine-notes/syndrome-of-inappropriate-antidiuretic-hormone-secretion/"}
 ---
 
-Abbreviated to SIADH. Involves Vasopressing and its recpetors
+Abbreviated to SIADH. Involves Vasopressin and its recpetors
 
 ## Etiology
 1. Neoplastic - SCC lung,  duodenum, ovary, bladder
 2. Infections - TB, AIDS, Mengitis, Abscess
-3. Vascular - CVA
-4. Neurological - GBS, MS, ALS
+3. Vascular - [[Medicine notes/Stroke\|CVA]]
+4. Neurological - Guillane-barre syndrome, Multiple sclerosis, ALS
 5. Respiratory - PPV, Asthma
 6. Drugs - Chlorpropamide, SSRI's, MAOi's, Oxytocin, Vasopressin
 

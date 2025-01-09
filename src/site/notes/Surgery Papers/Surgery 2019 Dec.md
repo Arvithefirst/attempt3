@@ -32,7 +32,7 @@ What is [[Surgery Notes/Hypersplenism\|Hypersplenism]]?
 Causative organism of [[Surgery Notes/Hydatid cyst\|hydatid cyst]] of liver. 
 Define [[Surgery Notes/Hydronephrosis\|hydronephrosis]].
 Define intussuception.
-[[Surgery Notes/Acute pancreatitis#Signs\|Grey Turner's sign]]
+[[Surgery Notes/Acute Pancreatitis#Signs\|Grey Turner's sign]]
 Which [[Medicine notes/Radionuclide Study for Kidneys\|radionuclide scanning]] is done in renal pathology for diagnosis of renal function?
 What is length of male urethra?
 Carcinoid syndrome.

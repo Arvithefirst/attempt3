@@ -14,7 +14,7 @@ Describes a situation where thre is sodium AND water deficit
 - Skin sodium loss (burns)
 
 ### Hyponatemia with Euvolemia
-Describes a situation where the patient is clinically euvolemic usually due to increased water intake(Polydipisa, IV dextrose eetc)
+Describes a situation where the patient is clinically euvolemic usually due to increased water intake(Polydipisa, IV dextrose etc)
 #### Causes
 - Primary polydipsia
 - Excess electrolyte free water infusion (Bladder irrigation post prostatectomy)
@@ -22,7 +22,7 @@ Describes a situation where the patient is clinically euvolemic usually due to i
 - Hypothyroidism
 
 ### Hyponatremia with Hypervolemia
-Descrribes a situatino where excess water retention leads to volume expansion and hyponatremia
+Descrribes a situation where excess water retention leads to volume expansion and hyponatremia
 #### Causes
 - Congestive cardiac failure
 - Cirrhosis
@@ -31,7 +31,7 @@ Descrribes a situatino where excess water retention leads to volume expansion an
 
 ## Investigations
 1. Serum electrolytes
-2. Serum macromolecules(urea, glusose lipids, Igs)* 
+2. Serum macromolecules(urea, glusose lipids, Igs)*
 3. Urine osmolality
 4. RFTs
 *// Macromolecules can cause artefactual hyponatremia*

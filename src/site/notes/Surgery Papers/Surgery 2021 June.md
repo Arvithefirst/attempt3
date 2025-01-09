@@ -71,7 +71,7 @@ Epiphyseal injuries in children.
 
 (p2)
 [[Medicine notes/Inflammatory Bowel Disease#Differences between UC and CD\|Difference between Ulcerative colitis and Chron's disease.]]
-Complications of [[Surgery Notes/Acute pancreatitis\|Acute Pancreatitis]]
+Complications of [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]]
 [[Surgery Notes/Gallstones\|Calculous Cholecystitis]]. 
 Mesenteric Cyst.
 Fistula in Ano. 

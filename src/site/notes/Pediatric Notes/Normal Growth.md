@@ -15,7 +15,7 @@ Each grows at its won rate. Think abut it lmao im not drawing h5t e chart
 Birth - 3kg
 	10% weight loss in first few days
 	25-30g/day for 3 months
-	400g month upto 1 year
+	400g/month upto 1 year
 5 months - 6kg (Doubles)
 1 year - 9kg (Triples)
 2 years - 12kg (Quadruples)

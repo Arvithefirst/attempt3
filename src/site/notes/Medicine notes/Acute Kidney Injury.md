@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/acute-kidney-injury/"}
 ---
 
-Or acute renal faillure is the **Sudden and often reversible loss of renal function which develops over days ot weeks often accompanied by oligouria**
+Or acute renal faillure is the *Sudden and often reversible loss of renal function which develops over days ot weeks often accompanied by oligouria*
 
 # Aetiopathogenesis
 1. Pre-renal(Impaired perfusion)
@@ -48,7 +48,7 @@ its gonna be by etiology fuck you
 
 # Treatment
 Aim of treatment is to symptomatically manage AKI so it doesnt develop into CKD by
-1. Correct fluid status with inotropics/Diuretics as necessary
+1. Correct fluid status with inotropics/diuretics as necessary
 2. Calcium resonium, glucose and insulin to correct hyperkalemia
 3. Sodium Bicarbonate for metabolic acidosis
 4. Discontinue nephrotoxic drugs

@@ -23,7 +23,7 @@ Surgical removal of gallbladder
 Goes through calots triangle. Cystic artery is identified and ligated. Duct is ligated close to the bladder
 
 #### Fundus first method 
-Done when there are adhesions. Starts with fundus and dissected proximally. Endiing with Duct and cystic artery
+Done when there are adhesions. Starts with fundus and dissected proximally. Ending with Duct and cystic artery
 
 ## Complications
 1. Infection

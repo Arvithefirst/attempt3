@@ -15,7 +15,7 @@ Typicallly involves (in order) *terminal ileum + rt colon > colon alone > termin
 ## Clinical features
 The main symptoms(3) of Crohns are
 1. Abdominal pain
-2. Diarrhoea (watery, non-blod tinged)
+2. Diarrhoea (watery, non-blood tinged)
 3. Weight loss, anemia, malabsoption symptoms
 
 // Physical examination may also reveal palpable bowel loops or perianal skin tags in 50% of cases

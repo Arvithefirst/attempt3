@@ -53,7 +53,7 @@ Define [[Ortho notes/Congenital Dislocation of Hip\|Congenital Dislocation of Hi
 
 (p2)
 Etiopathogenesis and management of [[Surgery Notes/Gallstones\|Gallstones]] disease
-Etiopathogenesis and management of [[Surgery Notes/Acute pancreatitis\|Acute pancreatitis]]
+Etiopathogenesis and management of [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]]
 Diagnosis and manegement of various types of intestinal TB
 
 ## Short answer questions

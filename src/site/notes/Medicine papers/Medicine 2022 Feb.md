@@ -42,7 +42,7 @@ Discuss the etiology, pathophysiology, clinincal features, investigations, and t
 Discuss the pathophysiology, clinical features, investigations, and treatment of Bronchial Asthma
 
 (p2)
-Discuss the pathophysiology, clinical features, investigations, and treatment of [[Surgery Notes/Acute pancreatitis\|acute pancreatitis]]
+Discuss the pathophysiology, clinical features, investigations, and treatment of [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]]
 Discuss the clinincal features diagnostic criteria, investigations and treatment of systemic lupus erythematosus
 Discuss the etiology, clinical features, investigations, and treatment of [[Medicine notes/Bacterial Meningitis\|Bacterial Meningitis]]
 

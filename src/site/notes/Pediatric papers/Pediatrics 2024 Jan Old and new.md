@@ -3,7 +3,7 @@
 ---
 
 ## One liners
-Define [[Short Stature\|Short stature]]
+Define [[Pediatric Notes/Short Stature\|Short Stature]]
 When does child double weight
 Inheritance pattern of color blindness
 [[OBGY Notes/APGAR score\|APGAR score]]

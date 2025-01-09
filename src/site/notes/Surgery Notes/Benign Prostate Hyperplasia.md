@@ -4,7 +4,7 @@
 
 ## Aetiopathogenesis
 Thre are 2 theories that explain BPH
-1. *Hormonal Theory* - Increasing age -> falling androgens -> Increased estrogern -> Hhyperplasia
+1. *Hormonal Theory* - Increasing age -> falling androgens -> Increased estrogern -> Hyperplasia
 2. *Neoplastic theory* - self explanatory
 
 ## Secondary changes in BPH
@@ -25,9 +25,9 @@ Thre are 2 theories that explain BPH
 3. Hesitancy - To urinate because attepts are unsuccessful due to obstruction
 
 >[!faq] Grading of enlarged prostate on Digital rectal examination
->Grade I - 1-2cm protrusin with palpabler median sulcus
->Grade II - <3cm protrusino with median sulcs obliterated
->Grade III - <4cm protrusino
+>Grade I - 1-2cm protrusion with palpable median sulcus
+>Grade II - <3cm protrusion with median sulcs obliterated
+>Grade III - <4cm protrusion
 >Grade IV - >4cm protrusion
 
 

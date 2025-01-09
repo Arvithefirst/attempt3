@@ -7,13 +7,13 @@ Also called Thromboangitis Obliterans (TAO). It is the *nonatherosclerotic infla
 ## Aetiopathogenesis
 Affects only men. Usually smokers/tobacco users and starts in middle years
 
-1. Nicotine and Carbon m onoxide cause vasospasm and intimal hyperplasia
+1. Nicotine and Carbon monoxide cause vasospasm and intimal hyperplasia
 2. Thrombosis and obliteration of vessels usually panarteritis that is segmental
 3. Nerve involvement causes [[Surgery Notes/Rest Pain\|Rest Pain]]
 4. Opening of collaterals delays gangrene in Compensatory peripheral vascular disease
 5. Progression leads to decompenstated peripheral ascular diseases and finally  [[Surgery Notes/Critical Limb Ischaemia\|Critical Limb Ischaemia]]
 
-## Clinical features
+## Clinical features  
 1. [[Surgery Notes/Claudication\|Claudication]] -> [[Surgery Notes/Rest Pain\|Rest Pain]] -> Ulceration -> [[Surgery Notes/Gangrene\|Gangrene]]
 2. Recurrent migratory superficial thromboiphlebitis
 
@@ -23,22 +23,22 @@ Affects only men. Usually smokers/tobacco users and starts in middle years
 
 >[!summary] Transfemoral retrograde angiogram
 >Shows blockage and
->- Corkl screw appearance of vasa vasoram
+>- Corkscrew appearance of vasa vasoram
 >- Inverted tree/spider leg collaterals
 >- Severe vasospasm
 >- Distal runoff
 
 3. Transbrachial Angiogram
 4. USG abdomen
-5. Vein/Artery.Nerve biopsy
+5. Vein/Artery/Nerve biopsy
 
 ## Treatment
-STOP SMOKKING LMAO
+STOP SMOKING LMAO
 >[!faq] Buergers Position and exercise
 >Conservative treatment involving graded exercise upto point of claudication. Heel raise position, footcare advise
 #### Drugs
 1. Vasodilators
-2. Pentoxiphylline
+2. Pentoxiphylline (phosphodieserase inhibitor -> reduces viscosity, improves RBC flexibility)
 3. Low dose aspirin
 4. Prostaglandins
 5. Clopidogrel

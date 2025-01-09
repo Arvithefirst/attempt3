@@ -17,7 +17,7 @@ Risk factors for which are
 
 ## Clinical features
 1. Polyuria, Thirst
-2. Wieight loss
+2. Weight loss
 3. Weakness
 4. Vomittng, weight loss, abdominal pain
 5. Leg cramps
@@ -45,8 +45,8 @@ Hall mark of treatment. Also corrects hyperglycemia, pH to some extent by diluti
 2 litres in 1st hour
 1 litre in 2nd hour
 1 litre over next 2 hours
-1 ltre every 4 hours hence
+1 litre every 4 hours hence
 
 2. Insluin 0.1 IU/Kg/Hr
 3. KCL diluted in NS
-4. Bicarb for acide base
+4. Bicarb for acid base

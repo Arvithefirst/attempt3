@@ -39,6 +39,7 @@ May be Primary(idiopathic) or Secondary.
 ## Treatment
 1. Lord Plication - Sac is plicated to tunica albuginea causing crumpling of vaginalis decreasing production capacity
 2. Jaboulays Operation - Sac is everted and sutured behing the testis causing secretory cells to die off 
+3. Sharma And Jhawers Operation - Testis is placed in a newly created pocket
 
 ## Complications
 1. Pyocele, Hematocele
