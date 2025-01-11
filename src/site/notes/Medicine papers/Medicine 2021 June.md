@@ -53,7 +53,7 @@ Describe clinical features, investigations and management of Cirrhosis of liver.
 
 (p1)
 Drug therapy of [[Medicine notes/Cardiac failure#Drug therapy\|Congestive heart failure]]
-Management of Hyperkalemia.
+Management of [[Surgery Notes/Hyperkalemia\|Hyperkalemia]].
 Complications of P. Falciparum Malaria.
 Second line Antituberculous drugs.
 Diferences betwen Exudative and transudative Pleural effusion.
@@ -63,10 +63,10 @@ Pulmonary function tests
 
 (p2)
 [[Medicine notes/Herpes Zoster\|Herpes Zoster]]
-Serum Markers of Hepatitis B.n
-Heat stroke.
-Obsessive Compulsive Disorder.
-Scabies.
+Serum Markers of Hepatitis B
+Heat stroke
+Obsessive Compulsive Disorder
+Scabies
 Management of Acetamenophane poisoning.
-Clinical features of SLE.
-Management of Senile Osteoporosis.
+Clinical features of SLE
+Management of Senile Osteoporosis

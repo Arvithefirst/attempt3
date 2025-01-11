@@ -13,16 +13,16 @@
 lots a ways but choosing by SAAG ratio
 #### High SAAG ratio 
 (>1.1g/dl)
-- Portal hypertension
+- [[Medicine notes/Portal Hypertension\|Portal Hypertension]]
 - Hepatic outflow obstruction
-- Alscoholic hepatitis
-- Cardiac failure, Rigth sided heart failure, Constrictive pericarditis
+- Alcoholic hepatitis
+- [[Medicine notes/Cardiac failure\|Cardiac failure]], Rigth sided heart failure, Constrictive pericarditis
 - Myxodema
 #### Low SAAG Ratio 
 (<1.1g/dl)
 - Peritoneal TB
 - Carcinoma
-- Pancreatitis
+- [[Surgery Notes/Acute Pancreatitis\|Pancreatitis]]
 - [[Medicine notes/Nephrotic Syndrome\|Nephrotic Syndrome]]
 - Bowel infarct
 

@@ -18,6 +18,7 @@ also pulled from the list of classes we've had so far we have [[Medicine notes/M
 
 Uncategorised notes :3
 [[Medicine notes/Herpes Family Tree <3\|Herpes Family Tree <3]]
+[[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 [[IV Cannula Size Chart\|IV Cannula Size Chart]]
