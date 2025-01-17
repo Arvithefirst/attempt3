@@ -5,7 +5,7 @@
 Failiure to conceinve within >1 year of rawdogging it. This is female perhaps you are looking for [[OBGY Notes/Male infertility\|Male infertility]]
 
 ## Causes 
-Male is responsible in 30-40% on cases. Female in 40-55$ and both in 10%.
+Male is responsible in 30-40% on cases. Female in 40-55% and both in 10%.
 1. Ovarian
 	1. Anovulation
 	2. Luteal phase defects

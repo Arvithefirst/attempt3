@@ -5,7 +5,7 @@
 ## Problem based questions
 A 30weeks primigravid comes to labour room with 6 hours of watery pervaginal discharge. How will you investigate and manage
 
-21f comes to emergency with high fever and pain in lower abdomen 4 days after normal home delivery with prolonged labour. d/d and management ofthis case [[OBGY Notes/Puerperal sepsis\|Puerperal sepsis]]
+21f comes to emergency with high fever and pain in lower abdomen 4 days after normal home delivery with prolonged labour. d/d and management of this case [[OBGY Notes/Puerperal sepsis\|Puerperal sepsis]]
 
 ## Long answer questions
 Discuss the diagnosis of and complications of [[OBGY Notes/Twin Pregnancy\|Twin Pregnancy]].
@@ -22,7 +22,7 @@ Define infertility. Enumerate the etiological factors for primary [[OBGY Notes/I
 Define and classify [[OBGY Notes/Cervical Intraepithelial Neoplasia\|Cervical Intraepithelial Neoplasia]] (CIN). What are the various tests available for screening of cervical cancer?
 
 ## Short answer questions
-Lifestyle and diet counselling for antenatal mother diagnoses with gestational diabetes
+Lifestyle and diet counselling for antenatal mother diagnoses with [[OBGY Notes/Gestational diabetes\|gestational diabetes]]
 [[OBGY Notes/First Stage of Labour#Investigations\|Role of partogram]] in labour management
 [[OBGY Notes/BISHOP score\|BISHOP score]] and its relevance in obs management
 Diagnosis of heart disease in pregnancy
@@ -37,9 +37,9 @@ Evaluation of fetal growth restriction
 Implications of antiphospholipid antibody syndrome in obstetrics
 
 (p2)
-FIGO Classification for AUB([[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal uterine bleeding]])
+FIGO Classification for [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal uterine bleeding]]
 Medical management of [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
-Pap smear
+[[OBGY Notes/Cervical Intraepithelial Neoplasia#Pap smear (Papanicolau and Traut)\|Pap smear]]
 Hysteroscopy
 Treatment of hydatidiform mole
 Fiduciary duty (AETCOM) (Compulsory short note)

@@ -15,7 +15,7 @@ What is [[Surgery Notes/Erysipelas\|Erysipelas]]?
 What is an Allograft?
 
 (Ortho)
-Clinical features of [[Ortho notes/Rickets\|Ortho notes/Rickets]]
+Clinical features of [[Ortho notes/Rickets\|Rickets]]
 Investingations in [[Ortho notes/Ewings' Sarcoma\|Ewings' Sarcoma]]
 Babinski sign
 Macmurrays test

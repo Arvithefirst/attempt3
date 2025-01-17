@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/gangrene/"}
 ---
 
-Macroscopic death of tissuein situ
+Macroscopic death of tissue in situ
 
 ## Etiology
 1. Secondary to [[Surgery Notes/Buergers disease\|Buergers disease]], Raynauds, Diabetes, Emboli
@@ -17,7 +17,7 @@ Macroscopic death of tissuein situ
 3. Line of demarcation (clearer in dry variant)
 4. Proximal ischaemic features
 
-There are Dry and Wet gnagrene(also gas gangrene). You rmeember the differences
+There are Dry and Wet gnagrene(also gas gangrene). You remember the differences
 
 ## Investigations
 1. Routine - Hb, BSL

@@ -4,10 +4,10 @@
 
 ## One liners
 Double bubble sign in Xray abdomen is which disorder
-Normal infant triples weight at which age
+Normal infant triples weight at which age [[Pediatric Notes/Normal Growth#Weight\|Normal Growth#Weight]]
 Drug of choice for pneumocystitis jirovecii in HIV
 Gold standard test for Typhoid
-Zoonotic infectin from unpasteurised milk
+Zoonotic infection from unpasteurised milk
 Define [[Surgery Notes/Hyperkalemia\|hyperkalemia]]
 beri beri is which deficiency
 Characteristic 2nd heart sound of ASD
@@ -21,7 +21,7 @@ Define small for gestational age
 Most common pediatric malignancy
 Rotavirus vaccine complication
 Common site of Extrapulmonary TB
-Mode of transmission of HIV in chiuldren
+Mode of transmission of HIV in children
 Iron chelators
 Medication for ADHD
 
@@ -37,9 +37,9 @@ Nephrotic syndrome
 ## SAQ
 Age independant criteria for nutrition[[Pediatric Notes/Indicators of Malnutrition\|Indicators of Malnutrition]]
 Stages of tubercular meningitis
-MR vaccine
+[[MMR Vaccine\|MMR vaccine]]
 Clinical features of hypothyroidism
-Paracetamol poisining
+Paracetamol poisining [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 Management of CCF
 Enumerate causes of proteinurea
 Sickle cell anemia
@@ -48,6 +48,6 @@ Anterior fontanelle delay
 Complication of infant of diabetic
 DPT vaccine
 Advantages of breastfeeding
-Clniical features of downs syndrome
+Clinical features of downs syndrome
 Causes of hypoglycemia in newborne and management
 [[Medicine notes/Status Asthmaticus\|Status Asthmaticus]]

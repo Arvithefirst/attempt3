@@ -23,7 +23,7 @@
 
 ## Investigations
 1. X-ray pelvis/KUB sxray
-2. Ascending Urethrography (ASU
+2. Ascending Urethrography (ASU)
 3. Voiding cystourethrogram(CSUG)
 
 ## Treatment

@@ -4,18 +4,18 @@
 
 Also calle Severe Acute Asthma
 
-It is a medical emergerncy of complicate duntreated Asthma
+It is a medical emergerncy of complicated untreated Asthma
 
 ## Treatment
 1. Nebulised Salbutamol 5mg + high flow oxygen + prednisolone 
 2. Measure PEF
-3. ABG
+3. Arterial Blood Gas
 
 If PEF >60% predicted
-1. Send hom ewith glucocorticoiud 
+1. Send home with glucocorticoid 
 
 Else
-1. IV accessm Chgest Xray, Plasma theopohpylkline, Plasma potassium. ADMIT
+1. IV accessm Chest Xray, Plasma theophylline, Plasma potassium. ADMIT
 2. Repeat salbutamol 5mg + Ipratropium bromidde 
 3. Consider continuous nebuliser
 4. Consider IV MgSO4

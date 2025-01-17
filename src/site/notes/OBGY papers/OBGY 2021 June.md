@@ -9,7 +9,7 @@ Define puerperal sepsis.
 What are complications of eclampsia?
 What are the determinants of [[OBGY Notes/APGAR score\|APGAR score]]?
 How is dimorphic anaemia treated?
-Enumerate two causes of hyperemesis gravidarum.
+Enumerate two causes of [[OBGY Notes/Hyperemesis Gravidarum\|hyperemesis gravidarum]].
 Feto-maternal bleed is detected by which test?
 Which type of twin pregnancy has the highest mortality?
 Name the technique use of deliver the aftercoming head in breech presentation.
@@ -48,8 +48,8 @@ Prevention of virtual transmission in HIV.
 Diagnosis of IUGR.
 
 (p2)
-Pap Smear.
-Progesterone IUCD[[OBGY Notes/Intrauterine Contraception Devices\|Intrauterine Contraception Devices]].
+Pap Smear [[OBGY Notes/Cervical Intraepithelial Neoplasia#Investigations\|Cervical Intraepithelial Neoplasia#Investigations]]
+Progesterone [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]].
 [[OBGY Notes/Clomiphene Citrate\|Clomiphene Citrate]].
 [[OBGY Notes/Male infertility\|Semen Analysis]].
 Medical Management of Endometriosis.

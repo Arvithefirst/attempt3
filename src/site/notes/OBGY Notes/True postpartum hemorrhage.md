@@ -11,7 +11,7 @@ It is the imperfect contraction and retraction of the uterus. Most common cause 
 - Grand multipara
 - Over-distension of the uterus (Multiple pregnancy, Hydramnios, Large baby)
 - Malnutrition and [[OBGY Notes/Anemia in pregnancy\|Anemia in pregnancy]]
-- Antepartum Hemorrhage
+- [[OBGY Notes/Antepartum Hemorrhage\|Antepartum Hemorrhage]]
 - Prolonged labour
 - Anesthesia
 - Premature cessation of oxytocin in induced labour
@@ -25,7 +25,7 @@ Usually following instrumental delivery. May follow episiotomy
 #### Retained Tissue
 Bits of plaecnta, Blood clots may impede uterine retraction
 #### Coagulation disorders
-Acquired on congenital coagulopathies. May also be seen in Abruptio Placentae, Jaundice, Thrombocytopenic purpura, HELLP syndrome, or IUD
+Acquired on congenital coagulopathies. May also be seen in [[OBGY Notes/Abruptio placentae\|Abruptio Placentae]], Jaundice, Thrombocytopenic purpura, [[OBGY Notes/HELLP Syndrome\|HELLP syndrome]], or [[OBGY Notes/Intrauterine Contraception Devices\|Intrauterine Contraception Devices]]
 
 ## Prevention
 Post PPH cases have no identifiable risk factors, however with proper investiagtions some risk can be mitigated

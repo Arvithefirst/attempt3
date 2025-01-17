@@ -47,7 +47,7 @@ Perineal tear.
 Indications of vacuum delivery.
 
 (p2)
-Squamocolumnar junction
+Squamocolumnar junction [[OBGY Notes/Cervical Intraepithelial Neoplasia#Pathology\|Cervical Intraepithelial Neoplasia#Pathology]]
 Pelvic diaphragm
 PALM COEIN classification of [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]
 [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]]

@@ -11,7 +11,7 @@ A 60-year-old farmer comes to the OPD with dilatation of veins over right leg an
 A 25-year-old male presented with painless progressive enlargement of
 bilateral neck swellings, right axillary swelling and weight loss. On
 examination, evidence of multiple lymphnodes palpable-non-tender,
-smooth, firm, and discrete (non-matted). What is your probable diagnosis?How will you investigate and manage. (Secondaries to neck)
+smooth, firm, and discrete (non-matted). What is your probable diagnosis?How will you investigate and manage. ( Ca. metastasis to neck)
 
 ## Short answer questions
 Written consent for  Laparoscopic SOS open [[Surgery Notes/Cholecystectomy\|Cholecystectomy]].

@@ -6,7 +6,7 @@ Chronic inflammatory diseaseof the airways associated with Airway Hyper-Resonsiv
 
 ## Pathophysiology
 Genetic related
-1. Airway-Hypereactivity (AHR)
+1. Airway-Hyperreactivity (AHR)
 2. Increased propensity for IgE production
 
 *Allergen triggered mediator release* 
@@ -31,12 +31,14 @@ Genetic related
 3. PEF diary maintenance
 4. Skin prick tests
 5. Chest Xray - CT
-6. Corticostreriod trial
+6. Corticosteriod trial
 
 ## Treatment
-Ramoping up control measures
+Use short acting ß-agonists as required - Salbutamol, Terbutaline
+
+Ramping up control measures
 1. Low dose Inhaled corticosteroid(ICS)
-2. Inhaled Long acting B-agonist(LABA) + Low dose ICS
+2. Inhaled Long acting ß-agonist(LABA) + Low dose ICS
 3. Increase ICS dose and/or consider Muscarinic antagonist/Leukotriene Antagonist/Theophylline
 4. High dose + add from above group
 5. Daliy oral steroid + High dose ICS

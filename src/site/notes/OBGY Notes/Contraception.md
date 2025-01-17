@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/obgy-notes/contraception/"}
 ---
 
-
 The activity of inhibiting fertility (not to be confused with fertility control.)
 ## The Ideal contraceptive
 - Widely acceptable

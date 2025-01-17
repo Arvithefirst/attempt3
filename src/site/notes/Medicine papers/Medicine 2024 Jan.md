@@ -27,13 +27,13 @@ Approach to polyarthritis
 [[Medicine notes/Herpes Zoster\|Herpes Zoster]] infection of skin- clinical features and management 
 Dermatological manifestations of Diabetes mellitus
 Lepra reaction
-Management of Psoariasis
+Management of [[Medicine notes/Psoriasis\|Psoriasis]]
 Mania
 Clinical features and management of Schizophrenia 
-Cognitive Behavioral therapy  
-Tricyclic Antidepressant drugs
+[[Medicine notes/Cognitive Behavioural Therapy\|Cognitive Behavioural Therapy]]
+Tricyclic Antidepressant drugs[[Medicine notes/Amazon Wishlist\|Amazon Wishlist]]
 Differences between [[Medicine notes/Emphysema V Chronic bronchitis\|Emphysema V Chronic bronchitis]]
-Acute severe Asthma
+Acute severe [[Medicine notes/Asthma\|Asthma]]
 Viral Pneumonia
 Cor Pulmonale
 

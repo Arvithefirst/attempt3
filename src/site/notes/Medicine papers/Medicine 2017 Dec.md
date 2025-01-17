@@ -52,19 +52,19 @@ Describe clinical features, diagnosis of Alcoholic Liver disease and enumerate t
 # Short Answer questions
 
 (p1)
-Name symptoms of HIV-AIDS.
+Name symptoms of [[Medicine notes/HIV\|HIV]]-AIDS.
 Target Organ Damage (complications) in hypertension. 
 Investigations to diagnose haemolytic anaemias.
 Clinical Signs of [[Medicine notes/Cardiac failure\|Cardiac failure]] Congestive Cardiac Failure.
 [[Medicine notes/Infective endocarditis#Dukes criteria for diagnosis of IE\|Diagnosis of Bacterial Endocarditis]] in a patient of Rheumatic Valvular Heart Disease.
 Clinical features and diagnosis of Megaloblastic Anaemia (B12 deficiency).
 Symptoms and signs of portal hypertension.
-Complicated Malaria.
+Complicated [[Medicine notes/Malaria\|Malaria]].
 
 (p2) 
 Bell's Palsy.
-Clinical features and diagnosis of systemic Lupus Erythematosus.  
-Drugs used in management of Type 2 Diabetes Mellitus.
+Clinical features and diagnosis of [[Medicine notes/Systemic Lupus Erythematosus\|systemic Lupus Erythematosus]].  
+Drugs used in management of Type 2 Diabetes Mellitus. [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 Urticaria.
 Obsessive Compulsive Neurosis.
 Cushing's syndrome.

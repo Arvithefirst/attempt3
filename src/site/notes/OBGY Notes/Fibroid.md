@@ -7,7 +7,7 @@ Commonest benign tumour of the uterus. Commonenst benign solid tumourin women. *
 ## Etiology
  20% of women above 30 have fibroids. 50% of those are symptomatic
  1. More common in Obese, Nullliparous, Black women. Less common in smokers
- 2. Estrogen dependant tumour (grows i in pregnancy, high dose OCP)
+ 2. Estrogen dependant tumour (grows in pregnancy, high dose [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]])
 
 ## Types 
 Divided by anatomical location
@@ -29,7 +29,7 @@ Divided by anatomical location
 >Adjacent myometrium that has been comopressed forms a pinkish capsule around the growth seperated vby a layer of loose areolar tissue
 
 ### Secondary changes in fibroid
- This is part opf an laq apparently
+ This is part of an laq apparently
 #### Degenerations
 These occur because the inside of the tiumour is much less vascular than the outise
 1. Hyaline degeneration(65%) - Loss of whorls, soft elastic consistency
@@ -57,9 +57,9 @@ Very rare <0.1% chance
 ## Clinical features
 1. Usually asymptomatic
 2. [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]] - Menorrhagia is classic could also be metrohagia
-3. Dysmenorrhoea
+3. [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]]
 4. Dyspareunia
-5. Infertility
+5. [[OBGY Notes/Infertility\|Infertility]]
 6. RPL
 7. Pelvic pain
 8. Complications (Infection, Hemorrhage, Polycythemia)
@@ -89,7 +89,7 @@ Very rare <0.1% chance
 >Hybrid leiomyomas are listed as 2 numbers where the first is relative to endometrium and the 2nd to serosa. eg 2-5 has less than 50% in uterine cavity adn <50% in peritoneum
 
 ## Management
-Cervical polyp is alwasy operated on (cause urinary symptoms?) by hysterectomy/myomectomy
+*Cervical polyp* is alwasy operated on (cause urinary symptoms?) by hysterectomy/myomectomy
 
 ### Body Fibroids
 If its asymptomatic and
@@ -114,6 +114,6 @@ Aims to control anemia, limit size, correct infertility
 - Uterine arteryt embolised through percutaneous femoral catheterisation
 - Useful when surgery is contraindicated
 - May complicate into opst-embolisation syndrome
-Hysterectomy
-Surgery of choice when patient >40 as there is no chance of recurrence
+<mark style="background: #FFF3A3A6;">Hysterectomy</mark>
+- Surgery of choice when patient >40 as there is no chance of recurrence
 

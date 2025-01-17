@@ -24,7 +24,7 @@ Features of [[Medicine notes/Algid malaria\|Algid malaria]]
 (p2)
 Drug of choice for acute attack of [[Medicine notes/Acute Gout#Treatment\|Gout]]
 What is P-ANCA posistive vasculitis
-Treatment of choice for psoriasis
+Treatment of choice for [[Medicine notes/Psoriasis\|psoriasis]]
 Name 2 first rank symptoms of schizophrenia
 Which vitamin deficiency is present in megaloblastic anema
 What is ophthalmological findings in wilsons disease
@@ -56,7 +56,7 @@ Discuss etiology, clinical features, investigations and treatment of [[Medicine 
 Clinical manifestation, complications and management of [[Medicine notes/Chickenpox\|Chickenpox]]
 Montoux test
 Pathogenesis, clinical features, investigations, and management of ITP
-Differentation between early onset(atopic) and late onset(non-atopic) Asthma
+Differentation between early onset(atopic) and late onset(non-atopic) [[Medicine notes/Asthma\|Asthma]]
 What is [[Medicine notes/Status epilepticus\|Status epilepticus]]. How will you manage a case of Status Epilepticus
 What are clinical features, investigations and management of Pulmonary embolism
 Osteoporosis

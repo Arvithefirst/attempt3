@@ -10,7 +10,7 @@
 
 ## Classification
 #### Oral
-1. Combined Oral Contraceptives
+1. [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]]
 	- Monophasic
 	- Biphasic
 	- Triphasic

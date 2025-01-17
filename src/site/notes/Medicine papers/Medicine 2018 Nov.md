@@ -54,12 +54,12 @@ Discuss causes of adreno cortical insufficiency. Write clinical features, bioche
 
 Discuss pathophysiology, clinical features, investigations and management of myasthenia gravis.
 
-Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised American Rheumatic Association criteria (ARA) for diagnosis ofSLE. Discuss management of Systemic Lupus Erythematosus (SLE.) 
+Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised American Rheumatic Association criteria (ARA) for diagnosis ofSLE. Discuss management of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]] (SLE.) 
 
 # Short Answer Questions
 
 (p1)
-WHO clinical staging of HIV infection.
+WHO clinical staging of [[Medicine notes/HIV#Clinical features\|HIV]] infection.
 Constrictive pericarditis.
 Continuous ambulatory [[Medicine notes/Renal Replacement Therapy#Peritoneal Dialysis\|Peritoneal dialysis.]]
 Newer drugs for bronchial asthma.
@@ -73,7 +73,7 @@ H. Pylori induced [[Medicine notes/Peptic Ulcer disease\|peptic ulcer]].
 Primary hyperparathyroidism
 Somatoform disorders 
 Chronic hepatitis
-DPP4 inhibitors
+DPP4 inhibitors [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 Scorpion sting
 Dermatomyositis
 Thiamine deficiency.

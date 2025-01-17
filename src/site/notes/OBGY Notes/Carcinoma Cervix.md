@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/carcinoma-cervix/"}
 ---
 
-Most ocmmon cancer in women in developing countries
+Most common cancer in women in developing countries
 
 ## Pathology
 80% in ectocervix
@@ -19,25 +19,24 @@ Histologically can be
 ### Stage I
 Confined to cervix
 #### Stage Ia (Microinvasive)
-1. Invasion <3mm andn extension <7mm
+1. Invasion <3mm and extension <7mm
 2. Invasion >3mm but <5mm and extension >7mm
 #### Stage Ib(Overt)
 1. Clinically visible lesion is <4cm
-2. Clinically visible lesion in>4cm
-3. 
+2. Clinically visible lesion is >4cm
 ### Stage II
-Extends past unterus but not into pelvic wall or lower 1/3rd vagina
+Extends past uterus but not into pelvic wall or lower 1/3rd vagina
 #### Stage IIA
 Without parametrial invasion
-1. Clinical visible lesion <4cm
+1. Clinically visible lesion <4cm
 2. Clinically visible lesion >4cm
 #### Stage IIB
 With paramtrium involvement
 
 ### Stage III
-Extends into pelvic wall OR Involves lower 1/3rd vagina OR Causes hydronephrosis
-**Stage IIIA** - Into Lower 1/4 vagina but not pelvis
-**Stage IIIB** - Into pelvic wall and/or Causing hydronephrosis
+Extends into pelvic wall OR Involves lower 1/3rd vagina OR causes [[Surgery Notes/Hydronephrosis\|Hydronephrosis]]
+**Stage IIIA** - Into Lower 1/3 vagina but not pelvis
+**Stage IIIB** - Into pelvic wall and/or causing Hydronephrosis
 
 ### Stage IV
 Extended beyong pelvis or involves bladder/rectum
@@ -46,7 +45,7 @@ Extended beyong pelvis or involves bladder/rectum
 
 ## Investigations
 1. Inspection and pelvix examination
-2. Lymph node palpation'
+2. Lymph node palpation
 3. Colposcopy, Hysteroscopy, Cystoscopy
 4. Biopsy
 5. Endocervical cerettage
@@ -84,7 +83,7 @@ Contraindicated in
 - PID
 - Younger women
 Adv.
-- Better asurvival, Less complicationss
+- Better survival, Less complications
 - Individualisation is possible
 
 ### Combination therapy

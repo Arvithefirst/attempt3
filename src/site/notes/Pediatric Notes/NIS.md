@@ -35,19 +35,27 @@ Birth - OPV, Hep B, BCG
 | 16 Years     | Td                                     |               |
 
 ## By vaccine
-1. Hep B(IM) - Birth and in Penta
-2. BCG(ID) - Birth
+1. Hepatitis B Vaccine(IM) - Birth and in Penta
+2. [[BCG vaccine\|BCG vaccine]](ID) - Birth
 
 3. Oral Polio Virus - 0, 6, 10, 14 weeks
 4. Rotavirus(oral) - 6, 10, 14 weeks
-5. Pentavalent(IM) - 6, 10, 14 weeks
+5. Pentavalent vaccine(IM) - 6, 10, 14 weeks
 6. fractional Inactivated Polio Virus(ID) - 6, 14 weeks
 7. Pneumococcal Conjugate Virus(IM) - 6, 14 weeks, booster at 9-12 months
 
-8. Measles-Rubella(SD) - 9-12 monts and 16-24 months
+8. [[MMR Vaccine\|MMR Vaccine]](SD) - 9-12 monts and 16-24 months
 9. Japanese encephalitis(IM) - 9-12 months and 16-24 months
 
 DPT boosters(IM) - 16-24 months, 5 Years
 Td - 10 years, 16 years
 
 25 vaccinations. 18 injections
+
+#### Others
+1. Hepatitis A vaccine
+2. Typhoid Vaccine
+3. Varicella vaccine
+4. Influenza vaccine
+5. Meningococcal vaccine
+6. Rabies Vaccine

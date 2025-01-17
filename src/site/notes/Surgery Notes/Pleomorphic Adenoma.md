@@ -19,7 +19,7 @@ Refers to benign salivary gland neoplasm
 3. Obliterated retromandibular groove
 4. Smooth shiny skin
 
->[!bug] Suspect m,alignant change when
+>[!bug] Suspect malignant change when
 >1. Rapid growth
 >2. Skin infiltration
 >3. Facial nerve involvement
@@ -39,10 +39,10 @@ No biopsy until malignant change suspected because
 4. Xray bones
 5. MRI
 
-## tyreatment
+## Treatment
 1. Conservative Superficial parotidectomy
-2. Total conservative parotidectomy(facial n4erve conserved)
-3. Total Parotidectomy with excisionof facial nerve
+2. Total conservative parotidectomy(facial nerve conserved)
+3. Total Parotidectomy with excision of facial nerve
 4. Radical parotidectomy (involves skin, TMJ, Mandible, Petrous bone)
 5. Postoperative radiotherapy
 

@@ -21,11 +21,11 @@ balls not falling from retroperitneum to scrotum
 2. *E*pididymo-orchitis
 3. *S*terility
 4. *T*orsion
-5. *I*ndirect hernia
+5. *I*ndirect [[Surgery Notes/Hernia\|hernia]]
 6. [[Surgery Notes/Seminoma\|Seminoma]]
 
 ## Treatment
 1. Orchidopexy (open/lap), (1 / 2 staged)
 2. Orchidectomy
 3. Ombredanned procedure - Testis is brought down and kept in dartos puoch
-4. Silbar procedure - Testicular artery an dvein are brought down 
+4. Silbar procedure - Testicular artery and vein are brought down 

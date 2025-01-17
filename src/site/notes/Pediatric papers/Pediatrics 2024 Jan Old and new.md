@@ -4,7 +4,7 @@
 
 ## One liners
 Define [[Pediatric Notes/Short Stature\|Short Stature]]
-When does child double weight
+When does child [[Pediatric Notes/Normal Growth#Weight\|double weight]]
 Inheritance pattern of color blindness
 [[OBGY Notes/APGAR score\|APGAR score]]
 CSF from 3/4 ventricle passes through which brain structure
@@ -12,14 +12,14 @@ Osmolarity of [[Pediatric Notes/WHO ORS\|WHO ORS]]
 Drug of chouice for [[Medicine notes/Acute Rheumatic heart disease#Treatment\|Rheumatic fever]]
 3 Clinical features of [[Pediatric Notes/Congenital Rubella\|Congenital Rubella]] syndrome
 Protein content of breast milk
-Antidote for paracetmol poisoning
+Antidote for paracetmol poisoning [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 
 ## LAQs
 [[Nephrotic syndrome \|Nephrotic syndrome ]]
 Dehydration 
 Meningitis 
 RDS
-Status Asthmaticus
+[[Medicine notes/Status Asthmaticus\|Status Asthmaticus]]
 Severe anaemia
 Tetanus
 
@@ -33,7 +33,7 @@ Drug addiction and substance abuse in adolescent
 Counselling for complementary feeding for 6 month old child
 
 Define [[Pediatric Notes/Microcephaly\|Microcephaly]] & Enumerate causes of microcephaly. 
-Write a note on Measles Rubella (MR) vaccine.
+Write a note on [[MMR Vaccine\|MMR vaccine]].
 IMNCI classification of dehydration in children. 
 [[Pediatric Notes/Sexual Maturity Rating\|Sexual Maturity Rating]]
 Steps for Neonatal resuscitation. 
@@ -42,3 +42,4 @@ Write a note on Physiological Jaundice.
 Adolescent health program in India.
 
 
+	4

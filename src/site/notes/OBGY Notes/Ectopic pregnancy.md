@@ -25,21 +25,21 @@ Can be Acute, Unruptured, or subacute(old)
 
 ### Unruptured ectopic
 1. Features of pregnancy, with uneasyness on one side
-2. Diagnosable by TVS, bhCG and Laprascopy
+2. Diagnosable by TVS, ß-hCG and Laprascopy
 ### Old ectopic
 1. She had pain and now doesnt
 2. Features of shock, sepsis
 
 ## Investigations
-For acute do blood typing and stuf because medical emergency. Treat like shock
+For acute *do blood typing and stuff* because medical emergency. Treat like shock
 
 ### Acute ruptured ectopic
 1. Ringers lactate
 2. Blood transfusion, artificial blood
 3. Laparatomy
 4. Salpingectomy
-5. Subtotal hysterrectomy
-1
+5. Subtotal hysterectomy
+
 ### Unruptured tubal pregnancy
 #### Expectant
 Wait and wathcing hopin gfor spontaneous resolution

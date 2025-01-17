@@ -33,3 +33,14 @@ Fever, Weight loss, Lymphadenopathy
 3. Anti dsDNA antibody testing, ELISA
 
 ## Treatment
+#### Mild to moderate disease
+- NSAIDs + Hydroxychloroquine
+- Glucocorticoids(Prednisolone) + Immunosuppresants(Methotrexate/Mycophenolate mofetil/Azathioprine)
+- Monoclonal antibody - Belizumab
+
+#### Severe disease 
+- Methylprednisolone + Cyclophosphamide
+- Mesna
+- Rituximab
+
+// maintenance with low dose long term glucocorticoid + Immunosuppressant

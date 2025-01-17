@@ -12,14 +12,14 @@ When they occur in rapd succession they are clled [[Medicine notes/Status epilep
 4. Coma
 
 ## Management
-Prevention and prophjylaxis is the mainstay of treatment
+Prevention and prophylaxis is the mainstay of treatment
 - Supportive care to avoid injury, prevent aspiration and maintain airway/perfusion
 - Prevention of complications 
 - Maintenance of fluid staus
-- P{rophylactic cephalosporins
+- Prophylactic cephalosporins
 
 ### Specific treatment
- - Pritchard intramuscular regimen - 4gm over 3-5 minutes + 10mg IM Magnesium sulphate loadding dose
+ - *Pritchard intramuscular regimen* - 4gm over 3-5 minutes + 10mg IM Magnesium sulphate loading dose
  - Lytic cocktail - Chlorpromazine, promethaxzine, and perthidine
  - Diazepam
  - Phenytoin

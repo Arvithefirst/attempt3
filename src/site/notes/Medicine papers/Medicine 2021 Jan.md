@@ -28,7 +28,7 @@ Four clinical signs of upper motor neurone lesions.
 Write two investigations for Myasthenia gravis.
 Mention four side effects of insulin therapy.
 Write four causes of Liver Cirrhosis.
-Write Specific treatment for opioid poisoning.
+Write Specific treatment for opioid poisoning. [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 Write two clinical features of Turner's syndrome.
 How will you classify diabetes insipidus.
 Define [[Medicine notes/Acute diarrhoea\|Diarrhoea]].
@@ -52,7 +52,7 @@ Discuss atiology, complications and management of obesity.
 (p1)
 Write a short note on hypervolaemic [[Medicine notes/Hyponatremia\|hyponatremia]].
 Syndrome of inappropriate anti diuretic hormone.[[Medicine notes/Syndrome of Inappropriate Antidiuretic Hormone Secretion\|SIADH]]
-Write post exposure prophylaxis for HIV.
+Write post exposure prophylaxis for [[Medicine notes/HIV#Prophylaxis\|HIV#Prophylaxis]].
 Short note on Pulmonary function tests.
 Basic Life Support and advanced life support in Cardiac arrest.
 Tropical eosinophilia.
@@ -60,7 +60,7 @@ Causes and investigations for pancytopenia.
 Management of acute Respiratory failure.
 
 (p2)
-Clinical features of systematic lupus erythematosus.
+Clinical features of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]]
 Write short note on Beriberi.
 Guillain-Barre syndrome.
 Write a short note on Incretin-based therapies in diabetes mellitus.

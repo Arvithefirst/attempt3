@@ -3,7 +3,7 @@
 ---
 
 By what age can a child stack 9 cubes
-Birth weight quadruples by
+Birth weight quadruples by [[Pediatric Notes/Normal Growth#Weight\|Normal Growth#Weight]]
 2 causes of preventable intellectual disability
 Folate is important for embryogenesis of
 Shakirs tape is used for

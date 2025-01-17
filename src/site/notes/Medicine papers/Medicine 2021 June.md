@@ -46,7 +46,7 @@ Describe clinical features, Investigations and management of Enteric Fever
 
 (p2)
 Describe clinical features, investigations and management of Parkinson's Disease.
-Describe clinical features, investigations and management of Thyrotoxicosis.
+Describe clinical features, investigations and management of [[Medicine notes/Hyperthyroid crisis\|Thyrotoxicosis]]. 
 Describe clinical features, investigations and management of Cirrhosis of liver.
 
 ## SAQs
@@ -67,6 +67,6 @@ Serum Markers of Hepatitis B
 Heat stroke
 Obsessive Compulsive Disorder
 Scabies
-Management of Acetamenophane poisoning.
-Clinical features of SLE
+Management of Acetamenophane poisoning. [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
+Clinical features of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]]
 Management of Senile Osteoporosis

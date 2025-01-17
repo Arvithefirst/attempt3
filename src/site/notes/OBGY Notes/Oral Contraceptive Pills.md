@@ -36,11 +36,11 @@ Estrogens - Ethinyl-estradiol, Menstranol
 5. Breast cancer
 
 ## Uses
-1. Contraception - convenient effective (0.1 /HWY), reversible
+1. [[OBGY Notes/Contraception\|Contraception]] - convenient effective (0.1 /HWY), reversible
 2. Regulation of menstruation
 3. [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]]
 4. Reduction of PMS
-5. Reduction of Mittelshmertz syndrome?
+5. Reduction of Mittelshmertz syndrome(?)
 6. Protection against Iron deficiency anemia
 7. Protection against PID
 8. Protection against [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
@@ -59,9 +59,9 @@ Estrogens - Ethinyl-estradiol, Menstranol
 Minor
 1. Nauseea, vomitting, Headache
 2. Mastalgia
-3. Weigth gain
+3. Weight gain
 4. Chloasma, Acne
-5. BreakThrough Bleeding, Hypomenorrhea, Amenorrhoea
+5. Breakthrough Bleeding, Hypomenorrhea, Amenorrhoea
 6. Diminished Libido
 7. Leucorrhoa
 Major

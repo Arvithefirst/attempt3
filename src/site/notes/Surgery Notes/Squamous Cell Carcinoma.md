@@ -22,7 +22,11 @@ More common in tobacco users
 ## Investigations
 1. CBC, etc etc
 2. Histology (Broder classsification, Keratin pearls, Cytokeratins 1-10)
-
+>[!info] Broders classification
+>Well differentiated - >75% keratin pearls
+>Moderately differentiated - >50% keratin pearls
+>Poorly differentiated - >25% keratin pearls
+>Undifferentiated - <25% keratin pearls
 ## Managemet
 1. Medical
 2. Surgical excision

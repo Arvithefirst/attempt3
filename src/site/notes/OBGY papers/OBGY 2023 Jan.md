@@ -7,7 +7,7 @@ Mention 4 criteria for [[OBGY Notes/Pre-eclampsia#Classification\|severe pre-ecl
 What is placenta accreta?
 Mention 2 obstetric complications which predispose to perinatal mortality.
 What are the components of the Triple Marker Test for screening of aneuploidy?
-Which vaccines are contraindicatedi n pregnancy?
+Which vaccines are contraindicated in pregnancy?
 Mention the investigations done on the cord blood in Rh-incompatibility?
 What is cord presentation?
 Mention 2 advantages of hemodilution in pregnancy. 
@@ -31,12 +31,12 @@ A 37week multigravida reports to the labour room with clinical features of [[OBG
 
 What is puerperal pyrexia? How will you diagnose and treat a case of [[OBGY Notes/Puerperal sepsis\|Puerperal sepsis]]
 
-Wnat are the diagnostic features of breech presentation? How will you manage a case of breech presentation reporting at 35 weeks ofgestation?
+Wnat are the diagnostic features of breech presentation? How will you manage a case of breech presentation reporting at 35 weeks of gestation?
 
 (p2)
 A 29yo multiparous woman presents to OPD with vaginal discharge and intense itching over genitals. Write down the d/d clinical features, investigations and management of possible diagnoses
 
-Discuss the role of progesterones in contraception
+Discuss the role of progesterones in contraception [[OBGY Notes/Steroidal Contraception\|Steroidal Contraception]]
 
 55yo female presents with post-menopausal bleeding. Discuss the d/d and investigations of this case
 
@@ -57,6 +57,6 @@ Clinical features of adenomyosis.
 Non-contraceptive uses of combined [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]].
 Medical method of first trimester MTP (Medical Termination of Pregnancy).
 HPV(HumanPapilloma Virus) vaccines.[[OBGY Notes/Cervical Intraepithelial Neoplasia#Preventitive\|see here probably]]
-Indications for LNGIUS (Levonorgestrel Intra-uterine System).
+Indications for LNG-IUS (Levonorgestrel Intra-uterine System).
 Cardinal steps of [[OBGY Notes/Fothergills Operation\|Fothergill/Manchester surgery]].
-[[OBGY Notes/Oral Contraceptive Pills\|OBGY Notes/Oral Contraceptive pills]]
+[[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive pills]]

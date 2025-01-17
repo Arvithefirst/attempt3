@@ -10,11 +10,11 @@ Divided on limit of histological changes
 CIN I - Basal 1/3rd 
 CIN II - Basal 1/2 to 2/3rd
 CIN III - Whole thickness except superficial 2-3 layers
-CIN IV - Whole thickness (Carcinoma in-situ)
+CIN IV - Whole thickness (Carcinoma in-situ) [[OBGY Notes/Carcinoma Cervix\|Carcinoma Cervix]]
 
 ### Bethesda Classification
 1. Atypical squamous cells
-2. Low grade squamous intraepithelial lesios (LSIL, CIN I)
+2. Low grade squamous intraepithelial lesions (LSIL, CIN I)
 3. High grade squamous Intraepithelial lesions (HSIL, CIN II, III, IV)
 
 ## Pathology
@@ -33,30 +33,25 @@ Carcinogenesis occurs at the Transformation zone
 3. Too many and too frequent childbirth, Multiple sexual partners
 4. Low socioeconomic, Smokers
 5. Immunosuppressed
-6. OCP
+6. [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]]
 
 ## Investigations
-1. Routine things ig and ALSO
-
-### Pap smear (Papanicolau and Traut)
+Routine things ig and ALSO
+#### Pap smear (Papanicolau and Traut)
 Exfoliative cytology is the gold standard screening test. Cells are fixed and viewed to see
 - Dyskaryotic cells(Atypical with hyperchromatic nuceim abindant cytoplasm)
 - Carcinoma in-situ cells
-
-### HPV-DNA Test
+#### HPV-DNA Test
 - 2-5% with +ve test will develop CIN
 - Quantitative > Qualitative
-
-### Visual Inspection with Acetic acid
-
-### Colposcopy
+#### Visual Inspection with Acetic acid
+#### Colposcopy
 1. White epithelium or Aceto-white epithelium
 2. Mosiac epithelium
 3. Atypical blood vessels
 4. Irregular surface contour
-
-### Biopsy
-- Of abnormal area (if colposcopy available, otherwise Areas unstained by schillers iodiine solution)
+#### Biopsy
+- Of abnormal area (if colposcopy available, otherwise Areas unstained by schillers iodine solution)
 - Endocervical Curettage
 
 ## Treatment
@@ -65,7 +60,7 @@ Can be preventitive or definitive
 ### Preventitive
 Given to all girls 12-18. Protects for 7.5 years
 1. Cervarix(bivalent 16,18)
-2. Gardasil(quadravalent 16,28,6,22)
+2. Gardasil(quadravalent 16,18,6,22)
 //both are cross-protective for 31,33
 
 Also 
@@ -75,11 +70,11 @@ Also
 - Cessation of smoking
 
 ### Definitive treatment
-CIN i and CIN II go for observation and follow up every 4-6 months
+CIN I and CIN II go for observation and follow up every 4-6 months
 CIN III and CIS can have
 1. Local ablation
 	1. Cryosurgery
-	2. Cold Coaagulation
+	2. Cold Coagulation
 	3. Electrodiathermy
 	4. Laser vaporisation (preferred)
 2. Excision

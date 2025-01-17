@@ -14,11 +14,13 @@ Surely eventually ill sort questions by topic but uk who has the time
 [[Medicine papers/Medicine 2018 Nov\|Medicine 2018 Nov]]
 [[Medicine papers/Medicine 2017 Dec\|Medicine 2017 Dec]]
 
-also pulled from the list of classes we've had so far we have [[Medicine notes/Medicine Internal syllabus\|Medicine Internal syllabus]]
+also pulled from the list of classes we've had so far we have [[Medicine papers/Medicine Internal syllabus\|Medicine Internal syllabus]]
 
 Uncategorised notes :3
 [[Medicine notes/Herpes Family Tree <3\|Herpes Family Tree <3]]
+[[Medicine notes/Amazon Wishlist\|Amazon Wishlist]]
 [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
+[[Medicine notes/HIV Drugs for losers\|HIV Drugs for losers]]
 [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 [[IV Cannula Size Chart\|IV Cannula Size Chart]]

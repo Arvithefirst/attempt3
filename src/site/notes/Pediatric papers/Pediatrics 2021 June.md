@@ -3,15 +3,15 @@
 ---
 
 ## One liners
-What is thiamine deficiency called
-Antidfote for paracetamol poisoning
+What is thiamine deficiency called 
+Antidote for paracetamol poisoning [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 Mode of inheritance of duchennes muscular dystrophy
 Most preventable cause of mental retardation
 Define low birth weight
 Snow man appearance on Xray
 Hormone for milk ejection
 Drug of choice for leptospirosis
-Head circumference during 1st year of life
+Head circumference during 1st year of life [[Pediatric Notes/Normal Growth#Head circumference\|Normal Growth#Head circumference]]
 Clinical tests for CDH
 
 ## LAQ
