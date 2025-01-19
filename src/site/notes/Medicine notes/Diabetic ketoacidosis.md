@@ -19,14 +19,14 @@ Risk factors for which are
 1. Polyuria, Thirst
 2. Weight loss
 3. Weakness
-4. Vomittng, weight loss, abdominal pain
+4. Vomitting, weight loss, abdominal pain
 5. Leg cramps
 
 1. Signs of dehydration (sunken eyes, Tachycardia, hypotension)
 2. Kussmaul breathing
 3. Hypothermia
 4. "fruity" breath
-5. Delirium, drowsiness , coma
+5. Delirium, drowsiness, coma
 
 ## Investigations
 >[!summary] Cardinal features of Diabetic ketoacidosis

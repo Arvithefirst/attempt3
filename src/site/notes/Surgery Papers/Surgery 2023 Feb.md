@@ -50,8 +50,8 @@ Describe risk factors and pathology of [[Surgery Notes/Carcinoma Breast\|Carcino
 What are [[Surgery Notes/Blood transfusion\|Blood transfusion]] products? Describe indications and complications of blood transfusion
 
 (ortho)
-Clinical features, Radiological features and management of [[Ortho notes/Rickets\|Ortho notes/Rickets]]
-Classification, clinical features and management of fracture neck of femur[[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|Intracapsular Neck of Femur(ICNF) Fracture]]
+Clinical features, Radiological features and management of [[Ortho notes/Rickets\|Rickets]]
+Classification, clinical features and management of [[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|Intracapsular Neck of Femur(ICNF) Fracture]]
 
 # Short answers
 [[Surgery Notes/Intravenous urography\|Intravenous urography]]
@@ -60,7 +60,7 @@ Etiopathogenesis of PUJ
 Medical management of [[Surgery Notes/Renal stones#Treatment\|Renal stones]]
 Diagnosis of carcinoma urinary blasdder
 Uroflowmetry
-Mnagement of [[Surgery Notes/Seminoma\|seminoma]] testis
+Management of [[Surgery Notes/Seminoma\|seminoma]] testis
 Management of Chorddee
 
 (p2)

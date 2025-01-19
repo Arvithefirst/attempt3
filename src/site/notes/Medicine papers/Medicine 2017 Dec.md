@@ -58,7 +58,7 @@ Investigations to diagnose haemolytic anaemias.
 Clinical Signs of [[Medicine notes/Cardiac failure\|Cardiac failure]] Congestive Cardiac Failure.
 [[Medicine notes/Infective endocarditis#Dukes criteria for diagnosis of IE\|Diagnosis of Bacterial Endocarditis]] in a patient of Rheumatic Valvular Heart Disease.
 Clinical features and diagnosis of Megaloblastic Anaemia (B12 deficiency).
-Symptoms and signs of portal hypertension.
+Symptoms and signs of [[Medicine notes/Portal Hypertension\|portal hypertension]].
 Complicated [[Medicine notes/Malaria\|Malaria]].
 
 (p2) 
@@ -66,7 +66,7 @@ Bell's Palsy.
 Clinical features and diagnosis of [[Medicine notes/Systemic Lupus Erythematosus\|systemic Lupus Erythematosus]].  
 Drugs used in management of Type 2 Diabetes Mellitus. [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 Urticaria.
-Obsessive Compulsive Neurosis.
+[[Medicine notes/OCD\|OCD]]
 Cushing's syndrome.
 'Brain dead' - definition and significance with respect ot Organ Donation. 
 Signs and symptoms of Peripheral Neuropathy.

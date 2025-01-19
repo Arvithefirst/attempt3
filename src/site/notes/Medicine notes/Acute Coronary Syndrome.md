@@ -36,7 +36,7 @@ others inludes Cardiac enzymes, Arrest at time of admission and ST deviation
 4. Low grade fever
 # Investigations
 1. Serial ECGs. May show ST elevation, T wave inversion in affected areas
-2. Chest X-ray - Signs of heart failure an dpulmonarry oedema
+2. Chest X-ray - Signs of heart failure an pulmonary oedema
 3. Cardiac enzymes (see below)
 	![Screenshot 2024-07-02 at 11.01.51 PM.png|400](/img/user/Pictures/Screenshot%202024-07-02%20at%2011.01.51%20PM.png)
 4. Echocardiogram - Done before discharge for ventricular function

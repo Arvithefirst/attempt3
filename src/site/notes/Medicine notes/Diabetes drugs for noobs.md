@@ -18,7 +18,7 @@ May cause weight gain and hypoglycemia
 #### GLP Receptor Agonist
 Glucagon-like peptides 1 Agonist - *Exanatide, Semaglutide(ozempic)*
 
-Act by stimulating "*Incertin*" system that activates b-ilset cells
+Act by stimulating "*Incretin*" system that activates b-islet cells
 Also causes weight loss by reducing appetite and delaying gastric emptying
 May cause Heart attacks
 
@@ -34,4 +34,10 @@ Sodium Glucose Transporter 2 Inhibtors
 
 Prevent reabsorption of glucose
 may cause genital infection and Heart disease
-May cause euglycemic diabetic ketoacidosis
+May cause euglyacemic diabetic ketoacidosis
+
+#### Insulin 
+Rapid - *Lispro*
+Short - *Regular* 
+Intermediate - *Isophane*
+Long - *Bovine lente, Glargine*

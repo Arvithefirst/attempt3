@@ -16,7 +16,7 @@ Also see [[OBGY Notes/DeLancey Classification\|DeLancey Classification]]
 	2. Vagina
 	3. Axis of uterus
 3. Fibromuscular
-	1. Transverse ligaments of Macenrod
+	1. Transverse ligaments of Macenrodt
 	2. Pubocervical ligament
 	3. Uteroscaral ligament
 	4. Round ligament
@@ -69,7 +69,7 @@ May be evaluated clinically, by quantitative scoring or by POP-Q scoring
 Most specific measurement of Pelvic organ prolapse. Uses total vaginal length, and a buncha other measurements I hope this doesnt come in the exam lol [[OBGY Notes/POP-Q Staging\|see here]]
 
 ## Complications
-1. Decubitus Ulcer - Typically on the base of the protruding part. Mayy get infected. 
+1. Decubitus Ulcer - Typically on the base of the protruding part. May get infected. 
 2. Congestions
 3. Cystitis
 4. Pyelonephritis
@@ -90,8 +90,8 @@ Most specific measurement of Pelvic organ prolapse. Uses total vaginal length, a
 4. Polyp
 ## Management
 May be Preventive, Conservative or Surgical
-### Preventive
-Adequate pre,intra,post natal care. Avoid heavy lifting and practice birth spacing
+### Preventative
+Adequate pre, intra, post natal care. Avoid heavy lifting and practice birth spacing
 ### Conservative
 Done in aymptomatic women with mild prolapse or prolapse early in pregnancy
 - Estrogen replacement therapy
@@ -106,8 +106,8 @@ Various surgical interventions may beddone depending on the affected part
 4. Vaginal repair of enterocele with Pelvic floor repair
 5. McCall Culpoplasty *(for enterocele)*
 6. [[OBGY Notes/Moscowitch Procedure\|Moscowitch Procedure]] *(for enterocele)*
-// Pelvic floor repair refers to operation consisting of both [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]]and [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
-/// Ward Mayos operation is Pelvic floor repair + Posterior colpoperineorrhaphy
+// *Pelvic floor repair* = [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]] + [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
+/// *Ward Mayos operation* = Pelvic floor repair + Posterior colpoperineorrhaphy
 #### Uterovaginal prolapse surgery
 1. Vaginal Hysterectomy with Pelvic floor repair
 2. [[OBGY Notes/Fothergills Operation\|Fothergills Operation]]

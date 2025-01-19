@@ -5,7 +5,7 @@
 #Oxytocic; 5-10 IU IM/IV
 Administered slowly. by IV infusion
 ### Mechanism of action
-Acts through myometrial oxytocin receptor and voltage gated Ca channels to cause Uteribe contractions
+Acts through myometrial oxytocin receptor and voltage gated Ca channels to cause Uterine contractions
 
 ### Indications
 #### Therapeutic 
@@ -13,7 +13,7 @@ Acts through myometrial oxytocin receptor and voltage gated Ca channels to cause
 2. Induce/augment labour
 3. Management of 3rd stage of labour
 #### Diagnostic
-1. Contraction stress test
+1. [[Contraction stress test\|Contraction stress test]]
 2. Oxytocin sensitivity test
 
 ### Adverse effects

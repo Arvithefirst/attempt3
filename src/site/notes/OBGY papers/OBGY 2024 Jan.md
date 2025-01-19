@@ -13,9 +13,9 @@ Discuss the diagnosis of and complications of [[OBGY Notes/Twin Pregnancy\|Twin 
 Discuss pathophysiology of Rh-incompatibility and antenatal management of a G2P1 with B-ve blood group reporting at 16 weeks of gestation.
 
 (p2)
-Define and classify [[OBGY Notes/Pelvic Organ Prolapse\|uterovaginal prolapse]]. Describe primary and secondary supports of uterus. 
+Define and classify [[OBGY Notes/Pelvic Organ Prolapse\|Uterovaginal Prolapse]]. Describe primary and secondary supports of uterus. 
 
-What are the clinical features of[[ Fibroid\| Fibroid]] uterus . Describe secondary changes in leiomyoma uteri.
+What are the clinical features of [[OBGY Notes/Fibroid\|Fibroid]] uterus . Describe secondary changes in leiomyoma uteri.
 
 Define infertility. Enumerate the etiological factors for primary [[OBGY Notes/Infertility\|Infertility]] in an infertile couple
 

@@ -26,16 +26,16 @@ Divided by anatomical location
 2. Cut section is smooth with whorled appearance and trabeculations
 3. Presence of *false capsule*
 >[!faq] False capsule
->Adjacent myometrium that has been comopressed forms a pinkish capsule around the growth seperated vby a layer of loose areolar tissue
+>Adjacent myometrium that has been comopressed forms a pinkish capsule around the growth seperated by a layer of loose areolar tissue
 
 ### Secondary changes in fibroid
  This is part of an laq apparently
 #### Degenerations
 These occur because the inside of the tiumour is much less vascular than the outise
-1. Hyaline degeneration(65%) - Loss of whorls, soft elastic consistency
-2. Cystic degeration s- Usually post-menopause. Cused by liquefaction of hyaline
-3. Fatty Degeneration - usually post-menopause
-4. Calcific degeneration - Usually post fatty change, caused by precipitation of calcium salts. also called "Womb stones"
+1. *Hyaline degeneration*(65%) - Loss of whorls, soft elastic consistency
+2. *Cystic degeration* - Usually post-menopause. Caused by liquefaction of hyaline
+3. *Fatty Degeneration* - usually post-menopause
+4. *Calcific degeneration* - Usually post fatty change, caused by precipitation of calcium salts. also called "Womb stones"
 >[!bug] Red degeneration
 > - Occurs in large fibroids in second half of pregnancy
 > - Cut section shows dark areas of "Raw beef" appearance with cystic spaces. Fishy odor
@@ -101,7 +101,7 @@ Aims to control anemia, limit size, correct infertility
 1. Antiprogesterones (mifepristone) - reduces fibroid size, amenorrhoea
 2. Danazol - Reduces volume, minimises blood loss
 3. GnRH agonist - Produce pituitary downregulation thereby suppressing estrogen
-4. GnRH antagonist - Immediate suppresion of ovarian fxn
+4. GnRH antagonist - Immediate suppresion of ovarian function
 5. Prostaglandin synthetase inhibitor
 6. Levonogestrel releasing Intrauterine system (LNG-IUS)
 

@@ -19,7 +19,7 @@ Insidious onset
 - Insulin
 - Potassium supplementation
 - Bicarb
-- Anticoagulant
+- Anticoagulant (prophylactic low molecular weight Heparin (LMWH))
 - Antibiotics
 
 

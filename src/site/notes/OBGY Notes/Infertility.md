@@ -27,7 +27,7 @@ Male is responsible in 30-40% on cases. Female in 40-55% and both in 10%.
 	2. Vaginitis
 6. Other
 	1. Age
-	2. Infrequest, mistimed inter course
+	2. Infrequest, mistimed intercourse
 	3. Dyspareunia
 	4. Anxiety
 

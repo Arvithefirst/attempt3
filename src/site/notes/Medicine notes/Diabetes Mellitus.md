@@ -20,5 +20,11 @@ Broadly into Type 1(Deficiency) or Type 2(Resistance) but there are others
 	- *Drugs* - Glucocorticoid, Thyroid, Phenytoin
 	- *Associated genetic syndromes* - Downs, Klinefeltyer, Turner, Huntington etc
 	- Uncommon immune forms
-- Gestational
+- [[OBGY Notes/Gestational diabetes\|Gestational diabetes]]
 - Latent autoimmune Diabetes in Adults(LADA)
+
+
+[[Diabetic diet\|Diabetic diet]]
+[[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
+[[Medicine notes/Diabetic ketoacidosis\|Diabetic ketoacidosis]]
+[[Medicine notes/Hyperglycemic Hyperosmolar state\|Hyperglycemic Hyperosmolar state]]

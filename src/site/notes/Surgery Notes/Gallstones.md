@@ -56,7 +56,7 @@ Not usually preferred as its *expensive, long term, without good results and may
 - Radioluscent stone
 - Old age / unfit for surgery
 #### Drugs used
-1. Cheno-deoxycholic acid
+1. Cheno-deoxycholic acid (CDCA)
 2. Ursodeoxycholicacid
 3. Citrates
 4. Monoterpes

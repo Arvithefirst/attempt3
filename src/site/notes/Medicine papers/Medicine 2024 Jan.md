@@ -12,7 +12,7 @@ A 65yo female presents with complaints of fever for 4 days and decreased. urine 
 Transfusion transmitted infection.
 Interventions to reduce risk of falls in elderly [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 [[Medicine notes/Vitamin C deficiency\|Vitamin C deficiency]].
-Investigations for breast cancer.
+Investigations for [[Surgery Notes/Carcinoma Breast#Investigations\|breast cancer]].
 [[Medicine notes/Hyperthyroid crisis\|Thyroid storm]].
 Doctors responsibilities in doctor patient relationship.
 Short note on [[Medicine notes/Herpes Zoster\|Herpes Zoster]].
@@ -29,9 +29,9 @@ Dermatological manifestations of Diabetes mellitus
 Lepra reaction
 Management of [[Medicine notes/Psoriasis\|Psoriasis]]
 Mania
-Clinical features and management of Schizophrenia 
+Clinical features and management of [[Schizophrenia \|Schizophrenia ]]
 [[Medicine notes/Cognitive Behavioural Therapy\|Cognitive Behavioural Therapy]]
-Tricyclic Antidepressant drugs[[Medicine notes/Amazon Wishlist\|Amazon Wishlist]]
+Tricyclic Antidepressant drugs [[Medicine notes/Amazon Wishlist\|Amazon Wishlist]]
 Differences between [[Medicine notes/Emphysema V Chronic bronchitis\|Emphysema V Chronic bronchitis]]
 Acute severe [[Medicine notes/Asthma\|Asthma]]
 Viral Pneumonia
@@ -41,6 +41,6 @@ Cor Pulmonale
 50M admitted with massive [[Medicine notes/Ascites\|Ascites]]. How will you approach the case 
 and discuss diferential diagnosis and management.
 
-A 52year old male presented with dyspnoea on exertion on examination there was pallor. Peripheral smear showed presence of macrocytes. What are the causes of macrocytic anaemze? Discuss clinical features investigation and management of megaloblastic anaemza.
+A 52year old male presented with dyspnea on exertion on examination there was pallor. Peripheral smear showed presence of macrocytes. What are the causes of macrocytic anaemze? Discuss clinical features investigation and management of megaloblastic anaemza.
 
 

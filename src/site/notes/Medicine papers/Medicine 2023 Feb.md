@@ -25,7 +25,7 @@ Features of [[Medicine notes/Algid malaria\|Algid malaria]]
 Drug of choice for acute attack of [[Medicine notes/Acute Gout#Treatment\|Gout]]
 What is P-ANCA posistive vasculitis
 Treatment of choice for [[Medicine notes/Psoriasis\|psoriasis]]
-Name 2 first rank symptoms of schizophrenia
+Name 2 first rank symptoms of [[Medicine notes/Schizophrenia\|schizophrenia]]
 Which vitamin deficiency is present in megaloblastic anema
 What is ophthalmological findings in wilsons disease
 Bitots spots arre seen in which deficiency
@@ -68,5 +68,5 @@ What is Norwegian or Crusted Scabies
 Discuss etiology, clinical features, diagnosis and management of [[Medicine notes/Acute Gout\|Gout]]
 Celiacs disease
 [[Medicine notes/Somogyi Phenomenon\|Somogyi Phenomenon]] in Diabetes mellitus
-Myasthenia Gravis
+[[Myasthenia Gravis\|Myasthenia Gravis]]
 Clinical manifestation and management of [[Medicine notes/Organophosphate Poisoning\|Organophosphate Poisoning]]

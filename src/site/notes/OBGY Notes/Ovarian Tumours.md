@@ -25,8 +25,8 @@ This.... is a list
 	3. Embryonal cell
 	4. Polyembryonal
 	5. Choriocarcinoma
-	6. Teratome - Immature,, Mature(dermoid Cyst), Monodermal
+	6. Teratome - Immature, Mature(dermoid Cyst), Monodermal
 	7. Mixed
-5. GonadoBlastoma
+5. Gonadoblastoma
 6. Unclassified
 7. Secondary Metastasis

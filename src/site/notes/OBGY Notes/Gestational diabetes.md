@@ -21,10 +21,11 @@ To mother
 - Abortion
 - Pre-term labour
 - Infection
-- Pre-eclampsia
+- [[OBGY Notes/Pre-eclampsia\|Pre-eclampsia]]
 - Polyhydroamnios
 - Maternal distress
 - Retinopathy/Nephropathy/Ketoacidosis
+- 
 To fetus
 - Macrosomia > Shoulder dystocia
 - Congenital abnormality

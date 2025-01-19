@@ -30,7 +30,20 @@ Fever, Weight loss, Lymphadenopathy
 ## Investigations
 1. CBC
 2. ANA testing
-3. Anti dsDNA antibody testing, ELISA
+3. Anti dsDNA antibody testing, 
+>[!faq] American Rheumatology Association Criteria for Lupus
+>Any 4 of the following 11
+>1. Malar Rash
+>2. Discoid Rash
+>3. Photosensitivity
+>4. Oral ulcers
+>5. Arthritis
+>6. Serositis
+>7. Renal disorder - Persistant proteinuria or Cellular casts
+>8. Haematological disorer - Haemolytic anemia, Leukopenia or thrombocytopenia
+>9. Neurological disorder - Seizures or psychosis without metabolic cause
+>10. Immunological disorder - Anti-DNA titres
+>11. ANA titres
 
 ## Treatment
 #### Mild to moderate disease

@@ -12,7 +12,7 @@ Define Hospital acquired pneumonia
 Name the major adverse reactions to Ethambutol
 What is the color of sputum in Strep. pneumoniea infection
 What is the organism which causes Q fever
-Name the drug used for Complicated Falciparum Malaria
+Name the drug used for Complicated Falciparum [[Medicine notes/Malaria\|Malaria]]
 What is Weils disease
 What is the bone marrow aspirate in acute myeloid leukemia
 Define [[Medicine notes/Microalbuminuria\|Microalbuminuria]]
@@ -24,22 +24,22 @@ Name 2 causes of elevated anion gap
 What is Chorea
 What is the drug given in [[Subarachnoid Hemorrhage\|Subarachnoid Hemorrhage]]
 Define tropical sprue
-4 causes of liver cirrhosis
+4 causes of liver [[Medicine notes/Cirrhosis\|cirrhosis]]
 2 causes of gynaecomastia
 What is Oligoarthritis
 Causes of Subacute combined degeneration
 What is the antidote for paracetamol poisoning[[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
-Name 2 side effects of antipsychotic drugs
+Name 2 side effects of antipsychotic drugs [[Medicine notes/Amazon Wishlist\|Amazon Wishlist]]
 What are fat-soluble vitamins
 Classify overweight on the basis of BMI
-What is the mechanism of action for GLP 1 receptor antagonist
+What is the mechanism of action for GLP 1 receptor antagonist [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 Name 2 microvascular complications of Diabetes Mellitus
 # Long Answer Question
 
 (p1)
 Discuss the etiology, clinical assessment, investigations, and treatment of [[Medicine notes/Chronic Kidney Disease\|Chronic Kidney Disease]]
 Discuss the etiology, pathophysiology, clinincal features, investigations, and treatment of [[Medicine notes/Aortic regurgitation\|Aortic regurgitation]]
-Discuss the pathophysiology, clinical features, investigations, and treatment of Bronchial Asthma
+Discuss the pathophysiology, clinical features, investigations, and treatment of Bronchial [[Medicine notes/Asthma\|Asthma]]
 
 (p2)
 Discuss the pathophysiology, clinical features, investigations, and treatment of [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]]
@@ -49,9 +49,9 @@ Discuss the etiology, clinical features, investigations, and treatment of [[Medi
 # Short Answer Questions
 
 (p1)
-Thrombotic Thrombocytopenia purpura
+[[Thrombotic Thrombocytopenic Purpura\|Thrombotic Thrombocytopenic purpura]]
 Acute Pericarditis
-Solitary Pulmonary Nodule
+Solitary [[Pulmonary Nodule\|Pulmonary Nodule]]
 Viral Hemorrhagic Fevers
 Extrapulmonary TB
 Metabolic Acidosis

@@ -34,7 +34,7 @@ Befreo labour theres no clear distinction between upper and lower segment. Howev
 ![Screenshot 2024-07-14 at 5.03.20 PM.png](/img/user/Pictures/Screenshot%202024-07-14%20at%205.03.20%20PM.png)
 
 ## Management
-1. Asepsis Encouragement, supervision and rest
+1. Asepsis, Encouragement, Supervision, and rest
 2. Food is withheld, Fluid diet/IV fluids
 3. Enema and pssing of urine
 4. Analgesia

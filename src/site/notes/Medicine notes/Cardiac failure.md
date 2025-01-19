@@ -67,18 +67,18 @@ Can be forward or backwards heart failure. Classification of complications
 
 ## Complications
 1. Renal Failure *(Cardiorenal syndrome)*
-2. Hypokalemia (or hyper due to therapy)
-3. Hyponatremia
+2. [[Hypokalemia \|Hypokalemia ]](or hyper due to therapy)
+3. [[Medicine notes/Hyponatremia\|Hyponatremia]]
 4. Hepatic dysfunction
 5. Thromboembolism
-6. Arrhythmias
+6. [[Medicine notes/Cardiac Arrhythmias\|Cardiac Arrhythmias]]
 
 ## Treatment
 Aims of treatment are to (1) Provide symptomatic relief, (2) Prevent cardiac dysfunction,(3) Retard disease progression, (4) Improve QoL
 
 ### General Lifestyle changes
 1. Education and counselling
-2. Stop smoking, drugs, control HTN,DM,dylipidemia
+2. Stop smoking, drugs, control HTN, DM, dylipidemia
 3. Salt and fluid restriction. Avoid alcohol
 4. Regular endurance exercise 30min/day. Bed rest when necessary
 
@@ -123,6 +123,6 @@ In patients who are high risk for thromboembolism
 1. Implantable cardiac defibrillators
 2. Resynchronisatino devices
 3. Coronary revascularisation
-4. Cardiac Transplantatino
+4. Cardiac Transplantation
 5. Ventricular assist devices
 

@@ -17,7 +17,7 @@ Write 2 adverse effects of amiadarone.
 Write 3 causes of haemoptysis.
 What is meant by rhabdomyolysis ?
 What is the incubation period of H1N1 Flu. (swineflu) ?
-Which serological test is done to diagnose acute HIV syndrome ? 
+Which serological test is done to diagnose acute [[Medicine notes/HIV\|HIV]] syndrome ? 
 Write 4 physical signs in [[Medicine notes/Chronic Kidney Disease#Clinical Features\|Chronic Renal Failure.]]
 
 (p2)
@@ -31,7 +31,7 @@ What is the root value of :
 
 What is the classical triad of Reiter's disease.
 What are the functions of frontal lobe.
-Name 3 Selective Serotonin Re-uptake Inhibitors (SSRI).
+Name 3 Selective Serotonin Re-uptake Inhibitors (SSRI). [[Medicine notes/Amazon Wishlist\|Amazon Wishlist]]
 Write most common causes of travellers diarrhoea.
 Write 4 clinical features of Turners syndrome.
 Fundus examination findings in diabetic retinopathy.
@@ -52,15 +52,15 @@ Discuss various risk factors for venous thromboembolism. Discuss clinical featur
 (p2)
 Discuss causes of adreno cortical insufficiency. Write clinical features, biochemical features of adreno cortical insufficiency. Discuss management of adrenal crisis. 
 
-Discuss pathophysiology, clinical features, investigations and management of myasthenia gravis.
+Discuss pathophysiology, clinical features, investigations and management of [[Myasthenia Gravis\|myasthenia gravis]].
 
-Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised American Rheumatic Association criteria (ARA) for diagnosis ofSLE. Discuss management of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]] (SLE.) 
+Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised American Rheumatic Association criteria (ARA) for diagnosis of SLE. Discuss management of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]] (SLE.) 
 
 # Short Answer Questions
 
 (p1)
 WHO clinical staging of [[Medicine notes/HIV#Clinical features\|HIV]] infection.
-Constrictive pericarditis.
+[[Constrictive Pericarditis\|Constrictive pericarditis]].
 Continuous ambulatory [[Medicine notes/Renal Replacement Therapy#Peritoneal Dialysis\|Peritoneal dialysis.]]
 Newer drugs for bronchial asthma.
 Etiology and diagnosis of secondary hypertension.

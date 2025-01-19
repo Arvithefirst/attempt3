@@ -22,7 +22,7 @@ Liver injury activates stellate cells in the space of Disse into myofibro-blast 
 9. Chronic liver conditions
 
 ## Clinical Features
-1. Hepatomegal, or not who knows
+1. Hepatomegaly, or not who knows
 2. Jaundice
 3. [[Medicine notes/Ascites\|Ascites]]
 4. [[Medicine notes/Signs of Hepatic Encephalopathy\|Signs of Hepatic Encephalopathy]]
@@ -37,3 +37,4 @@ Liver injury activates stellate cells in the space of Disse into myofibro-blast 
 Investigations aim to calculate [[Medicine notes/Child-Pugh score\|Child-Pugh score]] or [[Medicine notes/MELD score\|MELD score]] used for prognosis
 
 ## Treatment
+Treat cause
