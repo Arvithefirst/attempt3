@@ -28,4 +28,4 @@ Symptoms
 
 # Treatment
 Total surgical correction can be done in children <5 years of age.
-If pulmonary arteries are too hypoplastic then Blalock-Taussig shunt is performed (Pulm. artery s anastomosed with subclavian)
+If pulmonary arteries are too hypoplastic then Blalock-Taussig shunt is performed (Pulm. artery in anastomosed with subclavian)

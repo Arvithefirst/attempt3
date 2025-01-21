@@ -52,7 +52,7 @@ Discuss various risk factors for venous thromboembolism. Discuss clinical featur
 (p2)
 Discuss causes of adreno cortical insufficiency. Write clinical features, biochemical features of adreno cortical insufficiency. Discuss management of adrenal crisis. 
 
-Discuss pathophysiology, clinical features, investigations and management of [[Myasthenia Gravis\|myasthenia gravis]].
+Discuss pathophysiology, clinical features, investigations and management of [[Medicine notes/Myasthenia Gravis\|Myasthenia Gravis]].
 
 Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised American Rheumatic Association criteria (ARA) for diagnosis of SLE. Discuss management of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]] (SLE.) 
 
@@ -60,7 +60,7 @@ Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised
 
 (p1)
 WHO clinical staging of [[Medicine notes/HIV#Clinical features\|HIV]] infection.
-[[Constrictive Pericarditis\|Constrictive pericarditis]].
+[[Medicine notes/Constrictive Pericarditis\|Constrictive Pericarditis]].
 Continuous ambulatory [[Medicine notes/Renal Replacement Therapy#Peritoneal Dialysis\|Peritoneal dialysis.]]
 Newer drugs for bronchial asthma.
 Etiology and diagnosis of secondary hypertension.

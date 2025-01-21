@@ -46,5 +46,5 @@ Malignancies
 
 Other
 1. Sarcoidosis
-2. SLE
+2. [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]]
 

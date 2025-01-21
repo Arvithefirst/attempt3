@@ -23,7 +23,7 @@ Multisystem involvement presenting with Fever, Anorexia, Lethargy 2-3 weeks afte
 - Causes breathlessness, Paroxysmal Nocturnal Dyspnea, Orthopnea, Chest pain
 - Typically affects Mitral valve; may progress to Congestive [[Medicine notes/Cardiac failure\|cardiac failure]]
 - Typical Pansystolic(MR) [[Medicine notes/Murmurs\|Murmur]] radiating to back and *Pericardial Rub*
-- Always seen when [[Medicine notes/Acute Rheumatic heart disease#Subcutaneous Nodules\|#Subcutaneous Nodules]] are present
+- Always seen when Subcutaneous Nodules are present
 #### Sydenhams Chorea (St. Vitus' Dance)
 - Caused by damage to caudate nucleus. Only seen in girls
 - Initial sign is emotional lability; progressing to quasi-purposeful movements

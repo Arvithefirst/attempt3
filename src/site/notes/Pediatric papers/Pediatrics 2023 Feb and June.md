@@ -37,7 +37,7 @@ Nephrotic syndrome
 ## SAQ
 Age independant criteria for nutrition[[Pediatric Notes/Indicators of Malnutrition\|Indicators of Malnutrition]]
 Stages of tubercular meningitis
-[[MMR Vaccine\|MMR vaccine]]
+[[Pediatric Notes/MMR Vaccine\|MMR Vaccine]]
 Clinical features of hypothyroidism
 Paracetamol poisining [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 Management of CCF

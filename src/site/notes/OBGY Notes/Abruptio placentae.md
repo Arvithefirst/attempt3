@@ -38,6 +38,6 @@ Grade 3 - Severe bleeding, uterine tenderness, shock ,fetal death, caogulopathy
 Early detection and therapy can be a preventative measure. Hematinics, folic acid to build tolerance to blood loss in individuals at risk 
 
 Once bleed occurs, treatment is only delivery of baby
-1. Blood transfusion
+1. [[Surgery Notes/Blood transfusion\|Blood transfusion]]
 2. Oxytocin, low rupture of membranes
 3. Cesarean section

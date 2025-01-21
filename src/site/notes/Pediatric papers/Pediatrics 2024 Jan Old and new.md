@@ -33,7 +33,7 @@ Drug addiction and substance abuse in adolescent
 Counselling for complementary feeding for 6 month old child
 
 Define [[Pediatric Notes/Microcephaly\|Microcephaly]] & Enumerate causes of microcephaly. 
-Write a note on [[MMR Vaccine\|MMR vaccine]].
+Write a note on [[Pediatric Notes/MMR Vaccine\|MMR Vaccine]].
 IMNCI classification of dehydration in children. 
 [[Pediatric Notes/Sexual Maturity Rating\|Sexual Maturity Rating]]
 Steps for Neonatal resuscitation. 

@@ -5,11 +5,11 @@
 Abbreviated to SIADH. Involves Vasopressin and its recpetors
 
 ## Etiology
-1. Neoplastic - SCC lung,  duodenum, ovary, bladder
-2. Infections - TB, AIDS, Mengitis, Abscess
+1. Neoplastic - SCC lung,  duodenum, [[OBGY Notes/Ovarian Tumours\|Ovarian Tumours]], bladder
+2. Infections - TB, AIDS, Meningitis, Abscess
 3. Vascular - [[Medicine notes/Stroke\|CVA]]
-4. Neurological - Guillane-barre syndrome, Multiple sclerosis, ALS
-5. Respiratory - PPV, Asthma
+4. Neurological - [[Medicine notes/Guillain-Barre Syndrome\|Guillain-Barre Syndrome]], Multiple sclerosis, ALS
+5. Respiratory - PPV, [[Medicine notes/Asthma\|Asthma]]
 6. Drugs - Chlorpropamide, SSRI's, MAOi's, Oxytocin, Vasopressin
 
 ## Clinical features
@@ -27,7 +27,7 @@ Abbreviated to SIADH. Involves Vasopressin and its recpetors
 4. Urine sodium
 5. RFT, TFT
 ### Bartters criteria for diagnosis of SIADH
-1. Euvolemic Hyponatremia
+1. [[Medicine notes/Hyponatremia#Hyponatemia with Euvolemia\|Euvolemic Hyponatremia]]
 2. Less than maximally diluted urine
 3. Normal cardiac, renal, thyroid function 
 4. No stressors
@@ -37,6 +37,6 @@ Abbreviated to SIADH. Involves Vasopressin and its recpetors
 ## Management
 1. Fluid restriction (600-1000ml)
 2. Vasopressin-2 receptor antagonists
-3. Oral urea therapy (promotes diuresis by increasisng solute load)
+3. Oral urea therapy (promotes diuresis by increasing solute load)
 4. Lithium
 

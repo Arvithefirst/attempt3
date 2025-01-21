@@ -25,7 +25,7 @@ Complication of [[Medicine notes/Portal Hypertension\|Portal Hypertension]]. Com
 ## Treatment
 Can be described under Prophylactic, Emergency and Definitive
 
-### Prphylactic Treatment of varices
+### Prophylactic Treatment of varices
 1. Propanolol, isosorbide nitrate 
 2. Shunt surgeries in casess of recurrent varices
 
@@ -40,10 +40,10 @@ Sclerosing agents used are - Ethanolamine oleate, Sodium Morrhuate
 Done weekly fro 6-8 weeks
 #### Endoscopic glue
 Done by using butanyl Cyanoacrylate to shut varices
-#### Baloon Tamponade
-Using 4 lumen Minnesota tube 400ml opf fluid is pushed to create 40mmHg of pressure and obliterate varices
+#### Balloon Tamponade
+Using 4 lumen Minnesota tube 400ml o`f fluid is pushed to create 40mmHg of pressure and obliterate varices
 #### Transjugular Intrahepatic PortaSystemic Shunt(TIPSS)
-Finla resort. Non-surgical, radiological interrvention
+Final resort. Non-surgical, radiological interrvention
 Uses 10mm shunt between hepatic venule and portal venules to reduce portal presssure
 
 ### Definitive 
@@ -54,7 +54,7 @@ Same as above
 Contraindicated in patients with [[Medicine notes/Child-Pugh score\|Child-Pugh score]] "C"
 1. Non slective shunts
 	1. Porto-caval shunt
-	2. Mesenteric0-renal shunt
+	2. Mesenterico-renal shunt
 	3. Mesenterico-caval shunt
 	4. Linton shunt (proximal splenorenal)
 2. Selective shunts

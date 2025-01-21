@@ -10,7 +10,7 @@ Packed red cells for
 2. Major surgery
 3. Extensive burns
 4. Chronic blood loss
-5. Inadequate productino
+5. Inadequate production
 To replace Platelets in thrombocytopenia, FFP in Vit K deficiency, Cryoprecipitate in DIC
 Whole blood for massive trauma
 
@@ -56,7 +56,7 @@ LAQ fro sure surely surely
 - Manage wth anti-histamines
 #### Transfusion related acute ling injury(TRALI)
 - Rare complication
-- Antileucocyte antibodies in donated plasma causeWBC accumulation in lungs. Degranulation of WBC in lungs causes non-cardiac pumonatry hypertension and oedema
+- Antileucocyte antibodies in donated plasma cause WBC accumulation in lungs. Degranulation of WBC in lungs causes non-cardiac pumonatry hypertension and oedema
 - Can present as dyspnea or all the way to ARDS
 - Supportive treatment (lasts upto 2 days)
 #### Congestive cardiac failure

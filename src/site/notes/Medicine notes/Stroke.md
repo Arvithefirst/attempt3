@@ -35,7 +35,7 @@ For ischaemic stroke
 - Assess if *thrombolysis or mechanical thrombectomy* is possible and do it
 - Otherwise prescribe aspirin and shift to Acute srtoke unit
 For Hemorrhagic stroke
-- *Reverse coagulation abnormalit*y and shift to Acute Stroke unit
+- *Reverse coagulation abnormality* and shift to Acute Stroke unit
 
 Supportive treatment
 1. Secure airway, ventilation

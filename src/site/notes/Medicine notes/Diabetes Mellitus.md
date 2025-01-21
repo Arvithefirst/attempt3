@@ -24,7 +24,7 @@ Broadly into Type 1(Deficiency) or Type 2(Resistance) but there are others
 - Latent autoimmune Diabetes in Adults(LADA)
 
 
-[[Diabetic diet\|Diabetic diet]]
+[[Medicine notes/Diabetic diet\|Diabetic diet]]
 [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 [[Medicine notes/Diabetic ketoacidosis\|Diabetic ketoacidosis]]
 [[Medicine notes/Hyperglycemic Hyperosmolar state\|Hyperglycemic Hyperosmolar state]]

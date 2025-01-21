@@ -34,7 +34,7 @@ Drugs used in Massive Hemetemesis.
 Treatment of Vit A Deficiency.
 Two causes of Fall in Elderly. [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
 Four causes of peripheral Neuropathy.
-Name Drugs used in [[Myasthenia Gravis\|Myasthenia Gravis]].
+Name Drugs used in [[Medicine notes/Myasthenia Gravis\|Myasthenia Gravis]].
 Name Types of Epilepsy.
 
 ## LAQs
@@ -59,7 +59,7 @@ Second line Antituberculous drugs.
 Diferences betwen Exudative and transudative Pleural effusion.
 Drug management of Chronic Myeloid Leukemia.
 Atrial Fibrilatrion.
-[[Pulmonary Function Tests\|Pulmonary function tests]]
+[[Medicine notes/Pulmonary Function Tests\|Pulmonary Function Tests]]
 
 (p2)
 [[Medicine notes/Herpes Zoster\|Herpes Zoster]]

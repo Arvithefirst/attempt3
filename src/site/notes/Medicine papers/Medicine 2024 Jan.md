@@ -33,7 +33,7 @@ Clinical features and management of [[Schizophrenia \|Schizophrenia ]]
 [[Medicine notes/Cognitive Behavioural Therapy\|Cognitive Behavioural Therapy]]
 Tricyclic Antidepressant drugs [[Medicine notes/Amazon Wishlist\|Amazon Wishlist]]
 Differences between [[Medicine notes/Emphysema V Chronic bronchitis\|Emphysema V Chronic bronchitis]]
-Acute severe [[Medicine notes/Asthma\|Asthma]]
+[[Medicine notes/Status Asthmaticus\|Severe Acute Asthma]]
 Viral Pneumonia
 Cor Pulmonale
 

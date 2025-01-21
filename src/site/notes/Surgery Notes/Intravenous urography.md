@@ -14,7 +14,7 @@ Short note for smoe reason (abbreviatee IVU). Its the consecutive xrays one
 2. [[Surgery Notes/Hydronephrosis\|Hydronephrosis]] - Clubbing of calyces
 3. Renal cell carcinoma - Irregular filling defect
 4. Bilateral kidney function test
-5. Renal injury
+5. Renal injury ([[Medicine notes/Acute Kidney Injury\|AKI]], [[Medicine notes/Chronic Kidney Disease\|CKD]])
 6. After urosurgery for outcome assessment
 
 ## Procedure

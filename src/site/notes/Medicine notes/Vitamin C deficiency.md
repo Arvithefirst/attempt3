@@ -6,13 +6,13 @@ Scurvy (arghhh)
 
 ## Etiology
 1. Dietary deficiency
-2. Burns, Suregry, Infections
+2. Burns, Surgery, Infections
 3. Smoking
 4. Drugs
 
 ## Clinical features
 1. Easily bleeding gums
-2. Petechial hemorrhave
+2. Petechial hemorrhage
 3. Haemarthorisis
 4. Ecchymosis
 5. GI Bleed
@@ -20,4 +20,4 @@ Scurvy (arghhh)
 
 ### Management
 250g/day for 3 days calcium supplement
-alsoi + Diet corrections
+also + Diet corrections

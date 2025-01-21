@@ -20,7 +20,7 @@ Classified based on where the dilation is relative to acini
 3. Weight loss, weakness, kethargy
 
 1. Tachypneic with use of accessory respiratory muscles
-2. Pink puffer appearance with Barrel shaped chest
+2. *Pink puffer* appearance with Barrel shaped chest
 >[!summary] Named signs of Emphysema
 >1. Campbells sign - Exaggerated descent of trachea
 >2. Dahls sign - Hyperpigmentation above knees
@@ -32,9 +32,9 @@ Classified based on where the dilation is relative to acini
 
 ## Investigations
 1. Chest Xray
-2. Pulmonary function tests
+2. [[Medicine notes/Pulmonary Function Tests\|Pulmonary Function Tests]]
 3. ABG
-4. Exercise tolerancve tests
+4. Exercise tolerance tests
 5. ECG
 #### BODE Index
 2 year mortality index that acounts for BMI, Obstructive deferct severity, dyspnea and exercise tolerance

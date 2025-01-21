@@ -41,4 +41,4 @@ Supportive treatment and Management of Complications
 4. Hypoglycemia
 5. [[Medicine notes/Acute Kidney Injury\|Acute Kidney Injury]]
 6. Pulmonary edema
-7. Metabolic Acidosis
+7. [[Medicine notes/Metabolic Acidosis\|Metabolic Acidosis]]

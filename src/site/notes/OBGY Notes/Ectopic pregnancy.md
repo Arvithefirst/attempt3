@@ -35,7 +35,7 @@ For acute *do blood typing and stuff* because medical emergency. Treat like shoc
 
 ### Acute ruptured ectopic
 1. Ringers lactate
-2. Blood transfusion, artificial blood
+2. [[Surgery Notes/Blood transfusion\|Blood transfusion]], artificial blood
 3. Laparatomy
 4. Salpingectomy
 5. Subtotal hysterectomy

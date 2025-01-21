@@ -28,7 +28,7 @@ Genetic related
 ## Investigations
 1. Routines + ABG
 2. Spirometry
-3. PEF diary maintenance
+3. PEF dairy maintenance
 4. Skin prick tests
 5. Chest Xray - CT
 6. Corticosteriod trial

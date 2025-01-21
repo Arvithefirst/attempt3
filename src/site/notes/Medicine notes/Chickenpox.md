@@ -35,7 +35,7 @@ Typically a benign illness of children (aged 5 - 9)
 
 ## Complications
 1. Secondary bacterial infection of skin lesions
-2. CNS (Ataxia, Encephalitis, Aseptic meningitis, Gullain-Barre syndrome)
+2. CNS (Ataxia, Encephalitis, Aseptic meningitis, [[Medicine notes/Guillain-Barre Syndrome\|Guillain-Barre Syndrome]])
 3. Acute [[Medicine notes/Glomerulonephritis\|Glomerulonephritis]]
 4. Bleeding disorders
 5. [[Medicine notes/Herpes Zoster\|Herpes Zoster]]

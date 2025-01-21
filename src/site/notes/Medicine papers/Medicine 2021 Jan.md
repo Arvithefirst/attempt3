@@ -10,7 +10,7 @@ Four causes of haemoptysis.
 Two clinical features of [[Surgery Notes/Hypokalemia\|Hypokalemia]].
 Write four inflammatory markers for SARS-CoV-2 (COVID-19) infection.
 Two severe complications of Dengue fever. 
-Write [[CURB-65 Score\|CURB-65 score]].
+Write [[Medicine notes/CURB-65 Score\|CURB-65 Score]].
 Two drugs for Toxoplasmosis.
 Two drugs for invasive pulmonary aspergillosis. 
 Two investigations for iron deficiency anaemia.
@@ -25,7 +25,7 @@ Write two causes of [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]].
 Write two investigations for Wilson disease.
 Write two complications of [[Medicine notes/Portal Hypertension#Complications\|Portal Hypertension]].
 Four clinical signs of upper motor neurone lesions.
-Write two investigations for [[Myasthenia Gravis\|Myasthenia gravis]].
+Write two investigations for [[Medicine notes/Myasthenia Gravis\|Myasthenia Gravis]].
 Mention four side effects of insulin therapy.
 Write four causes of Liver Cirrhosis.
 Write Specific treatment for opioid poisoning. [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]

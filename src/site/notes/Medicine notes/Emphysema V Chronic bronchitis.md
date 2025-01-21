@@ -11,10 +11,10 @@ Like Roe V Wade but more controversial
 | Dyspnea              | Severe             | Mild/Moderate                      |
 | Cough                | After dyspnea      | Before                             |
 | Sputum               | Scanty, mucoid     | Copious, Purulent                  |
-| Cyanosis             | Absent             | Preesent                           |
+| Cyanosis             | Absent             | Present                            |
 |                      |                    |                                    |
 | ### Investgations    |                    |                                    |
 | PCV                  | Normal             | Increased                          |
-| PaO2                 | Normal             | Low.                               |
+| PaO2                 | Normal             | Low                                |
 | Xray                 | Hyperinflated      | Increased bronchovascular markings |
 | Cor pulmonale        | Late               | Early                              |

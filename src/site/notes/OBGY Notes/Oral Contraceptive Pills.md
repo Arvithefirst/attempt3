@@ -44,7 +44,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 6. Protection against Iron deficiency anemia
 7. Protection against PID
 8. Protection against [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
-9. Protection against Endometriosis
+9. Protection against [[Endometriosis\|Endometriosis]]
 10. Protection against [[OBGY Notes/Fibroid\|Fibroid]]
 11. Mangement of PCOS
 12. Protection against benign Breast disease

@@ -49,12 +49,12 @@ Discuss the etiology, clinical features, investigations, and treatment of [[Medi
 # Short Answer Questions
 
 (p1)
-[[Thrombotic Thrombocytopenic Purpura\|Thrombotic Thrombocytopenic purpura]]
+[[Medicine notes/Thrombotic Thrombocytopenic Purpura\|Thrombotic Thrombocytopenic Purpura]]
 Acute Pericarditis
-Solitary [[Pulmonary Nodule\|Pulmonary Nodule]]
+Solitary [[Medicine notes/Pulmonary Nodule\|Pulmonary Nodule]]
 Viral Hemorrhagic Fevers
 Extrapulmonary TB
-Metabolic Acidosis
+[[Medicine notes/Metabolic Acidosis\|Metabolic Acidosis]]
 Management of [[Medicine notes/Acute Coronary Syndrome#Treatment\|Acute Coronary Syndrome]]
 [[Diffuse Proliferative glomerulonephritis\|Glomerulonephritis associated with Infection]]
 

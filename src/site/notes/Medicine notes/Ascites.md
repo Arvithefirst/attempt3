@@ -3,7 +3,7 @@
 ---
 
 ## Investigations
-1. Clinical examination - Puddles sign, Shifting dullness, horseshoe dullness, Fluid thrill. Signs of Cirrhosis, infection, malignancy
+1. Clinical examination - Puddles sign, Shifting dullness, horseshoe dullness, Fluid thrill. Signs of [[Medicine notes/Cirrhosis\|Cirrhosis]], infection, malignancy
 2. USG
 3. Paracentesis - Proteins, Gram stain, cytology
 4. Serum Proteins (Serum Ascitis AG ratio)
@@ -16,7 +16,7 @@ lots a ways but choosing by SAAG ratio
 - [[Medicine notes/Portal Hypertension\|Portal Hypertension]]
 - Hepatic outflow obstruction
 - Alcoholic hepatitis
-- [[Medicine notes/Cardiac failure\|Cardiac failure]], Rigth sided heart failure, Constrictive pericarditis
+- [[Medicine notes/Cardiac failure\|Cardiac failure]], Rigth sided heart failure, [[Medicine notes/Constrictive Pericarditis\|Constrictive pericarditis]]
 - Myxodema
 #### Low SAAG Ratio 
 (<1.1g/dl)
