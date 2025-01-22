@@ -8,7 +8,7 @@ A psychiatric disorder chartacterised by delusions, hallucinations and lack of i
 1. Strong genetic component attributed to copy number variations in C4 gene on chromosome 6
 2. Associated with obstetric complications
 3. Associated with decrease in brain size specifically in temporal lobe
-4. Acute attack may be triggered y cannabis use
+4. Acute attack may be triggered by cannabis use
 
 ## Clinical features
 Diagnosis is usually clinical but organic causes and other psychoses have to be ruled out

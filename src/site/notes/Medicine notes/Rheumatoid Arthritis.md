@@ -41,7 +41,7 @@ Multifactorial genetic and Envinronmental causes
 2. Musculoskeletal - Wasting, Osteoporosis, Bursitis
 3. Haematological - Anemia, Thrombocytopenia
 4. Lymphatic - Felty syndrome, Splenomegaly
-5. Ocular - Episcelritis, Scleritis, Keratoconjunctivitis sicca
+5. Ocular - Episcleritis, Scleritis, Keratoconjunctivitis sicca
 6. Vasculitis - Ulcers, Digital arthritis
 7. Cardiac - Pericarditis, Myocarditis
 8. Pulmonary - Pleural effusion, [[Medicine notes/Pulmonary Nodule\|Pulmonary Nodule]]
@@ -58,6 +58,7 @@ Multifactorial genetic and Envinronmental causes
 
 ## Treatment
 Depends DAS28 score
+*// calculated based on number of swollen/tender joints, ESR and patient global health assessment*
 
 1. Treatment with Prednisolone gradually tapering off and Methotrexate gradually increasing dose uptil 12 weeks
 2. If DAS28 > 2.6 add Sulfasalazine/Hydroxychloroquine

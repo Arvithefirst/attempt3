@@ -33,7 +33,7 @@ Neuroimaging must be done to identify etiology of stroke
 
 For ischaemic stroke
 - Assess if *thrombolysis or mechanical thrombectomy* is possible and do it
-- Otherwise prescribe aspirin and shift to Acute srtoke unit
+- Otherwise prescribe aspirin and shift to Acute stroke unit
 For Hemorrhagic stroke
 - *Reverse coagulation abnormality* and shift to Acute Stroke unit
 
@@ -56,7 +56,7 @@ Supportive treatment
 8. DVT
 
 ## Prevention
-Lifestyle changes and hypertension therapy has to given to all patients of stroke. BP control is especially important in hemorrhagic stroke
+Lifestyle changes and hypertension therapy has to be given to all patients of stroke. BP control is especially important in hemorrhagic stroke
 
 For Ischaemic stroke
 - Statins to lower cholesterol

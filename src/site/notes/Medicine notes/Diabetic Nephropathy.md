@@ -15,7 +15,7 @@ Pahtogenesis is not fully understood. Postulated to be toxic effects of hypergly
 - Thickening of glomerular membrane
 - Characteristic nodular deposits - Kimmelstein-Wilson nodules
 
-## Investingations
+## Investigations
 1. Microalbinurea screening by early morning Urine Albumin:Creatinine ratio
 2. Urine Dipstick can only detect overt macroalbuminurea > 300
 

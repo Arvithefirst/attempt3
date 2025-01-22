@@ -66,7 +66,7 @@ Bell's Palsy.
 Clinical features and diagnosis of [[Medicine notes/Systemic Lupus Erythematosus\|systemic Lupus Erythematosus]].  
 Drugs used in management of Type 2 Diabetes Mellitus. [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 Urticaria.
-[[Medicine notes/OCD\|OCD]]
+[[Medicine notes/Obsessive Compulsive Disorder\|Obsessive Compulsive Disorder]]
 Cushing's syndrome.
 'Brain dead' - definition and significance with respect ot Organ Donation. 
 Signs and symptoms of Peripheral Neuropathy.

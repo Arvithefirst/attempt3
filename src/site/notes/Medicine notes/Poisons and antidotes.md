@@ -6,7 +6,7 @@ Organophosphate - Atropine, Pralidoxime
 Alcohol - Fomepizole
 Paracetamol - N-acetylcysteine
 Snake bites - ASV
-Opioids - naloxone
+Opioids - Naloxone
 Benzodiazepine - Flumazenil
 Iron - Desferrioxamine
 Lead - DMSA

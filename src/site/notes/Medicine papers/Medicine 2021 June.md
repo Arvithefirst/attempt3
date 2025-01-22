@@ -65,7 +65,7 @@ Atrial Fibrilatrion.
 [[Medicine notes/Herpes Zoster\|Herpes Zoster]]
 Serum Markers of Hepatitis B
 Heat stroke
-[[Medicine notes/OCD\|Obsessive Compulsive Disorder]]
+[[Medicine notes/Obsessive Compulsive Disorder\|Obsessive Compulsive Disorder]]
 Scabies
 Management of Acetamenophane poisoning. [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 Clinical features of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]]
