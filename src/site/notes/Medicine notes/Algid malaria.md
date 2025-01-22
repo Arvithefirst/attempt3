@@ -7,5 +7,5 @@ A complication of Falciparum Malaria. It is sudden hypotension due to peripheral
 ## Clinical features
 1. Features of hypovolemic shock (cold clammy cyanotic with rapid feeble pulse)
 2. Associated with gram negative infection
-3. Observerd in paients with pulmonary edema, Metabolic acidosis, Dehydration etc
+3. Observerd in paients with pulmonary edema, [[Medicine notes/Metabolic Acidosis\|Metabolic acidosis]], Dehydration etc
 

@@ -12,7 +12,7 @@ Mention the investigations done on the cord blood in Rh-incompatibility?
 What is cord presentation?
 Mention 2 advantages of hemodilution in pregnancy. 
 What is the Bandl's ring?
-What are 2 uses of inj. [[Magnesium Sulphate\|Magnesium sulphate]]
+What are 2 uses of inj. [[OBGY Notes/Magnesium Sulphate\|Magnesium Sulphate]]
 
 (p2)
 Write about the embryological development of the vagina.

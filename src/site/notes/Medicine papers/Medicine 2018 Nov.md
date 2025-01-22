@@ -65,7 +65,7 @@ Continuous ambulatory [[Medicine notes/Renal Replacement Therapy#Peritoneal Dial
 Newer drugs for bronchial asthma.
 Etiology and diagnosis of secondary hypertension.
 Chronic interstitial nephritis.
-Non-anion gap metabolic acidosis.
+Non-anion gap [[Medicine notes/Metabolic Acidosis\|metabolic acidosis]].
 Sickle cell anemia.
 
 (p2)

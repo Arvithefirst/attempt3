@@ -42,7 +42,7 @@ Disesase has 2-4 weeks of incubation followed by upto 2 weeks of primary infecti
 ### WHO Stage 2 / CDC Category B
 - Unexplained weight loss <10%
 - Recurrent URTI
-- Herpes Zoster, Angular cheilitis, Papular pruritic eruptions, Seborrhoeic dermatitis
+- [[Medicine notes/Herpes Zoster\|Herpes Zoster]], Angular cheilitis, Papular pruritic eruptions, Seborrhoeic dermatitis
 - Recurrent Oral Ulcers
 - Fungal nail infections
 
@@ -98,12 +98,17 @@ May also have
 ### Antiretroviral Therapy
 Should be started immediately after confirmation of diagnosis. *Typically 2 NRTIs + 1 NNRTI/PI/ Integrase inhibitor*
 
-Nucleotide Reverse Transcriptase Inhibitor(NRTI) 1 - Abacavir, Emtricitabine
-Nucleotide Reverse Transcriptase Inhibitor(NRTI) 2-Lamuvidine,Tenofovir,Zidovudine
-Non-Nucleotide Reverse Transcriptase Inhibitor(NNRTI) - Efavirenz
-Protease Inhibitors(PIs) - Atazanavir, Darunavir (taken with ritonavir)
-Integrase inhibtor - Raltegravir, dolutegravir
+*Nucleotide Reverse Transcriptase Inhibitor(NRTI) 1* - Abacavir, Emtricitabine
 
+*Nucleotide Reverse Transcriptase Inhibitor(NRTI) 2*-Lamuvidine,Tenofovir,Zidovudine
+
+*Non-Nucleotide Reverse Transcriptase Inhibitor(NNRTI*) - Efavirenz
+
+*Protease Inhibitors(PIs)* - Atazanavir, Darunavir (taken with ritonavir)
+
+*Integrase inhibtor* - Raltegravir, dolutegravir
+
+See - [[Medicine notes/HIV Drugs for losers\|HIV Drugs for losers]]
 #### Complications of ART
 1. Immune reconstitution syndrome
 2. Lipodystrophy

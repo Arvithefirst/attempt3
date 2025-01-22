@@ -32,7 +32,7 @@ Risk factors for which are
 >[!summary] Cardinal features of Diabetic ketoacidosis
 >1. Hyperglycemia >240mg/dl 
 >2. Hyperketonemia >3mmol/L or Urine ketones +2(by dipstick)
->3. Metabolic acidosis $HCO^3$ <15mmol/L or pH <7.3
+>3. [[Medicine notes/Metabolic Acidosis\|Metabolic acidosis]] $HCO^3$ <15mmol/L or pH <7.3
 
 Routine investigations are also to be done
 

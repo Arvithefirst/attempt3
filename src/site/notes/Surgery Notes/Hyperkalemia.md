@@ -37,5 +37,5 @@ Cellular breakdown
 4. Hyperventilation
 5. Salbutamol
 6. Calcium exchange resins
-7. Haemodialysis
+7. Haemodialysis [[Medicine notes/Renal Replacement Therapy\|Renal Replacement Therapy]]
 

@@ -43,5 +43,5 @@ Clinical Triad of Achalasia Cardia
 ## Treatment  
 Medical management is with *Endoscopic botulinum* but recurrence is high. *Sublingual GTN* can also be given. Surgical interentions are
 1. Modified Hellers operation - Laproscopic cuts are made on the circular fibres
-2. Negus Hydrostatic dilation (endotrach. balloon)
+2. Negus Hydrostatic dilation (endotracheal balloon)
 3. Laproscopic cardiomyotomy

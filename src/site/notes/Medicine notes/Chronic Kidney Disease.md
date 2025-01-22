@@ -5,11 +5,11 @@
 Irreversible deterioration of kidney function over a period of many years. Eventually **leads to loss of excretory, metabolic and endocrine function of the kidneys leading to signs of kidney failure collectively known as Uremia**
 
 # Aetiology
-1. Diabetes
+1. [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]]
 2. Interstitial disease
 3. Glomerular disease
 4. Hypertension
-5. SIRS
+5. Systemic Inflammatory Response Syndrome
 6. Congenital 
 7. Unknown
 

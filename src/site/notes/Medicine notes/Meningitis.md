@@ -28,7 +28,7 @@ Many infective and non-infective causes
 2. Mumps
 3. Herpes viruses (Simplex 1/2, Zoster, EBV)
 4. Influenza
-5. HIV
+5. [[Medicine notes/HIV\|HIV]]
 
 Protozoal
 1. Amoeba

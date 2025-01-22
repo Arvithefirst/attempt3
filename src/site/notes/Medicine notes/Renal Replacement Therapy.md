@@ -14,7 +14,7 @@ Most common form of RRT for ESRD but is also used in [[Medicine notes/Acute Kidn
 1. Fluid overload
 2. Hyperkalemia
 3. Uraemia
-4. Metabolic Acidosis
+4. [[Medicine notes/Metabolic Acidosis\|Metabolic Acidosis]]
 *Non-renal indications are non-responsive pleural effusion, Pericarditis, Cardiac tamponade etc*
 
 <mark style="background: #FFB86CA6;">Complications</mark>

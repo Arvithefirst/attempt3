@@ -13,7 +13,7 @@ Acts through myometrial oxytocin receptor and voltage gated Ca channels to cause
 2. Induce/augment labour
 3. Management of 3rd stage of labour
 #### Diagnostic
-1. [[Contraction stress test\|Contraction stress test]]
+1. [[OBGY Notes/Contraction stress test\|Contraction stress test]]
 2. Oxytocin sensitivity test
 
 ### Adverse effects

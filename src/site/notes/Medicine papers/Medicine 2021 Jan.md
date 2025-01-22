@@ -20,7 +20,7 @@ Define [[Medicine notes/Oliguria and Anuria\|Oliguria and Anuria]]
 Two clinical features of Atrial septal defects.
 
 (p2)
-Write two hand deformities of rheumatoid arthritis.
+Write two hand deformities of [[Medicine notes/Rheumatoid Arthritis\|Rheumatoid Arthritis]].
 Write two causes of [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]].
 Write two investigations for Wilson disease.
 Write two complications of [[Medicine notes/Portal Hypertension#Complications\|Portal Hypertension]].

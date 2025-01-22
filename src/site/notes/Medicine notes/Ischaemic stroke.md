@@ -6,12 +6,12 @@ Responsible for upto *80% of all stroke* patients
 
 ## Risk Factors
 1. Age, Race, Gender, Obesity
-2. Hypertension, Diabetes, Dyslipidemias, Coagulopathies
+2. Hypertension, [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]], Dyslipidemias, Coagulopathies
 3. Smoking, Alcohol
 4. Genetic predisposition
 5. Trauma
-6. OC pills
-7. Conntective tissue disorders, Drug abuse, AIDS, Radiation
+6. [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]]
+7. Conntective tissue disorders, Drug abuse, [[Medicine notes/HIV\|HIV]], Radiation
 
 ## Classification
 Based on area affected
@@ -22,6 +22,5 @@ Based on area affected
 | Partial Anterior circulation syndrome (PACS) | Isolated motor loss, Isolated cerebral dysfunction. Both                          | Middle Cerebral artery occlusion                    |
 | Lacunar syndrome (LACS)                      | Pure motor stroke, Pure sensory stroke                                            | Occlusion of small perforating arteries             |
 | Posterior circulation syndrome (POCS)        | Cerebellar syndrome, Cranial nerve syndromes,                                     | Occlusion of vertebral or Posterior cerebral artery |
-|                                              |                                                                                   |                                                     |
 ## Management
 [[Medicine notes/Stroke\|Stroke]]

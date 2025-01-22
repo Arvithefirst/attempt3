@@ -6,7 +6,7 @@ Or acute renal faillure is the *Sudden and often reversible loss of renal functi
 
 # Aetiopathogenesis
 1. Pre-renal(Impaired perfusion)
-	1. Cardiac failure
+	1. [[Medicine notes/Cardiac failure\|Cardiac failure]]
 	2. Sepsis
 	3. Blood loss
 	4. Dehydration
@@ -19,10 +19,10 @@ Or acute renal faillure is the *Sudden and often reversible loss of renal functi
 3. Post-renal
 	1. Urinary calculi
 	2. Retroperitonal fibrosis
-	3. Benign Prostate Enlargement
-	4. Ca. Bladder/Prostate/ [[OBGY Notes/Carcinoma Cervix\|Carcinoma Cervix]]
+	3. [[Surgery Notes/Benign Prostate Hyperplasia\|Benign Prostate Hyperplasia]]
+	4. Ca. Bladder/[[Surgery Notes/Carcinoma Prostate\|Carcinoma Prostate]]/ [[OBGY Notes/Carcinoma Cervix\|Carcinoma Cervix]]
 	5. [[Surgery Notes/Urethral strictures\|Urethral strictures]]
-	6. Meatal stenosis/Phimosis
+	6. Meatal stenosis/[[Surgery Notes/Phimosis\|Phimosis]]
 
 # Classification of AKI
 >[!faq] RIFLE Classification for AKI 

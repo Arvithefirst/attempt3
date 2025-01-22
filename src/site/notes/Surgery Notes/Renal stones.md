@@ -6,9 +6,9 @@
 1. Infection
 2. Hot climates(dehydration)
 3. Dietary factors (red meats/high calcium foods/Low vitamin A foods)
-4. Metabolic causes (hyperparathyroidism/Gout)
+4. Metabolic causes (hyperparathyroidism/[[Medicine notes/Acute Gout\|Gout]])
 5. Immobilisation
-6. Inadequate kidney drainiage
+6. Inadequate kidney drainage
 7. Randalls plaques*
 
 ## Types 
@@ -16,7 +16,7 @@
 - Hard, single, irregularm, sharp, dumbell/envelope shaped
 - Early hematuria
 ### Uric acid stones
-- Multiple, small, faceted
+- Multiple, small, faceted, Radiolucent
 - Respond best to lithotripsy
 ### Phosphate stones
 - Small, round, yellow
@@ -26,9 +26,9 @@
 - Typically seen in pubertal girls
 
 # Clinical features
-1.  Dull aching costovertebral pain. May be a/w nausea/vomitting due to stretching of capsule
+1. Dull aching costovertebral pain. May be a/w nausea/vomitting due to stretching of capsule
 2. Ureteric colic (loin to groin radiation of colicky pain)
-3. [[Surgery Notes/Haematuria\|Surgery Notes/Haematuria]]
+3. [[Surgery Notes/Haematuria\|Haematuria]]
 4. Recurrent UTI
 5. Guarding and rigidity
 

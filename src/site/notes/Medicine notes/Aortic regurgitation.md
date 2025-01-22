@@ -9,14 +9,14 @@ Can occur due to disease of the aortic valve, cusps, infection of dilation of th
 2. [[Medicine notes/Acute Rheumatic heart disease\|Acute Rheumatic heart disease]]
 3. [[Medicine notes/Infective endocarditis\|Infective endocarditis]]
 4. Trauma 
-5. <mark style="background: #FFF3A3A6;">Aortic dilation</mark>
+5. <mark style="background: #FFF3A3A6;">Aortic root dilation</mark>
 	1. Marfans
 	2. Aneurysm
 	3. Aortic dissection
 	4. Syphillis
 	5. Ankylosing spondylosis
 
-# Clinical Features of Aortic Regurgitation
+# Clinical Features of Aortic Regurgitation 
 Signs
 1. <mark style="background: #BBFABBA6;">Palpitations</mark>
 2. Breathlessness

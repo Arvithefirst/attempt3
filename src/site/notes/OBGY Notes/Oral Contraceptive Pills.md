@@ -16,7 +16,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 1. Upto 40 years
 2. Post abortion
 3. Anemia, Malaria, TB, PID
-4. HIV/AIDS
+4. [[Medicine notes/HIV\|HIV]]/AIDS
 5. Dysmenorrhoea, Benign breat disease, Endomettriosis, , CA ovary
 6. Epilepsy, Thyroid disease, Varicose veins
 #### CAT 2 - Advantages outweight risks
@@ -29,7 +29,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 3. Heavy smoker
 4. Past breast cancer
 #### Category 4 - Absolute Contraindications
-1. Circulatory diseases (DVT, Stroke, IHD, Migraine with aura)
+1. Circulatory diseases (DVT, [[Medicine notes/Stroke\|Stroke]], IHD, Migraine with aura)
 2. Liver diseases (ALD, Carcinoma)
 3. Pegnancy
 4. Major sirgery
@@ -44,13 +44,13 @@ Estrogens - Ethinyl-estradiol, Menstranol
 6. Protection against Iron deficiency anemia
 7. Protection against PID
 8. Protection against [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
-9. Protection against [[Endometriosis\|Endometriosis]]
+9. Protection against [[OBGY Notes/Endometriosis\|Endometriosis]]
 10. Protection against [[OBGY Notes/Fibroid\|Fibroid]]
 11. Mangement of PCOS
 12. Protection against benign Breast disease
 13. Protection against Osteopenia, postmenopausal osteoporosis
 14. Protection against autoimmune thyroid diseases
-15. Protection against Rheumatoid arthritis
+15. Protection against [[Medicine notes/Rheumatoid Arthritis\|Rheumatoid Arthritis]]
 16. Prevention of Ca Endometrium
 17. Prevention of Ca Ovary
 18. Prvention of Colo-rectal Cancer

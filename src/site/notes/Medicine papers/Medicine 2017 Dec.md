@@ -25,7 +25,7 @@ Name the arteries forming [[Medicine notes/Circle of Willis\|Circle of Willis]].
 Graves disease is what type of Thyroid disease ?
 Name 2 fevers with skin rash.
 Where is Ampula of Vater ?
-Name 2 serological tests for Rheumatoid Arthritis. 
+Name 2 serological tests for [[Medicine notes/Rheumatoid Arthritis\|Rheumatoid Arthritis]]. 
 Name 3 important signs of Parkinsonism.
 Name 2 poisons which affect the Neuro-muscular junction.
 Name 2 Colitis.

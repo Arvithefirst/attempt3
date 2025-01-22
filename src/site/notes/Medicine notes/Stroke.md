@@ -40,7 +40,7 @@ For Hemorrhagic stroke
 Supportive treatment
 1. Secure airway, ventilation
 2. Correct circulation abnormalities (hypoperfusion, arrythmias, BP)
-3. aintain fluid-electrolyte balance
+3. maintain fluid-electrolyte balance
 4. Monitor BSL, avoid Hypoglycemia
 5. Control Pyrexia
 6. Check and treat incontinence
