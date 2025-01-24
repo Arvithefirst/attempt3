@@ -54,7 +54,7 @@ Extended beyong pelvis or involves bladder/rectum
 8. USG
 9. Enema
 10. Proctcoscopy
-11. SCC Antigen
+11. [[Surgery Notes/Squamous Cell Carcinoma\|Squamous Cell Carcinoma]] Antigen
 
 ## Treatment 
 In short cause who ahs the time

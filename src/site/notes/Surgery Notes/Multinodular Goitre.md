@@ -35,7 +35,7 @@ Common with excessive metabolic demand (Women, Puberty, Pregnancy) Can arise fro
 4. Follicular carcinoma
 
 ## Investigations
-1. CBC
+1. CBC, TFT
 2. Xray neck 
 3. Laryngoscopy with flexible laryngoscope
 4. USG neck
@@ -44,7 +44,7 @@ Common with excessive metabolic demand (Women, Puberty, Pregnancy) Can arise fro
 
 ## Treatment
 1. Thyroxine
-2. *Subtotal thyroidectomy*  - leaves behind little tissue in tracheo-oesophageal groove to protect recurrent laryngeal nerve znd parathyroid)
+2. *Subtotal thyroidectomy*  - leaves behind little tissue in tracheo-oesophageal groove to protect recurrent laryngeal nerve and parathyroid)
 3. *Total thyroidectomy* - No chance of recurrence
 4. *Dunhill procedure* - Preserves some tissue to avoid endocrone disorder
 

@@ -35,8 +35,8 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 1. Superficial
 2. Deeper than subcutaneous tissue
 3. Abscess / Osteomyelitis
-4. Gangrene of part of affected area
-5. Gangrene of entire area
+4. [[Surgery Notes/Gangrene\|Gangrene]] of part of affected area
+5. [[Surgery Notes/Gangrene\|Gangrene]] of entire area
 
 ## Investigations
 1. Discharge microscopy, culture, and  cytology

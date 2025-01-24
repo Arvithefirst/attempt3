@@ -6,7 +6,7 @@ Administration of whole blood or its components into a patient
 
 ## Indications
 Packed red cells for
-1. Hemorrhagic shock
+1. [[Surgery Notes/Hypovolemic Shock\|Hemorrhagic shock]]
 2. Major surgery
 3. Extensive burns
 4. Chronic blood loss
@@ -21,7 +21,6 @@ Whole blood for massive trauma
 
 
 ## Blood products
-Going to describe them here in short
 #### Packled Red blood cells
 - Each bag is 250-300 ml with 70% volume RBC
 - Each unit increases Hb by 1% and hematocrit by 3%
@@ -37,12 +36,19 @@ Going to describe them here in short
 - Eah unit(20ml) is fibrinogen rich. 
 - Given 0.2units/kg or 10 units repeated as necessary in DIC
 
+>[!bug] Massive Blood transfusion
+>Defined as
+>- atleast 500ml in 5 minutes
+>- more than half patients blood volume over 6 hours
+>- more than total blood volume in 24. hours
+>Results in Citrate toxicitiy, Thrombocytopenia, DIC, Lung injury
+
 ## Complications
-LAQ fro sure surely surely
+LAQ for sure surely surely
 
 ### Immune complications
 #### Major ABO incompatibility
-- Intravascular hemolysis leadinog to hemoaturia, pain, fever with chills
+- Intravascular hemolysis leading to hematuria, pain, fever with chills
 - Check blood type, IV fluids, Diuretics to flush kidney avoid ATN
 #### Minor Incompatibility 
 - Extravascular hemolysis, mild malaise jaundice fever
@@ -59,16 +65,10 @@ LAQ fro sure surely surely
 - Antileucocyte antibodies in donated plasma cause WBC accumulation in lungs. Degranulation of WBC in lungs causes non-cardiac pumonatry hypertension and oedema
 - Can present as dyspnea or all the way to ARDS
 - Supportive treatment (lasts upto 2 days)
-#### Congestive cardiac failure
+#### Congestive [[Medicine notes/Cardiac failure\|Cardiac failure]]
 - Due to rapid transfusion
 
 ### Infectious complications
-1. Hepatitis, AIDS, Malaria, Sypohilis blah
+1. Hepatitis, [[Medicine notes/HIV\|HIV]], [[Medicine notes/Malaria\|Malaria]], Syphilis 
 
->[!bug] Massive Blood transfusion
->Defined as
->- atleast 500ml in 5 minutes
->- more than half patients blood volume over 6 hours
->- more than total blood volume in 24. hours
->Results in Citrate toxicitiy, Thrombocytopenia, DIC, Lung injury
 

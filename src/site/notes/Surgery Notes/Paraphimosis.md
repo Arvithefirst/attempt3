@@ -13,7 +13,7 @@ Inability to return retracted prepuce to normal position
 
 ## Complications
 1. Ulcer glans
-2. Gangrene
+2. [[Surgery Notes/Gangrene\|Gangrene]]
 
 ## Management
 1. Sedation

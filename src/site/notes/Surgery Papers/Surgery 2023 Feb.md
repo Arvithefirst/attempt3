@@ -3,7 +3,7 @@
 ---
 
 # One liners
-Define Shock. %Blood volume loss is considered class 3 hemorrhagic shock
+Define Shock. %Blood volume loss is considered class 3 [[Surgery Notes/Hypovolemic Shock\|hemorrhagic shock]]
 What is [[Surgery Notes/Saints Triad\|Saints Triad]]
 What is [[Surgery Notes/Pressure sore#Staging\|stage 3 Pressure sore]]
 [[Surgery Notes/Amoebic liver abscess\|Amoebic liver abscess]] is caused by

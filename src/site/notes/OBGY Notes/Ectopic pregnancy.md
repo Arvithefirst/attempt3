@@ -20,7 +20,7 @@ Can be Acute, Unruptured, or subacute(old)
 ### Acute Ectopic(30%)
 1. Patient is between 20-30
 2. Abdominal pain preceeded by amenorrhoea. Vaginal bleeding
-3. Patient is in hypovolemic shock
+3. Patient is in [[Surgery Notes/Hypovolemic Shock\|Hypovolemic Shock]]
 4. Vaginal examination may worsen bleed
 
 ### Unruptured ectopic

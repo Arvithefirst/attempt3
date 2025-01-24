@@ -19,26 +19,25 @@ Usually caused in impacted gallstone in Hartmanns pouch by
 - Etiology unknown. *Usually seen in ICU patients*, or patients with extensive burns, Trauma, surgery etc
 
 ## Pathological features
-1. Distended gallbladder iwth oedematous friable wall and dilated vessels
-2. Areas of necrosis and patchy gangrene
+1. Distended gallbladder with oedematous friable wall and dilated vessels
+2. Areas of necrosis and patchy [[Surgery Notes/Gangrene\|gangrene]]
 3. Ulceration
 4. Lumen contains infected fluid/bile/pus
 5. Histology shows signs of acute inflammation
-
-## Complications
-1. *Perforation - typically in Hartmanns pouch*. Creating fistula with duodenum/intestive/biliary tree
-2. Peritonitis
-3. Pericholecystitic abscess
-4. Cholangitis
-5. Gangrenous gall bladder
 
 ## Clinical features
 1. *Sudden onset pain in Rt hypochondrium* with tenderness, guarding and rigidity
 2. Palpable, tender, soft gallbladder
 3. Hyperaesthesia posterior side Rt 9-11th ribs *(Boas sign)*
 4. Jandice, fever, nausea, tachycardia, Toxic appearance
+#### Complications
+1. *Perforation - typically in Hartmanns pouch*. Creating fistula with duodenum/intestive/biliary tree
+2. Peritonitis
+3. Pericholecystitic abscess
+4. Cholangitis
+5. Gangrenous gall bladder
 
-## Investigation
+## Investigations
 1. USG abdomen
 2. X-ray abdomen
 3. CBC, LFT

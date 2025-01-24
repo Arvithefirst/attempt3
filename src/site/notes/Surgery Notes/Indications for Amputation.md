@@ -5,7 +5,7 @@
 divided into *Dead, Deadly and Dead loss*
 
 Dead
-1. Gangrene
+1. [[Surgery Notes/Gangrene\|Gangrene]]
 Deadly
 1. Wet gangrene
 2. Spreading cellulitis

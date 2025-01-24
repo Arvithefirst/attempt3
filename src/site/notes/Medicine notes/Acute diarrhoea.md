@@ -23,7 +23,7 @@ Passage of loose stools >3 times a day for a total of <14 days. It is predominan
 	- Cryptosporidiasis
 
 ## Investigations
-Search for early signs of dehydration(hypovolemic) shock
+Search for early signs of dehydration([[Surgery Notes/Hypovolemic Shock\|Hypovolemic Shock]])
 1. Thirst, headache, Skin turgor, Dry mucous membranes, sunken eyes
 2. Hypotension, tachycardia, Decreased Urine output
 3. Stool microscopy, culture toxins

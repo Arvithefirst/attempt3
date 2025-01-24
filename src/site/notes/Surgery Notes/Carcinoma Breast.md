@@ -6,7 +6,7 @@ its like 11pm
 
 ## Aetiology
 1. Usually women between 35-70 years.
-2. More common in whites lesast in taiwanese 
+2. More common in whites, least in taiwanese 
 3. Family history - Li fraumeni syndorme/BRCA I and II on chromosomes 13 and 17 
 4. h/o breast cancer or benign berast diseases
 5. Obesity and alcohol

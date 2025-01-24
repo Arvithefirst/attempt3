@@ -5,7 +5,7 @@
 Abbreviated to SIADH. Involves Vasopressin and its recpetors
 
 ## Etiology
-1. Neoplastic - SCC lung,  duodenum, [[OBGY Notes/Ovarian Tumours\|Ovarian Tumours]], bladder
+1. Neoplastic - Small Cell Carcinoma lung,  duodenum, [[OBGY Notes/Ovarian Tumours\|Ovarian Tumours]], bladder
 2. Infections - TB, AIDS, Meningitis, Abscess
 3. Vascular - [[Medicine notes/Stroke\|CVA]]
 4. Neurological - [[Medicine notes/Guillain-Barre Syndrome\|Guillain-Barre Syndrome]], Multiple sclerosis, ALS

@@ -17,7 +17,7 @@ Closed injuries cause haematoma formation which in turn compresses majors vessel
 ## Complications
 1. Infection
 2. Chronic ischaemic contracture (see [[Ortho notes/Volkmann's ischaemic contracture\|Volkmann's ischaemic contracture]], Disability
-3. Gangrene
+3. [[Surgery Notes/Gangrene\|Gangrene]]
 4. Renal failure (due to muscel necrosis releasingn myoglobin)
 
 ## Treatment 

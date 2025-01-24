@@ -13,13 +13,13 @@ Stone formations within the gall bladder may be
 - Crystals undergo nucleation and induce further crystallisation
 >[!info] Factors affecting bile salt : Cholesterol ratio
 	1. Obesity
-	2. Drugs (OCP)
+	2. Drugs ([[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]])
 	3. Ileal disease/resection
 	4. Altered enterohepatic circulation
 #### II. Infections
 can induce formation of stones typically caused by bacteria(E.coli, Salmonella)or parasites like Ascaris lumbricoides
 #### III. Bile stasis
-May occur due to pregnancy oestrogen therapy, Long term IV fluid therapu
+May occur due to pregnancy, oestrogen therapy([[OBGY Notes/Oral Contraceptive Pills\|OCP]]), Long term IV fluid therapy
 #### IV. Increased Bilirubin production
 Occurs in all hemolytic conditions
 #### V. [[Surgery Notes/Saints Triad\|Saints Triad]]
@@ -43,7 +43,7 @@ Vary with location of stones
 2. In Common bile duct
 	1. Secondary CBD stones
 	2. Cholangitis
-	3. Pancreatitis
+	3. [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]]
 	4. [[Mirizzi Syndrome\|Mirizzi Syndrome]]
 3. In intestine
 	1. Cholecystoduodenal fistula causing intestinal obstruction

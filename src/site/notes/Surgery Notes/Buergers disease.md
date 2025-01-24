@@ -14,6 +14,7 @@ Affects only men. Usually smokers/tobacco users and starts in middle years
 5. Progression leads to decompenstated peripheral ascular diseases and finally  [[Surgery Notes/Critical Limb Ischaemia\|Critical Limb Ischaemia]]
 
 ## Clinical features  
+[[Surgery Notes/Fontaine Classification\|Fontaine Classification]]
 1. [[Surgery Notes/Claudication\|Claudication]] -> [[Surgery Notes/Rest Pain\|Rest Pain]] -> Ulceration -> [[Surgery Notes/Gangrene\|Gangrene]]
 2. Recurrent migratory superficial thromboiphlebitis
 
@@ -35,7 +36,7 @@ Affects only men. Usually smokers/tobacco users and starts in middle years
 ## Treatment
 STOP SMOKING LMAO
 >[!faq] Buergers Position and exercise
->Conservative treatment involving graded exercise upto point of claudication. Heel raise position, footcare advise
+>Conservative treatment involving graded exercise upto point of [[Surgery Notes/Claudication\|claudication]]. Heel raise position, footcare advise
 #### Drugs
 1. Vasodilators
 2. Pentoxiphylline (phosphodieserase inhibitor -> reduces viscosity, improves RBC flexibility)

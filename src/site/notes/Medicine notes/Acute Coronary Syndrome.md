@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/acute-coronary-syndrome/"}
 ---
 
-	Consists of Unstable Angina and Myocardial infarction
+	Consists of Unstable Angina, STEMI and NSTEMI
 
 # Definitions
 1.  Unstable Angina - "Crescendo angina" in the absense of cardiac damage

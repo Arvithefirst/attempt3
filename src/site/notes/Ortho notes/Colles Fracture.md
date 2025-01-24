@@ -13,7 +13,7 @@ Transverse fracture at cortico-cancellous junction. Typically with atleast 1 ort
 
 ## Clinical features
 - Pain, swelling, restriction of movement
-- #Dinnerfork_deformity of hand
+- *Dinnerfork deformity* of hand
 
 ## Treatment
 Essentiually conservative. Few surgical optionms

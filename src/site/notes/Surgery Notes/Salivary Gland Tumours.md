@@ -6,7 +6,7 @@
 1. Adenoma
 	1. [[Surgery Notes/Pleomorphic Adenoma\|Pleomorphic Adenoma]]
 	2. Monomorphic adenoma
-		1. Adenolymphoma (Warthins tumour)
+		1. Adenolymphoma ([[Surgery Notes/Warthins Tumour\|Warthins tumour]])
 		2. Oxyphillic adeoma (Oncocytoma
 		3. Other
 2. Mucoepidermoid tumours

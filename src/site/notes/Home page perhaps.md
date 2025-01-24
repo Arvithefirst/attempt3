@@ -37,6 +37,8 @@ Uncategorised notes :3
 
 and ditto ditto [[Surgery Notes/Surgery Internal Syllabus\|Surgery Internal Syllabus]]
 Also for fun [[List of famous fractures and deformities\|List of famous fractures and deformities]]
+[[Surgery Notes/How long is it! and other games\|How long is it! and other games]]
+
 ## OBGY Paper outlinks
 [[OBGY papers/OBGY 2024 Jan\|OBGY 2024 Jan]]
 [[OBGY papers/OBGY 2023 Jan\|OBGY 2023 Jan]]

@@ -26,7 +26,7 @@ Formula for calculating BMI (Body Mass Index).
 Name agent from Proton pump inhibitors.
 Drug used in management of Acute Polymyositis.
 Name four Antidepressant drugs.
-Component of CREST syndrome.
+Component of [[Surgery Notes/CREST Syndrome\|CREST Syndrome]].
 Four causes of Myopathy.
 Name Serum markers of Acute and Chronic pancreatitis. [[Surgery Notes/Acute Pancreatitis\|Acute Pancreatitis]]
 Four complications of [[Medicine notes/Organophosphate Poisoning#Treatment\|OP poisoning]].

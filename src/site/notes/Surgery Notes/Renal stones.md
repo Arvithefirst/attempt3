@@ -36,7 +36,7 @@
 1. Calculous [[Surgery Notes/Hydronephrosis\|Hydronephrosis]]
 2. Calculous pyonephroses
 3. Renal failure
-4. SCC
+4. Small Cell Carcinoma
 
 ## Investigations
 1. RFT

@@ -18,7 +18,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 3. Anemia, Malaria, TB, PID
 4. [[Medicine notes/HIV\|HIV]]/AIDS
 5. Dysmenorrhoea, Benign breat disease, Endomettriosis, , CA ovary
-6. Epilepsy, Thyroid disease, Varicose veins
+6. Epilepsy, Thyroid disease, [[Surgery Notes/Varicose veins\|Varicose veins]]
 #### CAT 2 - Advantages outweight risks
 1. Older than 40, Smoker, h/o jaundice,mild hypertension
 2. Gall bladder disease, Diabetes, Sicklecell disease

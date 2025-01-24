@@ -3,7 +3,7 @@
 ---
 
 
-1. #Monteggia_fracture - # proximal 1/3rd of ulna with displacement of radial head
+1. Monteggi fracture - # proximal 1/3rd of ulna with displacement of radial head
 2. Galeazzi fracture - # distal 1/3rd of radius with displacement of ulna
 3. Night stick fracture - # shaft of ulna 
 4. [[Ortho notes/Colles Fracture\|Colles Fracture]] - Transverse # Distal end of radius with dorsal displacement
@@ -20,7 +20,7 @@
 15. Pilon fracture
 16. Aviators fracture
 17. Chopart fracture
-18. #Jones_fracture - Proximal metadiaphyseal # of 5th metatarsal
+18. Jones fracture - Proximal metadiaphyseal # of 5th metatarsal
 19. Rolando fracture
 20. Jeffersons fracture
 21. Whiplash fracture
@@ -35,8 +35,10 @@
 30. Mallet finger fracture - DIP joint #
 
 ## Deformities
-1. #Foot_drop - Common peroneal nerve
-2. #Wrist_drop - Radial nerve
-3. #Ape_thumb_deformity - Median nerve
-4. #Pointing_index - Median nerve
-5. #Policeman_tip - Ulnar nerve
+1. Foot drop - Common peroneal nerve
+2. Wrist drop - Radial nerve
+3. Ape thumb deformity - Median nerve
+4. Pointing index - Median nerve
+5. Policeman tip - Ulnar nerve
+6. Dinnerfork deformity - [[Ortho notes/Colles Fracture\|Colles Fracture]]
+{ #73c834}

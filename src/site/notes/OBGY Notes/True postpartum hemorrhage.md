@@ -48,7 +48,7 @@ Call for help, secure large bore IV, send blood for grouping/acquire blood produ
 	- If uterus is hard and contracted then the cause is traumatic. Explore uterus and suture for hemostasis
 	- Else continue
 2. Uterine massage. IV oxytocin 5-10 units + 0.2mg methergine IV. Catheterise. Examine placenta
-3. Blood transfusion. Explore for clots/tissue
+3. [[Surgery Notes/Blood transfusion\|Blood transfusion]]. Explore for clots/tissue
 4. 15methyl PGF or misoprostol
 5. Uterine Tamponade (bimanual compression/balloon tamponade/Packing)
 6. Surgical ligation of involved arteries

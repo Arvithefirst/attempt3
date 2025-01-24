@@ -28,7 +28,9 @@ More common in tobacco users
 >Poorly differentiated - >25% keratin pearls
 >Undifferentiated - <25% keratin pearls
 ## Managemet
-1. Medical
-2. Surgical excision
+1. Medical. -not given in book?? perhaps not possible
+2. [[Surgery Notes/Microscopically Oriented Histographic Surgery\|MOHS]]
+3. Surgical excision
+4. Radiotherapy
+5. Treatment of secondaries -"wait and watch" Approach for inguinal block. dissection
 
-#incomplete

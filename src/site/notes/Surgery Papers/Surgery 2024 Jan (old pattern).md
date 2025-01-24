@@ -64,7 +64,7 @@ Triage
 Management of subdural hematoma
 
 (Ortho)
-[[Ortho notes/Osteomalacia\|Osteomalacia]]and its management
+[[Ortho notes/Osteomalacia\|Osteomalacia]] and its management
 Stages in bone [[Ortho notes/Fracture Healing\|fracture healing]]
 Erbs palsy
 

@@ -8,14 +8,14 @@ What is Richter's Hernia?
 What is Trichobezoar?
 What is Good Sall's Rule?
 Write the full form of [[Surgery Notes/Endoscopic Retrograde Cholangiopancreatography(ERCP)\|Endoscopic Retrograde Cholangiopancreatography(ERCP)]]?
-Define intussmception.
-What is the length of rectum?
+Define [[Surgery Notes/Intussusception\|intussusception]].
+What is the length of rectum? [[Surgery Notes/How long is it! and other games\|How long is it! and other games]]
 What is Dietl's Crisis?
 What is Blummer's Shelf?
-What is Fournier's Gangrene?
+What is Fournier's Gangrene [[Surgery Notes/Necrotising fasciitis\|Necrotising fasciitis]]?
 What does [[Carotidendartectomy\|CEA]] stand for?
 Define [[Surgery Notes/Hydronephrosis\|hydronephrosis]].
-What is the length of male urethra?
+What is the length of male urethra? [[Surgery Notes/How long is it! and other games\|How long is it! and other games]]
 What is Barrett's oesophagus?
 
 (p2)
@@ -36,7 +36,7 @@ Wrist drop is seen in which nerve palsy
 [[Ortho notes/Osteosarcoma#Investigations\|Sunray appearance]] is seen in which tumour
 Features of [[Surgery Notes/Compartment syndrome\|compartment syndrome]]
 Acute osteomyelitis beings in which area of the bone
-#Dinnerfork_deformity is seen in which fracture
+[[List of famous fractures and deformities#^73c834\|Dinnerfork deformity]] is seen in which fracture 
 Test to check abductors of hip
 ## Long answer questions
 Enumerate causes of intestinal obstruction. Discuss clinical features, invesstigatoins, and treatment of a case of intussception in a 9 month old
@@ -58,7 +58,7 @@ Mechanism of injury clinical features, investigation and managment of [[Ortho no
 
 ## Short answer questions
 Insulinoma
-Adamantinoma
+[[Surgery Notes/Adamantinoma\|Adamantinoma]]
 Triage 
 [[Surgery Notes/Acute Cholecystitis#Complications\|Complications of gallstones]]
 Gynaecomastia. 

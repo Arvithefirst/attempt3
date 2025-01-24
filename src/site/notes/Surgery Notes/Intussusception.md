@@ -8,7 +8,7 @@ Telescoping or invaginatio of one segment of bowel in to the adjacent one. Can b
 Usually seen in children. Typically *after weaning or URTI due to inflammation of peyers patches.*
 
 1. Invaginating part is called the apex
-2. Outer sheath is i*ntussuscipiens*. Inner in *intussusceptum*
+2. Outer sheath is *intussuscipiens*. Inner in *intussusceptum*
 3. Intussusceptum becomes ischaemic gangrene leading to passign of Red-currant jelly per anum
 
 ## Clinical features

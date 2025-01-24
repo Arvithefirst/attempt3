@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/surgery-notes/pleomorphic-adenoma/"}
 ---
 
-Refers to benign salivary gland neoplasm 
+Usually refers to benign salivary gland neoplasm 
 
-## Pathology
+#### Pathology
 1. Epithelial cells proliferate in strands or arranged as acini/cords
-2. Myoepithelium prolkiferates in sheets (spindle shapedcells)
+2. Myoepithelium prolkiferates in sheets (spindle-shaped cells)
 3. Produces mucoid secretions
 4. Compresses parotid. Eventually penetrates into parotid
 
@@ -24,7 +24,7 @@ Refers to benign salivary gland neoplasm
 >2. Skin infiltration
 >3. Facial nerve involvement
 >4. Fixed to masseter
->5. red dialted veins
+>5. Red dialted veins
 >6. Lymphadenopathy
 >7. Stony hard consistency
 

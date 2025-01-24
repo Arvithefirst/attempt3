@@ -27,10 +27,12 @@ Disruption of gastric mucus formation and excess acid formation can lead to ulce
 2. [[Medicine notes/Helicobacter pylori#Laboratory Diagnosis\|Tests for H.pylori]]
 
 ## Treatment
-1. General measures - Avoid smoking, alcohol, NSAID
+1. General measures - Avoid smoking, alcohol, NSAID. Use Antacids
 2. Maintanence treatment - low dose PPI
-3. H.pylori Eradication
-4. Surgical intervention (Billroths I and II)
+3. [[Medicine notes/Helicobacter pylori#Eradication Therapy\|Helicobacter pylori#Eradication Therapy]] 
+4. Surgical intervention 
+	1. Highly selective Vagotomy
+	2. Billroths I and II gastrectomy
 
 >[!faq] Complications of surgical intervention
 >50% of patients who require surgery suffer from long-term complications
