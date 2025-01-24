@@ -11,22 +11,22 @@
 
 ## Clinical features
 Progressively get worse depending on volume lost
-#### Class I (<750ml or <15%)
+#### Class I ($<750ml$ or $<15$% )
 - Compensatory peripheral vasoconstriction
 - Mild tachycardia and thirst
 
-#### Class II (750-1500ml or <30%) - Compensated
+#### Class II ($750-1500ml$ or $<30$%) - Compensated
 - Catecholamine release causes powerful vasoconstriction
 - Increased ADH secretion
 - Tachycardia, Decreased diastolic BP, Patient is confused and thirsty
 - Decreased urine output, Peripheral pallor, increased capillary refill time
 
-#### Class III (1500-2000ml or 30-40%) - Decompensated
+#### Class III ($1500-2000ml$ or $30-40$%) - Decompensated
 - Thready pulse, Tachycardia >120bpm, Tachypnea >20/min
 - Urine production <10-20ml/hour
 - Patient pale, Lethargic
 
-#### Class IV (>2000ml or >40%) - Irreversible
+#### Class IV ($>2000ml$ or $>40$%) - Irreversible
 - Cold ashen periphery, Feeble pulse, unrecordable BP
 - Multi-Organ Dysfunction Syndrome
 	- Mucosal ulcers, Bacterial infections
@@ -40,5 +40,5 @@ Medical emergency -Do blood typing
 ## Treatment
 Oxygen therapy, IV Access, Identify and stop source of hypovolemia
 1. Crystalloids - 2-3 X lost volume
-2. Colloids - Equal to. blood lost
+2. Colloids - Equal to volume of blood lost, more expensive
 3. [[Surgery Notes/Blood transfusion\|Blood transfusion]]

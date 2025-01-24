@@ -22,7 +22,7 @@ Name the [[Medicine notes/Aortic regurgitation#Clinical Features of Aortic Regur
 
 (p2)
 Name the arteries forming [[Medicine notes/Circle of Willis\|Circle of Willis]].
-Graves disease is what type of Thyroid disease ?
+[[Medicine notes/Graves Disease\|Graves disease]] is what type of Thyroid disease ?
 Name 2 fevers with skin rash.
 Where is Ampula of Vater ?
 Name 2 serological tests for [[Medicine notes/Rheumatoid Arthritis\|Rheumatoid Arthritis]]. 

@@ -10,9 +10,9 @@ its like 11pm
 3. Family history - Li fraumeni syndorme/BRCA I and II on chromosomes 13 and 17 
 4. h/o breast cancer or benign berast diseases
 5. Obesity and alcohol
-6. Nulliparity, l;long mesntruation
+6. Nulliparity, long mesntruation
 7. Chest radiation exposure
-8. HRT
+8. Hormone Replacement Therapy
 
 ## Classification
 1. Carcinoma in situ
@@ -32,7 +32,7 @@ its like 11pm
 ## Clinical features
 1. Bloody dicharge (in ductal carcinomas)
 2. Retracted nipple
-3. Peau d'orange
+3. Peau d'orange - Blockage of intradermal lymphatics
 4. Puckering of overlying skin
 5. Lump
 

@@ -48,7 +48,7 @@ Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical featu
 (p2)
 Describe the aetiolog, pathology, clinincal features and management of [[Surgery Notes/Gas gangrene\|gas gangrene]]
 
-Discuss features of thyrotoxicosis, Management of graves disease
+Discuss features of thyrotoxicosis, Management of [[Medicine notes/Graves Disease\|graves disease]]
 
 Enumerate causes of cervical lymphadenopathy. Etiology, pathology, clinical features, stages and management of tubercular cervical lymphadenopathy
 
@@ -69,7 +69,7 @@ Cleft lip
 (p2)
 [[Surgery Notes/Ranula\|Ranula]]
 Carotid body tumour
-Ameloblastoma
+[[Surgery Notes/Adamantinoma\|Ameloblastoma]]
 FAST
 Autoclave
 

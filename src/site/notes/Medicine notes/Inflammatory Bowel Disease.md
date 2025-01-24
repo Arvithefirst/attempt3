@@ -39,7 +39,7 @@ Non-infective
 5. Extra-intestincal complications
 	1. Conjuctivitis, Iritis, Scleritis
 	2. Mouth ulcer
-	3. Liver abscess, Fatty liver, Autoimmune hepatitis, Gallstones
+	3. Liver abscess, Fatty liver, Autoimmune hepatitis, [[Surgery Notes/Gallstones\|Gallstones]]
 	4. Thrombus formation, Portal vein thrombus
 	5. Large joint arthritis, Metabolic bone disease, Sacroilieitis
 

@@ -15,15 +15,15 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 3. Callous
 
 <mark style="background: #FFB86CA6;">Pathological</mark>
-1. Specifiic - Tubercular, syphilitic, Meleneys(post-operative)
+1. Specifiic - Tubercular, syphilitic, [[Surgery Notes/Squamous Cell Carcinoma\|Meleneys]]
 2. Malignant - Rodent Ulcer, Melanotic
 3. Non-specific
 	1. Traumatic
-	2. Arterial
-	3. Venous Ulcer
+	2. Arterial - [[Surgery Notes/Buergers disease\|Buergers disease]]
+	3. Venous Ulcer - [[Surgery Notes/Varicose veins\|Varicose veins]]
 	4. [[Surgery Notes/Pressure sore\|Trophic Ulcer]]
-	5. Infective
-	6. [[Diabetic Ulcer\|Diabetic Ulcer]]
+	5. Infective - 
+	6. Diabetic Ulcer [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]]
 	7. Tropical
 	8. Frostbite
 	9. Cortisol
@@ -39,7 +39,7 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 5. [[Surgery Notes/Gangrene\|Gangrene]] of entire area
 
 ## Investigations
-1. Discharge microscopy, culture, and  cytology
+1. Discharge microscopy, culture, and cytology
 2. Edge biopsy
 3. Xray
 4. FNAC
@@ -54,5 +54,5 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 > Removal of devitalised, necrotic tissue to allow proliferation of healthy granulation tissue. Can be done in Minor OT under local anesthesia for small ulcers. *Done using either biological(Leeches) or chemical(Collagenase/EUSOL)** methods
 > ***
 > // Collagenase made from trypsin, Castor seeds etc
-> // EUSOL is a mixture of Boric acid and Lime
+> // EUSOL is a mixture of Boric acid and Lime (Edinburgh University SOLution)
 

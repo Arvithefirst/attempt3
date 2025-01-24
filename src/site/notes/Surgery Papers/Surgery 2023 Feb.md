@@ -43,7 +43,7 @@ Etiopathogenesis and management of [[Surgery Notes/Hydatid cyst\|Hydatid cyst]]
 Diagnosis and management of case of [[Surgery Notes/Obstructive jaundice\|Obstructive jaundice]] in 75 yo
 
 (p2)
-Classify [[Surgery Notes/Thyroid swellings\|Thyroid swellings]]. Desribe clinical features, differential diagnosis, investigatinos and treatment of Graves disease
+Classify [[Surgery Notes/Thyroid swellings\|Thyroid swellings]]. Desribe clinical features, differential diagnosis, investigatinos and treatment of [[Medicine notes/Graves Disease\|Graves disease]]
 
 Describe risk factors and pathology of [[Surgery Notes/Carcinoma Breast\|Carcinoma Breast]]. Discuss management of early breast cancer
 
