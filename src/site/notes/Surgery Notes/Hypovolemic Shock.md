@@ -11,11 +11,11 @@
 
 ## Clinical features
 Progressively get worse depending on volume lost
-#### Class I ($<750ml$ or $<15$% )
+#### Class I ($0 - 750ml$ or less than 15% )
 - Compensatory peripheral vasoconstriction
 - Mild tachycardia and thirst
 
-#### Class II ($750-1500ml$ or $<30$%) - Compensated
+#### Class II ($750-1500ml$ or less than 30%) - Compensated
 - Catecholamine release causes powerful vasoconstriction
 - Increased ADH secretion
 - Tachycardia, Decreased diastolic BP, Patient is confused and thirsty
@@ -25,8 +25,8 @@ Progressively get worse depending on volume lost
 - Thready pulse, Tachycardia >120bpm, Tachypnea >20/min
 - Urine production <10-20ml/hour
 - Patient pale, Lethargic
-x
-#### Class IV ($> 2000ml$ or $>40$%) - Irreversible
+
+#### Class IV (More than $2000ml$ or 40% ) - Irreversible
 - Cold ashen periphery, Feeble pulse, unrecordable BP
 - Multi-Organ Dysfunction Syndrome
 	- Mucosal ulcers, Bacterial infections
