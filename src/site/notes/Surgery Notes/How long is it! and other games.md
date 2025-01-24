@@ -8,6 +8,8 @@ Lenght Male Urethra - 16-22cm
 Lenght Rectum - 10-15cm
 Normal Blood pH - 7.35- 7.45
 Normal CVP - 8-12mmHg
+{ #6fec45}
+
 
 What is ligament of trietz - Support of duodenal flexure. Runs form Right crus till celiac trunk
 

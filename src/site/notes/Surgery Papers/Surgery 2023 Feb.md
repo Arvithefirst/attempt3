@@ -30,13 +30,13 @@ Boundaries on inguinal pouch
 Conmon cause of chronic [[Surgery Notes/Retention of Urine\|urine retention]] in adults
 
 (ortho)
-Foot drop is due to which nerve
-#March_fracture is what kind of fracture [[List of famous fractures and deformities\|List of famous fractures and deformities]]
+[[List of famous fractures and deformities#^479eff\|Foot drop]] is due to which nerve
+[[List of famous fractures and deformities#^cc7ed5\|March fracture]] is what kind of fracture 
 What is meralgia parasthetica
 Xray of giant cell tumour
-#gunstock_deformity 
-Define non-union
-Mallet finger is due to which tendon injury
+[[List of famous fractures and deformities#^39f9ac\|Gunstock deformity]] 
+Define [[Ortho notes/Delayed and non-union\|non-union]]
+[[List of famous fractures and deformities#^7d3b4f\|Mallet finger]] is due to which tendon injury
 # Long answers
 Etiopathogenesis and management of [[Surgery Notes/Achalasia Cardia\|Achalasia Cardia]]
 Etiopathogenesis and management of [[Surgery Notes/Hydatid cyst\|Hydatid cyst]]

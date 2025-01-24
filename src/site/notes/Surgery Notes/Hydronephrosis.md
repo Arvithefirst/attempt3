@@ -14,15 +14,15 @@ Diffrent for Uniiateral and bilateral hydronephroses
 3. Extramural - Ca. Rectum, Cervix, Aberrant vessels, Horseshow kidney
 
 ### Bilateral 
-1. In children - Phimosis, meatal stenosis, Posterior urethral valcve
+1. In children - [[Surgery Notes/Phimosis\|Phimosis]], meatal stenosis, Posterior urethral valce
 2. In young adults - Stricture, Bilateral abberant vessels
-3. Older adults - BPH, Contraction of neck of bladder
+3. Older adults - [[Surgery Notes/Benign Prostate Hyperplasia\|BPH]], Contraction of neck of bladder
 4. Physiological in pregnancy
 
 ## Clinical features
 1. Painless enlargement of kidney
 2. Dull aching pain in loin
-3. h/o calculi
+3. h/o [[Surgery Notes/Renal stones\|Renal calculi]]
 4. Rarely hypertension/hematuria
 >[!faq] Dietl's crisis (intermittent hydronephrosis)
 > Commonly seen in calculus etiologies. Kidney become palpable after an attack of renal colic. Resolves in a few hours leaving behind polyuria as the stones slip
@@ -40,11 +40,11 @@ Diffrent for Uniiateral and bilateral hydronephroses
 Hydronephroses secondary to another cause can be treated by mnanaging the underlying condition 
 ### Anderson hynes operation
 - For congenital PUJ obstruction(most common)
-- Excisdion of spamsodic and redundant parts. A new pelvis is created and anastomosed in a adependant position
+- Excision of spamsodic and redundant parts. A new pelvis is created and anastomosed in a adependant position
 
 #### Other
 1. Davis tube ureterostomy
 2. Non-dismembered pyeloplasty
 3. Bilateral nephrostomt
 4. Laproscopic of retroperitnoeal pyeloplasty
-5. endoscopic pyelosis
+5. Endoscopic pyelosis

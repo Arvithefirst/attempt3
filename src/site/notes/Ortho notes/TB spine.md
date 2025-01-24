@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ortho-notes/tb-spine/"}
 ---
 
-Also calle dPotts spine
+Also calle Potts spine
 
 ## Types
 Can be described by area of infection
@@ -25,7 +25,7 @@ Can be described by area of infection
 1. Dull aching back pain. May progress to pain radiating to parts innervated. by affected nerves
 2. Stiffness
 3. Cold abscess
-4. Paraplegia
+4. [[Potts Paraplegia\|Potts Paraplegia]]
 5. Deformity
 6. Constitutional symptoms
 
@@ -47,7 +47,7 @@ Can be described by area of infection
 1. ATT
 2. Rest for spine followed by cautious mobilisation
 #### Treatment of Cold Abscess
-1. Aspiration - Zig-zagh tract
+1. Aspiration - Zig-zag tract
 2. Evacuation (closed without drain)
 
 

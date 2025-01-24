@@ -12,7 +12,7 @@
 	1. <mark style="background: #BBFABBA6;">Heavy lifting</mark>
 	2. Chronic cough
 	3. Constipation
-	4. Urinary problems (Stricture, BPH)
+	4. Urinary problems (Stricture, [[Surgery Notes/Benign Prostate Hyperplasia\|BPH]])
 2. Weakened Abdominal wall
 	1. Obesity
 	2. Pregnancy

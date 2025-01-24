@@ -8,7 +8,7 @@ Inability to retract prepuce
 1. Congenital
 2. Balantoposthitis
 3. Chancre
-4. Carcinoma
+4. Carcinoma penis
 ## Clinical features
 1. Inability to retract foreskin
 2. Difficulty in cleaning
@@ -16,7 +16,7 @@ Inability to retract prepuce
 ## Complications
 1. Carcinoma penis
 2. Infection
-3. Paraphimosis
+3. [[Surgery Notes/Paraphimosis\|Paraphimosis]]
 
 ## Treatment
-2. Circumcision
+Circumcision

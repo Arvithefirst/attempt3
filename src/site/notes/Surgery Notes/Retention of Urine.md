@@ -12,9 +12,9 @@ Can be acute/chronic.
 	4. Malignancy bladder neck
 	5. Stricture Urethra
 2. Male
-	1. BPH
+	1. [[Surgery Notes/Benign Prostate Hyperplasia\|BPH]]
 	2. Trauma
-	3. Carcinoma Prostate
+	3. [[Surgery Notes/Carcinoma Prostate\|Carcinoma Prostate]]
 3. Female
 	1. Uterine prolapse
 	2. Cystocele

@@ -13,13 +13,13 @@ What is Virchow's Traid?
 What is lucid interval?
 What is an allograft? 
 What is [[Surgery Notes/Ulcer#Treatment\|EUSOL]]?
-Wrist drop is seen with which nerve injury? 
-Which is most common bone tumor?
+[[List of famous fractures and deformities#^14dfb2\|Wrist drop]] is seen with which nerve injury? 
+Which is most common bone tumor? [[Ortho notes/Osteochondroma\|Osteochondroma]]
 What is emergency/immediate treatment of [[Surgery Notes/Compartment syndrome\|Compartment Syndrome]]? 
 Saucerization is treatment of which bony condition?
-What is a Jones fracture?
+What is a [[List of famous fractures and deformities#^079198\|Jones fracture]]?
 What is the investigation of choice for Anterior cruciate ligament injury? 
-Dinner fork deformity is seen with which fracture?
+[[List of famous fractures and deformities#^73c834\|Dinner fork deformity]] is seen with which fracture?
 
 What is Trichobezoar?
 Define intussusceptions.
@@ -45,9 +45,9 @@ hyperthyroidism?
 Classify shock. Discuss pathophysiology, clinical features &management of septic shock.
 
 (Ortho)
-Write in detail about stages of [[Ortho notes/Fracture Healing\|fracture healing]]? Contrast and compare between healing of cortical bone and healing of cancellous bone. Also enumerate the causes and treatment of Non-Union of fractures.
+Write in detail about stages of [[Ortho notes/Fracture Healing\|fracture healing]]? Contrast and compare between healing of cortical bone and healing of cancellous bone. Also enumerate the causes and treatment of [[Ortho notes/Delayed and non-union\|Non-Union]] of fractures.
 
-Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar [[Ortho notes/TB spine\|kochs spine]] and add a note on potts paraplegia
+Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar [[Ortho notes/TB spine\|kochs spine]] and add a note on [[Potts Paraplegia\|potts paraplegia]]
 
 (p2)
 Describe etiology of [[Surgery Notes/Gallstones#Pathogenesis\|Gall stones]]. Describe clinical features investigations & management of [[Surgery Notes/Acute Cholecystitis\|acute calculus cholecystitis]].
@@ -61,7 +61,7 @@ Autoclave
 Branchial cyst
 Paget's disease of nipple
 Write a note on [[Ortho notes/Osteosarcoma\|Osteosarcoma]]
-Etiology, clinical features and management of Rickets
+Etiology, clinical features and management of [[Ortho notes/Rickets\|Rickets]]
 Write a note on [[Ortho notes/Supracondylar fracture of Humerus\|Supracondylar humerus of fracture in children]]
 
 

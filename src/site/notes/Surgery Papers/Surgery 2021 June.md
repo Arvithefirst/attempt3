@@ -16,12 +16,12 @@ Name the virus causing Human Immunodeficiency Syndrome.
 
 (Ortho)
 Which condition results in bamboo spine?
-Define non union.
+Define [[Ortho notes/Delayed and non-union\|non union]].
 Which is the commonest organism in acute osteomyelitis?
 McMurrays test helps to diagnose which condition in knee injury?
 Which nerve injury shows positive Froment's sign?
-Define #greenstick_fracture.
-Which fracture shows #Dinnerfork_deformity ?
+Define greenstick fracture.
+Which fracture shows [[List of famous fractures and deformities#^73c834\|Dinnerfork deformity]] ?
 
 (p2)
 What is Pantaloon hernia?
@@ -34,7 +34,7 @@ What is the length of male urethra?
 What is the standard operation done for [[Surgery Notes/Achalasia Cardia#Treatment\|Achalasia cardia]]? 
 What [[Carotidendartectomy\|CEA]] stands for?
 What is [[Surgery Notes/Charcot's triad\|Charcot's triad]]?
-[[Medicine notes/Ulcerative colitis\|Ulcerative colitis]] mainly starts ni which part of the bowel? 
+[[Medicine notes/Ulcerative colitis\|Ulcerative colitis]] mainly starts in which part of the bowel? 
 VIPoma stands for
 [[Surgery Notes/Hydatid cyst#Pathology\|Hydatid sand]] consists of
 Cell of origin of Gastrointestinal Stromal tumor.
@@ -65,7 +65,7 @@ Cystic Hygroma.
 Methods of sterilization.
 
 (Ortho)
-Leg-Calve-Perthes disease.
+[[Perthes Disease\|Legg-Calve-Perthes disease]].
 [[Ortho notes/Ewings' Sarcoma\|Ewings' Sarcoma]]: clinico-radiological features and treatment. 
 Epiphyseal injuries in children.
 

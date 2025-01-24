@@ -47,7 +47,7 @@ Describe the anatomy of thyroid gland, and write about investigations and Manage
 Describe different pathological types of [[Surgery Notes/Carcinoma Breast\|Carcinoma Breast]] and management of cancer breast in pregnancy according to trimester
 
 (Ortho)
-Define [[Ortho notes/Congenital Dislocation of Hip\|Congenital Dislocation of Hip]] developmental dysplasia of hip and its etiopathogenesis, investigation and management
+Define [[Ortho notes/Congenital Dislocation of Hip\|Congenital Dislocation of Hip]] and its etiopathogenesis, investigation and management
 
 30Year old male patient brought to casualty and Presented with Pulse 130/m, BP90/60. RR40/m with grade II compound wound with deformity at mid thigh. Describe diagnosis, investigations and management.
 

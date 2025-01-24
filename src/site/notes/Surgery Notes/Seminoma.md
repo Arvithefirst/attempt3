@@ -5,7 +5,7 @@
 Most common germ cell tumour. Arises from the seminiferous tubules.
 
 ## Etiology
-1. Undescended testis
+1. [[Surgery Notes/Undescended testis\|Undescended testis]]
 2. Klinefelters syndrome
 3. Trauma
 
@@ -14,7 +14,7 @@ Most common germ cell tumour. Arises from the seminiferous tubules.
 2. Spermatocytic - Slow spread, good prognosis
 3. Anaplastic - Fast spread, poor prognosis
 4. Mixed
-5. 
+
 ## Investigations
 1. *NO BIOPSY* to prevent spread
 3. USG Testis (hypoechoic)
@@ -35,5 +35,5 @@ IV - Pulmonary or hepatic masses
 Radical inguinal Orchidectomy (Chevasus procedure.) Incision is taken in the inguinal region and cord ligated. The testes is removed through the inguinal canal.
 
 ### Management of Retroperitoneum and metastases
-*\Stage I to IIA* - Radiotherapy to peritoneum. Relapse is managed by chemoterapy
+*Stage I to IIA* - Radiotherapy to peritoneum. Relapse is managed by chemoterapy
 *Stage IIB, III, IV* - Radical orchidectomy + Chemotherapy PVB (Cisplastin, Vincrintin, Bleomycin)

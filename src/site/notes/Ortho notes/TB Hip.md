@@ -8,7 +8,7 @@ Typically affects children
 1. *Initial lesion* is usually in head of femur or acetabiulum
 2. *Synovial hypertrophy* leading to destroyed cartilage
 3. Joint becomes filled with pus and granulation tissue
-4. Synovium becomes t*hick, oedematous, grey, ulcerated*
+4. Synovium becomes *thick, oedematous, grey, ulcerated*
 5. *Multiple cavitations* causing dislocations ("Wandering acetabulum")
 6. *Pus bursts* through capsule may result in cold abscess of groin/pelvis
 
@@ -45,7 +45,7 @@ Insidious onset
 	2. Lytic lesions
 	3. Reduction in bone space
 	4. Irregular outline
-	5. Wandering acetabulum gives Moprtar and pesle appearance
+	5. Wandering acetabulum gives Mortar and pestle appearance
 	6. Signs of healing like sclerosis
 2. Others
 lmao ortho is a joke
@@ -53,7 +53,7 @@ lmao ortho is a joke
 ## Treatment
 Stage 1 and 2 can get thew good ol ATT and rest and care. But for stage 3
 1. *Joint debridement* -Posterioly approached, debrided and washed. Limb mobilised
-2. *Girdlestone arthroplasty*(most common) - Posteriorly approched excision of head and neckl of femur. Skeletal traction given until limb can be mobilised
+2. *Girdlestone arthroplasty*(most common) - Posteriorly approched excision of head and neck of femur. Skeletal traction given until limb can be mobilised
 3. Artherodesis - Fusion
 4. Corrective osteotomy - When fusion has occured in an unfavorable position
 5. Total hip replacement

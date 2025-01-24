@@ -38,9 +38,15 @@ Thre are 2 theories that explain BPH
 4. Renal failure
 
 ## Investigations
-1. Urea creatinine
-2. Uroflowmetry
-3. USG
+1. Urea, creatinine
+2. Prostate specific Antigen
+3. Uroflowmetry
+4. USG
+#### Grading of Prostate by PR examination
+Grade I - 1-2cm protrusino into rectum
+Grade II - 2-3cm protrusion. Median sulcus obliterated
+Grade III - 3-4cm protrusion
+Grade IV - >4cm protrusion
 
 ## Treatment
 ### Medical Management
@@ -52,9 +58,9 @@ Done in patients with mild disease who have good urine flow minimal back pressur
 Done when there is (i) Retention of urine (ii) High frequency of micturation (iii) Complications
 
 #### Transurethral resection of prostate (TURP)
-- Most common because no suprabubic incisioin and faster recovery
-- May develop *TURP Syndrome* (Water intoxication leading to ccf)
-#### Transvescical. Suprapubic Prostatectomy
+- Most common because no suprabubic incision and faster recovery
+- May develop *TURP Syndrome* (Water intoxication leading to [[Medicine notes/Cardiac failure\|ccf]])
+#### Transvescical Suprapubic Prostatectomy
 - Only done when the prostate is very large or a/w stones
 - Higher chance of hemorrhage and striucture
 #### Other

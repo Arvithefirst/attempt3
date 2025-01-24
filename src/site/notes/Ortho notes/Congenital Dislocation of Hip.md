@@ -25,7 +25,7 @@ Can occur at either i) birth(Classic) or ii)after birth. Changes are
 >1. Barlows +ve
 >2. Ortolanis +ve
 >3. Galeazzis sign
->4. Trendelenburg ttest +ve
+>4. Trendelenburg test +ve
 >5. Telescopy +ve
 
 ## Investigations
@@ -44,9 +44,9 @@ Treatment can be pushed upto 8years in b/l cases and 10- years in unilateral one
 maheshwari has never seen a baby in his life
 1. Frog leg cast
 2. Bachelor cast
-3. Can rosen splint
+3. Van-rosen splint
 
 #### Surgical Methods
 1. *Salter Osteotomy* - Wedge of iliac bone above acetabulkum taken out. The acetabulum is then rotated along to cover femur
 2. *Chiaris Osteotomy* - Transverse division and the lower fragment displaced medially
-3. *Pembertons Osteotom*y - Curved wedge taken above acetabulum
+3. *Pembertons Osteotomy* - Curved wedge taken above acetabulum

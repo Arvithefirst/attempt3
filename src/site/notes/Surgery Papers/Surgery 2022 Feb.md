@@ -32,7 +32,7 @@ Define [[Surgery Notes/Hernia#^b8ce0e\|Hernia]]
 
 (Ortho)
 Attitude of limb in anterior shoulder dislocation
-Wrist drop is seen in which nerve palsy
+[[List of famous fractures and deformities#^14dfb2\|Wrist drop]] is seen in which nerve palsy
 [[Ortho notes/Osteosarcoma#Investigations\|Sunray appearance]] is seen in which tumour
 Features of [[Surgery Notes/Compartment syndrome\|compartment syndrome]]
 Acute osteomyelitis beings in which area of the bone
@@ -43,7 +43,7 @@ Enumerate causes of intestinal obstruction. Discuss clinical features, invesstig
 
 Classify [[Surgery Notes/Testicular tumours\|testicular tumours]], Discuss pathology clinical features and management of a [[Surgery Notes/Seminoma\|seminoma]] testis
 
-Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical features and managementof Ca Rectum
+Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical features and management of Ca Rectum
 
 (p2)
 Describe the aetiolog, pathology, clinincal features and management of [[Surgery Notes/Gas gangrene\|gas gangrene]]

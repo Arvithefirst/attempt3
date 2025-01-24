@@ -5,7 +5,7 @@
 Vitamin D deficiency in Adults. 
 
 ## Etiology
-1. Lack of sunlight exposiure
+1. Lack of sunlight exposure
 2. Dietary defiency
 3. Pregnancy
 4. Malabsorption syndrome

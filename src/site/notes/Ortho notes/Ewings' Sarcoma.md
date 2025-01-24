@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/ortho-notes/ewings-sarcoma/"}
 ---
 
-Highly malignant tumour occuring between 10-20
+Highly malignant tumour occuring between 10-20 years of age
 
 ## Pathology
 1. Typically affects long bones diaphyses. Occasionally multicentric
-2. Grossly involves llarge area with gray white t hin tissue
-3. Uniform sheet of small cells foorming pseudo-roseettes
+2. Grossly involves large area with gray white t hin tissue
+3. Uniform sheet of small cells foorming pseudo-rosettes
 
 ## Clinical features
 1. Between 10-20 years of age

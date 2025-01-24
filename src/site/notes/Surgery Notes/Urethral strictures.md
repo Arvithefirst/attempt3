@@ -5,9 +5,9 @@
 ## Etiology
 1. Congenital
 2. Post-inflammatory (can be post-gonococcal or tubercular)
-3. Popst-instrumentation
+3. Post-instrumentation
 	1. Catheter
-	2. Dilaatation
+	2. Dilatation
 	3. Transurethral procedure
 4. Post operative
 	1. Prostatectomy
@@ -22,7 +22,7 @@
 4. Suprapubic pain
 
 ## Investigations
-1. X-ray pelvis/KUB sxray
+1. X-ray pelvis/KUB xray
 2. Ascending Urethrography (ASU)
 3. Voiding cystourethrogram(CSUG)
 
@@ -35,5 +35,5 @@ inscision at 12 o'clock
 ## Complications
 1. Acute retention of urine
 2. Secondary stones
-3. Recurrent periurethral abscess (Watercan perineum)
+3. Recurrent periurethral abscess (*Watercan perineum*)
 4. Recurrent epididymo-orchitis

@@ -55,7 +55,7 @@ Describe clinical features, diagnosis of Alcoholic Liver disease and enumerate t
 Name symptoms of [[Medicine notes/HIV\|HIV]]-AIDS.
 Target Organ Damage (complications) in hypertension. 
 Investigations to diagnose haemolytic anaemias.
-Clinical Signs of [[Medicine notes/Cardiac failure\|Cardiac failure]] Congestive Cardiac Failure.
+Clinical Signs of [[Medicine notes/Cardiac failure\|Cardiac failure]] Congestive [[Medicine notes/Cardiac failure\|Cardiac Failure]].
 [[Medicine notes/Infective endocarditis#Dukes criteria for diagnosis of IE\|Diagnosis of Bacterial Endocarditis]] in a patient of Rheumatic Valvular Heart Disease.
 Clinical features and diagnosis of Megaloblastic Anaemia (B12 deficiency).
 Symptoms and signs of [[Medicine notes/Portal Hypertension\|portal hypertension]].

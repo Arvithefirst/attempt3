@@ -19,7 +19,7 @@ Disease of a growing skeleton characterised by failure of normal mineralisation 
 	1. [[Pediatric Notes/Familial Hypophosphatemic Rickets\|Familial Hypophosphatemic Rickets]]
 	2. Fanconi syndrome
 	3. Renal Tubular Acidosis
-2. Diminiashed intake of phosphates
+2. Diminished intake of phosphates
 
 ## Clinical features
 1. Craniotabes

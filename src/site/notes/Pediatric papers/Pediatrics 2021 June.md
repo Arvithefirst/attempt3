@@ -12,7 +12,7 @@ Snow man appearance on Xray
 Hormone for milk ejection
 Drug of choice for leptospirosis
 Head circumference during 1st year of life [[Pediatric Notes/Normal Growth#Head circumference\|Normal Growth#Head circumference]]
-Clinical tests for CDH
+Clinical tests for [[Ortho notes/Congenital Dislocation of Hip\|CDH]]
 
 ## LAQ
 Hyaline membrane disorder

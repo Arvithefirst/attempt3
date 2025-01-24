@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/intravenous-urography/"}
 ---
 
-Short note for smoe reason (abbreviatee IVU). Its the consecutive xrays one
+Short note for some reason. Its the consecutive xrays one
 
 ## Indications
 1. Congenital abnormality
@@ -28,5 +28,5 @@ Done at 8hours of fasting only after KUB
 
 ## Contraindications
 1. Iodine sensitivity/Thyrotoxicosis
-2. Multiple myelome
+2. Multiple myeloma
 

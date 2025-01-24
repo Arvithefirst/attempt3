@@ -24,7 +24,7 @@ Describes a situation where the patient is clinically euvolemic usually due to i
 ### Hyponatremia with Hypervolemia
 Descrribes a situation where excess water retention leads to volume expansion and hyponatremia
 #### Causes
-- Congestive cardiac failure
+- Congestive [[Medicine notes/Cardiac failure\|cardiac failure]]
 - Cirrhosis
 - [[Medicine notes/Nephrotic Syndrome\|Nephrotic Syndrome]]
 - [[Medicine notes/Chronic Kidney Disease\|Chronic Kidney Disease]]

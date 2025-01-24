@@ -4,7 +4,8 @@
 
 Commonest benign "tumour." 
 - Its not really a neoplasm because it stops growing at epiphyseal plate
-- Originated from groeth plate
+#### Pathology
+- Originated from growth plate
 - Left behind as bone grows
 - Made up of bone but the tip is covered with cartilage
 
@@ -15,9 +16,9 @@ Commonest benign "tumour."
 
 ## Complications
 1. Pain due to bursitis or fracture of exostosis
-2. Neurovascualr compression
+2. Neurovascular compression
 3. Limitation of movement
-4. Malignant change in to chondrosarcoma
+4. Malignant change into chondrosarcoma
 
 ## Treatment 
 1. Excision lol

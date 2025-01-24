@@ -5,7 +5,7 @@
 $$ \text{Normal Urine output } > 400ml/day > Oliguria > 200ml/day > Anuria$$
 ## Causes
 1. Urinary obstruction
-	- BPH
+	- [[Surgery Notes/Benign Prostate Hyperplasia\|BPH]]
 	- Ureteric/kidney Stones, Uretric Constriction
 	- Radiation/ traumatic Injury
 2. Decreased renal perfusion

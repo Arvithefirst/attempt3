@@ -15,9 +15,9 @@ What is paronychia?
 Name the organism responsible for elephantiasis.
 
 (Ortho)
-Define #Monteggia_Fracture.
-Which nerve palsy causes ape thumb deformity?
-Name 2 most commonly used techniques for CTEV casting.
+Define [[List of famous fractures and deformities#^a55f0a\|Monteggia Fracture]].
+Which nerve palsy causes [[List of famous fractures and deformities#^6f9375\|ape thumb deformity]]?
+Name 2 most commonly used techniques for [[Ortho notes/Congenital Talipes Equinus Varus\|CTEV]] casting.
 Which is the most common bone affected in tuberculosis?
 What is the test of detect flexion deformity of hip?
 Dugas test is used to diagnose
@@ -31,10 +31,10 @@ Goodsall's rule in anal fistula.
 What is [[Surgery Notes/Hypersplenism\|Hypersplenism]]?
 Causative organism of [[Surgery Notes/Hydatid cyst\|hydatid cyst]] of liver. 
 Define [[Surgery Notes/Hydronephrosis\|hydronephrosis]].
-Define intussuception.
+Define [[Surgery Notes/Intussusception\|Intussusception]]
 [[Surgery Notes/Acute Pancreatitis#Signs\|Grey Turner's sign]]
 Which [[Medicine notes/Radionuclide Study for Kidneys\|radionuclide scanning]] is done in renal pathology for diagnosis of renal function?
-What is length of male urethra?
+What is [[Surgery Notes/How long is it! and other games#^6fec45\|length of male urethra]]?
 Carcinoid syndrome.
 Name tumor marker which is elevated in [[Surgery Notes/Seminoma#Investigations\|seminoma]] of testes.
 What is hydrocele of hernia sac?

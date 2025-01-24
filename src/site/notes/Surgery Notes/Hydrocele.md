@@ -18,11 +18,11 @@ Occur in totally or partially patent Tunica Vaginalis
 ### Acquired Hydrocele
 May be Primary(idiopathic) or Secondary.
 #### Primary Acquired Hydrocele
-1. Defective abdsorption
+1. Defective absorption
 2. Excess production
 #### Secondary acquired Hydrocele
 1. Filarial - Milky white fluid
-2. TB - Cold abscess see, "Craggy" Epididymis, "Beaded" Vas
+2. TB - Cold abscess , "Craggy" Epididymis, "Beaded" Vas
 3. Testicular tumours
 4. Pyocele
 5. Haematocele

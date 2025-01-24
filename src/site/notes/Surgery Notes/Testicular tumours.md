@@ -12,7 +12,7 @@
 5. Lymphoma
 
 ## Clinical Features
-1. 20-30 in Teratoma, 30-40 in Seminoma
+1. 20-30 in Teratoma, 30-40 in [[Surgery Notes/Seminoma\|Seminoma]]
 2. Testicular swelling with *Vas sparing*
 3. Infertility, Haemospermia
 4. Gynaecomastia

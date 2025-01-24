@@ -5,7 +5,7 @@
 2nd most common cancer in males >65 in the west. Can still occur after TURP because outer zone is left intact
 
 ## Clinical Features
-1. Same as BPH (Frequency, Urgency, Hesistency) often revealed on histology of BPH diagnosis
+1. Same as [[Surgery Notes/Benign Prostate Hyperplasia\|BPH]] (Frequency, Urgency, Hesistency) often revealed on histology of BPH diagnosis
 2. Multiple bone pain
 3. Hard nodule on anterior rectum with obliteration of median sulcus
 4. Bilateral sciatica
