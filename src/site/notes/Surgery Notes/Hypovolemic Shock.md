@@ -25,8 +25,8 @@ Progressively get worse depending on volume lost
 - Thready pulse, Tachycardia >120bpm, Tachypnea >20/min
 - Urine production <10-20ml/hour
 - Patient pale, Lethargic
-
-#### Class IV ($>2000ml$ or $>40$%) - Irreversible
+x
+#### Class IV ($> 2000ml$ or $>40$%) - Irreversible
 - Cold ashen periphery, Feeble pulse, unrecordable BP
 - Multi-Organ Dysfunction Syndrome
 	- Mucosal ulcers, Bacterial infections
