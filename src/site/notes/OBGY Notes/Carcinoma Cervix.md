@@ -44,7 +44,7 @@ Extended beyong pelvis or involves bladder/rectum
 **Stage IVB** - Spread to distant organ
 
 ## Investigations
-1. Inspection and pelvix examination
+1. Inspection and pelvic examination
 2. Lymph node palpation
 3. Colposcopy, Hysteroscopy, Cystoscopy
 4. Biopsy
@@ -58,39 +58,39 @@ Extended beyong pelvis or involves bladder/rectum
 
 ## Treatment 
 In short cause who ahs the time
-Stage IA - Simple Hysterectomy/ Conservative surgery(Trachelectomy)
-Stage IB Onwards - Radical hysterectomy, with Radiotherapy and Chemotherapy
+*Stage IA* - Simple Hysterectomy/ Conservative surgery(Trachelectomy)
+*Stage IB Onwards* - Radical hysterectomy, with Radiotherapy and Chemotherapy
 
-### Prevention
-1. HPV vaccination, Protection, smoking, Not fucking so much
+#### Prevention
+1. [[OBGY Notes/Human Papilloma Virus\|HPV]] vaccination, Protection, smoking, Not fucking so much
 2. Early detection throigh screening or WHO Downstaging Screening
 
-### Primary Surgery (Radical Hysterectomy)
+#### Primary Surgery (Radical Hysterectomy)
 1. Removal of uterus, tubes, ovaries, Cervix and half of vagina
 2. Removal of Internal/External, Obturator and Parametrial Lymph nodes
-Adv.
+*Advantages*
 - Better staging and survival rate estimation
 - Ovaries can be spared in younger women
-- Retention of omre vagina
+- Retention of more vagina
 - Psychological 
 
-### Primary Radiotherapy
+#### Primary Radiotherapy
 1. Brachytherapy (Placing a radiation source vaginally)
 	1. Paris/Machester - Low dose high duration
 	2. Stockholm - High dose, Low duration
 2. External beam radiation
-Contraindicated in
-- PID
-- Younger women
-Adv.
+*Advantages*
 - Better survival, Less complications
 - Individualisation is possible
+*Contraindicated in*
+- PID
+- Younger women
 
-### Combination therapy
+#### Combination therapy
 Both are done when there are positive lymph nodes
 
-### Chemotherapy
-Adjucvant therapy
+#### Chemotherapy
+Adjuvant therapy
 - Cisplastin, Ifosfamide, Paclitaxel
 
 

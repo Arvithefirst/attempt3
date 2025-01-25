@@ -3,7 +3,7 @@
 ---
 
 ## Etiology
-1. Typically seen in the elderly with trivial injury (osteoporosis)
+1. Typically seen in the elderly with trivial injury ([[Ortho notes/Osteoporosis\|osteoporosis]])
 
 ## Classification
 There are 3 different types of classification
@@ -14,17 +14,17 @@ The more proximal the fracture the worse the prognosis. Divided as
 3. *Basal* at the base of neck
 
 ### Pauwels Classification
-Based on the angle of the fraacture line to the horizontal plane. The greater the angle the worse the prognosis
-1. Type 1 ~30 degrees
-2. Type 2 ~50 degrees
-3. Type 3 ~70 degrees
+Based on the angle of the fracture line to the horizontal plane. The greater the angle the worse the prognosis
+1. *Type 1* ~30 degrees
+2. *Type 2* ~50 degrees
+3. *Type 3* ~70 degrees
 
 ### Gardens classification
 Based on the degree of displacement judged by the continuity of the medial trabecular stream
-1. Stage 1 - Incomplete fracture
-2. Stage 2 - Complete but undisplaced
-3. Stage 3 - Complete and partially displaced
-4. Stage 4 - Complete and fully displaced
+1. *Stage 1* - Incomplete fracture
+2. *Stage 2* - Complete but undisplaced
+3. *Stage 3* - Complete and partially displaced
+4. *Stage 4* - Complete and fully displaced
 
 ## Clinical features
 1. Mild pain in groin with inbility to move limb following trivial injury
@@ -48,6 +48,6 @@ In patients *<60 years old* reduction may be attempted and then screw fixation d
 For patients *>60 years old* Hemiarthroplasty is done or the whole hip is replaced
 
 ## Complications
-1. Non-union
+1. [[Ortho notes/Delayed and non-union\|Delayed and non-union]]
 2. Avascualr necrosis
 3. Osteoarthritis

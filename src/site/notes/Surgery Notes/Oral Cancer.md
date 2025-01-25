@@ -14,7 +14,7 @@ Usually arises from lateral border of tongue also from Cheeks, floor and gums
 7. Discoid [[Medicine notes/Systemic Lupus Erythematosus\|SLE]]
 8. Dysketatosis congenita
 9. Syphillitic glossitis
-10. [[OBGY Notes/HPV Infection\|HPV Infection]]
+10. [[OBGY Notes/Human Papilloma Virus\|Human Papilloma Virus]]
 11. Environmental factors - UV, Smoking, Reverse smoking
 
 ## Clinical Features

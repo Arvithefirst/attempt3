@@ -26,7 +26,7 @@ No identifiable pelvic pathology
 ### Secondary Dysmonorrhoea(congestive)
 Occurs due to pressure applied by pelvic pathology
 #### Etiology
-1. Uterine Fibroid
+1. Uterine [[OBGY Notes/Fibroid\|Fibroid]]
 2. Pelvic infection
 3. Intrauterine contraceptive devices
 #### Clinical features

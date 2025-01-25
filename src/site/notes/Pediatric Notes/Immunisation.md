@@ -16,7 +16,7 @@ Home page for all the vaccines
 11. Varicalla
 12. Typhoid
 13. Hepatatis A
-14. HPV
+14. [[OBGY Notes/Human Papilloma Virus\|HPV]]
 15. Japanese encephalitis B
 16. Influenza
 17. Meningococcal

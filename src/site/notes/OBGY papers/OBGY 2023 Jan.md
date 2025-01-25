@@ -53,10 +53,10 @@ TOLAC criteria
 (p2)
 [[OBGY Notes/Emergency Contraception\|Emergency Contraception]]
 FIGO classification system for [[OBGY Notes/Fibroid#Investigations\|Fibroid#Investigations]].
-Clinical features of adenomyosis.  
+Clinical features of [[OBGY Notes/Adenomyosis\|adenomyosis]].  
 Non-contraceptive uses of combined [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]].
 Medical method of first trimester MTP (Medical Termination of Pregnancy).
-HPV(HumanPapilloma Virus) vaccines.[[OBGY Notes/Cervical Intraepithelial Neoplasia#Preventitive\|see here probably]]
-Indications for LNG-IUS (Levonorgestrel Intra-uterine System).
+[[OBGY Notes/Human Papilloma Virus\|HPV]](HumanPapilloma Virus) vaccines.[[OBGY Notes/Cervical Intraepithelial Neoplasia#Preventitive\|see here probably]]
+Indications for [[OBGY Notes/Intrauterine Contraception Devices\|LNG-IUS]] (Levonorgestrel Intra-uterine System).
 Cardinal steps of [[OBGY Notes/Fothergills Operation\|Fothergill/Manchester surgery]].
 [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive pills]]

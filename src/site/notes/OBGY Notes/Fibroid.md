@@ -7,7 +7,7 @@ Commonest benign tumour of the uterus. Commonenst benign solid tumourin women. *
 ## Etiology
  20% of women above 30 have fibroids. 50% of those are symptomatic
  1. More common in Obese, Nullliparous, Black women. Less common in smokers
- 2. Estrogen dependant tumour (grows in pregnancy, high dose [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]])
+ 2. Estrogen dependant tumour (grows in pregnancy, high dose [[OBGY Notes/Oral Contraceptive Pills\|OCP]]
 
 ## Types 
 Divided by anatomical location
@@ -103,7 +103,7 @@ Aims to control anemia, limit size, correct infertility
 3. GnRH agonist - Produce pituitary downregulation thereby suppressing estrogen
 4. GnRH antagonist - Immediate suppresion of ovarian function
 5. Prostaglandin synthetase inhibitor
-6. Levonogestrel releasing Intrauterine system (LNG-IUS)
+6. Levonogestrel releasing Intrauterine system ([[OBGY Notes/Intrauterine Contraception Devices\|LNG-IUS]])
 
 #### Surgical management
 <mark style="background: #FF5582A6;">Myomectomy</mark>
@@ -111,9 +111,9 @@ Aims to control anemia, limit size, correct infertility
 - Can be done by lapratomy, laprascopy, or hysteroscopy
 - High chance of recurrence
 <mark style="background: #FFB86CA6;">Embolotherapy</mark>
-- Uterine arteryt embolised through percutaneous femoral catheterisation
+- Uterine artery embolised through percutaneous femoral catheterisation
 - Useful when surgery is contraindicated
-- May complicate into opst-embolisation syndrome
+- May complicate into post-embolisation syndrome
 <mark style="background: #FFF3A3A6;">Hysterectomy</mark>
 - Surgery of choice when patient >40 as there is no chance of recurrence
 

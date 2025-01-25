@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ortho-notes/osteoporosis/"}
 ---
 
-Commonest metabolic bone disease. Characterised by diffuse reduction in b one density
+Commonest metabolic bone disease. Characterised by diffuse reduction in bone density
 
 ## Etiology
 1. *Senility*
@@ -23,13 +23,13 @@ Commonest metabolic bone disease. Characterised by diffuse reduction in b one de
 	2. *Cod fish appearance* of vertebrae
 	3. *Ground glass appeaance*
 	4. Grade by Singhs index/Metacarpal index
-2. Serum ALP, calcium, ohosphates, Proteins, albumin
+2. Serum ALP, Calcium, Phosphates, Proteins, Albumin
 3. Densitometry, specifically *DEXA scan*
 4. Neutron activation analysis
 
 ## Treatment
 1. Increased protein and calcium intake. Vitamin D supplementation, Calcitonin
-2. Androgens/Estrogens
+2. Androgens/Estrogens/[[OBGY Notes/Oral Contraceptive Pills\|OCP]]
 3. Flouride
 4. Alandronate (?)
 5. Anabolics - Teriparatide

@@ -31,7 +31,7 @@ Caused by injury to Podocytes and scarring/deposition of matrix seen in the foll
 4. Deranged BP
 
 ## Investigations
-1. Clinical History (MCD most commmon in children. h/o diabetes)
+1. Clinical History (MCD most commmon in children. h/o [[Medicine notes/Diabetes Mellitus\|diabetes]])
 2. Renal Biopsy
 3. Hep B/C, dsDNA, ANA
 4. Immunoglobulins, Bence-Jones proteins

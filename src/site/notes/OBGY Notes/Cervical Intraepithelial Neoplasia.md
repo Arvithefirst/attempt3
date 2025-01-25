@@ -10,7 +10,7 @@ Divided on limit of histological changes
 CIN I - Basal 1/3rd 
 CIN II - Basal 1/2 to 2/3rd
 CIN III - Whole thickness except superficial 2-3 layers
-CIN IV - Whole thickness (Carcinoma in-situ) [[OBGY Notes/Carcinoma Cervix\|Carcinoma Cervix]]
+CIN IV(CIS) - Whole thickness (Carcinoma in-situ) [[OBGY Notes/Carcinoma Cervix\|Carcinoma Cervix]]
 
 ### Bethesda Classification
 1. Atypical squamous cells
@@ -28,7 +28,7 @@ Carcinogenesis occurs at the Transformation zone
 2. By squamous epidermisation due to ingrowth of the squamous epithelium of the ectocervixunder the columnar epithelium
 
 ## Etiology
-1. [[OBGY Notes/HPV Infection\|HPV Infection]], other STDs
+1. [[OBGY Notes/Human Papilloma Virus\|Human Papilloma Virus]], other STDs
 2. Early sexual intercourse, Early pregnancy
 3. Too many and too frequent childbirth, Multiple sexual partners
 4. Low socioeconomic, Smokers
@@ -37,11 +37,11 @@ Carcinogenesis occurs at the Transformation zone
 
 ## Investigations
 Routine things ig and ALSO
-#### Pap smear (Papanicolau and Traut)
+#### [[OBGY Notes/Papanicolaou and Traut Smear\|Pap smear]] (Papanicolau and Traut)
 Exfoliative cytology is the gold standard screening test. Cells are fixed and viewed to see
-- Dyskaryotic cells(Atypical with hyperchromatic nuceim abindant cytoplasm)
+- Dyskaryotic cells(Atypical with hyperchromatic nuclei abundant cytoplasm)
 - Carcinoma in-situ cells
-#### HPV-DNA Test
+#### [[OBGY Notes/Human Papilloma Virus\|HPV]]-DNA Test
 - 2-5% with +ve test will develop CIN
 - Quantitative > Qualitative
 #### Visual Inspection with Acetic acid
@@ -58,17 +58,7 @@ Exfoliative cytology is the gold standard screening test. Cells are fixed and vi
 Can be preventitive or definitive
 
 ### Preventitive
-Given to all girls 12-18. Protects for 7.5 years
-1. Cervarix(bivalent 16,18)
-2. Gardasil(quadravalent 16,18,6,22)
-//both are cross-protective for 31,33
-
-Also 
-- Local hygeine
-- Delay sexual intercourse until maturity
-- Barrier protection
-- Cessation of smoking
-
+- [[OBGY Notes/Human Papilloma Virus\|HPV]] vaccination
 ### Definitive treatment
 CIN I and CIN II go for observation and follow up every 4-6 months
 CIN III and CIS can have
@@ -79,6 +69,6 @@ CIN III and CIS can have
 	4. Laser vaporisation (preferred)
 2. Excision
 	1. Cone excision
-	2. Large loop excision of Transformation Zone (LLETZ
+	2. Large loop excision of Transformation Zone (LLETZ) *//also used for CIN II*
 3. Hysterectomy
 

@@ -16,7 +16,7 @@ Name the technique use of deliver the aftercoming head in breech presentation.
 
 (p2)
 Define primary infertility.
-Enumerate three symptoms caused by fibroid uterus.
+Enumerate three symptoms caused by [[OBGY Notes/Fibroid\|fibroid]] uterus.
 What is corpus cancer syndrome?
 What are the advantages of progesterone only pill?
 What is an ideal [[OBGY Notes/Contraception#The Ideal contraceptive\|Contraceptive]]?
@@ -48,7 +48,7 @@ Prevention of virtual transmission in HIV.
 Diagnosis of IUGR.
 
 (p2)
-Pap Smear [[OBGY Notes/Cervical Intraepithelial Neoplasia#Investigations\|Cervical Intraepithelial Neoplasia#Investigations]]
+[[OBGY Notes/Papanicolaou and Traut Smear\|Pap Smear]]
 Progesterone [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]].
 [[OBGY Notes/Clomiphene Citrate\|Clomiphene Citrate]].
 [[OBGY Notes/Male infertility\|Semen Analysis]].

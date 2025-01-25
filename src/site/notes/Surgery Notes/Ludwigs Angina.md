@@ -11,7 +11,7 @@ Cellulitis of the submental and submandibular region,
 3. Calculi in submandibular galnd
 4. Chemnomtherapy
 5. Cachexia
-6. Chronic disease- Diabetes
+6. Chronic disease- [[Medicine notes/Diabetes Mellitus\|Diabetes]]
 
 ## Clinical features
 1. Elderly patient

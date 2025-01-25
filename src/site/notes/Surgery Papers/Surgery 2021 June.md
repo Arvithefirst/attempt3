@@ -48,7 +48,7 @@ Describe classification of [[Surgery Notes/Thyroid swellings\|Goiters]]. Discuss
 
 (Ortho)
 Describe clinical features, investigations and treatment of [[Ortho notes/Osteosarcoma\|Osteosarcoma]].
-Define Osteoporosis and describe its different treatment modalities.
+Define [[Ortho notes/Osteoporosis\|Osteoporosis]] and describe its different treatment modalities.
 
 (p2)
 Define Dysphagia. Enumerate the causes of dysphagia. Describe clinical features, investigations and management of Carcinoma esophagus.
@@ -65,7 +65,7 @@ Cystic Hygroma.
 Methods of sterilization.
 
 (Ortho)
-[[Perthes Disease\|Legg-Calve-Perthes disease]].
+[[Ortho notes/Perthes Disease\|Legg-Calve-Perthes disease]].
 [[Ortho notes/Ewings' Sarcoma\|Ewings' Sarcoma]]: clinico-radiological features and treatment. 
 Epiphyseal injuries in children.
 

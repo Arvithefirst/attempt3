@@ -25,19 +25,19 @@ Insidious onset
 >4. True shortening of limb, Limited movements
 
 ## Stages
-### 1. Stage of synovitis
+### 1. Stage of Synovitis
 - Limb in flexion, abduction, and external rotation
-- Also called "stage of apparent lenghtening"
+- Also called *"stage of apparent lenghtening"*
 
 ### 2. Stage of Arthritis
 - Spasm of hip muscles changes limb position 
 - Flexion, adduction and internal rotation
-- Also called "Stage of apparent shortening"
+- Also called *"Stage of apparent shortening"*
 
 ### 3. Stage of Erosion
 - Erosion of acetabulum leads to pathological dislocation of hip
 - Flexion, adduction and internal rotation but exaggerated
-- True shortening of limb
+- Also called *"Stage of True shortening"*
 
 ## Investigations
 1. Xray pelvis(AP and Lateral)
@@ -45,7 +45,7 @@ Insidious onset
 	2. Lytic lesions
 	3. Reduction in bone space
 	4. Irregular outline
-	5. Wandering acetabulum gives Mortar and pestle appearance
+	5. Wandering acetabulum gives *Mortar and Pestle appearance*
 	6. Signs of healing like sclerosis
 2. Others
 lmao ortho is a joke

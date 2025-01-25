@@ -19,10 +19,10 @@ What are the clinical features of [[OBGY Notes/Fibroid\|Fibroid]] uterus . Descr
 
 Define infertility. Enumerate the etiological factors for primary [[OBGY Notes/Infertility\|Infertility]] in an infertile couple
 
-Define and classify [[OBGY Notes/Cervical Intraepithelial Neoplasia\|Cervical Intraepithelial Neoplasia]] (CIN). What are the various tests available for screening of cervical cancer?
+Define and classify [[OBGY Notes/Cervical Intraepithelial Neoplasia\|Cervical Intraepithelial Neoplasia]]. What are the various tests available for screening of cervical cancer?
 
 ## Short answer questions
-Lifestyle and diet counselling for antenatal mother diagnoses with [[OBGY Notes/Gestational diabetes\|gestational diabetes]]
+Lifestyle and diet counselling for antenatal mother diagnoses with [[OBGY Notes/Gestational diabetes\|Gestational diabetes]]
 [[OBGY Notes/First Stage of Labour#Investigations\|Role of partogram]] in labour management
 [[OBGY Notes/BISHOP score\|BISHOP score]] and its relevance in obs management
 Diagnosis of heart disease in pregnancy

@@ -35,7 +35,7 @@ Define [[OBGY Notes/Antepartum Hemorrhage\|Antepartum Hemorrhage]](APH).Describe
 management of [[OBGY Notes/Abruptio placentae\|Abruptio placentae]].
 
 (p2)
-Discuss etiology,diagnosis and outline of treatment of carcinoma cervix.
+Discuss etiology,diagnosis and outline of treatment of [[OBGY Notes/Carcinoma Cervix\|carcinoma cervix]].
 Define [[OBGY Notes/Dysfunctional Uterine Bleeding\|Dysfunctional Uterine Bleeding]](DUB). Discuss the types of DUB and investigations required for diagnosis of DUB.
 What are the causes of female [[OBGY Notes/Infertility\|Infertility]]? Discuss ni detail tubal factor for infertility.
 
@@ -52,7 +52,7 @@ Complications of monochorionic twins
 (p2)
 Semen Analysis. [[OBGY Notes/Male infertility\|Male infertility]]
 Polycystic Ovarian Syndrome.
-Emergency contraception. 
+[[OBGY Notes/Emergency Contraception\|Emergency contraception]]. 
 Vesico-vaginal fistula.
 [[OBGY Notes/Pelvic Organ Prolapse#Supports of the uterus\|Supports of uterus]].
 Dermoid cyst. 

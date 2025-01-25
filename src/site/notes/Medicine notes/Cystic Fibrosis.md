@@ -25,7 +25,7 @@ Respiratory and otherwise
 #### Others
 1. [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]]
 2. Delayed puberty, [[OBGY Notes/Male infertility\|Male infertility]], Stress incontinence
-3. Osteoporosis, Arthralgia
+3. [[Ortho notes/Osteoporosis\|Osteoporosis]], Arthralgia
 
 ## Investigations
 1. Ruling out other stuff

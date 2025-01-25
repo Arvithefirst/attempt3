@@ -68,14 +68,6 @@ May be evaluated clinically, by quantitative scoring or by POP-Q scoring
 ### POP-Q Staging
 Most specific measurement of Pelvic organ prolapse. Uses total vaginal length, and a buncha other measurements I hope this doesnt come in the exam lol [[OBGY Notes/POP-Q Staging\|see here]]
 
-## Complications
-1. Decubitus Ulcer - Typically on the base of the protruding part. May get infected. 
-2. Congestions
-3. Cystitis
-4. Pyelonephritis
-5. Peritonitis
-6. Carcinoma
-
 ## Symptoms
 1. Feeling of something coming out of vagina
 2. Back ache
@@ -83,11 +75,19 @@ Most specific measurement of Pelvic organ prolapse. Uses total vaginal length, a
 4. *Urinary symptoms* - Seen in patients of cystocele
 5. *Bowel symptoms* - Seen in patients of enterocele
 6. Excessive discharge
-## Differential diagnoses
-1. Gartner cyst
-2. Congenital elongation of cervix
-3. Chronic inversion
-4. Polyp
+#### Complications
+1. Decubitus Ulcer - Typically on the base of the protruding part. May get infected. 
+2. Congestions
+3. Cystitis
+4. Pyelonephritis
+5. Peritonitis
+6. Carcinoma
+
+>[!faq] Differential diagnoses
+>1. Gartner cyst
+>2. Congenital elongation of cervix
+>3. Chronic inversion
+>4. Polyp
 ## Management
 May be Preventive, Conservative or Surgical
 ### Preventative
@@ -98,7 +98,7 @@ Done in aymptomatic women with mild prolapse or prolapse early in pregnancy
 - Kegels
 - Pessary
 ### Surgical 
-Various surgical interventions may beddone depending on the affected part 
+Various surgical interventions may be done depending on the affected part 
 #### Vaginal Wall surgeries
 1. [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]] *(for cystocele)*
 2. Paravaginal defect repair *(For paravaginal defect)*
@@ -132,4 +132,4 @@ Work better than traditional methods. Non-absorbably meshes have high recurrence
 	3. Urinary retention / Damage to bowels
 	4. Dyspareunia
 	5. Cervical stenosis/incompetency/dystocia
-	6. Reccurence
+	6. Recurence

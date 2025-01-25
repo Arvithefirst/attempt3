@@ -5,20 +5,20 @@
 ## Types
 1. Dizygotic(80%)
 2. Monozygotic(20%)
-	1. Diamniotic-Dichorionic(DD) - Seen when division occurs <72 hours
-	2. Diamniotic - Monochorionic (DM) - Division between 4-8th day
-	3. Monoamniotic - Monochorionic(MM) - Division >8th day
-		1. Conjoined - Divsion after 2 weeks
-			1. Thoraco phagus
-			2. Pyophagus
-			3. Craniophagus
-			4. Ischioophahus
+	1. *Diamniotic-Dichorionic(DD)* - Seen when division occurs <72 hours
+	2. *Diamniotic - Monochorionic (DM)* - Division between 4-8th day
+	3. *Monoamniotic - Monochorionic(MM)* - Division >8th day
+	4. Conjoined - Division after 2 weeks
+		1. Thoraco phagus
+		2. Pyophagus
+		3. Craniophagus
+		4. Ischiophagus
 
-Also some fun terms
-Superfecundation - fertilisation of 2 ova on different occasions
-Superfetation - Fertilisation of ova from consecutive menstrual cycls
-Fetus papyraceous - Early death causes compression and flattening and mummifications
-Fetus acardiacus - One fetus becomes parasitic
+#### Also some fun terms
+*Superfecundation* - fertilisation of 2 ova on different occasions
+*Superfetation* - Fertilisation of ova from consecutive menstrual cycls
+*Fetus papyraceous* - Early death causes compression and flattening and mummifications
+*Fetus acardiacus* - One fetus becomes parasitic
 Hydatiform mole
 Vanishing twin
 
@@ -27,11 +27,11 @@ Vanishing twin
 2. Genetic
 3. Age
 4. Multiparity
-5. Induced ovulation
+5. [[OBGY Notes/Ovulation Induction\|Ovulation Induction]]
 
 ## Clinical features
-1. Exaggerated ailmetns of normal pregnancy
-2. Excess weight gain, preeclampsia
+1. Exaggerated ailments of normal pregnancy
+2. Excess weight gain, [[OBGY Notes/Pre-eclampsia\|Pre-eclampsia]]
 3. Barrel uterus, palpation of too many fetal parts, Distinct FHRs
 4. USG - labda sign of chorionicity
 5. MShCG
@@ -39,9 +39,9 @@ Vanishing twin
 ## Complications
 ### Maternal
 1. During pregnancy
-	1. Nausea vomitting, anemia
-	2. Pre-eclampsia, Hydramnios
-	3. Antepartum hemorrhage
+	1. Nausea, vomitting, Anemia
+	2. [[OBGY Notes/Pre-eclampsia\|Pre-eclampsia]], Hydramnios
+	3. [[OBGY Notes/Antepartum Hemorrhage\|Antepartum hemorrhage]]
 	4. Malpresentation
 	5. Preterm labour
 2. During labour
@@ -50,7 +50,7 @@ Vanishing twin
 	3. [[OBGY Notes/Postpartum hemorrhage\|Postpartum hemorrhage]]
 3. Pueperium
 	1. Subinvolution
-	2. Infection
+	2. [[OBGY Notes/Puerperal sepsis\|Puerperal sepsis]]
 ### Fetal
 1. Miscarraige
 2. Prematurity

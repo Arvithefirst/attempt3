@@ -18,11 +18,11 @@
 - 0.6% failure rate
 >[!faq] Mechanism of action of Hormonal Emergency Pills
 >- Prevention of ovulation
->- Interference with fertiliksation
+>- Interference with fertilisation
 >- Prevention of Implantation (in estrogen pills)
 >- Interferes with Corpus luteum
 
-### Copper IUCD
+### Copper [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]]
 - Within 5 days of exposure
 - >1% failure rate
 

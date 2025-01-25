@@ -9,12 +9,12 @@
 Diffrent for Uniiateral and bilateral hydronephroses
 
 ### Unilateral
-1. Intraluminal - Due to stones or papillary disease in Diabetes / Analgesics
-2. Intramural - Congenital(PUJ obstruction) or acquired(Ca. kidney, constriction TB)
-3. Extramural - Ca. Rectum, Cervix, Aberrant vessels, Horseshow kidney
+1. Intraluminal - Due to [[Surgery Notes/Renal stones\|renal stones]] or papillary disease in [[Medicine notes/Diabetes Mellitus\|Diabetes]] / Analgesics
+2. Intramural - Congenital(PUJ obstruction) or acquired(Ca. kidney, constriction, TB)
+3. Extramural - Ca. Rectum, Cervix, Aberrant vessels, Horseshoe kidney
 
 ### Bilateral 
-1. In children - [[Surgery Notes/Phimosis\|Phimosis]], meatal stenosis, Posterior urethral valce
+1. In children - [[Surgery Notes/Phimosis\|Phimosis]], meatal stenosis, Posterior urethral valve
 2. In young adults - Stricture, Bilateral abberant vessels
 3. Older adults - [[Surgery Notes/Benign Prostate Hyperplasia\|BPH]], Contraction of neck of bladder
 4. Physiological in pregnancy
@@ -37,7 +37,7 @@ Diffrent for Uniiateral and bilateral hydronephroses
 7. RFT
 
 ## Treatment
-Hydronephroses secondary to another cause can be treated by mnanaging the underlying condition 
+Hydronephroses secondary to another cause can be treated by managing the underlying condition 
 ### Anderson hynes operation
 - For congenital PUJ obstruction(most common)
 - Excision of spamsodic and redundant parts. A new pelvis is created and anastomosed in a adependant position

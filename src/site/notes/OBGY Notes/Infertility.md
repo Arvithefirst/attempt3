@@ -45,14 +45,14 @@ Male is responsible in 30-40% on cases. Female in 40-55% and both in 10%.
 	1. [[OBGY Notes/Insufflation test\|Insufflation test]]
 	2. Hysterosalpingography
 	3. Laprascopy and chemopertubation with methylene blue *(Gold standard)*
-	4. Sonohystersalpingography
+	4. Sonohystersalpingography (ehhh macarena)
 5. Cervical tests
 	1. Post-coital test
 	2. Sperm cervical mucus contact test
 
 ## Treatment
 Assurance, General lifestyle changes, Coital problem counselling
-1. Ovulation induction
+1. [[OBGY Notes/Ovulation Induction\|Ovulation induction]]
 2. Adhesiolysis, fimbrioplasty, salpingostomy
 3. Artifical Insemination
 4. Assisted Reproductive Technology

@@ -12,7 +12,7 @@ EF could be either reduced or preserved in systolic and diastolic dysfunction re
 
 #### Heart Failure with reduced Ejection Fraction $(HF_rEF)$
 Caused by *systolic dysfunction* resulting in. EF < 40%. Causes include
-1. Decreased ventricular contractility - MI, Myocarditis, HOCM
+1. Decreased ventricular contractility - [[Medicine notes/Acute Coronary Syndrome\|MI]], Myocarditis, HOCM
 2. Ventricular outflow obstruction - HTN, AS
 3. Ventricular volume overload - MR, AR
 4. Arrhythmias
@@ -60,7 +60,7 @@ Can be forward or backwards heart failure. Classification of complications
 ## Investigations
 1. Hemogram, LFT, Urea, Creatinine, Electrolytes, Cardiac enzymes(*B-type Natriuretic Peptide*, Troponins, TNF receptors)
 2. Chest X-ray - shows pleural oedema, *Kerley B lines*, Bat wing appearance, Cardiomegally
-3. ECG - Diagnose *previous MI*, Valvular heart diseases, Ventricular hypertrophy etc. Stress ECG fro myometrial viability
+3. ECG - Diagnose *previous [[Medicine notes/Acute Coronary Syndrome\|MI]]*, Valvular heart diseases, Ventricular hypertrophy etc. Stress ECG fro myometrial viability
 4. *Echocardiogram - Assess etiology*(systolic/diastolic failure), valvular function, chamber sizes etc
 5. Cardiac MRI, Radionuclide study
 6. Cardiac catheterisation, Biopsy

@@ -4,7 +4,9 @@
 
 Infection of the genital tract which occurs as a complication of delivery
 
-## Predisposing factors
+## Etiology
+*Usually Group A streptococcus*. Could also be anaerobes like bacteroides
+#### Predisposing factors
 1. Antepartum
 	1. Malnutrition
 	2. Preterm labour
@@ -16,14 +18,11 @@ Infection of the genital tract which occurs as a complication of delivery
 	4. Hemorrhage [[OBGY Notes/Antepartum Hemorrhage\|Antepartum Hemorrhage]] or [[OBGY Notes/Postpartum hemorrhage\|Postpartum hemorrhage]]
 	5. Traumatic or cesarean delivery
 
-## Etiology
-Usually Group A streptococcus
-Could also be anaerobes like bacteroides
 
 ## Clinical features
-1. Wound infection (pyrexia, swelling, pus)
+1. Wound Infection (pyrexia, swelling, pus)
 2. Uterine infection (High pyrexia with chills and rigor)
-3. Extrauterine spread - Parametritis, Pelvic peritonitis, genital peritonitis, Septicemiua, Thrombophlebitits, Septic shock
+3. *Extrauterine spread* - Parametritis, Pelvic peritonitis, genital peritonitis, Septicemia, Thrombophlebitits, Septic shock
 
 ## Inverstigations
 1. History of predisposing factor
@@ -36,8 +35,8 @@ Could also be anaerobes like bacteroides
 8. Urea and electrolytes
 
 ## Treatment
-Prevention can be done throuhg proper aseptic protocol and prophylactic antibodies when risk factrs are identified
-1. General care by isolation, Fluid therapu, catheterisation, Antibiotics
+Prevention can be done through proper aseptic protocol and prophylactic antibodies when risk factors are identified
+1. General care by isolation, Fluid therapy, Catheterisation, Antibiotics
 >[!faq] 2. Antibiotic therapy for Pueperal sepsis
 >1. Gentamycin 2mg/kg + 1.5mg/kg/hr TDS
 >2. Ampicillin 1g IV or Clinamycin 900mg IV
@@ -45,7 +44,7 @@ Prevention can be done throuhg proper aseptic protocol and prophylactic antibodi
 >4. Metronidazole 0.5g for anaerobes
 
 3. Sitz bath
-4. Surgiacl evacuaation of retained product
+4. Surgical evacuaation of retained product
 5. Mangement of septic shock
 
 

@@ -2,12 +2,12 @@
 {"dg-publish":true,"permalink":"/medicine-notes/coronary-artery-syndrome/"}
 ---
 
-Most common cause of Angina and acute coronary syndrome in the world. More common in men, more common in developed countries, more common in older individuals.
+Most common cause of Angina and [[Medicine notes/Acute Coronary Syndrome\|acute coronary syndrome]] in the world. More common in men, more common in developed countries, more common in older individuals.
 
 Clinically manifests as: 
 1. [[Medicine notes/Stable Angina\|Stable Angina]]
 2. Unstable Angina
-3. Myocardial Infarction
+3. [[Medicine notes/Acute Coronary Syndrome\|Myocardial Infarction]]
 4. Heart Failure
 5. Arrythmia
 
@@ -30,7 +30,7 @@ Artherosclerosis ultimately leads to arterial remodelling
 1. Age and Sex
 2. Genetics
 3. Smoking, Alcohol, Diet, Exercise
-4. Hypertension, Diabetes, Hypercholestrolaemia
+4. Hypertension, [[Medicine notes/Diabetes Mellitus\|Diabetes]], Hypercholestrolaemia
 5. Hemostatic conditions with high plasma fibrinogen
 6. Personality and social deprivation
 

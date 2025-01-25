@@ -17,7 +17,7 @@ Name the four leopard maneuvers?
 (p2)
 Uterus is developedfrom which embryological structure?
 Uterine artery is a branch of __
-Which type of fibroid uterus is most symptomatic and which is least symptomatic?
+Which type of [[OBGY Notes/Fibroid\|fibroid]] uterus is most symptomatic and which is least symptomatic?
 What are the constituents of OC pill?
 [[OBGY Notes/Pelvic Organ Prolapse#POP-Q Staging\|POP Q Classification]] is used for which gynaecological condition?
 What is the failure rate of tubal sterilization?
@@ -34,7 +34,7 @@ Define [[OBGY Notes/Anemia in pregnancy\|Anemia in pregnancy]]. What are the cau
 (p2)
 How will you investigate a case of anovulatory [[OBGY Notes/Infertility#Investigations\|infertility]]. Mention briefly the management options
 Describe the various methods of [[OBGY Notes/Pelvic Organ Prolapse#Conservative\|conservative management]] of UV prolapse in a 35 y/o lady
-What are the types of [[OBGY Notes/Fibroid\|Fibroid]] uterus? Describe conservative management of fibroid uterus
+What are the types of [[OBGY Notes/Fibroid\|Fibroid]] uterus? Describe conservative management of [[OBGY Notes/Fibroid\|fibroid]] uterus
 
 ## Short answers
 [[OBGY Notes/Third Stage of Labour#Active management\|Active management of 3rd stage of labour]]

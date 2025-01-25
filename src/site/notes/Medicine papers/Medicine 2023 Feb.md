@@ -59,7 +59,7 @@ Pathogenesis, clinical features, investigations, and management of [[Medicine no
 Differentation between early onset(atopic) and late onset(non-atopic) [[Medicine notes/Asthma\|Asthma]]
 What is [[Medicine notes/Status epilepticus\|Status epilepticus]]. How will you manage a case of Status Epilepticus
 What are clinical features, investigations and management of [[Medicine notes/Pulmonary Embolism\|Pulmonary Embolism]]
-Osteoporosis
+[[Ortho notes/Osteoporosis\|Osteoporosis]]
 
 (p2)
 Wernickes encephalopathy

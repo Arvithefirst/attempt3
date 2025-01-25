@@ -16,7 +16,7 @@ Can be acute/chronic.
 	2. Trauma
 	3. [[Surgery Notes/Carcinoma Prostate\|Carcinoma Prostate]]
 3. Female
-	1. Uterine prolapse
+	1. [[OBGY Notes/Pelvic Organ Prolapse\|Uterine prolapse]]
 	2. Cystocele
 4. Children
 	1. Posterior urethral valve

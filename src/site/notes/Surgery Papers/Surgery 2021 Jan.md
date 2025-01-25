@@ -47,7 +47,7 @@ Classify shock. Discuss pathophysiology, clinical features &management of septic
 (Ortho)
 Write in detail about stages of [[Ortho notes/Fracture Healing\|fracture healing]]? Contrast and compare between healing of cortical bone and healing of cancellous bone. Also enumerate the causes and treatment of [[Ortho notes/Delayed and non-union\|Non-Union]] of fractures.
 
-Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar [[Ortho notes/TB spine\|kochs spine]] and add a note on [[Potts Paraplegia\|potts paraplegia]]
+Write in detail of etiology, pathogenesis; clinical feature and management of dorsolumbar [[Ortho notes/TB spine\|kochs spine]] and add a note on [[Ortho notes/Potts Paraplegia\|Potts Paraplegia]]
 
 (p2)
 Describe etiology of [[Surgery Notes/Gallstones#Pathogenesis\|Gall stones]]. Describe clinical features investigations & management of [[Surgery Notes/Acute Cholecystitis\|acute calculus cholecystitis]].

@@ -38,7 +38,7 @@ Multifactorial genetic and Envinronmental causes
 
 #### Extra-articular manifestations of Rheumatoid Arthritis
 1. Systemic - fever, fatigue, weight loss
-2. Musculoskeletal - Wasting, Osteoporosis, Bursitis
+2. Musculoskeletal - Wasting, [[Ortho notes/Osteoporosis\|Osteoporosis]], Bursitis
 3. Haematological - Anemia, Thrombocytopenia
 4. Lymphatic - Felty syndrome, Splenomegaly
 5. Ocular - Episcleritis, Scleritis, Keratoconjunctivitis sicca

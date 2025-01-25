@@ -14,7 +14,7 @@
 	- Monophasic
 	- Biphasic
 	- Triphasic
-	- Emergency Contraception
+	- [[OBGY Notes/Emergency Contraception\|Emergency Contraception]]
 2. Single preparations
 	- Progesterone only
 	- Estrogen only

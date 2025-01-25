@@ -39,7 +39,7 @@ Utilises Progestin therapy (Medroxyprogesterone acetate), Estrogen, and OC pills
 #### Reproductive 
 1. Regular cycles can attempt medical management with progestin therapy
 2. If that fails or if irregular cycle then investigations for pelvic cause should be done(above)
-3. If that fails to detect a pathology then LNG-IUCD or Ablation/Hysterectomy depending of family status
+3. If that fails to detect a pathology then [[OBGY Notes/Intrauterine Contraception Devices\|LNG-IUS]] or Ablation/Hysterectomy depending of family status
 #### Premenopausal/Postmenopausal
 1. Cervical cytology to rule out malignant cause
 2. Non-malignant cause can be treated with progestins

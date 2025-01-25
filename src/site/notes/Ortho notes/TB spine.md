@@ -25,14 +25,14 @@ Can be described by area of infection
 1. Dull aching back pain. May progress to pain radiating to parts innervated. by affected nerves
 2. Stiffness
 3. Cold abscess
-4. [[Potts Paraplegia\|Potts Paraplegia]]
+4. [[Ortho notes/Potts Paraplegia\|Potts Paraplegia]]
 5. Deformity
 6. Constitutional symptoms
 
 ## Investigations
 1. Clinical examination to determine
 	1. Locality of cold abscess
-	2. Neuroloogical involvement
+	2. Neurological involvement
 2. Xray spine (AP and Lateral minimum)
 	1. Reduction in disc space
 	2. Destruction of vertebral body

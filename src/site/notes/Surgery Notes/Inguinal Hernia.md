@@ -5,14 +5,14 @@
 >[!quote] Definition
 >Abdominal viscera herniating into inguinal canal. Can occur through deep ring(Indirect) or though posterior wall(Hasselbachs triangle) of inguinal canal(Direct)
 
-# Layers of inguinal sac(outwards)
+#### Layers of inguinal sac(outwards)
 1. Extraperitonial tissue
 2. Internal spermatic fascia
 3. Cremasteric muscle
 4. External spermatic fascia
 5. Skin
 
-# Contents of Inguinal canal
+#### Contents of Inguinal canal
 1. Round ligament (in females)
 2. Ilioinguinal nerve
 3. Spermatic cord (in males)
