@@ -33,7 +33,7 @@ Male is responsible in 30-40% on cases. Female in 40-55% and both in 10%.
 
 ## Investigations
 1. h/o medical problems, surgeries, obstetric complications, sexual problems
-2. Examination show signs of PCOS, developmental disorder
+2. Examination show signs of [[Polycystic Ovarian Disease\|PCOS]], developmental disorder
 3. TFT. BSL. TB cytology
 4. Tests for ovulation
 	1. Basal Body tempoerature charting

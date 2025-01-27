@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/fibroid/"}
 ---
 
-Commonest benign tumour of the uterus. Commonenst benign solid tumourin women. *Arises from smooth muscle* and fibrous connective tissue hence "Leiomyoma"
+Commonest benign tumour of the uterus. Commonenst benign solid tumour in women. *Arises from smooth muscle* and fibrous connective tissue hence "Leiomyoma"
 
 ## Etiology
  20% of women above 30 have fibroids. 50% of those are symptomatic

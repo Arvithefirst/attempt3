@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/endometriosis/"}
 ---
 
-Presence of functioning endometrium in sites other than the uterine mucosa. If the site is the myometrium it is called *Adenomyosis*
+Presence of functioning endometrium in sites other than the uterine mucosa. If the site is the myometrium it is called [[OBGY Notes/Adenomyosis\|Adenomyosis]]
 
 ## Etiology
 More common now because
@@ -53,7 +53,7 @@ Once tissue is implanted
 ## Investigations
 1. USG
 2. MRI/CT
-3. CA 125
+3. CA 125 biomarker
 4. Laprascopy (gold standard)
 American Fertility Society(AFS) scoring system is used to advise treatmewnt
 

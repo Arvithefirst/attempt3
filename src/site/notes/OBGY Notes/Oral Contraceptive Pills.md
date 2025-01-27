@@ -17,7 +17,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 2. Post abortion
 3. Anemia, [[Medicine notes/Malaria\|Malaria]], TB, PID
 4. [[Medicine notes/HIV\|HIV]]/AIDS
-5. [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]], Benign breat disease, Endometriosis, , CA ovary
+5. [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]], Benign breat disease, [[OBGY Notes/Endometriosis\|Endometriosis]], , CA ovary
 6. Epilepsy, Thyroid disease, [[Surgery Notes/Varicose veins\|Varicose veins]]
 #### CAT 2 - Advantages outweight risks
 1. Older than 40, Smoker, h/o jaundice,mild hypertension
@@ -27,13 +27,13 @@ Estrogens - Ethinyl-estradiol, Menstranol
 1. Unexplained vaginal bleed
 2. Hyperlipidemia
 3. Heavy smoker
-4. Past breast cancer
+4. Past [[Surgery Notes/Carcinoma Breast\|breast cancer]]
 #### Category 4 - Absolute Contraindications
 1. Circulatory diseases (DVT, [[Medicine notes/Stroke\|Stroke]], IHD, Migraine with aura)
 2. Liver diseases (ALD, Carcinoma)
 3. Pregnancy
 4. Major surgery
-5. Breast cancer
+5. [[Surgery Notes/Carcinoma Breast\|Breast cancer]]
 
 ## Uses
 1. [[OBGY Notes/Contraception\|Contraception]] - convenient effective (0.1 /HWY), reversible
@@ -46,7 +46,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 8. Protection against [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
 9. Protection against [[OBGY Notes/Endometriosis\|Endometriosis]]
 10. Protection against [[OBGY Notes/Fibroid\|Fibroid]]
-11. Mangement of PCOS
+11. Mangement of [[Polycystic Ovarian Disease\|PCOS]]
 12. Protection against benign Breast disease
 13. Protection against Osteopenia, postmenopausal [[Ortho notes/Osteoporosis\|Osteoporosis]]
 14. Protection against autoimmune thyroid diseases

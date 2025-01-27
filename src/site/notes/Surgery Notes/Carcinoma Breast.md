@@ -10,7 +10,7 @@ its like 11pm
 3. Family history - Li fraumeni syndorme/BRCA I and II on chromosomes 13 and 17 
 4. h/o breast cancer or benign berast diseases
 5. Obesity and alcohol
-6. Nulliparity, long mesntruation
+6. Nulliparity, long menstruation
 7. Chest radiation exposure
 8. Hormone Replacement Therapy
 

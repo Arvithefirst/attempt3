@@ -4,11 +4,11 @@
 
 Implantable devices that aid in contraception. They can be either *open* or *closed*. However closed loop IUCDs are out of use since they risk strangulating the bowel loops
 ## Examples
-1. *Copper T 200*
+1. *Copper T 200* (2/HWY)
 2. Copper T 380A
 3. Multiload Copper 250
 4. Multiload copper 375
-5. *Levanogestrel Intrauterine system* (LNG-IUS, Mirena)
+5. *Levanogestrel Intrauterine system* (LNG-IUS, Mirena) (0.2/HWY)
 
 ## Mechanism of Action
 1. Non-specific infalmmation causes changes in histology an biochemistry of the uterus to turn it gameto- and spermo cidal. The macrophages attatched to the device are also spermicidal
@@ -18,14 +18,14 @@ Implantable devices that aid in contraception. They can be either *open* or *clo
 5. *Prosterone secreted IUDs* cause suppression of endometrium and thinning of mucus
 ## Insertion 
 >[!faq] Contraindications to IUD insertion
-	1. Pelvic infection within last 3 months
-	2. Undiagnosed AUB
-	3. Suspected pregnancy
-	4. Severe Dysmenorrhoea
-	5. Congenital malformation
-	6. H/o [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
-	7. Wilsons disease/Copper allergy (for copper containing IUD)
-	8. Hepatocellular diseases, Breast cancer, Arterial disease (For Mirena)
+>1. Pelvic infection within last 3 months
+>2. Undiagnosed [[OBGY Notes/Abnormal Uterine Bleeding\|AUB]]
+>3. Suspected pregnancy
+>4. Severe [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]]
+>5. Congenital malformation
+>6. H/o [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
+>7. Wilsons disease/Copper allergy (for copper containing IUD)
+>8. Hepatocellular diseases, [[Surgery Notes/Carcinoma Breast\|Breast cancer]], Arterial disease (For Mirena)
 
 ### Ideal time of insertion
 - 2-3 days after menses
@@ -37,7 +37,7 @@ Implantable devices that aid in contraception. They can be either *open* or *clo
 2. Insert speculum, Hold cervix with Allis foreceps and dilate
 3. Use insertion device
 ### Complications
-1. Immediate - Pain, Syncope, Perforation
+1. Immediate - Cramp like Pain, Syncope, Perforation
 2. Delayed - Pain , [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]], Pelvic inflammatory disease, Spontaneous expulsion
 
 ## Indications of Removal 
