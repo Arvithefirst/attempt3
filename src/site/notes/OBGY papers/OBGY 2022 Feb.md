@@ -3,22 +3,22 @@
 ---
 
 ## One liners
-What are [[OBGY Notes/True postpartum hemorrhage#Causes\|four "T"'s of PPH]]?
+What are [[OBGY Notes/Postpartum hemorrhage#Causes\|four "T"'s of PPH]]?
 Define [[OBGY Notes/Second Stage of Labour\|Second Stage of Labour]].  
-Name two screening test for diabetes in pregnancy.  
+Name two screening test for diabetes in pregnancy.
 Presence of lambda sign and "T" sign in USG of a twin pregnant indicates what?
 What are sonographic criteria of oligohydramnios?
-Two neonatal complications associated with GDM.
+Two neonatal complications associated with [[OBGY Notes/Gestational diabetes#Complications\|GDM]].
 Define a central placenta previa.  
-What is the true or anatomical conjugate of a female gynaecoid pelvis and how much it is?  
-Name two labour inducing agents. 
+What is the true or anatomical conjugate of a female gynaecoid pelvis and how much it is?  ([[OBGY Notes/Fetal skull and Female pelvis diameters\|prolly here]])
+Name two [[OBGY Notes/Ovulation Induction#Drugs\|labour inducing agents]]. 
 Name the four leopard maneuvers?
 
 (p2)
-Uterus is developedfrom which embryological structure?
+Uterus is developed from which embryological structure?
 Uterine artery is a branch of __
 Which type of [[OBGY Notes/Fibroid\|fibroid]] uterus is most symptomatic and which is least symptomatic?
-What are the constituents of OC pill?
+What are the constituents of [[OBGY Notes/Oral Contraceptive Pills\|OCP]]?
 [[OBGY Notes/Pelvic Organ Prolapse#POP-Q Staging\|POP Q Classification]] is used for which gynaecological condition?
 What is the failure rate of tubal sterilization?
 What are the types of [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]]?
@@ -38,11 +38,11 @@ What are the types of [[OBGY Notes/Fibroid\|Fibroid]] uterus? Describe conservat
 
 ## Short answers
 [[OBGY Notes/Third Stage of Labour#Active management\|Active management of 3rd stage of labour]]
-Mac caffes regimen.
+[[OBGY Notes/Placenta previa#Expectant management\|McAfees regimen]]
 Medical management of [[OBGY Notes/Ectopic pregnancy\|ectopic pregnancy]].
 [[OBGY Notes/Eclampsia#Specific treatment\|Pritchard's regimen.]]
 [[OBGY Notes/APGAR score\|APGAR score]]
-Biophysical profile. 
+[[OBGY Notes/Mannings Biophysical Score\|Biophysical profile]]. 
 Perineal tear.
 Indications of vacuum delivery.
 

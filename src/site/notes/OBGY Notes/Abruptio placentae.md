@@ -13,22 +13,17 @@ A form of [[OBGY Notes/Antepartum Hemorrhage\|Antepartum Hemorrhage]] caused by 
 >- Can only be diagnosed pn laprotomy
 
 ## Etiology
-1. High birth order, age, poor socioeconomics, malnutrition, smoking, cocaine
-2. Hypertension
+1. High birth order, Age, Poor Socioeconomics, Malnutrition, Smoking, Cocaine
+2. [[OBGY Notes/Hypertension in pregnancy\|Hypertension in pregnancy]]
 3. Trauma
 4. Sudden uterine decompression
 
 ## Clinical Features
 ### Classification
-Grade 0 - No features
-Grade 1 - Slight vaginal bleeding, Irritable uterus, FHS good
-Grade 2 - Mild vaginal bleeding, Uterine tenderness, Tachycardia, Fetal distress
-Grade 3 - Severe bleeding, uterine tenderness, shock ,fetal death, caogulopathy
-
-1.  Painful loss of Dark blood 
-2. Disproportionate anemia
-3. Features of shock, hypovolemia
-4. Signs of fetal distress
+*Grade 0* - No features
+*Grade 1* - Slight vaginal bleeding, Irritable uterus, FHS good
+*Grade 2* - Mild vaginal bleeding, Uterine tenderness, Tachycardia, Fetal distress
+*Grade 3* - Severe bleeding, uterine tenderness, [[Surgery Notes/Hypovolemic Shock\|Hemorrhagic shock]], fetal death, coagulopathy
 
 ## Investigations
 1. USG
@@ -39,5 +34,5 @@ Early detection and therapy can be a preventative measure. Hematinics, folic aci
 
 Once bleed occurs, treatment is only delivery of baby
 1. [[Surgery Notes/Blood transfusion\|Blood transfusion]]
-2. Oxytocin, low rupture of membranes
+2. [[OBGY Notes/Oxytocin\|Oxytocin]], low rupture of membranes
 3. Cesarean section

@@ -13,7 +13,7 @@ Hypertension recorded for the first time after 20weeks of pregnancy
 Gestational hypertension with proteinuria
 #### [[OBGY Notes/Eclampsia\|Eclampsia]]
 Preclampsia with convulsions
-#### Superimposed pre-eclampsia/Eclampsia
+#### Superimposed [[OBGY Notes/Pre-eclampsia\|pre-eclampsia]]/Eclampsia
 New proteinuria in patients with hypertension since before 20th week of pregnancy
 
 >[!bug] Blood volume changes

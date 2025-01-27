@@ -23,7 +23,7 @@ Implantable devices that aid in contraception. They can be either *open* or *clo
 	3. Suspected pregnancy
 	4. Severe Dysmenorrhoea
 	5. Congenital malformation
-	6. H/o Ectopic pregnancy
+	6. H/o [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
 	7. Wilsons disease/Copper allergy (for copper containing IUD)
 	8. Hepatocellular diseases, Breast cancer, Arterial disease (For Mirena)
 

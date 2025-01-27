@@ -26,7 +26,7 @@ Divided by anatomical location
 2. Cut section is smooth with whorled appearance and trabeculations
 3. Presence of *false capsule*
 >[!faq] False capsule
->Adjacent myometrium that has been comopressed forms a pinkish capsule around the growth seperated by a layer of loose areolar tissue
+>Adjacent myometrium that has been compressed forms a pinkish capsule around the growth seperated by a layer of loose areolar tissue
 
 ### Secondary changes in fibroid
  This is part of an laq apparently
@@ -73,6 +73,7 @@ Very rare <0.1% chance
 6. Saline Infusion Sonography
 7. MRI
 8. Hysteroscopy
+
 >[!faq] FIGO staging
 >OIGVNFOIRG this isnt even in the book but fuck me ig
 >Submucosal part
@@ -87,6 +88,8 @@ Very rare <0.1% chance
 >7 - Other (cervical, parasitic)
 >
 >Hybrid leiomyomas are listed as 2 numbers where the first is relative to endometrium and the 2nd to serosa. eg 2-5 has less than 50% in uterine cavity adn <50% in peritoneum
+{ #7778e2}
+
 
 ## Management
 *Cervical polyp* is alwasy operated on (cause urinary symptoms?) by hysterectomy/myomectomy

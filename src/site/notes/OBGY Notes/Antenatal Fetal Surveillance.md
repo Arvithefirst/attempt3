@@ -25,7 +25,7 @@
 1. Fetal movement count 
 	1. Cardiff "count 10" Formula
 	2. Daily fetal Movement count
-2. Cardiotocography
+2. [[OBGY Notes/Non-stress test\|Cardiotocography]]
 3. [[OBGY Notes/Non-stress test\|Non-stress test]]
 4. [[OBGY Notes/Mannings Biophysical Score\|Mannings Biophysical Score]]
 5. Umbilical Doppler 

@@ -42,8 +42,8 @@ For acute *do blood typing and stuff* because medical emergency. Treat like shoc
 
 ### Unruptured tubal pregnancy
 #### Expectant
-Wait and wathcing hopin gfor spontaneous resolution
-1. hCG <1000 abd falling
+Wait and wathcing hoping for spontaneous resolution
+1. hCG <1000 and falling
 2. Gestational sac <4cm
 3. No FHS
 4. No evidence of bleed

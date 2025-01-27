@@ -3,19 +3,19 @@
 ---
 
 ## One liners
-Name the [[OBGY Notes/True postpartum hemorrhage#Causes\|four causes of PPH]].
+Name the [[OBGY Notes/Postpartum hemorrhage#Causes\|four causes of PPH]].
 Define perinatal mortality.
-Define puerperal sepsis.
-What are complications of eclampsia?
+Define [[OBGY Notes/Puerperal sepsis\|puerperal sepsis]].
+What are complications of [[OBGY Notes/Eclampsia\|eclampsia]]?
 What are the determinants of [[OBGY Notes/APGAR score\|APGAR score]]?
 How is dimorphic anaemia treated?
 Enumerate two causes of [[OBGY Notes/Hyperemesis Gravidarum\|hyperemesis gravidarum]].
 Feto-maternal bleed is detected by which test?
-Which type of twin pregnancy has the highest mortality?
-Name the technique use of deliver the aftercoming head in breech presentation.
+Which type of [[OBGY Notes/Twin Pregnancy\|twin pregnancy]] has the highest mortality?
+Name the technique use of deliver the aftercoming head in [[OBGY Notes/Breech Presentation\|Breech Presentation]].
 
 (p2)
-Define primary infertility.
+Define primary [[OBGY Notes/Infertility\|infertility]].
 Enumerate three symptoms caused by [[OBGY Notes/Fibroid\|fibroid]] uterus.
 What is corpus cancer syndrome?
 What are the advantages of progesterone only pill?
@@ -29,7 +29,7 @@ What is the lining of the cervical canal?
 
 ## Long answer questions
 What is [[OBGY Notes/Normal Labour\|Normal Labour]]? Discuss management of [[OBGY Notes/Third Stage of Labour\|Third Stage of Labour]].
-Discuss the modalities to diagnose ectopic pregnancy. How will you manage ruptured ectopic pregnancy?
+Discuss the modalities to diagnose [[OBGY Notes/Ectopic pregnancy\|ectopic pregnancy]]. How will you manage ruptured [[OBGY Notes/Ectopic pregnancy\|ectopic pregnancy]]?
 Define [[OBGY Notes/Eclampsia\|Eclampsia]]. Discuss management of eclampsia ni pregnancy and labour.
 
 (p2)
@@ -52,7 +52,7 @@ Diagnosis of IUGR.
 Progesterone [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]].
 [[OBGY Notes/Clomiphene Citrate\|Clomiphene Citrate]].
 [[OBGY Notes/Male infertility\|Semen Analysis]].
-Medical Management of Endometriosis.
+Medical Management of [[OBGY Notes/Endometriosis\|Endometriosis]].
 Post-pill amenorrhea.
-Chocolate cyst.
+[[OBGY Notes/Endometriosis\|Chocolate cyst]]
 Hyperprolactinemia

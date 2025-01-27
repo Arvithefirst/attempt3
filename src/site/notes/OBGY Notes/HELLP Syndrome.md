@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/hellp-syndrome/"}
 ---
 
-A complication of od pre-eclampsia. Characaterised by 
+A complication of od [[OBGY Notes/Pre-eclampsia\|pre-eclampsia]]. Characaterised by 
 - *H*emolysis, 
 - *EL*evated liver proteins and 
 - *L*ow *P*latelet count
@@ -16,6 +16,6 @@ A complication of od pre-eclampsia. Characaterised by
 Abruptio placentaw, DIC, Acute renal failurte, Ascitis, Thrombosis , Pleural effusino, ARDS. sepsis
 
 ## Management
-- Magnesiium Sulphate
+- [[OBGY Notes/Magnesium Sulphate\|Magnesium Sulphate]]
 - Corticosteroid therapy
 - C-section

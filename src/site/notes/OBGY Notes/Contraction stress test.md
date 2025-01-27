@@ -22,4 +22,4 @@ Hyperstimulation - Long decelerations
 ## Contraindications
 1. Compromised fetus
 2. Previous LSCS
-3. Multiple pregnancy
+3. [[OBGY Notes/Twin Pregnancy\|Multiple pregnancy]]

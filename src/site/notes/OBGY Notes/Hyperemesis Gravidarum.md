@@ -7,7 +7,7 @@ Severe vomitting that limits the day-to-day activities of the mother
 ## Etiology
 1. Usuallly limited to first trimester
 2. Genetic component, Ofter recurs in next pregnancy
-3. More common. in multiple pregnancy, Hydatiform Mole
+3. More common. in [[OBGY Notes/Twin Pregnancy\|multiple pregnancy]], Hydatiform Mole
 
 ## Clinical features
 1. Vomitting :0

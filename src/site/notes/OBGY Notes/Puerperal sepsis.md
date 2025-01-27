@@ -9,11 +9,11 @@ Infection of the genital tract which occurs as a complication of delivery
 #### Predisposing factors
 1. Antepartum
 	1. Malnutrition
-	2. Preterm labour
+	2. [[OBGY Notes/Preterm Labour\|Preterm Labour]]
 	3. Chronic illness
 2. Intrapartum
 	1. Repeated vaginal examinations
-	2.  Premature rupture of membranes
+	2.  [[OBGY Notes/Premature Rupture of Membranes\|Premature Rupture of Membranes]]
 	3. Dehydration and ketoacidosis
 	4. Hemorrhage [[OBGY Notes/Antepartum Hemorrhage\|Antepartum Hemorrhage]] or [[OBGY Notes/Postpartum hemorrhage\|Postpartum hemorrhage]]
 	5. Traumatic or cesarean delivery

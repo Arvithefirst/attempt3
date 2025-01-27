@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/endometriosis/"}
 ---
 
-Presence of functioning endometrium in sites other than the uterine mucosa. If the site is the myometrium it is calle Adenomyosis
+Presence of functioning endometrium in sites other than the uterine mucosa. If the site is the myometrium it is called *Adenomyosis*
 
 ## Etiology
 More common now because

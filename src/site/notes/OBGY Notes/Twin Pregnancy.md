@@ -40,12 +40,12 @@ Vanishing twin
 ### Maternal
 1. During pregnancy
 	1. Nausea, vomitting, Anemia
-	2. [[OBGY Notes/Pre-eclampsia\|Pre-eclampsia]], Hydramnios
+	2. [[OBGY Notes/Pre-eclampsia\|Pre-eclampsia]], [[OBGY Notes/Polyhydramnios\|Hydramnios]]
 	3. [[OBGY Notes/Antepartum Hemorrhage\|Antepartum hemorrhage]]
 	4. Malpresentation
-	5. Preterm labour
+	5. [[OBGY Notes/Preterm Labour\|Preterm Labour]]
 2. During labour
-	1. Premature Rupture of Membranes
+	1. [[OBGY Notes/Premature Rupture of Membranes\|Premature Rupture of Membranes]]
 	2. Prolonged labour
 	3. [[OBGY Notes/Postpartum hemorrhage\|Postpartum hemorrhage]]
 3. Pueperium

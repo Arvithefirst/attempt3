@@ -25,7 +25,7 @@
 		3. Hypospadias
 
 ## Investigations
-or Semen analysis SAQ. This is a fowchart but who has the time
+or Semen analysis SAQ. This is a flowchart but who has the time
 
 1. Microscopic study shows pus cells/leucocytspermia on prostatic massage - Infection
 2. Fructose content shows absence 

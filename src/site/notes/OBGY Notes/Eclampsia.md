@@ -19,7 +19,7 @@ Prevention and prophylaxis is the mainstay of treatment
 - Prophylactic cephalosporins
 
 ### Specific treatment
- - *Pritchard intramuscular regimen* - 4gm over 3-5 minutes + 10mg IM Magnesium sulphate loading dose. Maintained by mg IM in alternate buttocks every 4 hours
+ - *Pritchard intramuscular regimen* - 4gm over 3-5 minutes + 10mg IM [[OBGY Notes/Magnesium Sulphate\|Magnesium sulphate]] loading dose. Maintained by mg IM in alternate buttocks every 4 hours
  - Lytic cocktail - Chlorpromazine, promethazine, and perthidine
  - Diazepam
  - Phenytoin

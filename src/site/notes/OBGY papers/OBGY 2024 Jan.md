@@ -10,7 +10,7 @@ A 30weeks primigravid comes to labour room with 6 hours of watery pervaginal dis
 ## Long answer questions
 Discuss the diagnosis of and complications of [[OBGY Notes/Twin Pregnancy\|Twin Pregnancy]].
 
-Discuss pathophysiology of Rh-incompatibility and antenatal management of a G2P1 with B-ve blood group reporting at 16 weeks of gestation.
+Discuss pathophysiology of [[OBGY Notes/Hemolytic disease of Newborn\|Rh-incompatibility]] and antenatal management of a G2P1 with B-ve blood group reporting at 16 weeks of gestation.
 
 (p2)
 Define and classify [[OBGY Notes/Pelvic Organ Prolapse\|Uterovaginal Prolapse]]. Describe primary and secondary supports of uterus. 
@@ -26,7 +26,7 @@ Lifestyle and diet counselling for antenatal mother diagnoses with [[OBGY Notes/
 [[OBGY Notes/First Stage of Labour#Investigations\|Role of partogram]] in labour management
 [[OBGY Notes/BISHOP score\|BISHOP score]] and its relevance in obs management
 Diagnosis of heart disease in pregnancy
-External cephalic version
+[[OBGY Notes/Breech Presentation#External cephalic Version\|External cephalic version]]
 Responsibility and work ethics of health care teams
 
 First trimester ultrasound screening

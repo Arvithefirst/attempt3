@@ -8,7 +8,7 @@ What is placenta accreta?
 Mention 2 obstetric complications which predispose to perinatal mortality.
 What are the components of the Triple Marker Test for screening of aneuploidy?
 Which vaccines are contraindicated in pregnancy?
-Mention the investigations done on the cord blood in Rh-incompatibility?
+Mention the investigations done on the cord blood in [[OBGY Notes/Hemolytic disease of Newborn\|Rh-incompatibility]]?
 What is cord presentation?
 Mention 2 advantages of hemodilution in pregnancy. 
 What is the Bandl's ring?
@@ -23,7 +23,7 @@ Which is the most common type of [[OBGY Notes/Dysmenorrhoea\|dysmenorrhoea]]?
 Which of the gynaecological cancers is preventable?
 Write down [[OBGY Notes/Pelvic Organ Prolapse#Differential diagnoses\|three differential diagnoses]] for mass descending per vaginum.
 What is the karyotype in testicular feminizing syndrome?
-Name three tumor markers used in the diagnosis of germ celltumors of the ovary.
+Name three tumor markers used in the diagnosis of germ cell tumors of the ovary.
 What is the life span of Cu T 380 A2
 
 ## Long answer questions
@@ -31,7 +31,7 @@ A 37week multigravida reports to the labour room with clinical features of [[OBG
 
 What is puerperal pyrexia? How will you diagnose and treat a case of [[OBGY Notes/Puerperal sepsis\|Puerperal sepsis]]
 
-Wnat are the diagnostic features of breech presentation? How will you manage a case of breech presentation reporting at 35 weeks of gestation?
+Wnat are the diagnostic features of [[OBGY Notes/Breech Presentation\|Breech Presentation]]? How will you manage a case of [[OBGY Notes/Breech Presentation\|Breech Presentation]] reporting at 35 weeks of gestation?
 
 (p2)
 A 29yo multiparous woman presents to OPD with vaginal discharge and intense itching over genitals. Write down the d/d clinical features, investigations and management of possible diagnoses
@@ -46,17 +46,17 @@ Parenteral iron therapy in pregnancy
 Pre-requisites of vacuum delivery
 Clinical diagnosis of acute ruptured [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
 Criteria for non-reassuring fetal heart rate pattern
-Diagnosis of PROM
+Diagnosis of [[OBGY Notes/Premature Rupture of Membranes\|PROM]]
 1st trimester ultrasonography
 TOLAC criteria
 
 (p2)
 [[OBGY Notes/Emergency Contraception\|Emergency Contraception]]
-FIGO classification system for [[OBGY Notes/Fibroid#Investigations\|Fibroid#Investigations]].
+FIGO classification system for [[OBGY Notes/Fibroid#^7778e2\|Fibroid]].
 Clinical features of [[OBGY Notes/Adenomyosis\|adenomyosis]].  
-Non-contraceptive uses of combined [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]].
+Non-contraceptive uses of combined [[OBGY Notes/Oral Contraceptive Pills#Uses\|Oral Contraceptive Pills]].
 Medical method of first trimester MTP (Medical Termination of Pregnancy).
-[[OBGY Notes/Human Papilloma Virus\|HPV]](HumanPapilloma Virus) vaccines.[[OBGY Notes/Cervical Intraepithelial Neoplasia#Preventitive\|see here probably]]
+[[OBGY Notes/Human Papilloma Virus\|HPV]](HumanPapilloma Virus) vaccines.
 Indications for [[OBGY Notes/Intrauterine Contraception Devices\|LNG-IUS]] (Levonorgestrel Intra-uterine System).
 Cardinal steps of [[OBGY Notes/Fothergills Operation\|Fothergill/Manchester surgery]].
 [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive pills]]

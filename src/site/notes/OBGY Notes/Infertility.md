@@ -13,7 +13,7 @@ Male is responsible in 30-40% on cases. Female in 40-55% and both in 10%.
 2. Tubal/peritoneal
 	1. Pelvic infections
 	2. Polyps
-	3. Endometriosis
+	3. [[OBGY Notes/Endometriosis\|Endometriosis]]
 	4. Peritoneal adhesions -> tubal dysmotility
 3. Uterine
 	1. TB

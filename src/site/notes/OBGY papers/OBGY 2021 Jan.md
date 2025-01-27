@@ -15,13 +15,13 @@ Define asymptomatic bacteuria.
 Define [[OBGY Notes/Normal Labour\|Normal Labour]].
 
 (p2)
-Define secondary infertility.
+Define secondary [[OBGY Notes/Infertility\|infertility]].
 Embryologically fallopian tubes, uterus and cervix develop from?
 Define HMB.
 Write two infective causes of pruritis vulvovaginitis.
 Write two types of vaccines for [[OBGY Notes/Carcinoma Cervix\|carcinoma cervix]] prevention.
 What is LARC? Write two examples of LARC.
-Define endometriosis and adenomyosis.
+Define [[OBGY Notes/Endometriosis\|endometriosis]] and adenomyosis.
 Year of legalization of MTP in India.
 Most effective two Chemotherapeutic agents for GTN.
 Most Common benign germ cell tumour of Ovary.
@@ -31,7 +31,7 @@ How will you manage a primigravida woman with 32 weeks pregnancy with [[OBGY Not
 
 Write down the complications of moderate to severe anaemia during pregnancy and define labour management in an anaemic women
 
-Write down the [[OBGY Notes/True postpartum hemorrhage#Management\|stepwise management of atonic PPH.]]
+Write down the [[OBGY Notes/Postpartum hemorrhage#Management\|stepwise management of atonic PPH.]]
 
 Manage acase of 35yrs old lady P$_{3+0}$ with third degree [[OBGY Notes/Pelvic Organ Prolapse#Management\|uterine prolapse]].
 
@@ -44,7 +44,7 @@ DTA
 Antenatal management of primi non-immunized Rh incompatible pregnancy
 Anencephaly
 Causes of IUFD
-Define GDM and its screening during pregnancy as per DIPSI guidelines
+Define [[OBGY Notes/Gestational diabetes\|GDM]] and its screening during pregnancy as per DIPSI guidelines
 [[OBGY Notes/Twin Pregnancy\|Twin Pregnancy]] complications
 Neonatal jaundice
 Breast engorgement
@@ -57,4 +57,4 @@ Types of hysterectomy and their indications.
 Corpus luteum cyst
 Define secondary amenorhoea and its causes 
 Medical management of [[OBGY Notes/Fibroid\|Fibroid]] uterus.
-Transformation zone of cervix. [[OBGY Notes/Cervical Intraepithelial Neoplasia#Pathology\|Cervical Intraepithelial Neoplasia#Pathology]]
+ [[OBGY Notes/Cervical Intraepithelial Neoplasia#Pathology\|Transformation zone of cervix.]]
