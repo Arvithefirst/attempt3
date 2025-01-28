@@ -51,10 +51,10 @@ Breast engorgement
 
 (p2)
 Hormonal[[OBGY Notes/Intrauterine Contraception Devices\| IUCD]] 
-Bacterial vaginosis 
+[[Bacterial Vaginosis\|Bacterial vaginosis]] 
 VVF
-Types of hysterectomy and their indications. 
+Types of [[Abdominal Hysterectomy\|hysterectomy]] and their indications. 
 Corpus luteum cyst
-Define secondary amenorhoea and its causes 
+Define [[OBGY Notes/Amenorrhoea#Secondary Amenorrhoea\|secondary amenorhoea]] and its causes 
 Medical management of [[OBGY Notes/Fibroid\|Fibroid]] uterus.
  [[OBGY Notes/Cervical Intraepithelial Neoplasia#Pathology\|Transformation zone of cervix.]]

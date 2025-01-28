@@ -8,7 +8,7 @@ Defined as when labour starts <37 completed weeks of amenorrhoea
 *Idiopathic 50% of the time.* Risk factors are
 #### History of
 1. Previous Induced labour, Spontaneous abortion or preterm labour
-2. Assisted Reproductive Techniques
+2. [[OBGY Notes/Assisted Reproductive Techniques\|Assisted Reproductive Techniques]]
 3. Aysmptomatic bacteruria or recurrent UTI
 4. Smoking, Poor nutrition, Stress
 

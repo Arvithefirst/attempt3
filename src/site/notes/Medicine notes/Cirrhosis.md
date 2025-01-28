@@ -15,7 +15,7 @@ Liver injury activates stellate cells in the space of Disse into myofibro-blast 
 2. Chronic hepatitis
 3. Non-alcoholic steatorrhic hepatitis
 4. Immune - Primary sclerosing cholangitis, auto immune liver disease
-5. Biliary - Primary biliary cholangitis, Cystic fibrosis
+5. Biliary - Primary biliary cholangitis, [[Medicine notes/Cystic Fibrosis\|Cystic fibrosis]]
 6. Genetic - Haemochromatosis, Wilsons disease
 7. Cryptogenic
 8. Venous outflow obstruction

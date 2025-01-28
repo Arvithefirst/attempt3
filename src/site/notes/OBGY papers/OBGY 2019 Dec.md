@@ -51,7 +51,7 @@ Types of [[OBGY Notes/Episiotomy\|Episiotomy]]
 
 (p2)
 [[OBGY Notes/Male infertility#Investigations\|Semen Analysis]]
-Polycystic Ovarian Syndrome.
+[[OBGY Notes/Polycystic Ovarian Disease\|PCOS]].
 [[OBGY Notes/Emergency Contraception\|Emergency contraception]]. 
 Vesico-vaginal fistula.
 [[OBGY Notes/Pelvic Organ Prolapse#Supports of the uterus\|Supports of uterus]].

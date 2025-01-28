@@ -41,5 +41,5 @@ WHY IS THIS DIFFERENT FUCK RIGHT OFF
 3. Diaabetes, Hypertension, systemic illnesses
 4. Jaundice, Uraemia, Cytotoxic drugs
 5. Malignancy
-6. HIV, Immunosuppressants
+6. [[Medicine notes/HIV\|HIV]], Immunosuppressants
 

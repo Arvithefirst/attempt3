@@ -32,7 +32,7 @@ Name Serum markers of Acute and Chronic pancreatitis. [[Surgery Notes/Acute Panc
 Four complications of [[Medicine notes/Organophosphate Poisoning#Treatment\|OP poisoning]].
 Drugs used in Massive Hemetemesis.
 Treatment of Vit A Deficiency.
-Two causes of Fall in Elderly. [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
+Two causes of Fall in Elderly. [[Medicine notes/Stop old people from falling\|Stop old people from falling]]
 Four causes of peripheral Neuropathy.
 Name Drugs used in [[Medicine notes/Myasthenia Gravis\|Myasthenia Gravis]].
 Name Types of Epilepsy.

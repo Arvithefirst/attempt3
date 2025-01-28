@@ -51,7 +51,7 @@ Squamocolumnar junction [[OBGY Notes/Cervical Intraepithelial Neoplasia#Patholog
 Pelvic diaphragm
 PALM COEIN classification of [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]
 [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]]
-[[OBGY Notes/Amsel's Criteria\|Amsel's Criteria]]
+[[Amsel's Criteria\|Amsel's Criteria]]
 Cryptomenorrooea
 Misoprostol
 [[OBGY Notes/Male infertility#Investigations\|Semen analysis]]

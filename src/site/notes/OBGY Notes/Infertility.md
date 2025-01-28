@@ -33,7 +33,7 @@ Male is responsible in 30-40% on cases. Female in 40-55% and both in 10%.
 
 ## Investigations
 1. h/o medical problems, surgeries, obstetric complications, sexual problems
-2. Examination show signs of [[Polycystic Ovarian Disease\|PCOS]], developmental disorder
+2. Examination show signs of [[OBGY Notes/Polycystic Ovarian Disease\|PCOS]], developmental disorder
 3. TFT. BSL. TB cytology
 4. Tests for ovulation
 	1. Basal Body tempoerature charting
@@ -43,7 +43,7 @@ Male is responsible in 30-40% on cases. Female in 40-55% and both in 10%.
 	5. Sonography
 5. Tubal tests
 	1. [[OBGY Notes/Insufflation test\|Insufflation test]]
-	2. Hysterosalpingography
+	2. Hysterosalpingography (same as ^ but with transcervically instilled dye)
 	3. Laprascopy and chemopertubation with methylene blue *(Gold standard)*
 	4. Sonohystersalpingography (ehhh macarena)
 5. Cervical tests
@@ -55,4 +55,4 @@ Assurance, General lifestyle changes, Coital problem counselling
 1. [[OBGY Notes/Ovulation Induction\|Ovulation induction]]
 2. Adhesiolysis, fimbrioplasty, salpingostomy
 3. Artifical Insemination
-4. Assisted Reproductive Technology
+4. [[OBGY Notes/Assisted Reproductive Techniques\|Assisted Reproductive Techniques]]

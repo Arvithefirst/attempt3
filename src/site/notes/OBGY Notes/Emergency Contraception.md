@@ -11,7 +11,7 @@
 ### Levonogestrel
 - 0.75mg 2 doses 12 hours apart or as 1 1.5mg 
 - Within 72 hours
-- >1% failure rate
+- <1% failure rate
 
 ### Ethinyl Estradiol
 - 2.5mg BD x 5 days
@@ -22,12 +22,14 @@
 >- Prevention of Implantation (in estrogen pills)
 >- Interferes with Corpus luteum
 
-### Copper [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]]
+### Copper [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]] (Gold standard)
 - Within 5 days of exposure
-- >1% failure rate
+- <1% failure rate
 
-### Anti-progesterone
+### Anti-progesterone (Mife)
 - 100mg within 17 days
-- >0.6% failure rate
+- <0.6% failure rate
 
 ### Ulipristal acetate
+- 30mg as soon as possible within 5 days
+- <0.6%

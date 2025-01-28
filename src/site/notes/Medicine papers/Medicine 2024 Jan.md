@@ -10,7 +10,7 @@ A 65yo female presents with complaints of fever for 4 days and decreased. urine 
 
 ## Short answer questions
 Transfusion transmitted infection.
-Interventions to reduce risk of falls in elderly [[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
+Interventions to reduce risk of falls in elderly [[Medicine notes/Stop old people from falling\|Stop old people from falling]]
 [[Medicine notes/Vitamin C deficiency\|Vitamin C deficiency]].
 Investigations for [[Surgery Notes/Carcinoma Breast#Investigations\|breast cancer]].
 [[Medicine notes/Hyperthyroid crisis\|Thyroid storm]].

@@ -33,7 +33,7 @@ Irreversible deterioration of kidney function over a period of many years. Event
 6. CBC, Iron Studies, B12 to monitor Anemia
 7. Lipid Profile, BSL + HbA1C
 8. Renal Ultrasound
-9. HbsAg, HIV testing
+9. HbsAg, [[Medicine notes/HIV\|HIV]] testing
 10. Tests for suspected cause based on history
 
 >[!faq] Grading of CKD (Using GFR values)

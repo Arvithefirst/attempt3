@@ -46,7 +46,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 8. Protection against [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
 9. Protection against [[OBGY Notes/Endometriosis\|Endometriosis]]
 10. Protection against [[OBGY Notes/Fibroid\|Fibroid]]
-11. Mangement of [[Polycystic Ovarian Disease\|PCOS]]
+11. Mangement of [[OBGY Notes/Polycystic Ovarian Disease\|PCOS]]
 12. Protection against benign Breast disease
 13. Protection against Osteopenia, postmenopausal [[Ortho notes/Osteoporosis\|Osteoporosis]]
 14. Protection against autoimmune thyroid diseases

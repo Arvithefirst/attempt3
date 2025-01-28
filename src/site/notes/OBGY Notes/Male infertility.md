@@ -7,16 +7,16 @@
 	1. Endocrine - GnRH deficiency, Obesity, Thyroid dysfunction, Hyperprolactinemia
 	2. Psychosexual - ED, Impotence
 	3. Drugs - Anti-Hypertensve, Antipsychotics
-	4. Genetic - XXY(kline felters)
+	4. Genetic - XXY(klinefelters)
 2. Testicular
 	1. Kartageners
 	2. Cryptochidism
 	3. Drugs, smoking, radiation
-	4. Sertiolu cell syndrome
-	5. Promary faiilure
+	4. Sertoli cell syndrome
+	5. Promary failure
 3. Post-testicular
 	1. Obstruction
-		1. Congenital (Cystic Fibrosis, Youngs)
+		1. Congenital ([[Medicine notes/Cystic Fibrosis\|Cystic Fibrosis]], Youngs)
 		2. Infection (TB, Gonorrhoea)
 		3. Surgical (Vasectomy)
 	2. Other

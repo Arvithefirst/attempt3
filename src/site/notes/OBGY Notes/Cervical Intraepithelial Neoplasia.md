@@ -70,5 +70,5 @@ CIN III and CIS can have
 2. Excision
 	1. Cone excision
 	2. Large loop excision of Transformation Zone (LLETZ) *//also used for CIN II*
-3. Hysterectomy
+3. [[Abdominal Hysterectomy\|Hysterectomy]]
 

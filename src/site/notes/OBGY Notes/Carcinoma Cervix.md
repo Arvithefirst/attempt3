@@ -46,7 +46,7 @@ Extended beyong pelvis or involves bladder/rectum
 ## Investigations
 1. Inspection and pelvic examination
 2. Lymph node palpation
-3. Colposcopy, Hysteroscopy, Cystoscopy
+3. Colposcopy, [[Hysteroscopy\|Hysteroscopy]], Cystoscopy
 4. Biopsy
 5. Endocervical cerettage
 6. Chest Xray
@@ -58,14 +58,14 @@ Extended beyong pelvis or involves bladder/rectum
 
 ## Treatment 
 In short cause who ahs the time
-*Stage IA* - Simple Hysterectomy/ Conservative surgery(Trachelectomy)
-*Stage IB Onwards* - Radical hysterectomy, with Radiotherapy and Chemotherapy
+*Stage IA* - Simple [[Abdominal Hysterectomy\|Hysterectomy]]/ Conservative surgery(Trachelectomy)
+*Stage IB Onwards* - Radical [[Abdominal Hysterectomy\|hysterectomy]], with Radiotherapy and Chemotherapy
 
 #### Prevention
 1. [[OBGY Notes/Human Papilloma Virus\|HPV]] vaccination, Protection, smoking, Not fucking so much
 2. Early detection throigh screening or WHO Downstaging Screening
 
-#### Primary Surgery (Radical Hysterectomy)
+#### Primary Surgery (Radical [[Abdominal Hysterectomy\|Hysterectomy]])
 1. Removal of uterus, tubes, ovaries, Cervix and half of vagina
 2. Removal of Internal/External, Obturator and Parametrial Lymph nodes
 *Advantages*

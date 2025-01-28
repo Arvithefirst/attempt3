@@ -32,7 +32,7 @@ Secondary
 >1. Analgesia with Paracetamol, NSAID
 >2. Anti-emesis with domperidone, metaclopromide
 >3. Severe attacks can be stopped with 5-HT agonists (Triptans)
->Prophylaxis with b-blockers, Anti-depressants and anti-epileptics. Avoid OC pills
+>Prophylaxis with b-blockers, Anti-depressants and anti-epileptics. Avoid [[OBGY Notes/Oral Contraceptive Pills\|OC pills]]
 
 ## Medication overuse headache
 Most frequent culprits are opiate analgesics and triptans. Typical complication of medications given for tension headaches and migraines

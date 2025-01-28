@@ -48,7 +48,7 @@ Further Classified by affected wall
 #### Posterior wall Vaginal Prolapse
 - Torn perineal body leads to *Relaxed perineum*
 - Laxity in middle 1/3rd is called *Rectocele*
-- Prolapse of upper 1/3rd is called *Vault prolapse* which may be further classified into *Enterocele* or secondary to hysterectomy
+- Prolapse of upper 1/3rd is called *Vault prolapse* which may be further classified into *Enterocele* or secondary to [[Abdominal Hysterectomy\|hysterectomy]]
 ### Uterine Prolapse
 May be either Uterovaginal or Congenital
 
@@ -57,7 +57,7 @@ May be evaluated clinically, by quantitative scoring or by POP-Q scoring
 ### Clinical classification
 *First Degree* - Uterus descended but still within vagina
 *Second Degree* - External os protrudes but the uterine body is within the vagina
-*Third Degree* - The entier body protrude
+*Third Degree* - The entire body protrude
 ### Quantitive scoring
 *Stage 0* - No descent of organs
 *Stage 1* - Leading edge is >1cm above hymen
@@ -109,12 +109,12 @@ Various surgical interventions may be done depending on the affected part
 // *Pelvic floor repair* = [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]] + [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
 /// *Ward Mayos operation* = Pelvic floor repair + Posterior colpoperineorrhaphy
 #### Uterovaginal prolapse surgery
-1. Vaginal Hysterectomy with Pelvic floor repair
+1. Vaginal [[Abdominal Hysterectomy\|Hysterectomy]] with Pelvic floor repair
 2. [[OBGY Notes/Fothergills Operation\|Fothergills Operation]]
 
->[!faq] Vaginal wall surgeries follwing hysterectomy
+>[!faq] Vaginal wall surgeries follwing [[Abdominal Hysterectomy\|hysterectomy]]
 >
-Often required due to vault prolapse secondary to hysterectomy. They can be divided into vaginal/abdominal
+Often required due to vault prolapse secondary to [[Abdominal Hysterectomy\|hysterectomy]]. They can be divided into vaginal/abdominal
 >1. Repair of vaginal vault + Pelvic floor repair
 >2. Sacrospinous colpopexy
 >3. Colpocleisis ([[OBGY Notes/Le Fort's Operation\|Le Fort's Operation]])
@@ -132,4 +132,4 @@ Work better than traditional methods. Non-absorbably meshes have high recurrence
 	3. Urinary retention / Damage to bowels
 	4. Dyspareunia
 	5. Cervical stenosis/incompetency/dystocia
-	6. Recurence
+	6. Recurrence

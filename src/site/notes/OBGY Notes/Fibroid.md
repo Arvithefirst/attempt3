@@ -7,7 +7,7 @@ Commonest benign tumour of the uterus. Commonenst benign solid tumour in women. 
 ## Etiology
  20% of women above 30 have fibroids. 50% of those are symptomatic
  1. More common in Obese, Nullliparous, Black women. Less common in smokers
- 2. Estrogen dependant tumour (grows in pregnancy, high dose [[OBGY Notes/Oral Contraceptive Pills\|OCP]]
+ 2. Estrogen dependant tumour (grows in pregnancy, high dose [[OBGY Notes/Oral Contraceptive Pills\|OCP]])
 
 ## Types 
 Divided by anatomical location
@@ -72,7 +72,7 @@ Very rare <0.1% chance
 5. Doppler
 6. Saline Infusion Sonography
 7. MRI
-8. Hysteroscopy
+8. [[Hysteroscopy\|Hysteroscopy]]
 
 >[!faq] FIGO staging
 >OIGVNFOIRG this isnt even in the book but fuck me ig
@@ -92,7 +92,7 @@ Very rare <0.1% chance
 
 
 ## Management
-*Cervical polyp* is alwasy operated on (cause urinary symptoms?) by hysterectomy/myomectomy
+*Cervical polyp* is alwasy operated on (cause urinary symptoms?) by [[Abdominal Hysterectomy\|hysterectomy]]/myomectomy
 
 ### Body Fibroids
 If its asymptomatic and
@@ -111,12 +111,12 @@ Aims to control anemia, limit size, correct infertility
 #### Surgical management
 <mark style="background: #FF5582A6;">Myomectomy</mark>
 - Enucleation of myomata
-- Can be done by lapratomy, laprascopy, or hysteroscopy
+- Can be done by lapratomy, laprascopy, or [[Hysteroscopy\|hysteroscopy]]
 - High chance of recurrence
 <mark style="background: #FFB86CA6;">Embolotherapy</mark>
 - Uterine artery embolised through percutaneous femoral catheterisation
 - Useful when surgery is contraindicated
 - May complicate into post-embolisation syndrome
-<mark style="background: #FFF3A3A6;">Hysterectomy</mark>
+<mark style="background: #FFF3A3A6;">[[Abdominal Hysterectomy\|Hysterectomy]]</mark>
 - Surgery of choice when patient >40 as there is no chance of recurrence
 

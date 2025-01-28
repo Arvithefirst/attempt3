@@ -10,7 +10,7 @@ Plasma concentration of *potassium <3.5 mmol/L*
 2. *Tissue redistribution* - Insulin, Alkalemia, B-agonists
 3. *Increased loss* - Diarrhoea, Vomitting
 4. *Transcellular shift* - insulin, B-agonist, Periodic paralysis
-5. *Renal Causes* - Diuretics, Renal Artery stenosis, Renal failure, Cystic fibrosis, Cushings
+5. *Renal Causes* - Diuretics, Renal Artery stenosis, Renal failure, [[Medicine notes/Cystic Fibrosis\|Cystic fibrosis]], Cushings
 
 ## Symptoms
 1. Anorexia, Nausea

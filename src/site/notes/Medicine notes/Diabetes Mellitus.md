@@ -14,7 +14,7 @@ Broadly into Type 1(Deficiency) or Type 2(Resistance) but there are others
 		- Glucokinase (MODY 2)
 		- HNF 1a (MODY 3)
 	- *Genetic defect in Insulin* - Type A resistance, Lipodystrophy
-	- *Exocrine Pancreas defects* - Pancreatitis, Cystic fibrosis
+	- *Exocrine Pancreas defects* - Pancreatitis, [[Medicine notes/Cystic Fibrosis\|Cystic fibrosis]]
 	- *Endocrinopathies* - Hyperthyroidism, Cushings syndrome
 	- *Infections* - Cytomegalovirus, Rubella
 	- *Drugs* - Glucocorticoid, Thyroid, Phenytoin

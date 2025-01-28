@@ -22,7 +22,7 @@ Uncategorised notes :3
 [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 [[Medicine notes/HIV Drugs for losers\|HIV Drugs for losers]]
 [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
-[[OBGY Notes/Stop old people from falling\|Stop old people from falling]]
+[[Medicine notes/Stop old people from falling\|Stop old people from falling]]
 [[IV Cannula Size Chart\|IV Cannula Size Chart]]
 [[Glasgow Coma Scale\|Glasgow Coma Scale]]
 

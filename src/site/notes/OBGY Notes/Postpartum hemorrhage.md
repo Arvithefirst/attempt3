@@ -58,7 +58,7 @@ Call for help, secure large bore IV, send blood for grouping/acquire blood produ
 4. 15methyl PGF or misoprostol
 5. Uterine Tamponade (bimanual compression/balloon tamponade/Packing)
 6. Surgical ligation of involved arteries
-7. Hysterectomy
+7. [[Abdominal Hysterectomy\|Hysterectomy]]
 
 
 

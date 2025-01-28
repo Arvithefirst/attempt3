@@ -5,7 +5,7 @@
 Done for anovulatory [[OBGY Notes/Infertility\|infertility]]
 
 ### General measure
-Psychotherapy, weight loss in [[Polycystic Ovarian Disease\|PCOS]]
+Psychotherapy, weight loss in [[OBGY Notes/Polycystic Ovarian Disease\|PCOS]]
 
 ### Drugs
 1. Stimuation of ovulation

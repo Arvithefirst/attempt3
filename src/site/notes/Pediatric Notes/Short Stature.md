@@ -10,7 +10,7 @@ Pathological short stature
 1. Undernutrition, Malabsorption syndromes
 2. Chornic systemic illness
 3. Cerebral palsy
-4. Congenital heart disease, Cystic Fibrosis
+4. Congenital heart disease, [[Medicine notes/Cystic Fibrosis\|Cystic Fibrosis]]
 5. Endocrine disorders
 	1. Growth hormone deficiency/resisteance
 	2. Hypothyroidism
