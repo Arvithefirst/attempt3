@@ -22,7 +22,7 @@ Can occur as [[OBGY Notes/Menorrhagia\|Menorrhagia]] or [[OBGY Notes/Metropathia
 3. CBC, Iron study, Platelets, Ptt, BT/CT. Thyroid profile
 4. USG and color doppler(finds endometrial hyperplasia)\
 5. Saline Infusion Sonography to diagnose polyps, fibroids etc
-6. [[Hysteroscopy\|Hysteroscopy]]
+6. [[OBGY Notes/Hysteroscopy\|Hysteroscopy]]
 7. Laparascopy
 8. Diagnostic curettage
 
@@ -39,11 +39,11 @@ Utilises Progestin therapy (Medroxyprogesterone acetate), Estrogen, and [[OBGY N
 #### Reproductive 
 1. Regular cycles can attempt medical management with progestin therapy
 2. If that fails or if irregular cycle then investigations for pelvic cause should be done(above)
-3. If that fails to detect a pathology then [[OBGY Notes/Intrauterine Contraception Devices\|LNG-IUS]] or Ablation/[[Abdominal Hysterectomy\|Hysterectomy]] depending of family status
+3. If that fails to detect a pathology then [[OBGY Notes/Intrauterine Contraception Devices\|LNG-IUS]] or Ablation/[[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]] depending of family status
 #### Premenopausal/Postmenopausal
 1. Cervical cytology to rule out malignant cause 
 2. Non-malignant cause can be treated with progestins
-3. If that fails or malignancy present then [[Abdominal Hysterectomy\|hysterectomy]]
+3. If that fails or malignancy present then [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]
 
 ### Surgical options for DUB
 1. Uterine curettage
@@ -55,4 +55,4 @@ Utilises Progestin therapy (Medroxyprogesterone acetate), Estrogen, and [[OBGY N
 	5. Transcervical resection
 	6. Rollerball ablation
 3. Uterine artery Embolisation
-4. [[Abdominal Hysterectomy\|Hysterectomy]]
+4. [[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]]

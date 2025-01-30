@@ -12,12 +12,20 @@ Scurvy (arghhh)
 
 ## Clinical features
 1. Easily bleeding gums
-2. Petechial hemorrhage
-3. Haemarthorisis
-4. Ecchymosis
-5. GI Bleed
-6. Anemia
+2. Petechial hemorrhage, Haemarthorisis, Ecchymosis, GI Bleed
+3. Anemia
 
-### Management
-250g/day for 3 days calcium supplement
+#### Radiological findings in Scurvy
+1. Subperiosteal hemorrhages
+2. Scorbutic rosary over ribs
+3. Ground glass appearance 
+4. Linear rarefaction underneath metaphyseal line(infantile scurcy)
+5. Fenkels line(Dense bands at the ends of bones)
+6. Lateral Triangular defects
+7. Wimburger ring
+
+## Management
+250mg/day for 3 days calcium supplement
 also + Diet corrections
+
+100-200mg for pediatric age group

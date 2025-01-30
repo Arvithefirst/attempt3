@@ -3,7 +3,7 @@
 ---
 
 ### Presumptive signs
-1. Amenorrhoea
+1. [[OBGY Notes/Amenorrhoea\|Amenorrhoea]]
 2. Polyuria
 3. Morning sickness
 4. Fatigue

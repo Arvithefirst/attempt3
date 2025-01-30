@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/cervical-intraepithelial-neoplasia/"}
 ---
 
-Premalignant condition of cervical squamous epithelium
+Premalignant condition of Cervical Squamous Epithelium
 
 ## Classification
 ### WHO classification
@@ -14,8 +14,8 @@ CIN IV(CIS) - Whole thickness (Carcinoma in-situ) [[OBGY Notes/Carcinoma Cervix\
 
 ### Bethesda Classification
 1. Atypical squamous cells
-2. Low grade squamous intraepithelial lesions (LSIL, CIN I)
-3. High grade squamous Intraepithelial lesions (HSIL, CIN II, III, IV)
+2. Low-grade Squamous Intraepithelial Lesions (LSIL, CIN I)
+3. High-grade Squamous Intraepithelial Lesions (HSIL, CIN II, III, IV)
 
 ## Pathology
 >[!summary] Relevant anatomy
@@ -58,7 +58,7 @@ Exfoliative cytology is the gold standard screening test. Cells are fixed and vi
 Can be preventitive or definitive
 
 ### Preventitive
-- [[OBGY Notes/Human Papilloma Virus\|HPV]] vaccination
+- [[OBGY Notes/Human Papilloma Virus#Vaccinations\|HPV vaccination]]
 ### Definitive treatment
 CIN I and CIN II go for observation and follow up every 4-6 months
 CIN III and CIS can have
@@ -70,5 +70,5 @@ CIN III and CIS can have
 2. Excision
 	1. Cone excision
 	2. Large loop excision of Transformation Zone (LLETZ) *//also used for CIN II*
-3. [[Abdominal Hysterectomy\|Hysterectomy]]
+3. [[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]]
 

@@ -8,7 +8,7 @@ When does child [[Pediatric Notes/Normal Growth#Weight\|double weight]]
 Inheritance pattern of color blindness
 [[OBGY Notes/APGAR score\|APGAR score]]
 CSF from 3/4 ventricle passes through which brain structure
-Osmolarity of [[Pediatric Notes/WHO ORS\|WHO ORS]]
+Osmolarity of [[Pediatric Notes/WHO ORS\|ORS]]
 Drug of chouice for [[Medicine notes/Acute Rheumatic heart disease#Treatment\|Rheumatic fever]]
 3 Clinical features of [[Pediatric Notes/Congenital Rubella\|Congenital Rubella]] syndrome
 Protein content of breast milk
@@ -32,9 +32,9 @@ IMNCI Jaundice
 Drug addiction and substance abuse in adolescent
 Counselling for complementary feeding for 6 month old child
 
-Define [[Pediatric Notes/Microcephaly\|Microcephaly]] & Enumerate causes of microcephaly. 
+Define [[Pediatric Notes/Microcephaly\|Microcephaly]] & Enumerate causes of [[Pediatric Notes/Microcephaly\|microcephaly]]. 
 Write a note on [[Pediatric Notes/MMR Vaccine\|MMR Vaccine]].
-IMNCI classification of dehydration in children. 
+[[Pediatric Notes/IMNCI Dehydration\|IMNCI classification of dehydration]] in children 
 [[Pediatric Notes/Sexual Maturity Rating\|Sexual Maturity Rating]]
 Steps for Neonatal resuscitation. 
 List clinical features of [[Ortho notes/Rickets\|Rickets]]

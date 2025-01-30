@@ -5,7 +5,7 @@
 Commonest benign tumour of the uterus. Commonenst benign solid tumour in women. *Arises from smooth muscle* and fibrous connective tissue hence "Leiomyoma"
 
 ## Etiology
- 20% of women above 30 have fibroids. 50% of those are symptomatic
+ 20% of women >30 have fibroids. 50% of those are symptomatic
  1. More common in Obese, Nullliparous, Black women. Less common in smokers
  2. Estrogen dependant tumour (grows in pregnancy, high dose [[OBGY Notes/Oral Contraceptive Pills\|OCP]])
 
@@ -72,7 +72,7 @@ Very rare <0.1% chance
 5. Doppler
 6. Saline Infusion Sonography
 7. MRI
-8. [[Hysteroscopy\|Hysteroscopy]]
+8. [[OBGY Notes/Hysteroscopy\|Hysteroscopy]]
 
 >[!faq] FIGO staging
 >OIGVNFOIRG this isnt even in the book but fuck me ig
@@ -92,7 +92,7 @@ Very rare <0.1% chance
 
 
 ## Management
-*Cervical polyp* is alwasy operated on (cause urinary symptoms?) by [[Abdominal Hysterectomy\|hysterectomy]]/myomectomy
+*Cervical polyp* is alwasy operated on (cause urinary symptoms?) by [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]/myomectomy
 
 ### Body Fibroids
 If its asymptomatic and
@@ -101,7 +101,7 @@ If its asymptomatic and
 
 #### Medical management
 Aims to control anemia, limit size, correct infertility
-1. Antiprogesterones (mifepristone) - reduces fibroid size, amenorrhoea
+1. Antiprogesterones (mifepristone) - reduces fibroid size, [[OBGY Notes/Amenorrhoea\|amenorrhoea]]
 2. Danazol - Reduces volume, minimises blood loss
 3. GnRH agonist - Produce pituitary downregulation thereby suppressing estrogen
 4. GnRH antagonist - Immediate suppresion of ovarian function
@@ -111,12 +111,12 @@ Aims to control anemia, limit size, correct infertility
 #### Surgical management
 <mark style="background: #FF5582A6;">Myomectomy</mark>
 - Enucleation of myomata
-- Can be done by lapratomy, laprascopy, or [[Hysteroscopy\|hysteroscopy]]
+- Can be done by lapratomy, laprascopy, or [[OBGY Notes/Hysteroscopy\|Hysteroscopy]]
 - High chance of recurrence
 <mark style="background: #FFB86CA6;">Embolotherapy</mark>
 - Uterine artery embolised through percutaneous femoral catheterisation
 - Useful when surgery is contraindicated
 - May complicate into post-embolisation syndrome
-<mark style="background: #FFF3A3A6;">[[Abdominal Hysterectomy\|Hysterectomy]]</mark>
+<mark style="background: #FFF3A3A6;">[[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]]</mark>
 - Surgery of choice when patient >40 as there is no chance of recurrence
 

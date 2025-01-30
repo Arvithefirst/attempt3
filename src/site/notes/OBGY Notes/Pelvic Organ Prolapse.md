@@ -48,7 +48,7 @@ Further Classified by affected wall
 #### Posterior wall Vaginal Prolapse
 - Torn perineal body leads to *Relaxed perineum*
 - Laxity in middle 1/3rd is called *Rectocele*
-- Prolapse of upper 1/3rd is called *Vault prolapse* which may be further classified into *Enterocele* or secondary to [[Abdominal Hysterectomy\|hysterectomy]]
+- Prolapse of upper 1/3rd is called *Vault prolapse* which may be further classified into *Enterocele* or secondary to [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]
 ### Uterine Prolapse
 May be either Uterovaginal or Congenital
 
@@ -109,12 +109,12 @@ Various surgical interventions may be done depending on the affected part
 // *Pelvic floor repair* = [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]] + [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
 /// *Ward Mayos operation* = Pelvic floor repair + Posterior colpoperineorrhaphy
 #### Uterovaginal prolapse surgery
-1. Vaginal [[Abdominal Hysterectomy\|Hysterectomy]] with Pelvic floor repair
+1. Vaginal [[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]] with Pelvic floor repair
 2. [[OBGY Notes/Fothergills Operation\|Fothergills Operation]]
 
->[!faq] Vaginal wall surgeries follwing [[Abdominal Hysterectomy\|hysterectomy]]
+>[!faq] Vaginal wall surgeries follwing [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]
 >
-Often required due to vault prolapse secondary to [[Abdominal Hysterectomy\|hysterectomy]]. They can be divided into vaginal/abdominal
+Often required due to vault prolapse secondary to [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]. They can be divided into vaginal/abdominal
 >1. Repair of vaginal vault + Pelvic floor repair
 >2. Sacrospinous colpopexy
 >3. Colpocleisis ([[OBGY Notes/Le Fort's Operation\|Le Fort's Operation]])

@@ -3,7 +3,7 @@
 ---
 
 By what age can a child stack 9 cubes
-Birth weight quadruples by [[Pediatric Notes/Normal Growth#Weight\|Normal Growth#Weight]]
+[[Pediatric Notes/Normal Growth#Weight\|Birth weight]] quadruples by 
 2 causes of preventable intellectual disability
 Folate is important for embryogenesis of
 Shakirs tape is used for
@@ -14,7 +14,7 @@ Breast milk can be stored in room temperature for how long
 4 components of [[Medicine notes/Tetralogy of Fallot\|Tetralogy of Fallot]]
 
 ## LAQ
-SAM
+[[Pediatric Notes/Severe Acute Malnutrition\|SAM]]
 Nephrotic syndrome
 PUO with seizures and altered sensorium (meningitis?)
 
@@ -22,7 +22,7 @@ PUO with seizures and altered sensorium (meningitis?)
 Congenital hypothyroidism
 IMNCI for ARI
 Idiopathic thrombocytopathic purpura
-Complications of measles
+Complications of [[Pediatric Notes/Measles\|Measles]]
 [[Surgery Notes/Hypokalemia\|Hypokalemia]]
 Kangaroo mother care
 Rheumatic fever prophylaxis

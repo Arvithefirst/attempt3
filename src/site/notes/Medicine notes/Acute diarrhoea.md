@@ -32,7 +32,7 @@ Search for early signs of dehydration([[Surgery Notes/Hypovolemic Shock\|Hypovol
 
 ## Treatment
 <mark style="background: #FF5582A6;">Fluid replacement therapy</mark>
-- After 48 hours of diarrhoea atleast 1-1.5L ORS/IV fluid should be given
+- After 48 hours of diarrhoea atleast 1-1.5L [[Pediatric Notes/WHO ORS\|ORS]]/IV fluid should be given
 - 200ml fluid for every stool passage
 - 1 - 1.5L litres fluid per day increased for hot weather
 

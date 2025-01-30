@@ -17,7 +17,7 @@ Pathological short stature
 	3. Cushings
 	4. Pseudohypoparathyroidism
 6. Skeletal dysplasia
-7. Genetic syndromees - Downs turners
+7. Genetic syndromees - [[Pediatric Notes/Down Syndrome\|Downs]] turners
 
 ## Clinical Investigations
 1. Mid parental height(MPH)

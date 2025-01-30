@@ -57,7 +57,7 @@ Clinical manifestation, complications and management of [[Medicine notes/Chicken
 Montoux test
 Pathogenesis, clinical features, investigations, and management of [[Medicine notes/Idiopathic Thrombocytopenic purpura\|ITP]]
 Differentation between early onset(atopic) and late onset(non-atopic) [[Medicine notes/Asthma\|Asthma]]
-What is [[Medicine notes/Status epilepticus\|Status epilepticus]]. How will you manage a case of Status Epilepticus
+What is [[Medicine notes/Status Epilepticus\|Status Epilepticus]]. How will you manage a case of Status Epilepticus
 What are clinical features, investigations and management of [[Medicine notes/Pulmonary Embolism\|Pulmonary Embolism]]
 [[Ortho notes/Osteoporosis\|Osteoporosis]]
 

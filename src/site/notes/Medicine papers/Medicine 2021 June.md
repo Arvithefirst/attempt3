@@ -12,7 +12,7 @@ Name Atypical Mycobacteria.
 Formula for giving TDI (Total dose Iron).
 Name 4 Antiviral drugs for chronic hepatitis C.
 Four causes of Thrombocytopenia.
-Composition of ORS (Oral Rehydration Solution).
+Composition of [[Pediatric Notes/WHO ORS\|ORS]] (Oral Rehydration Solution).
 Types of [[Medicine notes/Emphysema\|Emphysema]].
 Drugs used in Lung abscess.
 Causes of Hypernatremia.

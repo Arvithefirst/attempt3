@@ -2,9 +2,12 @@
 {"dg-publish":true,"permalink":"/pediatric-notes/severe-acute-malnutrition/"}
 ---
 
-Characterised as Marasmus, Kwashiorkar or Marasmic Kwashiorkar
+>[!quote] Defined as any *One* of
+>- Weight for Height >-3SD from mean
+>- Presence of Bipedal edema
+>- Mid-Upper Arm Circumference >11.5cm
 
-## Types
+## Clinical Syndromes a/w SAM
 ### Marasmus
 Rapid or Acute malnutrition
 #### Clinical features
@@ -26,29 +29,36 @@ Chronic, Characteriused by edema.
 8. Anorexia
 9. Anemia
 10. Cold extremities, Hypotension
-11. Low GFR,m Acidosis
+11. Low GFR, [[Medicine notes/Metabolic Acidosis\|Metabolic Acidosis]]
 
 ## Management
 Divided into 1st week of stabilisation followed by several weeks of rehabilitation
-1. Treat hypoglycemia
+1. *Treat hypoglycemia*
 	1. IV Dextrose 10% 5ml/kg followed by 50gm Sucrose by NG tube
 	2. F-75 Diet
-2. Treat Hypothermia - Warming by Clothes of heaters
-3. Treat dehydration
-	1. ORS
+2. *Treat Hypothermia* - Warming by Clothes of heaters
+3. *Treat dehydration*
+	1. [[Pediatric Notes/WHO ORS\|ORS]]
 	2. Zinc and potassium supplement
-4. Correct Electrolyte Imbalance
+4. *Correct Electrolyte Imbalance*
 	1. Sodium restriction
 	2. Potassium and magnesium salts
-5. Treat and Prevent infections
+5. *Treat and Prevent infections*
 	1. Investigate with Chest Xray. CBC, TLC, Mantoux, Cultures, PBS, CSF
 	2. Antibiotics
-6. Correct Micronutrient deficiencies
-7. Initiating re-feeding
-8. Catch-up growth
-	1. Ready to use therapeutic food 
-9. Sensory stimulation and support 
-10. Follow 8up and recovery
+6. *Correct Micronutrient deficiencies*
+	1. Vitamin A, K
+	2. Zinc, Copper
+	3. Iron, Folic acid
+7. *Initiating re-feeding*
+	1. Breast feeding
+	2. Nasogastric if not takingn orally
+	3. Start with F-75 (75kcal/dl, 1g)
+8. *Catch-up growth*
+	1. Ready to use therapeutic food (RUTF)
+	2. Switch to F-100 (100kcal/dl, 3g)
+9. *Sensory stimulation and support* 
+10. *Follow up and recovery*
 
 ## Prevention
 1. Home care

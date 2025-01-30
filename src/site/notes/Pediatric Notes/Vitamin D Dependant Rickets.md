@@ -11,7 +11,7 @@ Rare Autosomal Recessive Rickets, Can be VDDR tye I or type II
 25-Hydroxycalciferol Deficiency
 1. Features of [[Ortho notes/Rickets#Clinical features\|Rickets]]
 2. Hypocalcemia (+ve Chvostek and Trosseaus signs)
-3. Treat withPhsiological Calcitriol
+3. Treat with Phsiological Calcitriol
 
 ## VDDR Type II
 1,25 HydroxyCalcitriol End organ resistance

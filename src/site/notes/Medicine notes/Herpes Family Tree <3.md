@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/herpes-family-tree-3/"}
 ---
 
+Why wont this publish
 
 | Type             | Infection                                               |
 | ---------------- | ------------------------------------------------------- |

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/rheumatoid-arthritis/"}
 ---
 
-Inflammatory arthritis with female reference
+xoInflammatory arthritis with female reference
 
 ## Etiology 
 Multifactorial genetic and Envinronmental causes

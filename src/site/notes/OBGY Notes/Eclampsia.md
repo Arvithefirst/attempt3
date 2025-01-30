@@ -5,7 +5,7 @@
 Defined as *hypertension > 140/90mmHg with proteinuria >3gm/day presenting with convulsions*
 
 ## Stages Eclamptic fits
-When they occur in rapd succession they are clled [[Medicine notes/Status epilepticus\|Status epilepticus]]
+When they occur in rapd succession they are clled [[Medicine notes/Status Epilepticus\|Status Epilepticus]]
 1. Premonitory - Patient becomes unconscious. Muscel twitching
 2. Tonic - Whole bdy tpnic spasms with opisthotonus
 3. Clonic - All voluntary muscles undergo alternate contraction and relaxation

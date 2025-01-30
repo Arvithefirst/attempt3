@@ -40,7 +40,7 @@ Implications of antiphospholipid antibody syndrome in obstetrics
 FIGO Classification for [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal uterine bleeding]]
 Medical management of [[OBGY Notes/Ectopic pregnancy\|Ectopic pregnancy]]
 [[OBGY Notes/Cervical Intraepithelial Neoplasia#Pap smear (Papanicolau and Traut)\|Pap smear]]
-[[Hysteroscopy\|Hysteroscopy]]
+[[OBGY Notes/Hysteroscopy\|Hysteroscopy]]
 Treatment of hydatidiform mole
 Fiduciary duty (AETCOM) (Compulsory short note)
 

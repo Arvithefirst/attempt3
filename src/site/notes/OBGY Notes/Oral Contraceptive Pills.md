@@ -61,7 +61,7 @@ Minor
 2. Mastalgia
 3. Weight gain
 4. Chloasma, Acne
-5. Breakthrough Bleeding, Hypomenorrhea, Amenorrhoea
+5. Breakthrough Bleeding, Hypomenorrhea, [[OBGY Notes/Amenorrhoea\|Amenorrhoea]]
 6. Diminished Libido
 7. Leucorrhoa
 Major

@@ -18,7 +18,7 @@ Broadly into Type 1(Deficiency) or Type 2(Resistance) but there are others
 	- *Endocrinopathies* - Hyperthyroidism, Cushings syndrome
 	- *Infections* - Cytomegalovirus, Rubella
 	- *Drugs* - Glucocorticoid, Thyroid, Phenytoin
-	- *Associated genetic syndromes* - Downs, Klinefeltyer, Turner, Huntington etc
+	- *Associated genetic syndromes* - [[Pediatric Notes/Down Syndrome\|Downs]], Klinefeltyer, Turner, Huntington etc
 	- Uncommon immune forms
 - [[OBGY Notes/Gestational diabetes\|Gestational diabetes]]
 - Latent autoimmune Diabetes in Adults(LADA)

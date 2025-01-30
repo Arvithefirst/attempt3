@@ -11,11 +11,11 @@ Also called Xerophthalmia
 5. Growth failure
 
 ## Classification
-X1A - Xerophthalmia
-X1B - Bitot Spots
-X2 - Corneal Xerosis
-X2A - Corneal ulcer <1/3rd
-X2B - Corneal ulcer >1/3rd
+*X1A* - Xerophthalmia
+*X1B* - Bitot Spots
+*X2* - Corneal Xerosis
+*X2A* - Corneal ulcer <1/3rd
+*X2B* - Corneal ulcer >1/3rd
 
 XN - Night blindness
 XF - Fundal changes

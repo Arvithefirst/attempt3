@@ -18,7 +18,7 @@ Occipito frontal circumference >3SD below Mean
 	1. Phenylketonuria
 	2. DM in mother
 5. Infections
-	1. TORCH
+	1. TORCHt
 	2. Meningitis
 6. Teratogens
 	1. Alcohol, Tobacco, Marijuana, Cocaine

@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/medicine-notes/bacterial-meningitis/"}
 ---
 
-*Same as Pyogenic meningitis*. Usually part of bacteraemic illness but may also spread from local foci of infection
+Different page from [[Pediatric Notes/Pediatric Bacterial Meningitis\|Pediatric Bacterial Meningitis]]
+
+*Same as Pyogenic meningitis*. Usually part of bacteraemic illness but may also spread from local foci of infection. 
 
 ## Aetiopathogenesis
 May be of the following causative agents

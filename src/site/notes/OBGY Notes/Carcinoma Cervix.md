@@ -6,7 +6,7 @@ Most common cancer in women in developing countries
 
 ## Pathology
 80% in ectocervix
-Grossly can be exophytic, Ulcerative, or Infiltrative
+Grossly can be Exophytic, Ulcerative, or Infiltrative
 Histologically can be
 1. Squamous(85-90%)
 	1. Large cell keratinising
@@ -20,7 +20,7 @@ Histologically can be
 Confined to cervix
 #### Stage Ia (Microinvasive)
 1. Invasion <3mm and extension <7mm
-2. Invasion >3mm but <5mm and extension >7mm
+2. Invasion >3-5mm and extension >7mm
 #### Stage Ib(Overt)
 1. Clinically visible lesion is <4cm
 2. Clinically visible lesion is >4cm
@@ -46,7 +46,7 @@ Extended beyong pelvis or involves bladder/rectum
 ## Investigations
 1. Inspection and pelvic examination
 2. Lymph node palpation
-3. Colposcopy, [[Hysteroscopy\|Hysteroscopy]], Cystoscopy
+3. Colposcopy, [[OBGY Notes/Hysteroscopy\|Hysteroscopy]], Cystoscopy
 4. Biopsy
 5. Endocervical cerettage
 6. Chest Xray
@@ -58,16 +58,16 @@ Extended beyong pelvis or involves bladder/rectum
 
 ## Treatment 
 In short cause who ahs the time
-*Stage IA* - Simple [[Abdominal Hysterectomy\|Hysterectomy]]/ Conservative surgery(Trachelectomy)
-*Stage IB Onwards* - Radical [[Abdominal Hysterectomy\|hysterectomy]], with Radiotherapy and Chemotherapy
+*Stage IA* - Simple [[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]]/ Conservative surgery(Trachelectomy)
+*Stage IB Onwards* - Radical [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]], with Radiotherapy and Chemotherapy
 
 #### Prevention
 1. [[OBGY Notes/Human Papilloma Virus\|HPV]] vaccination, Protection, smoking, Not fucking so much
 2. Early detection throigh screening or WHO Downstaging Screening
 
-#### Primary Surgery (Radical [[Abdominal Hysterectomy\|Hysterectomy]])
+#### Primary Surgery (Radical [[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]])
 1. Removal of uterus, tubes, ovaries, Cervix and half of vagina
-2. Removal of Internal/External, Obturator and Parametrial Lymph nodes
+2. Removal of Internal/External Iliac, Obturator and Parametrial Lymph nodes
 *Advantages*
 - Better staging and survival rate estimation
 - Ovaries can be spared in younger women

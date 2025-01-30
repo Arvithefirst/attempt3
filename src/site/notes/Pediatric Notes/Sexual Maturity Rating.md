@@ -6,7 +6,7 @@ Not Tanner staging apparently
 
 ## Girls
 1. Prepubertal, no hair
-2. Appearance of breasdt bud, Sparse hair along labia
+2. Appearance of breast bud, Sparse hair along labia
 3. Generalised breast enlargement, Course pubic hair
 4. Nipple and areola mound, Hair over Mons Pubis
 5. Adult breast, Adult pubic hair spreading to medial thighs

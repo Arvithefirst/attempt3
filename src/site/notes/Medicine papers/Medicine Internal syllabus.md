@@ -79,7 +79,7 @@ CSF report
 HRZE, DOTS
 Dengue
 TFT
-[[Medicine notes/Status epilepticus\|Status epilepticus]]
+[[Medicine notes/Status Epilepticus\|Status Epilepticus]]
 Status Asthmaticus
 [[Medicine notes/Organophosphate Poisoning\|Organophosphate Poisoning]]
 Nutritional deficiencies

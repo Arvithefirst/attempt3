@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/preterm-labour/"}
 ---
 
-Defined as when labour starts <37 completed weeks of amenorrhoea
+Defined as when labour starts <37 completed weeks of [[OBGY Notes/Amenorrhoea\|amenorrhoea]]
 
 ## Etiology
 *Idiopathic 50% of the time.* Risk factors are
