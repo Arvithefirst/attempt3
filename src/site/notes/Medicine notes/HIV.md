@@ -93,7 +93,7 @@ May also have
 - Prevent common nosocomial infections with Co-trimoxazole
 - ATT if necessary
 - Cryptococcus prophylaxis if CD4 count <100
-- Vaccinate for Hep A, [[OBGY Notes/Human Papilloma Virus\|HPV]], Chickenpox, DTaP, MMR, IPV
+- Vaccinate for Hep A, [[OBGY Notes/Human Papilloma Virus\|HPV]], Chickenpox, DTaP, [[Pediatric Notes/MMR Vaccine\|MMR]], IPV
 
 ### Antiretroviral Therapy
 Should be started immediately after confirmation of diagnosis. *Typically 2 NRTIs + 1 NNRTI/PI/ Integrase inhibitor*

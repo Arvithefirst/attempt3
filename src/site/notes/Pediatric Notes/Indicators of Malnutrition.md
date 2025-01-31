@@ -10,11 +10,11 @@ Cringe indicators
 2. Wasting - *Low Weight-for-Age* - Acute
 3. Underweight - *Low Weight-for-Height* - Both
 >[!faq] IAP Classification of Malnutrition(using Weight-for-Age%)
->Normal >80%
->Grade I - >70% (Mild)
->Grade II - >60% (Moderate)
->Grade III - >50% (Severe)
->GradeIV - <50%  (Very Severe)
+>- Normal >80%
+>- Grade I - >70% (Mild)
+>- Grade II - >60% (Moderate)
+>- Grade III - >50% (Severe)
+>- GradeIV - <50%  (Very Severe)
 
 ### Age independant indicators
 SAQ

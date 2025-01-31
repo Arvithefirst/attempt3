@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pediatric-notes/complementary-breast-feeding/"}
 ---
 
-Done after 6 months. Involves adding foods to the diet in addition to breast milk
+*Done* after 6 months. Involves adding foods to the diet in addition to breast milk
 
 ## Counselling advise
 Upto 6 months

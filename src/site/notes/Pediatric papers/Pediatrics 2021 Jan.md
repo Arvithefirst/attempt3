@@ -22,7 +22,7 @@ PUO with seizures and altered sensorium (meningitis?)
 Congenital hypothyroidism
 IMNCI for ARI
 Idiopathic thrombocytopathic purpura
-Complications of [[Pediatric Notes/Measles\|Measles]]
+Complications of [[Measles\|Measles]]
 [[Surgery Notes/Hypokalemia\|Hypokalemia]]
 Kangaroo mother care
 Rheumatic fever prophylaxis

@@ -15,7 +15,7 @@ Protein content of breast milk
 Antidote for paracetmol poisoning [[Medicine notes/Poisons and antidotes\|Poisons and antidotes]]
 
 ## LAQs
-[[Nephrotic syndrome \|Nephrotic syndrome ]]
+[[Medicine notes/Nephrotic Syndrome\|Nephrotic syndrome]]
 Dehydration 
 Meningitis 
 RDS
