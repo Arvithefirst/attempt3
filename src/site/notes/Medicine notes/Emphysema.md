@@ -15,7 +15,7 @@ Classified based on where the dilation is relative to acini
 >Autosomal recessive condition. Lack of antitrypisin -> increased proteolytic adctivity -> destruction of alveolar walls
 
 ## Clinical features
-1. Dyspnea
+1. [[Medicine notes/Breathlessness\|Dyspnea]]
 2. Cough and scanty mucoid expectoration
 3. Weight loss, weakness, kethargy
 
@@ -37,7 +37,7 @@ Classified based on where the dilation is relative to acini
 4. Exercise tolerance tests
 5. ECG
 #### BODE Index
-2 year mortality index that acounts for BMI, Obstructive deferct severity, dyspnea and exercise tolerance
+2 year mortality index that acounts for BMI, Obstructive defect severity, dyspnea and exercise tolerance
 
 ## Treatment
 Non-specific

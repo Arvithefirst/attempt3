@@ -16,7 +16,7 @@ Estrogens - Ethinyl-estradiol, Menstranol
 1. Upto 40 years
 2. Post abortion
 3. Anemia, [[Medicine notes/Malaria\|Malaria]], TB, PID
-4. [[Medicine notes/HIV\|HIV]]/AIDS
+4. [[Medicine notes/HIV\|HIV/AIDS]]
 5. [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]], Benign breat disease, [[OBGY Notes/Endometriosis\|Endometriosis]], , CA ovary
 6. Epilepsy, Thyroid disease, [[Surgery Notes/Varicose veins\|Varicose veins]]
 #### CAT 2 - Advantages outweight risks

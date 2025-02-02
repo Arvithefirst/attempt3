@@ -8,7 +8,7 @@ Typically arise from DVT may also come from septic emboli, tumours, fat emboli, 
 #### Acute massive PE
 Causes major haemodynamic events -> Decreased cardiac output, Right heart failure
 1. Faintness, Crushing pain, Dyspnea
-2. Signs of Shock, Raised JVP, Loud P$_2$ 
+2. Signs of Shock, Raised [[Medicine notes/Jugular Venous Pressure\|JVP]], Loud P$_2$ 
 3. Marked decease PaO$_2$, [[Medicine notes/Metabolic Acidosis\|Metabolic acidosis]]
 
 #### Acute small/medium PE

@@ -5,7 +5,7 @@
 ## One liners
 Double bubble sign in Xray abdomen is which disorder 
 Normal infant triples weight at which age [[Pediatric Notes/Normal Growth#Weight\|Normal Growth#Weight]]
-Drug of choice for pneumocystitis jirovecii in HIV
+Drug of choice for pneumocystitis jirovecii in [[Medicine notes/HIV\|HIV]]
 Gold standard test forTyphoid
 Zoonotic infection from unpasteurised milk
 Define [[Surgery Notes/Hyperkalemia\|hyperkalemia]]
@@ -21,7 +21,7 @@ Define small for gestational age
 Most common pediatric malignancy 
 Rotavirus vaccine complication 
 Common site of Extrapulmonary 
-Mode of transmission of HIV in children
+Mode of transmission of [[Medicine notes/HIV\|HIV]] in children
 Iron chelators 
 Medication for [[Pediatric Notes/ADHD\|ADHD]]
 

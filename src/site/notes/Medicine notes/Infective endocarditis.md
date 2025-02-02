@@ -26,7 +26,7 @@ Colonisation of heart valves leading to friable vegetations and often valvular i
 ## Clinical features
 Presenting symptoms are *fever, malaise, fatigue and anorexia*. Patients may exhibit the following signs
 
-1. Pallor, clubbing, splenomegaly
+1. Pallor, [[Medicine notes/Clubbing\|Clubbing]], splenomegaly
 2. Heart murmurs
 3. Osler nodes *(1-10mm tender nodules in digit pads due to septic emboli)*
 4. Petechiae over buccal mucosa, conjunctiva

@@ -22,7 +22,7 @@ VSD
 ## SAQ 
 Infants of diabetic mother
 Vitamin D resistant [[Ortho notes/Rickets\|Rickets]]
-Prevention of MTCT of HIV
+Prevention of MTCT of [[Medicine notes/HIV\|HIV]]
 [[OBGY Notes/Human Papilloma Virus#Vaccinations\|HPV Vaccine]]
 Sickle cell crisis
 Criteria for [[Pediatric Notes/ADHD\|ADHD]]

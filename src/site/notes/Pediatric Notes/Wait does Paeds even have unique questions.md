@@ -13,7 +13,7 @@ Complementary feeding
 Advantages of breastfeeding
 Kangaroo mother care
 Infants of diabetic mother
-Prevention of MTCT of HIV
+Prevention of MTCT of [[Medicine notes/HIV\|HIV]]
 
 VSD
 CCF

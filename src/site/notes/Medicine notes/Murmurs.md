@@ -20,4 +20,4 @@ Prolonged vibrations arising from turbulent blood flow in the heart due to const
 >Grade 6 - Heard without Stethoscope
 
 # Types of Murmur
-![Screenshot 2024-07-02 at 2.30.11 PM.png](/img/user/Pictures/Screenshot%202024-07-02%20at%202.30.11%20PM.png)
+![Murmurs copy.jpg](/img/user/Pictures/Murmurs%20copy.jpg)

@@ -39,3 +39,5 @@ trapezius muscle, SCM,
 
 #### XII. Hypoglossal
 Tongue movements
+
+[[Medicine notes/Reflex examination\|Reflex examination]]

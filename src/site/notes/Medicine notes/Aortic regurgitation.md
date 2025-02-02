@@ -19,7 +19,7 @@ Can occur due to disease of the aortic valve, cusps, infection of dilation of th
 # Clinical Features of Aortic Regurgitation 
 Signs
 1. <mark style="background: #BBFABBA6;">Palpitations</mark>
-2. Breathlessness
+2. [[Medicine notes/Breathlessness\|Breathlessness]]
 3. Angina
 
  Symptoms

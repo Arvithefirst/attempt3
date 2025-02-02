@@ -28,7 +28,7 @@
 	1. Recurrent thrombophlebitis
 	2. Long standing
 	3. Obstruction of venous flow (Tumour, lymphadenopathy)
-	4. Pregnancy
+	4. Pregnancy, [[OBGY Notes/Ovarian Tumours\|Ovarian Tumours]], [[OBGY Notes/Fibroid\|Fibroid]]
 	5. [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]] alter blood viscosity
 #### Risk factors
 Height, weight, occupation, left side more affected

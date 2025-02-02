@@ -52,7 +52,7 @@ Describe clinical features, diagnosis of Alcoholic Liver disease and enumerate t
 # Short Answer questions
 
 (p1)
-Name symptoms of [[Medicine notes/HIV\|HIV]]-AIDS.
+Name symptoms of [[Medicine notes/HIV\|HIV-AIDS]]
 Target Organ Damage (complications) in hypertension. 
 Investigations to diagnose haemolytic anaemias.
 Clinical Signs of [[Medicine notes/Cardiac failure\|Cardiac failure]] Congestive [[Medicine notes/Cardiac failure\|Cardiac Failure]].

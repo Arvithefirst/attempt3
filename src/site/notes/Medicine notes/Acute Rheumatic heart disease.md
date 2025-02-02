@@ -20,7 +20,7 @@ Multisystem involvement presenting with Fever, Anorexia, Lethargy 2-3 weeks afte
 - *"Melts like Ice"* when given Aspirin
 - Always first to appear; can never coincides with Chorea 
 #### Pancarditis
-- Causes breathlessness, Paroxysmal Nocturnal Dyspnea, Orthopnea, Chest pain
+- Causes [[Medicine notes/Breathlessness\|Breathlessness]], Paroxysmal Nocturnal [[Medicine notes/Breathlessness\|Dyspnea]], Orthopnea, Chest pain
 - Typically affects Mitral valve; may progress to Congestive [[Medicine notes/Cardiac failure\|cardiac failure]]
 - Typical Pansystolic(MR) [[Medicine notes/Murmurs\|Murmur]] radiating to back and *Pericardial Rub*
 - Always seen when Subcutaneous Nodules are present

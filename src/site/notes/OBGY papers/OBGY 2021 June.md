@@ -44,7 +44,7 @@ Misoprostol.
 Bandl's ring.
 Asphyxia Neonatorum.,
 Asymptomatic Bacteriuria.
-Prevention of virtual transmission in HIV. 
+Prevention of virtual transmission in [[Medicine notes/HIV\|HIV]]. 
 Diagnosis of IUGR.
 
 (p2)

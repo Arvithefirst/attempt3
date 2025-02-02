@@ -15,19 +15,19 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 3. Callous
 
 <mark style="background: #FFB86CA6;">Pathological</mark>
-1. Specifiic - Tubercular, syphilitic, [[Surgery Notes/Squamous Cell Carcinoma\|Meleneys]]
-2. Malignant - Rodent Ulcer, Melanotic
+1. Specifiic - Tubercular, Syphilitic, Meleneys
+2. Malignant - Rodent Ulcer, Melanotic, [[Surgery Notes/Marjolins ulcer\|Marjolins ulcer]]
 3. Non-specific
 	1. Traumatic
 	2. Arterial - [[Surgery Notes/Buergers disease\|Buergers disease]]
 	3. Venous Ulcer - [[Surgery Notes/Varicose veins\|Varicose veins]]
 	4. [[Surgery Notes/Pressure sore\|Trophic Ulcer]]
-	5. Infective - 
-	6. Diabetic Ulcer [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]]
+	5. Infective 
+	6. Diabetic Ulcer - [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]]
 	7. Tropical
 	8. Frostbite
 	9. Cortisol
-	10. Hypertensive
+	10. Hypertensive - (Martorells Ulcer)
 
 
 <mark style="background: #FFF3A3A6;">Wagners Grading</mark>
@@ -51,7 +51,7 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 4. Grafting if necessary
 
 >[!faq] Debridement
-> Removal of devitalised, necrotic tissue to allow proliferation of healthy granulation tissue. Can be done in Minor OT under local anesthesia for small ulcers. *Done using either biological(Leeches) or chemical(Collagenase/EUSOL)** methods
+> Removal of devitalised, necrotic tissue to allow proliferation of healthy granulation tissue. Can be done in Minor OT under local anesthesia for small ulcers. *Done using either biological(Leeches) or chemical (Collagenase/EUSOL)** methods
 > ***
 > // Collagenase made from trypsin, Castor seeds etc
 > // EUSOL is a mixture of Boric acid and Lime (Edinburgh University SOLution)

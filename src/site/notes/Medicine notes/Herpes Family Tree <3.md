@@ -18,6 +18,6 @@ Why wont this publish
 |                  | Hepatitis                                               |
 | Ebstein Barr     | Infectious mononucleosis                                |
 |                  | Burkitts lymphoma and others                            |
-|                  | Oral hairy leukoplakia in AIDS                          |
+|                  | Oral hairy leukoplakia in [[Medicine notes/HIV\|HIV]]                       |
 | HHV-6 and HHV-7  | Disase in immunocompromised                             |
 | HHV-8            | Kaposi sarcoma, Castlemans disease                      |

@@ -7,10 +7,10 @@ Almost always rheumatic. Rarely congenital
 5 $mm^3$(normal) > 2 $mm^3$(asymptomatic) > 1 $mm^3$(symptomatic)
 
 ## Clinical features
-1. Fatigue, breathlessness, palpitations, Chest pain
+1. Fatigue, [[Medicine notes/Breathlessness\|Breathlessness]], palpitations, Chest pain
 2. Thrombotic events
 3. Dilated Left atrium, atrial fibrillation
-4. Giant "v" wave JVP
+4. Giant "v" wave [[Medicine notes/Jugular Venous Pressure\|JVP]]
 5. Loud S1, Opening snap, Mid diastolic murmur
 
 ## Investiagtions

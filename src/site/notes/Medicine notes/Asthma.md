@@ -15,7 +15,7 @@ Genetic related
 
 ## Clinical features
 1. Wheeze
-2. Breathlessness
+2. [[Medicine notes/Breathlessness\|Breathlessness]]
 3. Chest pain/thightness
 4. Cough
 

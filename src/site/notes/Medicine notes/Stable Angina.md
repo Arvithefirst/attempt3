@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/stable-angina/"}
 ---
 
-Also called Angina Pectoris it is central chest pain, discomfort or breathlessness caused by transient myocardial ischemia that occurs when there is myocardial oxygen supply imbalance.
+Also called Angina Pectoris it is central chest pain, discomfort or [[Medicine notes/Breathlessness\|Breathlessness]] caused by transient myocardial ischemia that occurs when there is myocardial oxygen supply imbalance.
 # Etiology
 1. Artherosclerosis
 2. Aortic valve diseases
@@ -11,7 +11,7 @@ Also called Angina Pectoris it is central chest pain, discomfort or breathlessne
 5. Syndrome X(seen in women despite normal coronaries)
 
 # Clinical features
-Central chest pain, discomfort or breathlessness precipitated by exercise. May only occur in the start(warm up angina)
+Central chest pain, discomfort or [[Medicine notes/Breathlessness\|Breathlessness]] precipitated by exercise. May only occur in the start(warm up angina)
 
 <mark style="background: #FF5582A6;">Canadian Cardiovascular Society Angina Scoring</mark>
 
