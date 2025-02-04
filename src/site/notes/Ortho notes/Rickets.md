@@ -26,7 +26,7 @@ Disease of a growing skeleton characterised by failure of normal mineralisation 
 2. Frontal Bossing
 3. Broadening of long ends
 4. Delayed teeth eruption
-5. harrisons sulcus
+5. Harrisons sulcus
 6. Pigeon chest
 7. Rachitic rosary
 8. Muscular hypotonia - pot belly, lumbar lordosis
@@ -41,7 +41,7 @@ Disease of a growing skeleton characterised by failure of normal mineralisation 
 2. Serum calcium, phosphate, ALP
 
 ## Treatment
-1. 600,000 IU vitamin D over 10 days followed by 400IU per day 
+1. 600,000 IU vitamin D over 10 days followed by 400IU per day (200IU in infants)
 2. Mild derformities correcct with splints (mermaid splints/orthopedic shoes)
 3. Corrective osteotomies if necessary 6 months after treatment
 

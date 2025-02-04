@@ -62,7 +62,7 @@ Management of acute Respiratory failure.
 (p2)
 Clinical features of [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]]
 Write short note on Beriberi.
-Guillain-Barre syndrome.
+[[Medicine notes/Guillain-Barre Syndrome\|Guillain-Barre syndrome]].
 Write a short note on Incretin-based therapies in diabetes mellitus. [[Medicine notes/Diabetes drugs for noobs\|Diabetes drugs for noobs]]
 Write a short note on illness at high altitude.
 Anorexia Nervosa.

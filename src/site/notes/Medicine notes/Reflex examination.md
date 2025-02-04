@@ -13,7 +13,7 @@
 
 #### Deep reflexes
 1. Jaw jerk - Trigeminal
-2. Bicep - C5 
+2. Bicep - C5, C6
 3. Supinator - C5, C6
 4. Tricep - C7, C8 
 5. Knee - L2, L3, L4

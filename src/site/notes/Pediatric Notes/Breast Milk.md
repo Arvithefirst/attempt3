@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pediatric-notes/breast-milk/"}
 ---
 
-65-70kcal/dl, 0.9-1.1g/dl. Low vitamins D and K
+*65-70kcal/dl, 0.9-1.1g/dl.* Low vitamins D and K
 #### Carbohydrates
 - High lactose - 6-7g/dl. Helps in absorption of calcium and Lactobacilli microbiome
 - Galactose helps form galactocerebrosides

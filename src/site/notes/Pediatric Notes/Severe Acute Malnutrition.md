@@ -5,7 +5,7 @@
 >[!quote] Defined as any *One* of
 >- Weight for Height >-3SD from mean
 >- Presence of Bipedal edema
->- Mid-Upper Arm Circumference >11.5cm
+>- Mid-Upper Arm Circumference <11.5cm
 
 ## Clinical Syndromes a/w SAM
 ### Marasmus

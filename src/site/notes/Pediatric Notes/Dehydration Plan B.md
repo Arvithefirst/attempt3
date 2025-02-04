@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/pediatric-notes/dehydration-plan-b/"}
 ---
 
-Oral [[Pediatric Notes/WHO ORS\|WHO ORS]]
+Oral [[Pediatric Notes/WHO ORS\|WHO ORS]] 
+(Same as [[Pediatric Notes/Pediatric Calorie requirements\|Pediatric Calorie requirements]]?!)
 #### Daily requirement
 $100ml/kg$ for the first 10 kg
 $50ml/kg$ for the next 10 kg
