@@ -39,7 +39,7 @@ Based on the degree of displacement judged by the continuity of the medial trabe
 >4. Break in [[Ortho notes/Shenton's line\|Shenton's line]]
 
 ## Treatment
-Fragments almost never unite(*non-union*) as synovial fluid prevents effective healing. 
+Fragments almost never unite(*[[Ortho notes/Delayed and non-union\|non-union]]*) as synovial fluid prevents effective healing. 
 
 For an *Impacted fracture* conservative treatment may be attempted with Thomas splint (or hip spica in children)
 

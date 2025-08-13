@@ -5,32 +5,32 @@
 # Board 1
 1. Dinoprostone gel $(PgE_2)$
 2. Sodium phosphate enema B.P *(Laxative)*
-3. Vasopressin inj.
+3. Vasopressin inj. (ADH)
 4. Nifedipine tab.
-5. Ondansetron vial
-6. Duvadilan vial *(Vasodilator; Tocolytic)*
+5. Ondansetron vial *(5-HT3 antagonist)*
+6. Duvadilan vial *(ß-agonist - Vasodilator; Tocolytic)*
 7. Drotavarine vial *(Anti-spasmotic; Cervical dilator)*
 8. Epidosin vial *(Anti-spasmotic; Dysmenorrhoea)*
 9. Tetanus toxoid vial
 10. Tramadol vial
 11. Hyoscine Butylbromide vial
-12. Betamethoasone vial
+12. Betamethasone vial
 13. Dexamethasone vial
 14. Oxytocin vial
 15. Methergin vial
-16. Carboprost vial
+16. Carboprost$(PgF_{2a})$ vial
 17. Soluble Insulin Inj.
 
 # Board 2
 1. Misoprostol tab
-2. Magnesium sulphate inj
+2. [[OBGY Notes/Magnesium Sulphate\|Magnesium sulphate]] inj
 3. Magnesium and Calcium supplement
 4. Carboprost tromethamine inj
 5. Labetalol Hydrochloride inj
 6. Anofer - Iron, folic acid, b12, Zinc supplement tab
 7. Iron sucrose inj. 
 8. Doxylamine + Pyridoxine tab.
-9. Oxytocin
+9. [[OBGY Notes/Oxytocin\|Oxytocin]]
 10. Progesterone
 11. L-Arginine + Proanthrocyanidine granules *(Antioxidants; HTN, BSL, Nutrition)*
 12. Cefotaxime tab.
@@ -51,13 +51,13 @@
 2. MedroxyProgesterone Acetate
 3. Conjugated estrogens
 4. Nitrofurantoin
-5. Tranexamin acid + Mefenamin acid
+5. Tranexamin acid + Mefenamic acid *(Antifibrinolytic, NSAID)*
 6. Testosterone inj.
 7. Flavoxate *(Anti-cholinergic diuretic)*
-8. Clomifene Citrate
+8. [[OBGY Notes/Clomiphene Citrate\|Clomiphene Citrate]]
 9. Clotrimoxazole pessary
 10. Letrazole *(Nonsteriodal aromatase inhibitor)*
-11. Drotaverine Hydrochloride
+11. Drotaverine Hydrochloride *(Anti-spasmotic, cervical dilation)*
 
 # Board 5
 1. Follitropin alfa (FSH)
@@ -78,3 +78,4 @@
 7. Lignocaine Inj.
 8. Thyroxine sodium Tab.
 9. Nitroglyceride patch
+10. Ritodrine (ß-agonist, Tocolytic, Vasodilator)

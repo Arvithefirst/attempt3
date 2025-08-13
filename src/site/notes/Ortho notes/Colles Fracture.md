@@ -5,7 +5,7 @@
 *Fracture at distal end of radius*. Typically seen in >40 year old women almost always casued by fall on outstretched hand
 
 ## Pathoanatomy
-Transverse fracture at cortico-cancellous junction. Typically with atleast 1 ort 2 of the following displacements
+Transverse fracture at cortico-cancellous junction. Typically with atleast 1 or 2 of the following displacements
 - Impaction of fragments
 - *Dorsal displacement/tilt*
 - Lateral displacement/tilt

@@ -5,7 +5,7 @@
 ## One liners
 Define Fistula.
 Which is the diagnostic investigation of [[Surgery Notes/Varicose veins#Investigations\|varicose veins#Investigations]]?
-Which is the commonest malignancy found in Marjoline's ulcer? 
+Which is the commonest malignancy found in [[Surgery Notes/Marjolins ulcer\|Marjolins ulcer]]? 
 Mention any two premalignant oral lesions.
 Define shock.
 Which is the commonest tumor of parotid gland? 

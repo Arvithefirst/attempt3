@@ -18,7 +18,7 @@ What are 2 uses of inj. [[OBGY Notes/Magnesium Sulphate\|Magnesium Sulphate]]
 Write about the embryological development of the vagina.
 What are the baseline investigations to be done in an infertile couple?
 Name two organisms responsible for the majority of pelvic inflammatory diseases.
-Write down three common causes of AUB ([[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]) 
+Write down three common causes of [[OBGY Notes/Abnormal Uterine Bleeding\|AUB]]
 Which is the most common type of [[OBGY Notes/Dysmenorrhoea\|dysmenorrhoea]]? 
 Which of the gynaecological cancers is preventable?
 Write down [[OBGY Notes/Pelvic Organ Prolapse#Differential diagnoses\|three differential diagnoses]] for mass descending per vaginum.

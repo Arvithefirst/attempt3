@@ -9,7 +9,7 @@ Name two [[Medicine notes/Acute Coronary Syndrome#Investigations\|cardiac biomar
 Four causes of haemoptysis.
 Two clinical features of [[Surgery Notes/Hypokalemia\|Hypokalemia]].
 Write four inflammatory markers for SARS-CoV-2 (COVID-19) infection.
-Two severe complications of Dengue fever. 
+Two severe complications of [[Pediatric Notes/Dengue\|Dengue fever]]. 
 Write [[Medicine notes/CURB-65 Score\|CURB-65 Score]].
 Two drugs for Toxoplasmosis.
 Two drugs for invasive pulmonary aspergillosis. 

@@ -6,7 +6,7 @@ Also called Xerophthalmia
 ## Clinical features
 1. Defective Dark adaptation
 2. Xerophthalmia
-3. Conjunctival ulcer
+3. Conjunctival [[Surgery Notes/Ulcer\|ulcer]]
 4. Hyperkeratosis
 5. Growth failure
 

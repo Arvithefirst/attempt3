@@ -12,7 +12,7 @@ Inability to return retracted prepuce to normal position
 2. Swelling
 
 ## Complications
-1. Ulcer glans
+1. [[Surgery Notes/Ulcer\|Ulcer]] glans
 2. [[Surgery Notes/Gangrene\|Gangrene]]
 
 ## Management

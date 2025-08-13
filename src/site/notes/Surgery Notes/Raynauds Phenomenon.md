@@ -19,12 +19,12 @@ Triggered by cold/stress. More common in women
 4. Gangrenous patches on tips of fingers if long standing
 
 ## Treatment
-#### Consservcative
+#### Conservative
 1. Avoid cold. smoking, stress
 2. Calcium antagonists
 
 ### Cervical sympathectomy
-- Removal of sympathetic truck from below stellate anglion till 3rd thoracic ganglion
+- Removal of sympathetic truck from below stellate ganglion till 3rd thoracic ganglion
 #### Complications
 1. Perforation of pleura (pneumothorax)
 2. horners syndrome

@@ -12,14 +12,14 @@ Estrogens - Ethinyl-estradiol, Menstranol
 4. Interferes with tubal motility
 
 ## WHO criteria for prescription
-#### Cat 1 - No restriction
+#### Category 1 - No restriction
 1. Upto 40 years
 2. Post abortion
 3. Anemia, [[Medicine notes/Malaria\|Malaria]], TB, PID
 4. [[Medicine notes/HIV\|HIV/AIDS]]
 5. [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]], Benign breat disease, [[OBGY Notes/Endometriosis\|Endometriosis]], , CA ovary
 6. Epilepsy, Thyroid disease, [[Surgery Notes/Varicose veins\|Varicose veins]]
-#### CAT 2 - Advantages outweight risks
+#### Category 2 - Advantages outweight risks
 1. Older than 40, Smoker, h/o jaundice,mild hypertension
 2. Gall bladder disease, [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]], Sickle cell disease
 3. [[OBGY Notes/Carcinoma Cervix\|Ca Cervix]]

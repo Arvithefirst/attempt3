@@ -19,4 +19,4 @@ Required when platelet count $>3*10^{10}$ or when surgery
 2. IV immunoglobulins
 3. Thrombopoietin Receptor Agonists
 4. Splenectomy
-5. Immunosuppressants
+5. [[USMLE/Immunosuppressants for losers\|Immunosuppressants]]

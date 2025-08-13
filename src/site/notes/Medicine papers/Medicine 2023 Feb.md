@@ -26,7 +26,7 @@ Drug of choice for acute attack of [[Medicine notes/Acute Gout#Treatment\|Gout]]
 What is P-ANCA positive vasculitis
 Treatment of choice for [[Medicine notes/Psoriasis\|psoriasis]]
 Name 2 first rank symptoms of [[Medicine notes/Schizophrenia\|schizophrenia]]
-Which vitamin deficiency is present in megaloblastic anema
+Which vitamin deficiency is present in megaloblastic anemia
 What is ophthalmological findings in wilsons disease
 Bitots spots arre seen in which deficiency
 Full form of NASH

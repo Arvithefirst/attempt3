@@ -52,7 +52,7 @@ Management of Diarrhoea
 [[Medicine notes/Headaches\|Headaches]], types
 Management of migraine
 Management of [[Medicine notes/Meningitis\|Meningitis]]
-Blood supply of Brain[[Medicine notes/Circle of Willis\|Circle of Willis]] and types of [[Medicine notes/Stroke\|CVA]]
+Blood supply of Brain [[Medicine notes/Circle of Willis\|Circle of Willis]] and types of [[Medicine notes/Stroke\|CVA]]
 CVA presentation, evaluation
 Diagnostic tests for movement disorders
 

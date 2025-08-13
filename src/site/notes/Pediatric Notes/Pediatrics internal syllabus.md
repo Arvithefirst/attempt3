@@ -8,7 +8,7 @@ Im just gonna list what came in past papers here instead
 
 Nephrotic syndrome
 Vaccines
-IMNCI\
+IMNCI
 Status asthmaticus 
 Status epilepticus
 Paracetamol poisoning

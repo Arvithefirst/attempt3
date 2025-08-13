@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/how-long-is-it-and-other-games/"}
 ---
 
-
+One liners and stuff pulled from past papers
 ## Who asks these anyways
 Lenght Male Urethra - 16-22cm
 Lenght Rectum - 10-15cm

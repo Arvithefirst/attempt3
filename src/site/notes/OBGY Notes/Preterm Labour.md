@@ -17,7 +17,7 @@ Defined as when labour starts <37 completed weeks of [[OBGY Notes/Amenorrhoea\|a
 2. Cervical incompetence, Uterine malformations
 3. Infections - Genical tract infections, Pyelonephritis, TORCH, Appendicitis etc
 4. [[OBGY Notes/Hypertension in pregnancy\|Hypertension in pregnancy]], [[OBGY Notes/Gestational diabetes\|GDM]], [[OBGY Notes/Anemia in pregnancy\|Anemia in pregnancy]], Heart disease
-5. [[OBGY Notes/Twin Pregnancy\|Multiple Pregnancy]], IUD
+5. [[OBGY Notes/Twin Pregnancy\|Multiple Pregnancy]], IUFD
 6. Placental Infarct, thrombosis
 
 >[!faq] Diagnostic Criteria
@@ -28,7 +28,7 @@ Defined as when labour starts <37 completed weeks of [[OBGY Notes/Amenorrhoea\|a
 
 ## Investigations
 1. Complete blood count, urinalysis + cultures
-2. Cervicovaginal swab for fibrronectic
+2. Cervicovaginal swab for fibronectin
 3. Sonography (fetal health, cervical lenght, placenta localisation)
 4. Serum electrolytes, BSL
 
@@ -37,7 +37,7 @@ Defined as when labour starts <37 completed weeks of [[OBGY Notes/Amenorrhoea\|a
 1. Bed rest
 2. Adequate hydration, prophylactic antibiotics
 3. Prophylactic cervical circlage
-4. Tocolytics
+4. [[OBGY Notes/Tocolytics\|Tocolytics]]
 5. Glucocorticoids 
 >[!info] Glucocorticoid therapy
 >used to hasten fetal lung development adn prevent RDS. *Either 2 X Betamethasone 12mg 24 hours apart or 4 X Dexamethasone 6mg 12 hours apart*

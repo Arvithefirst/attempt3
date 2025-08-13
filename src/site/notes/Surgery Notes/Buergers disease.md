@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/buergers-disease/"}
 ---
 
-Also called Thromboangitis Obliterans (TAO). It is the *nonatherosclerotic inflammatory disorder* of medium and distal vessels with *cell-mediated immunity againast Type I and III collagen*
+Also called Thromboangitis Obliterans (TAO). It is the *nonatherosclerotic inflammatory disorder* of medium and distal vessels with *cell-mediated immunity against Type I and III collagen*
 
 ## Aetiopathogenesis
 Affects only men. Usually smokers/tobacco users and starts in middle years

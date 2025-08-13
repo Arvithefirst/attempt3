@@ -102,7 +102,7 @@ If its asymptomatic and
 #### Medical management
 Aims to control anemia, limit size, correct infertility
 1. Antiprogesterones (mifepristone) - reduces fibroid size, [[OBGY Notes/Amenorrhoea\|amenorrhoea]]
-2. Danazol - Reduces volume, minimises blood loss
+2. Danazol(Androgen) - Reduces volume, minimises blood loss
 3. GnRH agonist - Produce pituitary downregulation thereby suppressing estrogen
 4. GnRH antagonist - Immediate suppresion of ovarian function
 5. Prostaglandin synthetase inhibitor

@@ -19,7 +19,7 @@ Severe vomitting that limits the day-to-day activities of the mother
 3. Korsokoff psychosis
 4. Convulsions
 5. Jaundice
-6. Stress ulcer
+6. Stress [[Surgery Notes/Ulcer\|ulcer]]
 7. Mallory weiss tear
 
 ## Investigations

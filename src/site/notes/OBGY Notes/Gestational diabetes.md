@@ -22,7 +22,7 @@ To mother
 - Pre-term labour
 - Infection
 - [[OBGY Notes/Pre-eclampsia\|Pre-eclampsia]]
-- Polyhydroamnios
+- [[OBGY Notes/Polyhydramnios\|Polyhydramnios]]
 - Maternal distress
 - [[Medicine notes/Diabetic Nephropathy\|Diabetic Nephropathy]], Diabetic Retinopathy, Diabetic Neuropathy
 
@@ -30,10 +30,10 @@ To fetus
 - Macrosomia > Shoulder dystocia
 - Congenital abnormality
 - Neonatal hypoglycemia, ARDS
-- Childhood obesity, psychological effects
+- Childhood obesity, Psychological effects
 
 ## Management
-- Counselling (Diet, Exercise weight control etc)
+- Counselling (Diet, Exercise, weight control etc)
 - Insulin therapy
 - Induction of labour / C-section
 - Prophylactic antibiotics

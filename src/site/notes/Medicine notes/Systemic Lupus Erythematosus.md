@@ -13,7 +13,7 @@ Poorly understood
 ## Clinical features
 Fever, Weight loss, Lymphadenopathy
 1. Arthritis(90%) - with early morning stiffness, Joccouds arthropathy
-2. Raynauds phenomenon
+2. [[Surgery Notes/Raynauds Phenomenon\|Raynauds phenomenon]]
 3. Classic Malar Rash - Raised, red, erythemous, over nasolabial folds
 4. Discoid, hyperkeratinised rash which may cause scarring alopecia
 5. Diffuse non-scarring alopecia
@@ -56,4 +56,4 @@ Fever, Weight loss, Lymphadenopathy
 - Mesna
 - Rituximab
 
-// maintenance with low dose long term glucocorticoid + Immunosuppressant
+// maintenance with low dose long term glucocorticoid + [[USMLE/Immunosuppressants for losers\|Immunosuppressant]]

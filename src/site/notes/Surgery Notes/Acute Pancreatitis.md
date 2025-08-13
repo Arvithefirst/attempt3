@@ -30,8 +30,8 @@ Autodigestion is usually the result of *Obstruction/Reflux/Sepsis* which causes 
 ## Clinical features
 ### Symptoms
 1. Severe epigastric pain radiating to back triggered by food *(relieved by bending forward // mohammedan prayer sign)*
-2. Bluish discoloration of abdomen*
-3. Vomitting 
+2. Bluish discolouration of abdomen*
+3. Vomiting 
 4. Fever
 5. Hematemesis / Malena
 ### Signs
@@ -53,7 +53,7 @@ Autodigestion is usually the result of *Obstruction/Reflux/Sepsis* which causes 
 6. USG Abdomen
 7. CeCT / Guided FNAC (Balthazar CT score)
 
-Used top classsify by [[Ranson Score\|Ranson Score]], [[Glasgow scale\|Glasgow scale]] or [[APACHE II score\|APACHE II score]]
+Used top classsify by [[USMLE/Ranson Score\|Ranson Score]], [[Glasgow scale\|Glasgow scale]] or [[APACHE II score\|APACHE II score]]
 ## Treatment
 #incomplete 
 

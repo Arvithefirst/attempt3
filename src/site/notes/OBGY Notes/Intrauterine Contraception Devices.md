@@ -11,10 +11,10 @@ Implantable devices that aid in contraception. They can be either *open* or *clo
 5. *Levanogestrel Intrauterine system* (LNG-IUS, Mirena) (0.2/HWY)
 
 ## Mechanism of Action
-1. Non-specific infalmmation causes changes in histology an biochemistry of the uterus to turn it gameto- and spermo cidal. The macrophages attatched to the device are also spermicidal
+1. Non-specific infalmmation causes changes in histology an biochemistry of the uterus to turn it gameto- and spermo- cidal. The macrophages attatched to the device are also spermicidal
 2. Increased Tubal motility
 3. Endometrial inflammation
-4. Copper ions prevent bloastocyte implantation
+4. Copper ions prevent blastocyte implantation
 5. *Prosterone secreted IUDs* cause suppression of endometrium and thinning of mucus
 ## Insertion 
 >[!faq] Contraindications to IUD insertion

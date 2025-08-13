@@ -64,7 +64,7 @@ Done by *McAfee and Johnsons regimen*
 3. Periodic inspection
 4. Supplementary hematinics
 5. Gentle PS examination
-6. Tocolytics
+6. [[OBGY Notes/Tocolytics\|Tocolytics]]
 7. Cervical circlage
 8. Rh immunoglobulin
 9. Steroid therapy

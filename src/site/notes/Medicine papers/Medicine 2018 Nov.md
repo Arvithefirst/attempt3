@@ -43,7 +43,7 @@ Write 3 causes of mucocataneous ulcers.
 # Long Answer Questions
 
 (p1)
-Name common vector borne diseases in India. Write WHO proposed clinical definition of Dengue fever. Discuss clinical features of Dengue haemorrhagic fever. Write various diagnostic test done for Dengue fever. 
+Name common vector borne diseases in India. Write WHO proposed clinical definition of [[Pediatric Notes/Dengue\|Dengue fever]]. Discuss clinical features of [[Pediatric Notes/Dengue\|Dengue]] haemorrhagic fever. Write various diagnostic test done for [[Pediatric Notes/Dengue\|Dengue fever]]. 
 
 Discuss transmission and life cycle of Leshmania donavanii. Write clinical features, investigations and management of visceral Leshmaniasis (kalaazar)
 
@@ -62,7 +62,7 @@ Discuss clinical features of Systemic Lupus Erythematosus (SLE). Discuss Revised
 WHO clinical staging of [[Medicine notes/HIV#Clinical features\|HIV]] infection.
 [[Medicine notes/Constrictive Pericarditis\|Constrictive Pericarditis]].
 Continuous ambulatory [[Medicine notes/Renal Replacement Therapy#Peritoneal Dialysis\|Peritoneal dialysis.]]
-Newer drugs for bronchial asthma.
+Newer drugs for [[Medicine notes/Asthma\|bronchial asthma]].
 Etiology and diagnosis of secondary hypertension.
 Chronic interstitial nephritis.
 Non-anion gap [[Medicine notes/Metabolic Acidosis\|metabolic acidosis]].

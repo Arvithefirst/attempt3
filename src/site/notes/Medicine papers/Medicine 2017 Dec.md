@@ -40,7 +40,7 @@ Name 2 clinical features of Acromegaly.
 
 (p1)
 40 year old male patient comes with severe constricting retrosternal chest pain and sweating, discuss management.([[Medicine notes/Acute Coronary Syndrome\|Acute Coronary Syndrome]])
-Describe clinical features, investigations and management of Dengue fever. 
+Describe clinical features, investigations and management of [[Pediatric Notes/Dengue\|Dengue fever]]. 
 Describe all tests of urine examination and their significance.
 
 (p2)

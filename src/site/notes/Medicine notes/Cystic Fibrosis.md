@@ -34,7 +34,7 @@ Respiratory and otherwise
 
 ## Treatment
 1. Prophylactic antibiotics
-2. Bronchodilators, Glucocorrticoids if asthma
+2. Bronchodilators, Glucocorrticoids if [[Medicine notes/Asthma\|asthma]]
 3. CFTR potentiators
 4. Supplemental feeding, could be nasogastric, gastrostomy tube
 

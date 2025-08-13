@@ -12,7 +12,7 @@ Commonest metabolic bone disease. Characterised by diffuse reduction in bone den
 5. Endocrine - Cushings, hypertension
 6. Drug induced - Steroid, Phenobarbitone
 
-## clinical features
+## Clinical features
 *Asymptomatic* until complications(pathologic fractures)
 - Commonly affects *dorso-lumbar spine*
 - Slight loss in height and kyphosis

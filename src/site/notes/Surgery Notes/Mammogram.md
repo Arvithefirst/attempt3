@@ -14,7 +14,7 @@ Breast Imaging, Reporting And Data System
 
 0 - Incomplete
 1- Negative
-2 - Normal but iwth other abnormal finding
+2 - Normal but with other abnormal finding
 3 - 2% chance of cancer
 4 -25-35% chance iof cancer
 5 - 95% chance of cancer

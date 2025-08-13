@@ -10,7 +10,7 @@ Psychotherapy, weight loss in [[OBGY Notes/Polycystic Ovarian Disease\|PCOS]]
 ### Drugs
 1. Stimuation of ovulation
 	1. [[OBGY Notes/Clomiphene Citrate\|Clomiphene Citrate]]
-	2. Letrozol
+	2. Letrozol (non-steroidal Aromatase inhibitor)
 	3. HMG (human menopausal gonadotropin -> FSH + LH)
 	4. FSH
 	5. hCG

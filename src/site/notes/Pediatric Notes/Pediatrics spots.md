@@ -3,7 +3,7 @@
 ---
 
 *Sugar* - 380kcal
-*Wheat seeds* - 
+*Wheat seeds* - 340kcal, 14g
 *Bajra* - 201kcal, 6g, B vitamins
 *Jaggery* - 380kcal, 0.4g, 11mg Iron
 *Peanut* - 570kcal, 26g 

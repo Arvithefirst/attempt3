@@ -22,7 +22,7 @@ Mention any two symptoms of [[OBGY Notes/Endometriosis\|Endometriosis]].
 Which is the tumour marker for ovarian epithelial tumours?
 Which chemotherapeutic agent is used in the treatment of vesicular mole?
 Mention the drug of choice for Trichomoniasis?
-Describe microscopic features of Leiomyoma [[OBGY Notes/Fibroid#Pathology\|Fibroid#Pathology]].
+Describe microscopic features of [[OBGY Notes/Fibroid\|Leiomyoma]] 
 In which gynaecological condition, "Bonney's Test" is used for diagnosis?
 Mention risk factors for development of endometrial carcinoma.
 What si the chromosomal pattern in Turner's syndrome?

@@ -13,7 +13,7 @@ Loss of >500ml of blood after birth after expulsion of the placenta.
 ## Causes
 4T's - Tone, Trauma, Tissue, Thrombus
 #### Atonic uterus(80%)
-It is the imperfect contraction and retraction of the uterus. Most common cause of PPH. Often seen in the follwoing conditions
+It is the imperfect contraction and retraction of the uterus. Most common cause of PPH. Often seen in the following conditions
 - Grand multipara
 - Over-distension of the uterus ([[OBGY Notes/Twin Pregnancy\|Multiple pregnancy]], [[OBGY Notes/Polyhydramnios\|Hydramnios]], Large baby)
 - Malnutrition and [[OBGY Notes/Anemia in pregnancy\|Anemia in pregnancy]]

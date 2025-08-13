@@ -5,15 +5,15 @@
 Alllll them different types. No questions were ever asked on this
 
 Primary
-1. [[Medicine notes/Headaches#Tension Headache\|#Tension Headache]]
-2. [[Medicine notes/Headaches#Migraine\|#Migraine]]
-3. [[Medicine notes/Headaches#Trigeminal Neuralgia\|#Trigeminal Neuralgia]]
+1. [[#Tension Headache]]
+2. [[#Migraine]]
+3. [[#Trigeminal Neuralgia]]
 4. Thunderclap
 5. Primary stabbing/exertional
 6. New daily persistant
 
 Secondary
-1. [[Medicine notes/Headaches#Medication overuse headache\|#Medication overuse headache]]
+1. [[#Medication overuse headache]]
 2. Intercranial bleeding
 3. Raised ICP (Intracranial mass, idiopathin intracranial hypretension)
 4. Infection(Meningitis, Encephalitis, Brain Abscess)

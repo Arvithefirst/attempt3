@@ -29,10 +29,10 @@ It is a progressive disease that may develop into fistulae if improperly treated
 1. Budesonide(glucocorticoid) - 6mg OD x6weeks
 2. Prednisolone *(if not responsive)*
 3. Enteric nutrition *(alternative #1, more palatable for children)*
-4. Anti-TNF drugs + Thiopurine(immunosuppresant) *(for severe cases)*
+4. Anti-TNF drugs + Thiopurine([[USMLE/Immunosuppressants for losers\|immunosuppresant]]) *(for severe cases)*
 
 #### Maintenance threapy
-1. Immunosuppresants *(mainstay)*
+1. [[USMLE/Immunosuppressants for losers\|Immunosuppressants]] *(mainstay)*
 2. Methotrexate (*alternative*)
 3. Vedolizumab (*integrin monoclonal antibody for non-responsive*)
 4. STOP SMOKING MOTHEFUCKER

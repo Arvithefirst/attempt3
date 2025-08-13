@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/inguinal-hernia/"}
 ---
 
->[!quote] Definition
+>	[!quote] Definition
 >Abdominal viscera herniating into inguinal canal. Can occur through deep ring(Indirect) or though posterior wall(Hasselbachs triangle) of inguinal canal(Direct)
 
 #### Layers of inguinal sac(outwards)
@@ -23,7 +23,7 @@
 	5. Pampiniform plexus
 	6. Remains of process vaginalis
 
-# Hasselbachs Triangle
+>[!faq] Hasselbachs Triangle
 Bound Medially by<mark style="background: #FF5582A6;"> Lateral border of rectus</mark>, laterally by <mark style="background: #FFB86CA6;">Inferior epigastric artery</mark> and inferiorly by <mark style="background: #FFF3A3A6;"> Inguinal ligament</mark>
 
 Further divided by obliterated umbilical artery which is used to further classify direct hernias into medial and lateral

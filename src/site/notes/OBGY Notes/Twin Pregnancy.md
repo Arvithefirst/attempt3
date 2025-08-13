@@ -13,6 +13,8 @@
 		2. Pyophagus
 		3. Craniophagus
 		4. Ischiophagus
+		5. Paraphagus
+		6. Brachiophagus
 
 #### Also some fun terms
 *Superfecundation* - fertilisation of 2 ova on different occasions

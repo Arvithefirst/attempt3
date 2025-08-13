@@ -19,7 +19,7 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 2. Malignant - Rodent Ulcer, Melanotic, [[Surgery Notes/Marjolins ulcer\|Marjolins ulcer]]
 3. Non-specific
 	1. Traumatic
-	2. Arterial - [[Surgery Notes/Buergers disease\|Buergers disease]]
+	2. Arterial - [[Surgery Notes/Buergers disease\|Buergers disease]], [[Surgery Notes/Raynauds Phenomenon\|Raynauds Phenomenon]]
 	3. Venous Ulcer - [[Surgery Notes/Varicose veins\|Varicose veins]]
 	4. [[Surgery Notes/Pressure sore\|Trophic Ulcer]]
 	5. Infective 
@@ -37,6 +37,13 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 3. Abscess / Osteomyelitis
 4. [[Surgery Notes/Gangrene\|Gangrene]] of part of affected area
 5. [[Surgery Notes/Gangrene\|Gangrene]] of entire area
+
+>[!faq] Signs of healthy granulation tissue
+>1. Pink
+>2. Painless
+>3. Pulseful
+>4. Punctate hemorrhage
+>5. Pinhead granulation
 
 ## Investigations
 1. Discharge microscopy, culture, and cytology

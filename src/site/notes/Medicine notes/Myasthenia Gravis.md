@@ -32,5 +32,5 @@ Immunological treatment options are
 	2. Plasma exchange
 - Chronic
 	1. Glucocorticoids
-	2. Immunosuppressants
+	2. [[USMLE/Immunosuppressants for losers\|Immunosuppressants]]
 	3. Thymectomy

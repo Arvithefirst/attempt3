@@ -2,4 +2,42 @@
 {"dg-publish":true,"permalink":"/medicine-notes/meld-score/"}
 ---
 
-Model for end-stage liver Disease score. Returns 1-year survival chance along with chances of complications by using the Serum Bilirubin and scretine![Screenshot 2024-11-12 at 5.08.24 PM.png](/img/user/Pictures/Screenshot%202024-11-12%20at%205.08.24%20PM.png)
+#### Biguanides
+*Metformin*
+Act my increasing sensitivity to insulin.
+
+Also causes weight loss 
+May cause lactic acidosis and Renal injury
+
+#### Sulfonylureas
+*Glibenclamide, Tolbutamide*
+Act by blocking potassium channels to potentiate insulin secretion from pancreas
+
+May cause weight gain and hypoglycemia
+
+#### GLP Receptor Agonist
+Glucagon-like peptides 1 Agonist - *Exanatide, Semaglutide(ozempic)*
+
+Act by stimulating "*Incretin*" system that activates b-islet cells
+Also causes weight loss by reducing appetite and delaying gastric emptying
+May cause Heart attacks
+
+#### DPP4 Inhibitors
+Dipeptidyl Peptidase 4 inhibitors - *Sitagliptin, Alogliptin*
+
+DPP4 breaks down GLPs. DPP4 inhibitors stop this :3
+Well tolerated
+May cause Heart problems
+
+#### SGLT2 Inhibitors
+Sodium Glucose Transporter 2 Inhibtors
+
+Prevent reabsorption of glucose
+may cause genital infection and Heart disease
+May cause euglyacemic diabetic ketoacidosis
+
+#### Insulin 
+Rapid - *Lispro*
+Short - *Regular* 
+Intermediate - *Isophane*
+Long - *Bovine lente, Glargine*

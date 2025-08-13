@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/peptic-ulcer-disease/"}
 ---
 
-Refers to an *ulcer in the lower esophagus, stomach or duodenum caused by acid and pepsin secretion*, strongly associated with [[Medicine notes/Helicobacter pylori\|Helicobacter pylori]] infection
+Refers to an *[[Surgery Notes/Ulcer\|ulcer]] in the lower esophagus, stomach or duodenum caused by acid and pepsin secretion*, strongly associated with [[Medicine notes/Helicobacter pylori\|Helicobacter pylori]] infection
 
 ## Aetiopathogenesis
 Disruption of gastric mucus formation and excess acid formation can lead to ulceration. These can occur due to 
@@ -15,7 +15,7 @@ Disruption of gastric mucus formation and excess acid formation can lead to ulce
 2. Occasional vomitting, Epigastric unease
 3. Anemia, Nausea, Anorexia
 
->[!bug] Complications of Peptic ulcer disease
+>[!bug] Complications of Peptic [[Surgery Notes/Ulcer\|ulcer]] disease
 	1.Perforation (typcally in duodenum)
 	2.Gastric outlet obstruction
 	3.Bleeding

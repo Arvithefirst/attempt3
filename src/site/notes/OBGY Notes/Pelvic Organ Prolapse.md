@@ -76,7 +76,7 @@ Most specific measurement of Pelvic organ prolapse. Uses total vaginal length, a
 5. *Bowel symptoms* - Seen in patients of enterocele
 6. Excessive discharge
 #### Complications
-1. Decubitus Ulcer - Typically on the base of the protruding part. May get infected. 
+1. Decubitus [[Surgery Notes/Ulcer\|Ulcer]] - Typically on the base of the protruding part. May get infected. 
 2. Congestions
 3. Cystitis
 4. Pyelonephritis

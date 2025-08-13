@@ -11,16 +11,16 @@ Most common chromosomal abnormality
 Head to toe examination
 - Significant mental and physical retardation
 - Small brachycephalic skull with flat occiput
-- Flat face, Upward slanted eyes, Flattened nasal bridge
+- Flat face, Upward slanted eyes with brushfield spots, Flattened nasal bridge
 - Narrow, short palate, and Protruding tongue
 - Low set, small, dysplastic ears
-- Short, broad hands with clinodactyly.
+- Short, broad hands with clinodactyly. incurved 5th finger
 - Sandle gap in feet
 
 #### Associated abnormalities
 1. Congenital heart disease
 	1. Usually endocardial cushion defects
-	2. Most important factor determining survival
+*//Most important factor determining survival*
 2. Gastrointestinal disease
 	1. Duodenal Atresia
 	2. Hirschsprung disease
@@ -28,9 +28,14 @@ Head to toe examination
 	1. Increased chance of Cataract, nystagmus, Squint
 	2. Impaired visual acuity
 4. Hearing defect
-	1. Majority have conductive heaering loss
+	1. Majority have conductive hearing loss
 	2. Increased susceptibility to serous otitis media
 5. Hypothyroidism
-6. Atlantooccipital subluxation
-7. Physical growth retardation
-8. Increased chances of lymphoproliferative malignancies - ALL, AML
+6. Early onset [[Medicine notes/Parkinsons disease\|Parkinsons disease]]
+7. Atlantooccipital subluxation
+8. Physical growth retardation
+9. Increased chances of lymphoproliferative malignancies - ALL, AML
+
+## Investigations
+- INcreased Nuchal translucancy
+- Increased b-HCG and Inhibin

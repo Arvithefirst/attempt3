@@ -24,7 +24,7 @@ Can also be classified as *Early onse*t or *Late onset*
 *Grade I* - Unaware of neural deficit. babinksi positive, Patellar clonus
 *Grade II* - c/o Clumsiness. Able to walk withn or without support
 *Grade III* - Not able to walk. May have extension paraplegia
-*Grade IV* - Unable to walk. Sevree flexion paraplegia and loss of sensation
+*Grade IV* - Unable to walk. Severe flexion paraplegia and loss of sensation
 
 ## Investiagation
 Same as [[Ortho notes/TB spine#Investigations\|TB spine#Investigations]]

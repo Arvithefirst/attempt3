@@ -55,7 +55,7 @@ Fetal
 ### External Cephalic Version
 Used in management of [[OBGY Notes/Breech Presentation\|Breech Presentation]]
 
-Can be considered if spontaneous version fails to occur by 36 weeks. Can be aided by tocolytics. Successful about 60% of the time
+Can be considered if spontaneous version fails to occur by 36 weeks. Can be aided by [[OBGY Notes/Tocolytics\|Tocolytics]]. Successful about 60% of the time
 #### Contraindications
 1. Abnormal [[OBGY Notes/Non-stress test\|Cardiotocography]]
 2. [[OBGY Notes/Antepartum Hemorrhage\|Antepartum Hemorrhage]], [[OBGY Notes/Premature Rupture of Membranes\|Premature Rupture of Membranes]]

@@ -2,68 +2,22 @@
 {"dg-publish":true,"permalink":"/surgery-notes/oesophageal-varices/"}
 ---
 
-Complication of [[Medicine notes/Portal Hypertension\|Portal Hypertension]]. Common cause of [[Medicine notes/Upper Gastrointestinal bleed\|Upper Gastrointestinal bleed]]
-
-## Clinical features
-1. Haematemesis, Malena
-2. Shock
-3. Related [[Medicine notes/Signs of Hepatic Encephalopathy\|Signs of Hepatic Encephalopathy]], GERD symptoms
-
-## Investigations
-1. Routine - CBC, LFT, RFT. PT, PTT, Blood grouping
-2. Upper Endoscopy also used simultaneously treat acute bleed
->[!faq] Grading of varices on endoscopy
->1. Minimal varices without luminal prolapse
->2. Moderate varices with luminal prolapse and minimal obscuring of OG junction
->3. Large varices with moderate obscuring of OG junctions
->4. Very large varices with complete obscuring of OG junction
->"*Cherry red spots*" may be present. Indicated impending rupture
-3. Spplenoportography
-4. Liver biopsy
-5. CT angiogram
+It is a medical emergerncy of complicated untreated [[Medicine notes/Asthma\|Asthma]]
 
 ## Treatment
-Can be described under Prophylactic, Emergency and Definitive
+1. Nebulised Salbutamol 5mg + high flow oxygen + prednisolone 
+2. Measure PEF
+3. Arterial Blood Gas
 
-### Prophylactic Treatment of varices
-1. Propanolol, isosorbide nitrate 
-2. Shunt surgeries in casess of recurrent varices
+If PEF >60% predicted
+1. Send home with glucocorticoid 
 
-### Emergency 
-1. Control of hemorrhage and blood loss(fluids, blood products, TIPSS)
-2. Vasopressin, Ocreotide, Metoclopramide
-3. Surgical methods
-#### Endoscopic Variceal banding(gold standard)
-Done by using multishoot band applicator
-#### Endoscopic Sclerotherpy
-Sclerosing agents used are - Ethanolamine oleate, Sodium Morrhuate
-Done weekly fro 6-8 weeks
-#### Endoscopic glue
-Done by using butanyl Cyanoacrylate to shut varices
-#### Balloon Tamponade
-Using 4 lumen Minnesota tube 400ml o`f fluid is pushed to create 40mmHg of pressure and obliterate varices
-#### Transjugular Intrahepatic PortaSystemic Shunt(TIPSS)
-Final resort. Non-surgical, radiological interrvention
-Uses 10mm shunt between hepatic venule and portal venules to reduce portal presssure
-
-### Definitive 
-
-#### Sclerotherapy
-Same as above
-#### Shunt surgery
-Contraindicated in patients with [[Medicine notes/Child-Pugh score\|Child-Pugh score]] "C"
-1. Non slective shunts
-	1. Porto-caval shunt
-	2. Mesenterico-renal shunt
-	3. Mesenterico-caval shunt
-	4. Linton shunt (proximal splenorenal)
-2. Selective shunts
-	1. Distal Spelnorenal shunts
-	2. Inokuchiu shunt (IVC and left gastric vein)
-#### Splenectomy
-Incases of Left portal hypertension seen in splenic infarct
-#### Liver transplant
-
-
-
+Else
+1. IV accessm Chest Xray, Plasma theophylline, Plasma potassium. ADMIT
+2. Repeat salbutamol 5mg + Ipratropium bromidde 
+3. Consider continuous nebuliser
+4. Consider IV MgSO4
+5. Correct fluids
+6. Assisted Ventilation
+7. Consider PPV
 

@@ -20,7 +20,7 @@ An abnormality in rate or rhythm of contraction of the heart
 	2. Bundle Branch Block
 
 ## Principles of management
-Anti-arrhythmics are potentially toxic so they shoul de used with care
+Anti-arrhythmics are potentially toxic so they shoulde used with care
 1. Many arrhythmias are benign
 2. Causal factors should be corrected where possible
 3. Electrophysiological study can aid treatment
@@ -45,6 +45,7 @@ Used to *depress SA node function, decrease myocardial excitability*. Used in VT
 Very potent at preventing tacharrhythmias. May predispose patients to VT and torsades des pointes
 1. Amiodarone
 2. Dronedarone
+3. Dofetilide
 #### Class IV - Calcium channel Blocers
 Prevention of SVT and rate control in AF by blocking AV node
 1. Verapamil
