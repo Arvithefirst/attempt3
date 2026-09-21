@@ -1,4 +1,4 @@
-const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
+const wikiLinkRegex = /\[\[(.*?\Vert{}.*?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 
 function caselessCompare(a, b) {
@@ -30,18 +30,33 @@ function extractLinks(content) {
   ];
 }
 
-function getGraph(data) {
+async function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
-  (data.collections.note || []).forEach((v, idx) => {
+  
+  let notes = data.collections.note || [];
+  
+  // Changed to a standard for-loop so we can use `await` inside
+  for (let idx = 0; idx < notes.length; idx++) {
+    let v = notes[idx];
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
     if (parts.length >= 3) {
       group = parts[parts.length - 2];
     }
+
+    // Eleventy 3.0 Fix: use the async read() method
+    let rawContent = "";
+    if (v.template && typeof v.template.read === "function") {
+      let parsed = await v.template.read();
+      rawContent = parsed.content;
+    } else {
+      rawContent = v.page?.rawInput || "";
+    }
+
     nodes[v.url] = {
       id: idx,
       title: v.data.title || v.fileSlug,
@@ -51,20 +66,23 @@ function getGraph(data) {
         v.data["dg-home"] ||
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
         false,
-      outBound: extractLinks(v.template.frontMatter.content),
+      outBound: extractLinks(rawContent),
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
       hide: v.data.hideInGraph || false,
     };
+    
     stemURLs[fpath] = v.url;
+    
     if (
       v.data["dg-home"] ||
       (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1)
     ) {
       homeAlias = v.url;
     }
-  });
+  }
+
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
@@ -82,11 +100,13 @@ function getGraph(data) {
       }
     });
   });
+  
   Object.keys(nodes).map((k) => {
     nodes[k].neighbors = Array.from(nodes[k].neighbors);
     nodes[k].backLinks = Array.from(nodes[k].backLinks);
     nodes[k].size = nodes[k].neighbors.length;
   });
+  
   return {
     homeAlias,
     nodes,
