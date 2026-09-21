@@ -31,7 +31,7 @@ Other *features inducing pathological change*
 6. Biopsy urease test
 
 ## Eradication Therapy
-Done with short term(10-14 days) intensive use of PPI + Antibiotic +
+Done with short term(10-14 days) intensive use of PPI + Antibiotic + H$_2$ receptor antagonists
 
 <mark style="background: #FF5582A6;">Triple Therapy</mark>
 Bismuth Subsalicylate +

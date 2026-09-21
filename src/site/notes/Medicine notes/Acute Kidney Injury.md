@@ -2,27 +2,27 @@
 {"dg-publish":true,"permalink":"/medicine-notes/acute-kidney-injury/"}
 ---
 
-Or acute renal faillure is the **Sudden and often reversible loss of renal function which develops over days ot weeks often accompanied by oligouria**
+Or acute renal faillure is the *Sudden and often reversible loss of renal function which develops over days ot weeks often accompanied by oligouria*
 
 # Aetiopathogenesis
 1. Pre-renal(Impaired perfusion)
-	1. Cardiac failure
+	1. [[Medicine notes/Cardiac failure\|Cardiac failure]]
 	2. Sepsis
 	3. Blood loss
 	4. Dehydration
 	5. Vascular occlusion
 2. Renal
-	1. Glomerulonephritis
+	1. [[Medicine notes/Glomerulonephritis\|Glomerulonephritis]]
 	2. Small vessel vasculitis
 	3. Acute tubular necrosis (Drugs/Toxins/Hypotension)
 	4. Interstitial nephritis (Drugs/toxins/inflammation/infection)
 3. Post-renal
 	1. Urinary calculi
 	2. Retroperitonal fibrosis
-	3. Benign Prostate Enlargement
-	4. Ca. Bladder/Prostate/Cervix
-	5. Urethral stricture
-	6. Meatal stenosis/Phimosis
+	3. [[Surgery Notes/Benign Prostate Hyperplasia\|Benign Prostate Hyperplasia]]
+	4. Ca. Bladder/[[Surgery Notes/Carcinoma Prostate\|Carcinoma Prostate]]/ [[OBGY Notes/Carcinoma Cervix\|Carcinoma Cervix]]
+	5. [[Surgery Notes/Urethral strictures\|Urethral strictures]]
+	6. Meatal stenosis/[[Surgery Notes/Phimosis\|Phimosis]]
 
 # Classification of AKI
 >[!faq] RIFLE Classification for AKI 
@@ -38,7 +38,7 @@ its gonna be by etiology fuck you
 
 <mark style="background: #FFB86CA6;">Renal</mark>
 - History of glomerulonephritic symptoms / other etiologies
-- Hypertension, oedema, Fever, Rash
+- Hypertension, Oedema, Fever, Rash
 - Investigate based on history (Renal Biopsy, Urine Na >40mmol/L, Proteinuria, Antibodies, Cells/casts, C3/C4, Platelets etc)
 
 <mark style="background: #FFF3A3A6;">Post-Renal</mark>
@@ -48,9 +48,9 @@ its gonna be by etiology fuck you
 
 # Treatment
 Aim of treatment is to symptomatically manage AKI so it doesnt develop into CKD by
-1. Correct fluid status with inotropics/Diuretics as necessary
+1. Correct fluid status with inotropics/diuretics as necessary
 2. Calcium resonium, glucose and insulin to correct hyperkalemia
-3. Sodium Bicarbonate for metabolic acidosis
+3. Sodium Bicarbonate for [[Medicine notes/Metabolic Acidosis\|metabolic acidosis]]
 4. Discontinue nephrotoxic drugs
 5. Nutritional support
 6. PPI if gastric bleeding

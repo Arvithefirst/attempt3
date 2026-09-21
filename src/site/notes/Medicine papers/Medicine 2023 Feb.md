@@ -15,18 +15,18 @@ What is Malignant Tertian fever
 [[Medicine notes/Aortic regurgitation#Clinical Features of Aortic Regurgitation\|Collapsing pulse]] is seen in which valvular heart lesion
 Name 3 major Jones criteria for [[Medicine notes/Acute Rheumatic heart disease#Clinical Features\|Rheumatic fever]]
 Name the components of the [[Medicine notes/Tetralogy of Fallot#<mark style="background FF5582A6;">Components of Tetralogy of Fallot</mark> \|Tetralogy of Fallot]]
-What is pink puffer
+What is pink puffer [[Medicine notes/Emphysema\|Emphysema]]
 Koilonychia in present in which type of anemia
 Which type of bronchial breathing is present in consolidation
 Write consistency of enlarged lymph nodes of Hodgkins disease
-Features of Algid Malaria
+Features of [[Medicine notes/Algid malaria\|Algid malaria]]
 
 (p2)
 Drug of choice for acute attack of [[Medicine notes/Acute Gout#Treatment\|Gout]]
-What is P-ANCA posistive vasculitis
-Treatment of choice for psoriasis
-Name 2 first rank symptoms of schizophrenia
-Which vitamin deficiency is present in megaloblastic anema
+What is P-ANCA positive vasculitis
+Treatment of choice for [[Medicine notes/Psoriasis\|psoriasis]]
+Name 2 first rank symptoms of [[Medicine notes/Schizophrenia\|schizophrenia]]
+Which vitamin deficiency is present in megaloblastic anemia
 What is ophthalmological findings in wilsons disease
 Bitots spots arre seen in which deficiency
 Full form of NASH
@@ -45,21 +45,21 @@ Describe Pathophysiology, clinical features and management of pulmonary TB
 Discuss the etiology, clinical features, diagnosis and management of [[Medicine notes/Nephrotic Syndrome\|Nephrotic Syndrome]]
 
 (p2)
-Discuss etiology, clinical features, investigations, and complications of portal hypertension
-Outline precipitating factors, clinical features, lab findings, and management of Hyperglycemic hyperosmolar state
+Discuss etiology, clinical features, investigations, and complications of [[Medicine notes/Portal Hypertension\|Portal Hypertension]]
+Outline precipitating factors, clinical features, lab findings, and management of [[Medicine notes/Hyperglycemic Hyperosmolar state\|Hyperglycemic Hyperosmolar state]]
 Discuss etiology, clinical features, investigations and treatment of [[Medicine notes/Bacterial Meningitis\|pyogenic meningitis]]
 
 # Short Answer Questions
 
 (p1)
-Syndrome of Inappropriate Antidiuretic Hormone (SIADH)
-Clinical manifestation, complications and management of chickenpox
+[[Medicine notes/Syndrome of Inappropriate Antidiuretic Hormone Secretion\|Syndrome of Inappropriate Antidiuretic Hormone (SIADH)]]
+Clinical manifestation, complications and management of [[Medicine notes/Chickenpox\|Chickenpox]]
 Montoux test
-Pathogenesis, clinical features, investigations, and management of ITP
-Differentation between early onset(atopic) and late onset(non-atopic) Asthma
-What is [[Medicine notes/Status epilepticus\|Status epilepticus]]. How will you manage a case of Status Epilepticus
-What are clinical features, investigations and management of Pulmonary embolism
-Osteoporosis
+Pathogenesis, clinical features, investigations, and management of [[Medicine notes/Idiopathic Thrombocytopenic purpura\|ITP]]
+Differentation between early onset(atopic) and late onset(non-atopic) [[Medicine notes/Asthma\|Asthma]]
+What is [[Medicine notes/Status Epilepticus\|Status Epilepticus]]. How will you manage a case of Status Epilepticus
+What are clinical features, investigations and management of [[Medicine notes/Pulmonary Embolism\|Pulmonary Embolism]]
+[[Ortho notes/Osteoporosis\|Osteoporosis]]
 
 (p2)
 Wernickes encephalopathy
@@ -67,6 +67,6 @@ Delirium tremens
 What is Norwegian or Crusted Scabies
 Discuss etiology, clinical features, diagnosis and management of [[Medicine notes/Acute Gout\|Gout]]
 Celiacs disease
-Somoyogi phenomenon in Diabetes mellitus
-Myasthenia Gravis
+[[Medicine notes/Somogyi Phenomenon\|Somogyi Phenomenon]] in Diabetes mellitus
+[[Medicine notes/Myasthenia Gravis\|Myasthenia Gravis]]
 Clinical manifestation and management of [[Medicine notes/Organophosphate Poisoning\|Organophosphate Poisoning]]

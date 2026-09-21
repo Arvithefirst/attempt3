@@ -7,10 +7,10 @@ Who knew there were truly so many of these. Crystals are bad because of sharp ed
 | Crytal                          | Disease                                                    |
 | ------------------------------- | ---------------------------------------------------------- |
 | Monosodium Urate                | [[Medicine notes/Acute Gout\|Acute Gout]]                                             |
-| Monohydrate                     | Chronic Tophaceus Gout                                     |
+| Monohydrate                     | Chronic Tophaceus [[Medicine notes/Acute Gout\|Acute Gout]]                           |
 | Calcium Pyrophosphate Dihydrate | Calcium Pyrophosophate Deposition disease aka "Pseudogout" |
 | Basic Calcium Phosphates        | Calcinosis                                                 |
-| Cholesterol                     | Chronic Rheumatoid Arthritis                               |
-| Calcium Oxalate                 | Dialysis Patients                                          |
+| Cholesterol                     | Chronic [[Medicine notes/Rheumatoid Arthritis\|Rheumatoid Arthritis]]                           |
+| Calcium Oxalate                 | Dialysis Patients [[Medicine notes/Renal Replacement Therapy\|Renal Replacement Therapy]]            |
 | Plant thorn semi-crystallines   | Chronic monoarthritis                                      |
 

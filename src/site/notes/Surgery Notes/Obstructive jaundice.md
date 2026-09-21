@@ -36,12 +36,12 @@ Raised serum direct bilirubin due to obstructive pathology
 	4. Mannitol to prevent hepato-renal syndrome
 	5. Repeated electrolyte, Ptt study
 	6. ANtibiotics and. calcium supplement
-### Surgerical options
+### Surgical options
 Depending on etiology there are many available treatment options
 #### CBD stones
 [[Surgery Notes/Endoscopic Retrograde Cholangiopancreatography(ERCP)\|ERCP]] Stone removal, Choledocholithotomy, Transduodenal sphincteroplasty, Choledechojejunostomy, Choledochoduodenostomy
 #### Carcinoma
-Whipples operation, Triple bypass, [[Surgery Notes/Endoscopic Retrograde Cholangiopancreatography(ERCP)\|ERCP]] stenting
+Whipples operation, Tr]\iple bypass, [[Surgery Notes/Endoscopic Retrograde Cholangiopancreatography(ERCP)\|ERCP]] stenting
 #### Biliary Stricture 
 Stenting, Choledochojejunostomy, Roux-en-Y hepatico jejunostomy
 #### Biliary atresia

@@ -11,7 +11,7 @@ CTEV or "club foot" in the commmonest congenital deformity of the foot. It is ch
 ## Etiology
 Can broadly classified into 
 1. Idiopathic CTEV
-	- Mechanical poressure in utero
+	- Mechanical pressure in utero
 	- Ischaemic contracture
 	- Genetic
 2. Secondary CTEV

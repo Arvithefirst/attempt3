@@ -15,19 +15,19 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 3. Callous
 
 <mark style="background: #FFB86CA6;">Pathological</mark>
-1. Specifiic - Tubercular, syphilitic, Meleneys(post-operative)
-2. Malignant - Rodent Ulcer, Melanotic
+1. Specifiic - Tubercular, Syphilitic, Meleneys
+2. Malignant - Rodent Ulcer, Melanotic, [[Surgery Notes/Marjolins ulcer\|Marjolins ulcer]]
 3. Non-specific
 	1. Traumatic
-	2. Arterial
-	3. Venous Ulcer
+	2. Arterial - [[Surgery Notes/Buergers disease\|Buergers disease]], [[Surgery Notes/Raynauds Phenomenon\|Raynauds Phenomenon]]
+	3. Venous Ulcer - [[Surgery Notes/Varicose veins\|Varicose veins]]
 	4. [[Surgery Notes/Pressure sore\|Trophic Ulcer]]
-	5. Infective
-	6. [[Diabetic Ulcer\|Diabetic Ulcer]]
+	5. Infective 
+	6. Diabetic Ulcer - [[Medicine notes/Diabetes Mellitus\|Diabetes Mellitus]]
 	7. Tropical
 	8. Frostbite
 	9. Cortisol
-	10. Hypertensive
+	10. Hypertensive - (Martorells Ulcer)
 
 
 <mark style="background: #FFF3A3A6;">Wagners Grading</mark>
@@ -35,11 +35,18 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 1. Superficial
 2. Deeper than subcutaneous tissue
 3. Abscess / Osteomyelitis
-4. Gangrene of part of affected area
-5. Gangrene of entire area
+4. [[Surgery Notes/Gangrene\|Gangrene]] of part of affected area
+5. [[Surgery Notes/Gangrene\|Gangrene]] of entire area
+
+>[!faq] Signs of healthy granulation tissue
+>1. Pink
+>2. Painless
+>3. Pulseful
+>4. Punctate hemorrhage
+>5. Pinhead granulation
 
 ## Investigations
-1. Discharge microscopy, culture, and  cytology
+1. Discharge microscopy, culture, and cytology
 2. Edge biopsy
 3. Xray
 4. FNAC
@@ -51,8 +58,8 @@ Defined as *A break in the continuum of a covering epithelium (skin or mucous me
 4. Grafting if necessary
 
 >[!faq] Debridement
-> Removal of devitalised, necrotic tissue to allow proliferation of healthy granulation tissue. Can be done in Minor OT under local anesthesia for small ulcers. *Done using either biological(Leeches) or chemical(Collagenase/EUSOL)** methods
+> Removal of devitalised, necrotic tissue to allow proliferation of healthy granulation tissue. Can be done in Minor OT under local anesthesia for small ulcers. *Done using either biological(Leeches) or chemical (Collagenase/EUSOL)** methods
 > ***
 > // Collagenase made from trypsin, Castor seeds etc
-> // EUSOL is a mixture of Boric acid and Lime
+> // EUSOL is a mixture of Boric acid and Lime (Edinburgh University SOLution)
 

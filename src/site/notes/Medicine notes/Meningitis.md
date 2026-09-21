@@ -28,7 +28,7 @@ Many infective and non-infective causes
 2. Mumps
 3. Herpes viruses (Simplex 1/2, Zoster, EBV)
 4. Influenza
-5. HIV
+5. [[Medicine notes/HIV\|HIV]]
 
 Protozoal
 1. Amoeba
@@ -40,10 +40,11 @@ Fungal
 3. Histoplasma
 
 Malignancies
-1. Breast cancer
+1. [[Surgery Notes/Carcinoma Breast\|Breast cancer]]
 2. Leukemia, Lymphoma
 3. Bronchial cancer
 
 Other
 1. Sarcoidosis
-2. SLE
+2. [[Medicine notes/Systemic Lupus Erythematosus\|Systemic Lupus Erythematosus]]
+

@@ -6,7 +6,7 @@ Similar ish to soft tissue healing
 
 ## Stages of fracture healing
 1. Hematoma 
-2. Granulatio tissue 
+2. Granulation tissue 
 3. Callus
 4. Remodelling 
 5. Modelling 

@@ -9,11 +9,11 @@
 Non-union may be of two main types - Atrphic or hypertrphic. Either way the causes are determined by
 #### Patient factors
 - Age
-- Malignancy, illnesses, osteomalacia
+- Malignancy, illnesses, [[Ortho notes/Osteomalacia\|osteomalacia]]
 #### Fracture factors
 <mark style="background: #FF5582A6;">Distraction at fracture site</mark>
 - Muscle pull - # Patella, # Olecranon
-- Gravity - # Shaft of huumerus
+- Gravity - # Shaft of humerus
 <mark style="background: #FFB86CA6;">Soft tissue interposition</mark>
 - /# shaft of humerus
 - /# Shaft of femur
@@ -30,12 +30,12 @@ Non-union may be of two main types - Atrphic or hypertrphic. Either way the caus
 - Distraction during treatment
 
 ## Complications
-- Persistant pain
+- Persistent pain
 - Deformity
 - Reduced mobility
 
 ## Treatment
-- Open reducction
+- Open reduction
 - Excision of fragments
 - Do nothing :)
 - Ilizarovs method

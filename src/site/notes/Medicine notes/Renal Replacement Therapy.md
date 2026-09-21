@@ -5,7 +5,7 @@
 May be required temporarily for patients of [[Medicine notes/Acute Kidney Injury\|Acute Kidney Injury]] or permanently by [[Medicine notes/Chronic Kidney Disease\|Chronic Kidney Disease]] Patients. *Refers to 4 main modes of treatment: Hemodialysis, Hemodiafiltration, Peritoneal Dialysis and Renal transplantation
 
 # Hemodialysis
-Most common form of RRT for ESRD but is also used in AKI
+Most common form of RRT for ESRD but is also used in [[Medicine notes/Acute Kidney Injury\|AKI]]
 - Occurs through a Central catheter or an AV fistula
 - May require use of anti-coagulant 
 - Usually carried out for 3-5 hours x 3 times/week - can be escalated 
@@ -14,7 +14,7 @@ Most common form of RRT for ESRD but is also used in AKI
 1. Fluid overload
 2. Hyperkalemia
 3. Uraemia
-4. Metabolic Acidosis
+4. [[Medicine notes/Metabolic Acidosis\|Metabolic Acidosis]]
 *Non-renal indications are non-responsive pleural effusion, Pericarditis, Cardiac tamponade etc*
 
 <mark style="background: #FFB86CA6;">Complications</mark>

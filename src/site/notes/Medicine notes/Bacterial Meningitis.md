@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/medicine-notes/bacterial-meningitis/"}
 ---
 
-*Same as Pyogenic meningitis*. Usually part of bacteraemic illness but may also spread from local foci of infection
+Different page from [[Pediatric Notes/Pediatric Bacterial Meningitis\|Pediatric Bacterial Meningitis]]
+
+*Same as Pyogenic meningitis*. Usually part of bacteraemic illness but may also spread from local foci of infection. 
 
 ## Aetiopathogenesis
 May be of the following causative agents
@@ -23,7 +25,7 @@ Patients usually present with symptoms of [[Medicine notes/Meningitis#^c0695d\|M
 2. Renal Failure
 3. Pancarditis
 4. Arthritis
-5. Peripheral gangrene
+5. Peripheral [[Surgery Notes/Gangrene\|gangrene]]
 
 ## Investigations
 1. CT brain to rule out Hydrocephalus/Cerebral edema where clinically suspected

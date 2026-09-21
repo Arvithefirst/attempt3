@@ -3,55 +3,55 @@
 ---
 
 ## One liners
-What are [[OBGY Notes/True postpartum hemorrhage#Causes\|four "T"'s of PPH]]?
+What are [[OBGY Notes/Postpartum hemorrhage#Causes\|four "T"'s of PPH]]?
 Define [[OBGY Notes/Second Stage of Labour\|Second Stage of Labour]].  
-Name two screening test for diabetes in pregnancy.  
+Name two screening test for diabetes in pregnancy.
 Presence of lambda sign and "T" sign in USG of a twin pregnant indicates what?
 What are sonographic criteria of oligohydramnios?
-Two neonatal complications associated with GDM.
+Two neonatal complications associated with [[OBGY Notes/Gestational diabetes#Complications\|GDM]].
 Define a central placenta previa.  
-What is the true or anatomical conjugate of a female gynaecoid pelvis and how much it is?  
-Name two labour inducing agents. 
+What is the true or anatomical conjugate of a female gynaecoid pelvis and how much it is?  ([[OBGY Notes/Fetal skull and Female pelvis diameters\|prolly here]])
+Name two [[OBGY Notes/Ovulation Induction#Drugs\|labour inducing agents]]. 
 Name the four leopard maneuvers?
 
 (p2)
-Uterus is developedfrom which embryological structure?
+Uterus is developed from which embryological structure?
 Uterine artery is a branch of __
-Which type of fibroid uterus is most symptomatic and which is least symptomatic?
-What are the constituents of OC pill?
+Which type of [[OBGY Notes/Fibroid\|fibroid]] uterus is most symptomatic and which is least symptomatic?
+What are the constituents of [[OBGY Notes/Oral Contraceptive Pills\|OCP]]?
 [[OBGY Notes/Pelvic Organ Prolapse#POP-Q Staging\|POP Q Classification]] is used for which gynaecological condition?
 What is the failure rate of tubal sterilization?
 What are the types of [[OBGY Notes/Dysmenorrhoea\|Dysmenorrhoea]]?
 Nane two drugs used for medical method of termination of pregnancy. 
-Name two investigation to test tubal patency.  
+Name two investigation to test tubal patency.  [[OBGY Notes/Infertility#Investigations\|Infertility#Investigations]]
 Name the gonadotropins.
 
 ## Long answers
 Enumerate indications of induction of labour. How will you monitor a case on induction of labour? 
-Define Abruptio placentae. Briefly outline the management of abruptio placentae. Enumerate the complications. 
+Define [[OBGY Notes/Abruptio placentae\|Abruptio placentae]]. Briefly outline the management of abruptio placentae. Enumerate the complications. 
 Define [[OBGY Notes/Anemia in pregnancy\|Anemia in pregnancy]]. What are the causes. How will you manage a case of iron deficiency anemia in pregnancy?
 
 (p2)
-How will you investigate a case of anovulatory infertility. Mention briefly the management options
+How will you investigate a case of anovulatory [[OBGY Notes/Infertility#Investigations\|infertility]]. Mention briefly the management options
 Describe the various methods of [[OBGY Notes/Pelvic Organ Prolapse#Conservative\|conservative management]] of UV prolapse in a 35 y/o lady
-What are the types of fibroid uterus? Describe conservative management of fibroid uterus
+What are the types of [[OBGY Notes/Fibroid\|Fibroid]] uterus? Describe conservative management of [[OBGY Notes/Fibroid\|fibroid]] uterus
 
 ## Short answers
 [[OBGY Notes/Third Stage of Labour#Active management\|Active management of 3rd stage of labour]]
-Mac caffes regimen.
-Medical management of ectopic pregnarncy.
-Pritchard's regimen.
+[[OBGY Notes/Placenta previa#Expectant management\|McAfees regimen]]
+Medical management of [[OBGY Notes/Ectopic pregnancy\|ectopic pregnancy]].
+[[OBGY Notes/Eclampsia#Specific treatment\|Pritchard's regimen.]]
 [[OBGY Notes/APGAR score\|APGAR score]]
-Biophysical profile. 
+[[OBGY Notes/Mannings Biophysical Score\|Biophysical profile]]. 
 Perineal tear.
 Indications of vacuum delivery.
 
 (p2)
-Squamocolumnar junction
+Squamocolumnar junction [[OBGY Notes/Cervical Intraepithelial Neoplasia#Pathology\|Cervical Intraepithelial Neoplasia#Pathology]]
 Pelvic diaphragm
 PALM COEIN classification of [[OBGY Notes/Abnormal Uterine Bleeding\|Abnormal Uterine Bleeding]]
-IUCD
-Amsel's criteria
+[[OBGY Notes/Intrauterine Contraception Devices\|IUCD]]
+[[Amsel's Criteria\|Amsel's Criteria]]
 Cryptomenorrooea
 Misoprostol
-Semen analysis
+[[OBGY Notes/Male infertility#Investigations\|Semen analysis]]

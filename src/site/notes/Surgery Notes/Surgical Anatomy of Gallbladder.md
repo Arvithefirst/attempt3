@@ -13,8 +13,8 @@ Contains lymph node of "lund." Bounded
 	*Below* by Cystic duct
 
 ## Extrahepatic biliary tree
-- [[Surgery Notes/Surgical anatomy of liver#Segmental anatomy\|Liver segments II, III and IV]] form left hepatic ducts
-- Liver segments V, VI, VII, VIII form right hepatic duct
+- [[Surgery Notes/Surgical anatomy of liver#Segmental anatomy\|Liver segments]] II, III and IV form left hepatic ducts
+- [[Surgery Notes/Surgical anatomy of liver#Segmental anatomy\|Liver segments]] V, VI, VII, VIII form right hepatic duct
 - They join to corm common hepatic duct which joins cystic duct to form Common bile duct
 - Common bile duct(10-12cm) joins Major pancreatic duct in the 2nd part of duodenum at the *Ampulla of Vater*
 - The intraduodenal part of CBD is surrounded by smooth muscles forming the *sphincter of oddi*

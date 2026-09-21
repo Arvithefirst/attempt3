@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/surgery-notes/gas-gangrene/"}
 ---
 
-ALso called malignant oedema. Seen in infections *caused by gas-producing(Clostridium spp.)* organisms 
+Type of [[Surgery Notes/Gangrene\|Gangrene]]. Also called malignant oedema. Seen in infections *caused by gas-producing(Clostridium spp.)* organisms 
 
 ## Aetiopathogenesis
 Clostridium produce the following toxins responsible for pathological features
@@ -42,6 +42,6 @@ Exotoxins causes necrosis of infected tissue and produce gas within the wound. I
 2. Fresh blood treansfusion
 3. Polyvalent anti-serum
 4. Rehydration, electrolyte balance, Hyperbaric oxygen
-5. Prper debridement of wounds
+5. Proper debridement of wounds
 6. Amputation (withot closing stump)
 

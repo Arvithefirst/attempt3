@@ -6,20 +6,20 @@ Can occur due to disease of the aortic valve, cusps, infection of dilation of th
 
 # Causes
 1. Congenital bicuspid valve
-2. <mark style="background: #FF5582A6;">Rheumatic disease</mark>
-3. <mark style="background: #FFB86CA6;">Infective endocarditis</mark>
+2. [[Medicine notes/Acute Rheumatic heart disease\|Acute Rheumatic heart disease]]
+3. [[Medicine notes/Infective endocarditis\|Infective endocarditis]]
 4. Trauma 
-5. <mark style="background: #FFF3A3A6;">Aortic dilation</mark>
+5. <mark style="background: #FFF3A3A6;">Aortic root dilation</mark>
 	1. Marfans
 	2. Aneurysm
 	3. Aortic dissection
 	4. Syphillis
 	5. Ankylosing spondylosis
 
-# Clinical Features of Aortic Regurgitation
+# Clinical Features of Aortic Regurgitation 
 Signs
 1. <mark style="background: #BBFABBA6;">Palpitations</mark>
-2. Breathlessness
+2. [[Medicine notes/Breathlessness\|Breathlessness]]
 3. Angina
 
  Symptoms
@@ -42,4 +42,4 @@ Signs
 - Aortic valve replacement (if end systolic volume > 55mm)
 - Aortic root replacement (For root dilation etiology)
 
-Patiets of chronic Aortic regurgitation may remain asymptomatic for many years due to compensatory mechanisms (Ventricular dilation/hypertrophy.) -> Leads to increased BP.
+Patients of chronic Aortic regurgitation may remain asymptomatic for many years due to compensatory mechanisms (Ventricular dilation/hypertrophy.) -> Leads to increased BP.

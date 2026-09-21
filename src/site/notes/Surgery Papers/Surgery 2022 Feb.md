@@ -6,16 +6,16 @@
 Define Hypersplenism.
 What is Richter's Hernia?
 What is Trichobezoar?
-What is Good Sall'sRule?
+What is Good Sall's Rule?
 Write the full form of [[Surgery Notes/Endoscopic Retrograde Cholangiopancreatography(ERCP)\|Endoscopic Retrograde Cholangiopancreatography(ERCP)]]?
-Define intussmception.
-What is the length of rectum?
+Define [[Surgery Notes/Intussusception\|intussusception]].
+What is the length of rectum? [[Surgery Notes/How long is it! and other games\|How long is it! and other games]]
 What is Dietl's Crisis?
 What is Blummer's Shelf?
-What is Fournier's Gangrene?
+What is Fournier's Gangrene [[Surgery Notes/Necrotising fasciitis\|Necrotising fasciitis]]?
 What does [[Carotidendartectomy\|CEA]] stand for?
-Define hydronephrosis.
-What is the length of male urethra?
+Define [[Surgery Notes/Hydronephrosis\|hydronephrosis]].
+What is the length of male urethra? [[Surgery Notes/How long is it! and other games\|How long is it! and other games]]
 What is Barrett's oesophagus?
 
 (p2)
@@ -27,48 +27,53 @@ Normal Blood pH
 What is Felon
 Which swelling is called a breast mouse
 Pathognomic sign of sebaceous cyst
-Diagnostic investiation of varicose beins
+Diagnostic investiation of [[Surgery Notes/Varicose veins#Investigations\|varicose veins]]
 Define [[Surgery Notes/Hernia#^b8ce0e\|Hernia]]
 
 (Ortho)
-Attitude of limb in ant. shoulder dislocation
-Wrist drop is seen in which nerve palsy
-Sunray appearance is seen in which tumour
-Features of compartment syndrome
-Acute osteomyelitis beings in wwhich area of the bone
-Dinner fork deformity is seen in whichh fracture
+Attitude of limb in anterior shoulder dislocation
+[[List of famous fractures and deformities#^14dfb2\|Wrist drop]] is seen in which nerve palsy
+[[Ortho notes/Osteosarcoma#Investigations\|Sunray appearance]] is seen in which tumour
+Features of [[Surgery Notes/Compartment syndrome\|compartment syndrome]]
+Acute osteomyelitis beings in which area of the bone
+[[List of famous fractures and deformities#^73c834\|Dinnerfork deformity]] is seen in which fracture 
 Test to check abductors of hip
 ## Long answer questions
-Enumerate causes of intestinal obstruction. Discuss clinical features, invesstigatoins, and treatment of a case of intussception in a 9month old
-Classify testicular tumours, Discuss pathology clinical features and management of a seminoma testis
-Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical features and managementof Ca Rectum
+Enumerate causes of intestinal obstruction. Discuss clinical features, invesstigatoins, and treatment of a case of intussception in a 9 month old
+
+Classify [[Surgery Notes/Testicular tumours\|testicular tumours]], Discuss pathology clinical features and management of a [[Surgery Notes/Seminoma\|seminoma]] testis
+
+Enumerate causes of lower GI bleed. Discuss the etiopathogenesis clinnical features and management of Ca Rectum
 
 (p2)
-Describe the aetiolog, pahtology, clinincal features and management of gas gangrene
-Discuss features of thyrotoxicosi, Management of graves disease
+Describe the aetiolog, pathology, clinincal features and management of [[Surgery Notes/Gas gangrene\|gas gangrene]]
+
+Discuss features of thyrotoxicosis, Management of [[Medicine notes/Graves Disease\|graves disease]]
+
 Enumerate causes of cervical lymphadenopathy. Etiology, pathology, clinical features, stages and management of tubercular cervical lymphadenopathy
 
 (Ortho)
-Etiology, clinincal features, investigations, management of TP hip  in arthritic stage
-Mechanism of injury clinical features, investigation and managment of fracture suprocondylar humerus in children and complications
+Etiology, clinincal features, investigations, management of [[Ortho notes/TB Hip\|TB Hip]]  in arthritic stage
+Mechanism of injury clinical features, investigation and managment of [[Ortho notes/Supracondylar fracture of Humerus\|fracture suprocondylar humerus]] in children and complications
+
 ## Short answer questions
 Insulinoma
-Adamantinoma
+[[Surgery Notes/Adamantinoma\|Adamantinoma]]
 Triage 
 [[Surgery Notes/Acute Cholecystitis#Complications\|Complications of gallstones]]
 Gynaecomastia. 
-PSA
+[[Surgery Notes/Benign Prostate Hyperplasia#Investigations\|PSA]]
 Intercostal drainage
 Cleft lip
 
 (p2)
-Ranula
+[[Surgery Notes/Ranula\|Ranula]]
 Carotid body tumour
-Ameloblastoma
+[[Surgery Notes/Adamantinoma\|Ameloblastoma]]
 FAST
 Autoclave
 
 (Ortho)
 Giant cell tumour
 Perthes Hip(LCD)
-Classification and management in young patient of Intracapsular neck of femur fracture
+Classification and management in young patient of [[Ortho notes/Intracapsular Neck of Femur(ICNF) Fracture\|Intracapsular Neck of Femur(ICNF) Fracture]]

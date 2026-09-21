@@ -12,7 +12,7 @@ EF could be either reduced or preserved in systolic and diastolic dysfunction re
 
 #### Heart Failure with reduced Ejection Fraction $(HF_rEF)$
 Caused by *systolic dysfunction* resulting in. EF < 40%. Causes include
-1. Decreased ventricular contractility - MI, Myocarditis, HOCM
+1. Decreased ventricular contractility - [[Medicine notes/Acute Coronary Syndrome\|MI]], Myocarditis, HOCM
 2. Ventricular outflow obstruction - HTN, AS
 3. Ventricular volume overload - MR, AR
 4. Arrhythmias
@@ -36,7 +36,7 @@ Can be either Left, right sided or biventricular. Classification of signs
 - [[Medicine notes/Pulsus Alterans\|Pulsus Alterans]]
 #### Right sided Heart Failure
 - Peripheral oedema
-- Abdominal discomfort, Raised JVP, signs of portal hypertension
+- Abdominal discomfort, Raised [[Medicine notes/Jugular Venous Pressure\|JVP]], signs of portal hypertension
 - Hypotension, Signs of venous pooling
 
 ### Classification by direction
@@ -60,25 +60,25 @@ Can be forward or backwards heart failure. Classification of complications
 ## Investigations
 1. Hemogram, LFT, Urea, Creatinine, Electrolytes, Cardiac enzymes(*B-type Natriuretic Peptide*, Troponins, TNF receptors)
 2. Chest X-ray - shows pleural oedema, *Kerley B lines*, Bat wing appearance, Cardiomegally
-3. ECG - Diagnose *previous MI*, Valvular heart diseases, Ventricular hypertrophy etc. Stress ECG fro myometrial viability
+3. ECG - Diagnose *previous [[Medicine notes/Acute Coronary Syndrome\|MI]]*, Valvular heart diseases, Ventricular hypertrophy etc. Stress ECG fro myometrial viability
 4. *Echocardiogram - Assess etiology*(systolic/diastolic failure), valvular function, chamber sizes etc
 5. Cardiac MRI, Radionuclide study
 6. Cardiac catheterisation, Biopsy
 
 ## Complications
 1. Renal Failure *(Cardiorenal syndrome)*
-2. Hypokalemia (or hyper due to therapy)
-3. Hyponatremia
+2. [[Hypokalemia \|Hypokalemia ]](or hyper due to therapy)
+3. [[Medicine notes/Hyponatremia\|Hyponatremia]]
 4. Hepatic dysfunction
 5. Thromboembolism
-6. Arrhythmias
+6. [[Medicine notes/Cardiac Arrhythmias\|Cardiac Arrhythmias]]
 
 ## Treatment
 Aims of treatment are to (1) Provide symptomatic relief, (2) Prevent cardiac dysfunction,(3) Retard disease progression, (4) Improve QoL
 
 ### General Lifestyle changes
 1. Education and counselling
-2. Stop smoking, drugs, control HTN,DM,dylipidemia
+2. Stop smoking, drugs, control HTN, DM, dylipidemia
 3. Salt and fluid restriction. Avoid alcohol
 4. Regular endurance exercise 30min/day. Bed rest when necessary
 
@@ -123,6 +123,6 @@ In patients who are high risk for thromboembolism
 1. Implantable cardiac defibrillators
 2. Resynchronisatino devices
 3. Coronary revascularisation
-4. Cardiac Transplantatino
+4. Cardiac Transplantation
 5. Ventricular assist devices
 

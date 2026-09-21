@@ -12,7 +12,7 @@ Also *Cerebrovascular Accident(CVA)*. It is acute neurological injury as a resul
 	- Cardiac emboli
 2. Hemorrhagic Stroke(20%)
 	- Hypertensive Bleeds
-	- Anmyloid angiopathy
+	- Amyloid angiopathy
 	- Vascular malformation
 	- Non traumatic [[Subarachnoid Hemorrhage\|Subarachnoid Hemorrhage]]
 
@@ -33,14 +33,14 @@ Neuroimaging must be done to identify etiology of stroke
 
 For ischaemic stroke
 - Assess if *thrombolysis or mechanical thrombectomy* is possible and do it
-- Otherwise prescribe aspirin and shift to Acute srtoke unit
+- Otherwise prescribe aspirin and shift to Acute stroke unit
 For Hemorrhagic stroke
-- *Reverse coagulation abnormalit*y and shift to Acute Stroke unit
+- *Reverse coagulation abnormality* and shift to Acute Stroke unit
 
 Supportive treatment
 1. Secure airway, ventilation
 2. Correct circulation abnormalities (hypoperfusion, arrythmias, BP)
-3. aintain fluid-electrolyte balance
+3. maintain fluid-electrolyte balance
 4. Monitor BSL, avoid Hypoglycemia
 5. Control Pyrexia
 6. Check and treat incontinence
@@ -56,7 +56,7 @@ Supportive treatment
 8. DVT
 
 ## Prevention
-Lifestyle changes and hypertension therapy has to given to all patients of stroke. BP control is especially important in hemorrhagic stroke
+Lifestyle changes and hypertension therapy has to be given to all patients of stroke. BP control is especially important in hemorrhagic stroke
 
 For Ischaemic stroke
 - Statins to lower cholesterol

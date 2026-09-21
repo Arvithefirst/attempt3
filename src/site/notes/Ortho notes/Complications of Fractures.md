@@ -11,7 +11,7 @@ Local
 - Injury to joints/viscera
 #### Early complications
 Systemic
-- Hypovolemic shock
+- [[Surgery Notes/Hypovolemic Shock\|Hypovolemic Shock]]
 - ARDS
 - Fat embolism
 - Deep vein thrombosis

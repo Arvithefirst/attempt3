@@ -1,0 +1,38 @@
+---
+{"dg-publish":true,"permalink":"/obgy-notes/abruptio-placentae/"}
+---
+
+A form of [[OBGY Notes/Antepartum Hemorrhage\|Antepartum Hemorrhage]] caused by premature separation of a normally situated placenta
+
+## Types
+1. Revealed - Blood comes out
+2. Concealed - Blood collects behind placenta or in between membranes
+3. Mixed - Both
+>[!faq] Couvelaires Uterus
+>- Severe concealed type with massive intravasation of blood
+>- Can only be diagnosed pn laprotomy
+
+## Etiology
+1. High birth order, Age, Poor Socioeconomics, Malnutrition, Smoking, Cocaine
+2. [[OBGY Notes/Hypertension in pregnancy\|Hypertension in pregnancy]]
+3. Trauma
+4. Sudden uterine decompression
+
+## Clinical Features
+### Classification
+*Grade 0* - No features
+*Grade 1* - Slight vaginal bleeding, Irritable uterus, FHS good
+*Grade 2* - Mild vaginal bleeding, Uterine tenderness, Tachycardia, Fetal distress
+*Grade 3* - Severe bleeding, uterine tenderness, [[Surgery Notes/Hypovolemic Shock\|Hemorrhagic shock]], fetal death, coagulopathy
+
+## Investigations
+1. USG
+2. And like general things I assume, this book sucks
+
+## Management
+Early detection and therapy can be a preventative measure. Hematinics, folic acid to build tolerance to blood loss in individuals at risk 
+
+Once bleed occurs, treatment is only delivery of baby
+1. [[Surgery Notes/Blood transfusion\|Blood transfusion]]
+2. [[OBGY Notes/Oxytocin\|Oxytocin]], low rupture of membranes
+3. Cesarean section

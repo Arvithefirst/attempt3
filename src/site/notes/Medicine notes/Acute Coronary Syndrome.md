@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/acute-coronary-syndrome/"}
 ---
 
-	Consists of Unstable Angina and Myocardial infarction
+	Consists of Unstable Angina, STEMI and NSTEMI
 
 # Definitions
 1.  Unstable Angina - "Crescendo angina" in the absense of cardiac damage
@@ -25,18 +25,18 @@ others inludes Cardiac enzymes, Arrest at time of admission and ST deviation
 # Clinical Features
 <mark style="background: #FF5582A6;">Symptoms</mark>
 1. Retrosternal, Heavy, intense chest pain radiating to left side aggravated on exercise
-2. Breathlessness
+2. [[Medicine notes/Breathlessness\|Breathlessness]]
 3. Syncope
 4. Nausea, vomitting, Anxiety, Feeling of impending doom
 
 <mark style="background: #FFB86CA6;">Signs</mark>
 1. Sympathetic activation - Pallor, sweating, tachycardia
 2. Vagal Activation - Bradycardia, Vomitting
-3. Impaired myocardium - Hypotension, oliguria, 3rd heart sound, Crepitations, Raised JVP, reduced Pulse pressure
+3. Impaired myocardium - Hypotension, oliguria, 3rd heart sound, Crepitations, Raised [[Medicine notes/Jugular Venous Pressure\|JVP]], reduced Pulse pressure
 4. Low grade fever
 # Investigations
 1. Serial ECGs. May show ST elevation, T wave inversion in affected areas
-2. Chest X-ray - Signs of heart failure an dpulmonarry oedema
+2. Chest X-ray - Signs of heart failure an pulmonary oedema
 3. Cardiac enzymes (see below)
 	![Screenshot 2024-07-02 at 11.01.51 PM.png|400](/img/user/Pictures/Screenshot%202024-07-02%20at%2011.01.51%20PM.png)
 4. Echocardiogram - Done before discharge for ventricular function

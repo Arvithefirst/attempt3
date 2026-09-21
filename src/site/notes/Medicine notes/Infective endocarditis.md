@@ -2,10 +2,17 @@
 {"dg-publish":true,"permalink":"/medicine-notes/infective-endocarditis/"}
 ---
 
-Colonisation of heart valves leading to friable veegetations and often valvular injury
+Colonisation of heart valves leading to friable vegetations and often valvular injury. Typically by Staph. aureus. Commonly also various Strep. spp or HACEK group of organisms
+>[!faq] HACEK Group of organisms
+>responsible for 3-4% of cases
+>- *H*emophilus aphrophilus
+>- *A*ggregatibacter actinomycetemcomitans
+>- *C*ardiobacterium hominis
+>- *E*ikenella corrodens
+>- *K*ingella Kingae
 
 ## Types
-1. Acute *(infection nof healthy valve, typically by S.aureaus*
+1. Acute *(infection nof healthy valve, typically by S.aureaus)*
 2. Subacute *(Infection of damaged valve by less viirulent organism)*
 3. IV drug use related
 4. Prosthetic valve infection
@@ -19,14 +26,14 @@ Colonisation of heart valves leading to friable veegetations and often valvular 
 ## Clinical features
 Presenting symptoms are *fever, malaise, fatigue and anorexia*. Patients may exhibit the following signs
 
-1. Pallor, clubbing, splenomegaly
-2. Heart murmurs
+1. Pallor, [[Medicine notes/Clubbing\|Clubbing]], splenomegaly
+2. Heart [[Medicine notes/Murmurs\|murmurs]]
 3. Osler nodes *(1-10mm tender nodules in digit pads due to septic emboli)*
 4. Petechiae over buccal mucosa, conjunctiva
-5. Splinter subungual hemorrhage
-6. Janeway patches *(1-4mm non-tender septic emboli)*
-7. Roths spots *(Hemorrhages over retina)*
-8. Arthritis / Artralgia
+5. Roths spots *(Hemorrhages over retina)*
+6. Splinter subungual hemorrhage
+7. Janeway patches *(1-4mm non-tender septic emboli)*
+8. Arthritis / Arthralgia
 
 >[!bug] Complications of Infective Endocarditis
 >1. Valvular disease
@@ -36,9 +43,10 @@ Presenting symptoms are *fever, malaise, fatigue and anorexia*. Patients may exh
 >5. [[Medicine notes/Glomerulonephritis\|Glomerulonephritis]]
 
 ## Investigations
-1. Lab diagnosis of S.aureus *(3 blood samples atleast 1 hour apart)*
-2. Echocardiogram reveals vegetations >2mm
-
+1. CBC (ESR, CRP)
+2. Echocardiogram reveals vegetations >4mm, Transthoracic Echocardiogram for 2-4mm, Transoesophageal Echocardiogram for 1-1.5mm
+3. Chest Xray
+4.  Lab diagnosis of S.aureus *(3 blood samples atleast 1 hour apart)*
 ### Dukes criteria for diagnosis of IE
 Confirmed by meeting either *2 Major criteria* or *1 Major + 3 Minor criteria* or *5 Minor criteria*
 
@@ -58,6 +66,7 @@ Prophylaxis is done with *Amoxicillin* only in patients with *high risk or those
 
 1. Inj. Benzyl Penicillin 2-4 million IU IV x6/day x 4 weeks
 2. Parenteral glycoside antibiotics
+3. Vancomycin and Rifampicin if suspected prosthetic valve endocarditis
 
 #### Indications for surgical intervention
 1. Failure of medical treatment

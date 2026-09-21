@@ -17,7 +17,7 @@ Process by which the musculature of the cervix get pulled up and into the lower 
 Befreo labour theres no clear distinction between upper and lower segment. However during labour the upper segment becomes thicker while the lower segment gets thinner. This creates a clear line of demarcation called the *physiological retraction ring*
 
 >[!quote] Anatomy of lower segment
-	 In labour it is obunded by physiological retraction ring and fibromuscular junction of cervix and uterus. It is 7.5-10cm
+	 In labour it is bounded by physiological retraction ring and fibromuscular junction of cervix and uterus. It is 7.5-10cm
 
 ## Clinical features
 1. Pain (to be differentated from [[OBGY Notes/False Labour pains\|False Labour pains]])
@@ -28,17 +28,17 @@ Befreo labour theres no clear distinction between upper and lower segment. Howev
 ## Investigations
 1. Pulse and FHR
 2. BP
-3. Partogram by abdominal/pervaginal examination
+3. Partogram by abdominal/pervaginal examination and [[OBGY Notes/BISHOP score\|BISHOP score]]
 >[!faq] Partograph
 >Used to represent the phases of cervical dilatation along with rotation and descent of head
 ![Screenshot 2024-07-14 at 5.03.20 PM.png](/img/user/Pictures/Screenshot%202024-07-14%20at%205.03.20%20PM.png)
 
 ## Management
-1. Asepsis Encouragement, supervision and rest
+1. Asepsis, Encouragement, Supervision, and rest
 2. Food is withheld, Fluid diet/IV fluids
-3. Enema and pssing of urine
+3. Enema and passing of urine
 4. Analgesia
-// Warning signs are dehrdrations, ketosis, tachycardia, evidence of UTI
+*// Warning signs are dehydration, ketosis, tachycardia, evidence of UTI*
 
 
 

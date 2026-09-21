@@ -16,7 +16,7 @@ Signs
 
 Symptoms
 1. Stunting
-2. Clubbing
+2. [[Medicine notes/Clubbing\|Clubbing]]
 3. Polycythemia
 4. <mark style="background: #FFF3A3A6;">Fallots Sign</mark> (Symptoms relieved on squatting)
 5. Loud ejection systolic murmur in pulmonary region
@@ -28,4 +28,4 @@ Symptoms
 
 # Treatment
 Total surgical correction can be done in children <5 years of age.
-If pulmonary arteries are too hypoplastic then Blalock-Taussig shunt is performed (Pulm. artery s anastomosed with subclavian)
+If pulmonary arteries are too hypoplastic then Blalock-Taussig shunt is performed (Pulm. artery in anastomosed with subclavian)

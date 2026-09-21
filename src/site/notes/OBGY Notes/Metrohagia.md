@@ -5,6 +5,6 @@
 Irregular, Acyclic bleeding usually due to surface lesions
 
 ## Etiology
-1. Fibroid, Polyp
-2. Carcinoma cervix
-3. IUCD, Decubitus ulcer
+1. [[OBGY Notes/Fibroid\|Fibroid]], Polyp
+2. [[OBGY Notes/Carcinoma Cervix\|Carcinoma cervix]]
+3. [[OBGY Notes/Intrauterine Contraception Devices\|IUCD]], Decubitus [[Surgery Notes/Ulcer\|ulcer]]

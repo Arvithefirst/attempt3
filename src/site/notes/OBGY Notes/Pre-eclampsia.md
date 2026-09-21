@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/pre-eclampsia/"}
 ---
 
-Defined as *Hypertension of >140/90mmHg and proteinurea(>3g/day) developed after the 20th week of pregnancy* 
+Defined as *Hypertension of >140/90mmHg and proteinurea 3mg/day) developed after the 20th week of pregnancy* 
 
 ## Aetiopathogenesis
 Risk factors include Primigravid state, placental abnormalities, family history and Obseity. It is caused by

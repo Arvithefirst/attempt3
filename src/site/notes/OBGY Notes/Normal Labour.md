@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obgy-notes/normal-labour/"}
 ---
 
-Labour is defined as the series of events that occur in the genital to expel a viable product of conception out throughthe vagina
+Labour is defined as the series of events that occur in the genital to expel a viable product of conception out through the vagina
 
 *Normal Labour(eutocia)* must meet the following criteria(5)
 - Spontaneeous and at term
@@ -15,7 +15,7 @@ Labour is defined as the series of events that occur in the genital to expel a v
 1. *Stetch receptors* on uterine lining
 2. Fetal activation of HPA axis induces increase in estrogen and decrease of progesterone
 	- Oncreased Estrogen promotes *oxytocin synthesis and receptors* and promes myometrim for contractions
-	- Alteration of Estrogen:progesterone ratio causes *prostaglandin synthesis* which initiate an dmaintain labour
+	- Alteration of Estrogen:progesterone ratio causes *prostaglandin synthesis* which initiate and maintain labour
 
 ## Prelabour
 May begin 2-3 weeks befor true labour in primigravids and a few days before in multigravids. Inconsistent features may consist of

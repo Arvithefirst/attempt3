@@ -25,7 +25,7 @@ WHY IS THIS DIFFERENT FUCK RIGHT OFF
 ### Remodelling phase
 - Lasts upto 2 years
 - Maturation of collagen by cross lonking occures. 
-- Accounds for last 10% of sscar strenght
+- Accounds for last 10% of scar strenght
 
 ## Factors affecting wound healing
 #### Local
@@ -41,5 +41,5 @@ WHY IS THIS DIFFERENT FUCK RIGHT OFF
 3. Diaabetes, Hypertension, systemic illnesses
 4. Jaundice, Uraemia, Cytotoxic drugs
 5. Malignancy
-6. HIV, Immunosuppressants
+6. [[Medicine notes/HIV\|HIV]], [[USMLE/Immunosuppressants for losers\|Immunosuppressants]]
 

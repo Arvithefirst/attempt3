@@ -3,29 +3,29 @@
 ---
 
 A break in the continuity of bone can be classified in many ways
-#### By aetiology
+#### By Aetiology
 - Traumatic
 - Pathological
 - Stress
-#### By displacement
+#### By Displacement
 - Displaced
 - Non-displaced
-#### By relation with environment
+#### By Relation with environment
 - Open (may be internally open or externally open)
 - Closed
-#### By complexity of treatment
+#### By Complexity of treatment
 - Simple fracture 
 - Complex fracture
-#### By causative force
+#### By Causative force
 - High velocity
 - Low velocity
-#### By patterm
+#### By Pattern
 - Transverse
 - Oblique
 - Spiral
 - Comminuted
 - Segmental
 
-See [[List of famous fractures\|List of famous fractures]]
+See [[List of famous fractures and deformities\|List of famous fractures and deformities]]
 See [[Ortho notes/Complications of Fractures\|Complications of Fractures]]
 See [[Ortho notes/Fracture Healing\|Fracture Healing]]

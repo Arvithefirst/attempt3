@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/obgy-notes/third-stage-of-labour/"}
 ---
 
-Lasts 15 minutes from after delivery of fetus upto delivery of placenta and membranes. Consists of a phase of *placental seperation*, *descent into lower segment* and *expulsion of memebranes*
+Lasts 15 minutes from after delivery of fetus upto delivery of placenta and membranes. Consists of a phase of *placental seperation*, *descent into lower segment* and *expulsion of membranes*
 
 ## Clinical features
 1. Pain
-2. Post-searation uterus becomes globular, firm and ballotable
+2. Post-separation uterus becomes globular, firm and ballotable
 3. Slight pre-separation bleeding followed by a gush of blood immediately after
 
 ## Management
-May be either epectant(traditional) or Active management
+May be either expectant(traditional) or Active management
 
 ### Expectant management
 1. Supervision of mother 
@@ -33,12 +33,12 @@ Administration of parenteral oxytocics to incite powerful contractions within a 
 2. Shortens duration of third stage (15min -> 5min)
 #### Disadvantages
 1. Slightly increased chance of placental retention
-#### Indications(high risk of PPH)
+#### Indications(high risk of [[OBGY Notes/Postpartum hemorrhage\|PPH]])
 1. Anemia
-2. Hydramanios
-3. Teins
+2. [[OBGY Notes/Polyhydramnios\|Hydramnios]]
+3. [[OBGY Notes/Twin Pregnancy\|Multiple Pregnancy]]
 4. Grand multipara
-5. History of PPH
+5. History of [[OBGY Notes/Postpartum hemorrhage\|PPH]]
 #### Contraindications
 1. Heart disease predisposing to heart failure
-2. Severe pre-eclampsia
+2. Severe [[OBGY Notes/Pre-eclampsia\|pre-eclampsia]]

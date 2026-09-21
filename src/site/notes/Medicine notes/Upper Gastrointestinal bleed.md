@@ -5,7 +5,7 @@
 Most common Gastrointestinal emergency
 
 ## Causes
-1. Peptic ulcer
+1. Peptic [[Surgery Notes/Ulcer\|ulcer]]
 2. Gastric Erosions
 3. [[Gastro-oesophageal Varices\|Gastro-oesophageal Varices]]
 4. Oesophagitis

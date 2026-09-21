@@ -29,4 +29,4 @@ Also transverse (bi-parietal diameter) is 9.5
 *Obstetric Conjugate* (till Middle of symphysis) = 10cm
 *Diagonal Conjugate* (Till Lower Border of symphysis) = 13cm
 
-OC is the narrowest diameter of inlet but cannot be measured directly. Calculated as $DC - 2cm$ which is in turn, measured PV
+OC is the narrowest diameter of inlet but cannot be measured directly. Calculated as $DC - 2cm$ which is in turn, measured by PV

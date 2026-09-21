@@ -10,7 +10,7 @@ Insulin resistance is acquired through the actions of
  - Human placental lactogen
  - Placental destruction of insulin
 
-## DIPSI Criteria
+#### DIPSI Criteria
 Sets the *values for Oral Glucose Tolerance Test(OGTT)* used to diagnose diabetes. 75mg glucose is administered and the blood sugars are measured at both fasting and 2-hours post glucose load levels
 
 $$ \text{Normal fasting BSL} < 100mg < 126mg < \text{overt diabetes Fasting BSL} $$
@@ -21,18 +21,19 @@ To mother
 - Abortion
 - Pre-term labour
 - Infection
-- Pre-eclampsia
-- Polyhydroamnios
+- [[OBGY Notes/Pre-eclampsia\|Pre-eclampsia]]
+- [[OBGY Notes/Polyhydramnios\|Polyhydramnios]]
 - Maternal distress
-- Retinopathy/Nephropathy/Ketoacidosis
+- [[Medicine notes/Diabetic Nephropathy\|Diabetic Nephropathy]], Diabetic Retinopathy, Diabetic Neuropathy
+
 To fetus
 - Macrosomia > Shoulder dystocia
 - Congenital abnormality
 - Neonatal hypoglycemia, ARDS
-- Childhood obesity, psychological effects
+- Childhood obesity, Psychological effects
 
 ## Management
-- Counselling (diet, exercise weight control etc)
+- Counselling (Diet, Exercise, weight control etc)
 - Insulin therapy
 - Induction of labour / C-section
 - Prophylactic antibiotics

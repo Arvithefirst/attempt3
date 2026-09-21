@@ -11,7 +11,7 @@ Painful menstruation severe enough to incapacitate day-to-day operations
 No identifiable pelvic pathology
 #### Etiology
 1. Psychosomatic
-2. Myometrial hhyperactivity
+2. Myometrial hyperactivity
 3. SYmpathetic overactivity
 4. Prostaglandin/vasopressin/Endothelin/PAF activity
 #### Clinical features
@@ -20,13 +20,13 @@ No identifiable pelvic pathology
 - Pallor, sweating, Fainting, Syncope
 #### Treatment
 - NSAIDs (COX inhibitors)
-- [[Oral Contraceptive pills\|Oral Contraceptive pills]]
+- [[OBGY Notes/Oral Contraceptive Pills\|Oral Contraceptive Pills]]
 // surgical options like Transcutaneous electrical nerve stimulation(TENS) / Laparascopic uterine nerve ablation(LUNA) / Laparascopic presacral neurectomy are often only partially helpful
 
 ### Secondary Dysmonorrhoea(congestive)
 Occurs due to pressure applied by pelvic pathology
 #### Etiology
-1. Uterine Fibroid
+1. Uterine [[OBGY Notes/Fibroid\|Fibroid]]
 2. Pelvic infection
 3. Intrauterine contraceptive devices
 #### Clinical features

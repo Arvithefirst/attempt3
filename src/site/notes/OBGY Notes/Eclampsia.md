@@ -5,21 +5,21 @@
 Defined as *hypertension > 140/90mmHg with proteinuria >3gm/day presenting with convulsions*
 
 ## Stages Eclamptic fits
-When they occur in rapd succession they are clled [[Medicine notes/Status epilepticus\|Status epilepticus]]
+When they occur in rapd succession they are clled [[Medicine notes/Status Epilepticus\|Status Epilepticus]]
 1. Premonitory - Patient becomes unconscious. Muscel twitching
 2. Tonic - Whole bdy tpnic spasms with opisthotonus
 3. Clonic - All voluntary muscles undergo alternate contraction and relaxation
 4. Coma
 
 ## Management
-Prevention and prophjylaxis is the mainstay of treatment
+Prevention and prophylaxis is the mainstay of treatment
 - Supportive care to avoid injury, prevent aspiration and maintain airway/perfusion
 - Prevention of complications 
 - Maintenance of fluid staus
-- P{rophylactic cephalosporins
+- Prophylactic cephalosporins
 
 ### Specific treatment
- - Pritchard intramuscular regimen - 4gm over 3-5 minutes + 10mg IM Magnesium sulphate loadding dose
- - Lytic cocktail - Chlorpromazine, promethaxzine, and perthidine
+ - *Pritchard intramuscular regimen* - 4gm over 3-5 minutes + 10mg IM [[OBGY Notes/Magnesium Sulphate\|Magnesium sulphate]] loading dose. Maintained by mg IM in alternate buttocks every 4 hours
+ - Lytic cocktail - Chlorpromazine, promethazine, and perthidine
  - Diazepam
  - Phenytoin

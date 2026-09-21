@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/medicine-notes/peptic-ulcer-disease/"}
 ---
 
-Refers to an *ulcer in the lower esophagus, stomach or duodenum caused by acid and pepsin secretion*, strongly associated with [[Medicine notes/Helicobacter pylori\|Helicobacter pylori]] infection
+Refers to an *[[Surgery Notes/Ulcer\|ulcer]] in the lower esophagus, stomach or duodenum caused by acid and pepsin secretion*, strongly associated with [[Medicine notes/Helicobacter pylori\|Helicobacter pylori]] infection
 
 ## Aetiopathogenesis
 Disruption of gastric mucus formation and excess acid formation can lead to ulceration. These can occur due to 
@@ -15,7 +15,7 @@ Disruption of gastric mucus formation and excess acid formation can lead to ulce
 2. Occasional vomitting, Epigastric unease
 3. Anemia, Nausea, Anorexia
 
->[!bug] Complications of Peptic ulcer disease
+>[!bug] Complications of Peptic [[Surgery Notes/Ulcer\|ulcer]] disease
 	1.Perforation (typcally in duodenum)
 	2.Gastric outlet obstruction
 	3.Bleeding
@@ -27,10 +27,12 @@ Disruption of gastric mucus formation and excess acid formation can lead to ulce
 2. [[Medicine notes/Helicobacter pylori#Laboratory Diagnosis\|Tests for H.pylori]]
 
 ## Treatment
-1. General measures - Avoid smoking, alcohol, NSAID
+1. General measures - Avoid smoking, alcohol, NSAID. Use Antacids
 2. Maintanence treatment - low dose PPI
-3. H.pylori Eradication
-4. Surgical intervention (Billroths I and II)
+3. [[Medicine notes/Helicobacter pylori#Eradication Therapy\|Helicobacter pylori#Eradication Therapy]] 
+4. Surgical intervention 
+	1. Highly selective Vagotomy
+	2. Billroths I and II gastrectomy
 
 >[!faq] Complications of surgical intervention
 >50% of patients who require surgery suffer from long-term complications

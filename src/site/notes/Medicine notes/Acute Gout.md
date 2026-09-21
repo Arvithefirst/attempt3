@@ -10,7 +10,7 @@ Crystal formation occurs due to Hyperuricaemia which may be caused by
 <mark style="background: #FF5582A6;">Diminished renal excretion of uric acid</mark>
 1. Genetic pre-disposition
 2. Renal failure
-3. Lead poisoning
+3. [[Medicine notes/Lead poisoning\|Lead poisoning]]
 4. Lactic Acidosis
 5. Alcoholism (predominantly beer)
 6. Drugs (Thiazides, NSAIDs, Ciclosporin)
@@ -22,9 +22,9 @@ Crystal formation occurs due to Hyperuricaemia which may be caused by
 
 <mark style="background: #FFF3A3A6;">Increased Production</mark>
 1. Myelo/lymphoproliferative disease
-2. Psoriasis
-3. Glycogen storage diseases
-4. Genetic conditions(HPRT mutation)
+2. [[Medicine notes/Psoriasis\|Psoriasis]]
+3. [[USMLE/Glycogen Storage Diseases\|Glycogen Storage Diseases]]
+4. Genetic conditions ([[USMLE/Lesch-Nyhan Syndrome\|Lesch-Nyhan Syndrome]])
 
 ## Clinical Features
 Typically presents as monoarthritis of 1st Metatarsophalangeal joint(big toe lol)
@@ -48,7 +48,7 @@ Typically presents as monoarthritis of 1st Metatarsophalangeal joint(big toe lol
 
 ## Treatment
 1. Rest and Ice pack
-2. Oral Colchicine^ 0.5ml x 2-3 times/day (*First line drug*)
+2. Oral Colchicine 0.5ml x 2-3 times/day (*First line drug*)
 3. Oral NSAID
 4. Oral Prednisolone
 5. Joint Aspiration

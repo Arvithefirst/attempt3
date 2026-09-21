@@ -9,7 +9,7 @@ Most common cause of meningitis. *Usually self-limiting* much less severe unless
 2. Mumps
 3. Herpes viruses (Simplex 1/2, Zoster, EBV)
 4. Influenza
-5. HIV
+5. [[Medicine notes/HIV\|HIV]]
 
 ## Clinical Features
 Typically seen in children or young adults. Sudden onset high pyrexia, irritability and [[Medicine notes/Meningitis#^c0695d\|Meningism]]. Focal neuropathies are rare

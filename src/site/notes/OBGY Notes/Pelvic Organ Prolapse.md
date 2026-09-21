@@ -5,6 +5,7 @@
 A form of hernia involving descent of vaginal wall and/or uterus
 
 ## Supports of the uterus
+Also see [[OBGY Notes/DeLancey Classification\|DeLancey Classification]]
 ### Primary
 1. Muscular
 	1. Pelvic diaphram
@@ -15,7 +16,7 @@ A form of hernia involving descent of vaginal wall and/or uterus
 	2. Vagina
 	3. Axis of uterus
 3. Fibromuscular
-	1. Transverse ligaments of Macenrod
+	1. Transverse ligaments of Macenrodt
 	2. Pubocervical ligament
 	3. Uteroscaral ligament
 	4. Round ligament
@@ -47,7 +48,7 @@ Further Classified by affected wall
 #### Posterior wall Vaginal Prolapse
 - Torn perineal body leads to *Relaxed perineum*
 - Laxity in middle 1/3rd is called *Rectocele*
-- Prolapse of upper 1/3rd is called *Vault prolapse* which may be further classified into *Enterocele* or secondary to hysterectomy
+- Prolapse of upper 1/3rd is called *Vault prolapse* which may be further classified into *Enterocele* or secondary to [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]
 ### Uterine Prolapse
 May be either Uterovaginal or Congenital
 
@@ -56,7 +57,7 @@ May be evaluated clinically, by quantitative scoring or by POP-Q scoring
 ### Clinical classification
 *First Degree* - Uterus descended but still within vagina
 *Second Degree* - External os protrudes but the uterine body is within the vagina
-*Third Degree* - The entier body protrude
+*Third Degree* - The entire body protrude
 ### Quantitive scoring
 *Stage 0* - No descent of organs
 *Stage 1* - Leading edge is >1cm above hymen
@@ -65,15 +66,7 @@ May be evaluated clinically, by quantitative scoring or by POP-Q scoring
 *Stage 4* - Complete eversion of vagina
 
 ### POP-Q Staging
-Most specific measurement of Pelvic organ prolapse. Uses total vaginal lenght, and a buncha other measurements I hope this doesnt come in the exam lol
-
-## Complications
-1. Decubitus Ulcer - Typically on the base of the protruding part. Mayy get infected. 
-2. Congestions
-3. Cystitis
-4. Pyelonephritis
-5. Peritonitis
-6. Carcinoma
+Most specific measurement of Pelvic organ prolapse. Uses total vaginal length, and a buncha other measurements I hope this doesnt come in the exam lol [[OBGY Notes/POP-Q Staging\|see here]]
 
 ## Symptoms
 1. Feeling of something coming out of vagina
@@ -82,22 +75,30 @@ Most specific measurement of Pelvic organ prolapse. Uses total vaginal lenght, a
 4. *Urinary symptoms* - Seen in patients of cystocele
 5. *Bowel symptoms* - Seen in patients of enterocele
 6. Excessive discharge
-## Differential diagnoses
-1. Gartner cyst
-2. Congenital elongation of cervix
-3. Chronic inversion
-4. Polyp
+#### Complications
+1. Decubitus [[Surgery Notes/Ulcer\|Ulcer]] - Typically on the base of the protruding part. May get infected. 
+2. Congestions
+3. Cystitis
+4. Pyelonephritis
+5. Peritonitis
+6. Carcinoma
+
+>[!faq] Differential diagnoses
+>1. Gartner cyst
+>2. Congenital elongation of cervix
+>3. Chronic inversion
+>4. Polyp
 ## Management
 May be Preventive, Conservative or Surgical
-### Preventive
-Adequate pre,intra,post natal care. Avoid heavy lifting and practice birth spacing
+### Preventative
+Adequate pre, intra, post natal care. Avoid heavy lifting and practice birth spacing
 ### Conservative
 Done in aymptomatic women with mild prolapse or prolapse early in pregnancy
 - Estrogen replacement therapy
 - Kegels
 - Pessary
 ### Surgical 
-Various surgical interventions may beddone depending on the affected part 
+Various surgical interventions may be done depending on the affected part 
 #### Vaginal Wall surgeries
 1. [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]] *(for cystocele)*
 2. Paravaginal defect repair *(For paravaginal defect)*
@@ -105,14 +106,15 @@ Various surgical interventions may beddone depending on the affected part
 4. Vaginal repair of enterocele with Pelvic floor repair
 5. McCall Culpoplasty *(for enterocele)*
 6. [[OBGY Notes/Moscowitch Procedure\|Moscowitch Procedure]] *(for enterocele)*
-// Pelvic floor repair refers to operation consisting of both [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]]and [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
+// *Pelvic floor repair* = [[OBGY Notes/Anterior wall colporrhaphy\|Anterior wall colporrhaphy]] + [[OBGY Notes/Colpoperineorrhaphy\|Colpoperineorrhaphy]]
+/// *Ward Mayos operation* = Pelvic floor repair + Posterior colpoperineorrhaphy
 #### Uterovaginal prolapse surgery
-1. Vaginal Hysterectomy with Pelvic floor repair
+1. Vaginal [[OBGY Notes/Abdominal Hysterectomy\|Hysterectomy]] with Pelvic floor repair
 2. [[OBGY Notes/Fothergills Operation\|Fothergills Operation]]
 
->[!faq] Vaginal wall surgeries follwing hysterectomy
+>[!faq] Vaginal wall surgeries follwing [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]
 >
-Often required due to vault prolapse secondary to hysterectomy. They can be divided into vaginal/abdominal
+Often required due to vault prolapse secondary to [[OBGY Notes/Abdominal Hysterectomy\|hysterectomy]]. They can be divided into vaginal/abdominal
 >1. Repair of vaginal vault + Pelvic floor repair
 >2. Sacrospinous colpopexy
 >3. Colpocleisis ([[OBGY Notes/Le Fort's Operation\|Le Fort's Operation]])
@@ -120,6 +122,7 @@ Often required due to vault prolapse secondary to hysterectomy. They can be divi
 
 #### Uterus Prolapse Surgeries
 1. [[OBGY Notes/Purandare's Sling Operation\|Purandare's Sling Operation]]
+2. Shirodkars sling
 #### Meshplasty
 Work better than traditional methods. Non-absorbably meshes have high recurrence, low complications while Absorbable meshes have lowl recurrence and high chance of complications
 
@@ -129,4 +132,4 @@ Work better than traditional methods. Non-absorbably meshes have high recurrence
 	3. Urinary retention / Damage to bowels
 	4. Dyspareunia
 	5. Cervical stenosis/incompetency/dystocia
-	6. Reccurence
+	6. Recurrence
