@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usmle/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true, "dg-home':true, "permalink":"/usmle/home-page/","tags":["gardenEntry"]}
 ---
 
 # Welcome to my boredom
