@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/adrenoleukodystrophy/","tags":["Biochemistry","X-linked_recessive"],"dg-note-properties":{"tags":["Biochemistry","X-linked_recessive"]}}
+{"dg-publish":true,"permalink":"/adrenoleukodystrophy/","tags":["Biochemistry","X-linked_recessive"],"dg-note-properties":{"aliases":null,"tags":["Biochemistry","X-linked_recessive"]}}
 ---
 
+# Adrenoleukodystrophy
 Disease of the [[Peroxisome\|Peroxisome]]
 
 ## Pathophysiology
