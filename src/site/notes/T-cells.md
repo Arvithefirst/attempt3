@@ -28,23 +28,23 @@ Responsible for Cell-mediated immunity
 - Kill virus infected, neoplastic, and donor graft cells
 - Induce apoptosis via release of cytotoxic granules (Perforin, Granzyme B)
 #### Th1 Cells
-- CD4+, Increased by IFN-$\gamma$, IL-12, Decreased by IL-4, IL-10
-- Secretes IFN$\gamma$, IL-2
+- CD4+, Increased by IFN-$\gamma$, [[Interleukins#IL-12\|IL-12]], Decreased by [[Interleukins#IL-4\|IL-4]], [[Interleukins#IL-10\|IL-10]]
+- Secretes IFN$\gamma$, [[Interleukins#IL-2\|IL-2]]
 - Activates Macrophages(CD40L-CD40 interaction) and Cytotoxic T-cells
 
 #### Th2 Cells
-- CD4+, Increased by IL-2, IL-4, Decreased by IFN$\gamma$ 
-- Secretes IL-4, IL-5, IL-6, IL-10, IL-13
-- Activates Eosinophils, IgE production
+- CD4+, Increased by [[Interleukins#IL-2\|IL-2]], [[Interleukins#IL-4\|IL-4]], Decreased by IFN$\gamma$ 
+- Secretes [[Interleukins#IL-4\|IL-4]],[[Interleukins#IL-5\|IL-5]], [[Interleukins#IL-6\|IL-6]], [[Interleukins#IL-10\|IL-10]], [[Interleukins#IL-13\|IL-13]]
+- Activates Eosinophils, IgE production, [[B-cell Activation\|B-cell Activation]]
 
 #### Th17 Cells
-- CD4+, Increased by TGF-$\beta$, IL-1, IL-6, Decreased by IFN$\gamma$, IL-4
-- Secretes IL-17, IL-21, IL-22
+- CD4+, Increased by TGF-$\beta$, [[Interleukins#IL-1\|IL-1]], [[Interleukins#IL-6\|IL-6]], Decreased by IFN$\gamma$, [[Interleukins#IL-4\|IL-4]]
+- Secretes [[Interleukins#IL-17\|IL-17]], [[Interleukins#IL-21\|IL-21]], [[Interleukins#IL-22\|IL-22]]
 - Induce Neutrophilic Infiltration
 
 #### Regulatory T Cells
 - CD3+, CD4+, CD25+, FOXP+
-- Produce Anti-inflammatory IL-10, TGF-$\beta$
+- Produce Anti-inflammatory [[Interleukins#IL-10\|IL-10]], TGF-$\beta$
 - Suppress T-cell function to prevent autoimmune conditions
 - Deficiency responsible for [[IPEX syndrome\|IPEX syndrome]]
 
