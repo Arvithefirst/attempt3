@@ -11,5 +11,13 @@ Typically seen in tropical/sub-tropical climates
 3. conjunctivitis
 May be complicated by [[Guillane-Barre Syndrome\|Guillane-Barre Syndrome]]
 
+Diagnose with RT-PCR or serology
 
-##
+>[!info] Zika in pregnancy
+>Leads to miscarraige or congenital Zika Syndrome
+>1. Microcephaly
+>2. Ocular abnormalities
+>3. Motor abnormalities
+>4. Ventriculomegaly, subcortical calcifications on CT head
+
+

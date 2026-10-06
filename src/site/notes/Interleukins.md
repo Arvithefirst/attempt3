@@ -1,24 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/interleukins/","tags":["Immunology","AI_generated"],"dg-note-properties":{"aliases":null,"tags":["Immunology","AI_generated"]}}
+{"dg-publish":true,"permalink":"/interleukins/","tags":["Immunology","AI_generated"],"dg-note-properties":{"aliases":["Chemokines","Cytokines"],"tags":["Immunology","AI_generated"]}}
 ---
 
 # Interleukins
 
+>[!info] Mnemonic
+>Hot T-Bone StEAK for IL 1-6
+
 #### IL-1
 *   **Aliases:** Lymphocyte Activating Factor / Leukocytic Pyrogen
-*   **Mechanism:** Core innate pyrogen; induces endothelial adhesion molecules (ICAM-1, VCAM-1), costimulates T-cells, and drives hepatic acute-phase reactant synthesis.
+*   **Mechanism:** Core innate *pyrogen*; induces endothelial adhesion molecules (ICAM-1, VCAM-1), costimulates T-cells, and drives hepatic acute-phase reactant synthesis.
 #### IL-2
-*   **Aliases:** T-cell Growth Factor
+*   **Aliases:** *T*-cell Growth Factor
 *   **Mechanism:** T-cell and Treg mitogen; binds the high-affinity [[Interleukins#IL-2\|IL-2]]R complex (CD25/CD122/CD132) to drive rapid clonal expansion and survival.
+#### IL-3
+- **Aliases:**
+- **Mechanism:** Stimulates *Bone* marrow
 #### IL-4
 *   **Aliases:** B-cell Stimulatory Factor 1
-*   **Mechanism:** Primary driver of Th2 differentiation via STAT6; induces B-cell class-switching to IgE and IgG4, and downregulates Th1/Th17 pathways.
+*   **Mechanism:** Primary driver of Th2 differentiation via STAT6; induces B-cell class-switching to *IgE* and IgG4, and downregulates Th1/Th17 pathways. 
 #### IL-5
 *   **Aliases:** Eosinophil Differentiation Factor
-*   **Mechanism:** Lineage-specific differentiation, proliferation, and survival factor for eosinophils; induces eosinophil chemotaxis and degranulation.
+*   **Mechanism:** Lineage-specific differentiation, proliferation, and survival factor for eosinophils; induces eosinophil chemotaxis and degranulation. *IgA* secretion
 #### IL-6
 *   **Aliases:** Interferon-β2 / B-cell Stimulatory Factor 2
-*   **Mechanism:** Pleiotropic mediator of systemic inflammation; activates hepatic CRP synthesis via gp130, drives B-cell differentiation, and cooperates with TGF-β to induce Th17 differentiation.
+*   **Mechanism:** Pleiotropic mediator of systemic inflammation; activates hepatic CRP synthesis via gp130, drives B-cell differentiation, and cooperates with TGF-β to induce Th17 differentiation. (A*K*cute phase reactants)
+#### IL-8
+*   **Aliases:**
+*   **Mechanism:** Major chemotactic agent for Neutrophils
 #### IL-10
 *   **Aliases:** Cytokine Synthesis Inhibitory Factor
 *   **Mechanism:** Potent anti-inflammatory feedback regulator; downregulates MHC class II, B7 costimulatory molecules (CD80/CD86), and pro-inflammatory cytokine synthesis (TNF-α, [[Interleukins#IL-1\|IL-1]], [[Interleukins#IL-6\|IL-6]]) in antigen-presenting cells.

@@ -22,11 +22,11 @@ All are ssRNA except Reoviridae
 #### +ve Sense
 1. Retroviruses ([[HIV\|HIV]])
 2. Togaviruses ([[Chikungunya\|Chikungunya]], [[Rubella\|Rubella]], East and West equine encephalitis)
-3. Flaviviruses([[HCV\|HCV]], Yellow Fever, [[Dengue\|Dengue]], West Nile Virus, [[Zika Virus\|Zika Virus]])
+3. Flaviviruses([[Hepatitis C\|Hepatitis C]], Yellow Fever, [[Dengue\|Dengue]], West Nile Virus, [[Zika Virus\|Zika Virus]])
 4. Corona viruses
-5. Hepeviruses (Hep E)
+5. Hepeviruses (Hepatitis E)
 6. Caliciviruses (Norovirus)
-7. Picornaviruses ([[Polio\|Polio]], Echovirus, [[Rhinovirus\|Rhinovirus]], Coxsackievirus, Hep A)
+7. Picornaviruses ([[Polio\|Polio]], Echovirus, [[Rhinovirus\|Rhinovirus]], Coxsackievirus, [[Hepatitis A\|Hepatitis A]])
 8. Matona Virus ([[Rubella\|Rubella]])
 
 #### -Ve Sense
@@ -35,7 +35,8 @@ All are ssRNA except Reoviridae
 3. Paramyxoviruses ([[Measles\|Measles]], [[Mumps\|Mumps]], Parainfluenza, RSV)
 4. Orthomyxoviruses ([[Influenza\|Influenza]])
 5. Filoviruses (Ebola)
-6. Rhabdoviruses ([[Rabies\|Rabies]])
+6. Delta Virus ([[Hepatitis D\|Hepatitis D]])
+7. Rhabdoviruses ([[Rabies\|Rabies]])
 
 
 ### Addendum 1
